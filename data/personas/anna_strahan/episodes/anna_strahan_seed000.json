@@ -1,0 +1,4785 @@
+{
+  "episode_id": "anna_strahan_seed000",
+  "persona_id": "anna_strahan",
+  "raw_persona": {
+    "persona_id": "anna_strahan",
+    "nemotron_uuid": "6544394dbc744ee4b6cd559c6c34f3bd",
+    "narrative": "name: Anna Strahan\nage: 38\nsex: Female\nmarital_status: married_present\neducation_level: bachelors (arts humanities)\noccupation: medical_or_health_services_manager\nhobbies_and_interests: Oil painting and watercolor, Visiting local art galleries, Small‑group book club, Cooking Cajun and Creole dishes, Gardening native Louisiana plants, Hiking Northshore trails, Volunteering at community health fairs, Attending intimate jazz and zydeco concerts, Mindfulness meditation\nskills_and_expertise: Healthcare Operations Management, Budgeting and Financial Forecasting, Regulatory Compliance (HIPAA, CMS), Data Analysis and EHR Optimization, Quality Improvement and Patient Safety, Performance Metrics Development, Team Leadership and Staff Development, Conflict Resolution, Grant Writing for Community Health Initiatives, Program Development Integrating Arts and Health\ncomplementary_info: Anna Strahan grew up in Madisonville in St. Tammany Parish in a predominantly white Cajun-descended community, shaped by church gatherings, Mardi Gras, the St. Tammany Parish Fair, and a modest Protestant upbringing that emphasized hospitality, family cohesion, and local heritage while also exposing her to Creole food, francophone folk music, and storytelling. She now manages day-to-day operations at a multi-specialty clinic, including staff scheduling and resource allocation, and has initiated an art-therapy outreach program tied to patient wellness. She is working toward earning an MHA within two years, with plans to move into regional leadership across rural Northshore facilities, expand creative-wellness services to additional clinics statewide, and eventually build a nonprofit addressing mental-health disparities in underserved Louisiana communities. In daily life, she paints Louisiana bayou light, gardens magnolias, lavender, and edible herbs, cooks dishes such as shrimp étouffée, gumbo, black-eye pea jambalaya, and beignets, and sometimes pairs meals with local craft beer or Bordeaux. She regularly hikes the Northshore Trail, takes weekend trips to Kisatchie National Forest, does trail running and low-impact yoga, belongs to the Madisonville Outdoor Adventure Club, and occasionally joins kayak outings. She visits small galleries in New Orleans and Baton Rouge, attends intimate jazz and zydeco shows, follows the Saints and Pelicans, participates in a weekly book club reading contemporary fiction, poetry, and art criticism, and occasionally binge-listens to vinyl records. Travel tends to be carefully planned but includes Gulf Coast road trips, visits to Savannah, and interest in southeastern France’s lavender fields.",
+    "general_domain": "medical_or_health_services_manager",
+    "specific_domain": "arts_humanities"
+  },
+  "structured_persona": {
+    "name": "Anna Strahan",
+    "demographics": {
+      "age": 38,
+      "sex": "Female",
+      "marital_status": "married_present",
+      "education_level": "bachelors (arts humanities)",
+      "occupation": "medical_or_health_services_manager",
+      "city": "Madisonville",
+      "state": "LA",
+      "zipcode": "70447",
+      "country": "USA"
+    },
+    "persona_summary": "Anna Strahan blends a methodical, organized mindset with a quiet curiosity for art and community, channeling their reserved nature into purposeful work, creative painting, and compassionate volunteerism while occasionally indulging in a nostalgic vinyl record binge, which they consider a guilty pleasure.",
+    "professional_persona": "Anna Strahan, a 38‑year‑old medical services manager in Madisonville, blends data‑driven operational expertise with a humanities‑informed curiosity, leading a multi‑specialty clinic’s budgeting, compliance, and staff development while pioneering an art‑therapy outreach that showcases they are organized, methodical, and driven toward a regional director role.",
+    "sports_persona": "Anna Strahan, a devoted hiker who frequents the Northshore Trail and weekend excursions to Kisatchie National Forest, stays fit through a blend of trail running and low‑impact yoga, cheers for the New Orleans Saints on Sundays and the Pelicans during the basketball season, and belongs to the Madisonville Outdoor Adventure Club, where they occasionally join group kayak outings.",
+    "arts_persona": "Anna Strahan channels their curiosity for art into oil and watercolor studies of Louisiana bayou light, draws inspiration from the palette of Monet and the atmospheric realism of Andrew Wyeth, attends intimate New Orleans jazz sets featuring Wynton Marsalis and zydeco staples like Clifton Chenier, and engages with contemporary fiction and poetry by authors such as Donna Tartt, Ocean Vuong, and bell hooks during weekly book‑club meetings, all of which they feel deepens their creative outlook.",
+    "travel_persona": "Anna Strahan prefers meticulously planned weekend getaways that balance relaxation with exploration, often retreating to the Kisatchie National Forest for hiking, has sampled the culinary scene of New Orleans and the historic charm of Savannah, dreams of a spring tour through the Provençal lavender fields of southeast France, and, when budget permits, books spontaneous road trips along the Gulf Coast, always ensuring they leave space for unexpected local art exhibitions.",
+    "culinary_persona": "Anna Strahan, an intermediate‑to‑advanced home cook, experiments with classic Cajun and Creole dishes like shrimp étouffée, gumbo, and black‑eye pea jambalaya, often infusing them with garden‑fresh herbs such: lavender, thyme, and basil, while also mastering the delicate balance of a perfect beignet batter and the bold flavors of a roux, and they relish pairing these meals with locally sourced craft beers and occasional Bordeaux wines.",
+    "cultural_background": "Anna grew up in Madisonville, a small town in St. Tammany Parish, within a predominantly white Cajun‑descended community. Her family celebrated Southern traditions—church gatherings, community festivals like Mardi Gras and the St. Tammany Parish Fair—and placed a strong emphasis on hospitality, family cohesion, and respect for local heritage. Although raised in a modest Protestant environment, she was exposed to the multicultural tapestry of Louisiana, including Creole cuisine, francophone folk music, and storytelling. Her humanities education broadened her perspective, fostering an appreciation for diverse cultures and unconventional ideas while still valuing the close‑knit community ethos of her upbringing. This blend manifests in her professional emphasis on inclusive patient care and her personal passion for integrating art and health. She identifies as culturally Southern, cherishing regional cuisine, outdoor recreation, and the rhythms of local life, while also embracing a progressive, curiosity‑driven outlook shaped by her academic and artistic interests.",
+    "skills_and_expertise": "Anna brings a robust blend of healthcare administration expertise and humanities‑informed critical thinking. As a medical services manager in Madisonville, she oversees day‑to‑day operations of a multi‑specialty clinic, spearheading budgeting and financial forecasting, staff scheduling, and resource allocation with meticulous attention to detail. She is skilled in navigating regulatory frameworks, ensuring compliance with HIPAA, CMS quality reporting, and state health statutes. Her data‑driven approach leverages electronic health record analytics to improve patient flow and safety metrics. Anna excels in quality improvement initiatives, designing and monitoring performance dashboards, and implementing evidence‑based protocols that boost patient satisfaction. Her strong interpersonal skills enable effective interdisciplinary team leadership, conflict resolution, and staff development through mentorship and training programs. She also writes grant proposals for community health projects and has pioneered an art‑therapy outreach program that integrates creative expression into patient wellness, reflecting her curiosity about unconventional solutions.",
+    "skills_and_expertise_list": [
+      "Healthcare Operations Management",
+      "Budgeting and Financial Forecasting",
+      "Regulatory Compliance (HIPAA, CMS)",
+      "Data Analysis and EHR Optimization",
+      "Quality Improvement and Patient Safety",
+      "Performance Metrics Development",
+      "Team Leadership and Staff Development",
+      "Conflict Resolution",
+      "Grant Writing for Community Health Initiatives",
+      "Program Development Integrating Arts and Health"
+    ],
+    "hobbies_and_interests": "Outside of work, Anna indulges her artistic curiosity through oil painting and watercolor studies, often capturing the subdued light of Louisiana bayou landscapes. She frequents small galleries in New Orleans and Baton Rouge, seeking emerging artists and unconventional installations. A devoted reader, she participates in an intimate book club that explores contemporary fiction, poetry, and art criticism. Her love for Southern culinary traditions inspires her to experiment with Cajun and Creole recipes, adding creative twists while preserving family flavors. Gardening offers her a solitary refuge; she cultivates native magnolias, lavender, and edible herbs in her backyard. Regular hikes along the Northshore trail and occasional weekend trips to the Kisatchie National Forest satisfy her desire for varied experiences. Community service is an outlet for her kindness—she volunteers at local health fairs, helping coordinate wellness workshops. She also enjoys listening to live jazz and zydeco in small venues, and practices mindfulness meditation to maintain emotional resilience.",
+    "hobbies_and_interests_list": [
+      "Oil painting and watercolor",
+      "Visiting local art galleries",
+      "Small‑group book club",
+      "Cooking Cajun and Creole dishes",
+      "Gardening native Louisiana plants",
+      "Hiking Northshore trails",
+      "Volunteering at community health fairs",
+      "Attending intimate jazz and zydeco concerts",
+      "Mindfulness meditation"
+    ],
+    "career_goals_and_ambitions": "Anna aspires to expand her impact beyond her current clinic by earning a Master of Health Administration within the next two years, positioning herself for a regional director role overseeing a network of rural health facilities across the Northshore area. She is committed to scaling the art‑therapy program she initiated, aiming to integrate creative wellness services into at least three additional clinics statewide. Long‑term, she envisions establishing a nonprofit that leverages the arts to address mental‑health disparities in underserved Louisiana communities while mentoring emerging health‑services leaders. Balancing professional advancement with family life, she seeks roles that allow her to champion patient‑centered, culturally inclusive care and foster collaborative, high‑performing teams."
+  },
+  "rules": [
+    {
+      "rule_text": "When ordering plants or garden supplies, Anna prefers native Louisiana plants and useful herbs over purely ornamental exotics.",
+      "canonical_answer": "For garden orders, I prefer native Louisiana plants and culinary herbs over ornamental exotics.",
+      "counterfactual_default": "Choose attractive or popular garden items without a native-or-useful preference.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "cultivates native magnolias, lavender, and edible herbs in her backyard"
+        },
+        {
+          "type": "direct",
+          "content": "Gardening native Louisiana plants"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "anna_strahan_commerce_01"
+    },
+    {
+      "rule_text": "If an ordered item for painting, cooking, or gardening arrives wrong, Anna prefers an exchange rather than a refund.",
+      "canonical_answer": "When a supply order is wrong, I usually want an exchange so I still end up with the right item.",
+      "counterfactual_default": "Request a refund and stop there.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Oil painting and watercolor"
+        },
+        {
+          "type": "direct",
+          "content": "Cooking Cajun and Creole dishes"
+        },
+        {
+          "type": "direct",
+          "content": "Gardening native Louisiana plants"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "anna_strahan_commerce_03"
+    },
+    {
+      "rule_text": "When she is preparing outward-facing messages about clinic initiatives or community health programs, Anna prefers them to be drafted for review rather than sent immediately.",
+      "canonical_answer": "I like outreach and clinic-related messages drafted first so I can review the wording before anything goes out.",
+      "counterfactual_default": "Send the composed message directly once the content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "She also writes grant proposals for community health projects"
+        },
+        {
+          "type": "direct",
+          "content": "ensuring compliance with HIPAA, CMS quality reporting, and state health statutes"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "anna_strahan_communication_01"
+    },
+    {
+      "rule_text": "When she receives promotional or newsletter-style messages about cultural events she may browse later, Anna prefers marking them low priority rather than treating them as normal inbox work.",
+      "canonical_answer": "I usually mark promotional arts and event emails as low priority so they don’t compete with work messages.",
+      "counterfactual_default": "Leave those messages at normal priority.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "frequents small galleries in New Orleans and Baton Rouge"
+        },
+        {
+          "type": "direct",
+          "content": "attends intimate New Orleans jazz sets"
+        },
+        {
+          "type": "direct",
+          "content": "medical services manager"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_message_priority",
+        "param": "priority"
+      },
+      "rule_id": "anna_strahan_communication_04"
+    },
+    {
+      "rule_text": "When dining out, Anna prefers reservations at local Cajun or Creole restaurants over generic chain options.",
+      "canonical_answer": "If I’m booking a restaurant, I prefer a local Cajun or Creole place over a chain.",
+      "counterfactual_default": "Pick a broadly convenient or highly rated restaurant without a strong regional preference.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "experiments with classic Cajun and Creole dishes like shrimp étouffée, gumbo, and black‑eye pea jambalaya"
+        },
+        {
+          "type": "direct",
+          "content": "cherishing regional cuisine"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "anna_strahan_reservation_01"
+    },
+    {
+      "rule_text": "When choosing concert or performance tickets, Anna prefers intimate jazz or zydeco events over larger, more generic mainstream shows.",
+      "canonical_answer": "For live music, I’d rather book an intimate jazz or zydeco event than a big generic show.",
+      "counterfactual_default": "Choose the most prominent or broadly popular event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "attends intimate New Orleans jazz sets featuring Wynton Marsalis and zydeco staples like Clifton Chenier"
+        },
+        {
+          "type": "direct",
+          "content": "She also enjoys listening to live jazz and zydeco in small venues"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "anna_strahan_reservation_02"
+    },
+    {
+      "rule_text": "For local appointments tied to fitness or wellbeing, Anna prefers providers aligned with low-impact yoga or mindfulness over high-intensity options.",
+      "canonical_answer": "When I book a wellness service, I prefer something aligned with yoga or mindfulness rather than a high-intensity setup.",
+      "counterfactual_default": "Choose any convenient or highly rated provider regardless of style.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "stays fit through a blend of trail running and low‑impact yoga"
+        },
+        {
+          "type": "direct",
+          "content": "practices mindfulness meditation to maintain emotional resilience"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "anna_strahan_reservation_03"
+    },
+    {
+      "rule_text": "When a calendar invitation overlaps with unresolved work or family demands, Anna prefers to respond tentatively rather than accept or decline outright.",
+      "canonical_answer": "If a commitment is still uncertain, I usually mark it tentative until I know my schedule will hold.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Balancing professional advancement with family life"
+        },
+        {
+          "type": "direct",
+          "content": "staff scheduling"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "anna_strahan_scheduling_01"
+    },
+    {
+      "rule_text": "For recurring personal commitments like book club or similar standing routines, Anna prefers weekly reminders rather than one-off alerts.",
+      "canonical_answer": "For regular commitments, I prefer a weekly reminder instead of a single one-time ping.",
+      "counterfactual_default": "Set a one-time reminder tied only to the next occurrence.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly book‑club meetings"
+        },
+        {
+          "type": "direct",
+          "content": "practices mindfulness meditation to maintain emotional resilience"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": "cadence"
+      },
+      "rule_id": "anna_strahan_scheduling_02"
+    },
+    {
+      "rule_text": "When a trip needs replanning after a disruption, Anna prefers replacement stops that preserve the original balance of outdoor exploration and local culture rather than generic substitutes.",
+      "canonical_answer": "If a stop falls through, I want the replacement to keep the same mix of nature and local culture.",
+      "counterfactual_default": "Swap in any convenient or top-rated alternative stop.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers meticulously planned weekend getaways that balance relaxation with exploration"
+        },
+        {
+          "type": "direct",
+          "content": "always ensuring they leave space for unexpected local art exhibitions"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "anna_strahan_travel_02"
+    },
+    {
+      "rule_text": "When she does fly, Anna prefers a window seat rather than an aisle or middle seat.",
+      "canonical_answer": "If I’m on a flight, I prefer a window seat.",
+      "counterfactual_default": "Pick any available seat or favor the aisle for convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "oil and watercolor studies of Louisiana bayou light"
+        },
+        {
+          "type": "direct",
+          "content": "dreams of a spring tour through the Provençal lavender fields of southeast France"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "anna_strahan_travel_04"
+    },
+    {
+      "rule_text": "When choosing lodging for a trip, Anna prefers hotels positioned for both exploration and local character, such as near trails, historic areas, or arts districts, over purely generic convenience stays.",
+      "canonical_answer": "I prefer hotels that put me close to trails, historic neighborhoods, or arts areas rather than a generic convenience stop.",
+      "counterfactual_default": "Pick the cheapest or most standard hotel option with no thematic location preference.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "has sampled the culinary scene of New Orleans and the historic charm of Savannah"
+        },
+        {
+          "type": "direct",
+          "content": "always ensuring they leave space for unexpected local art exhibitions"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "anna_strahan_travel_05"
+    },
+    {
+      "rule_text": "When sorting work files, Anna prefers them classified by project rather than by type or date.",
+      "canonical_answer": "I organize work files by project first, not just by file type or chronology.",
+      "counterfactual_default": "Sort the files by type or date because those are the easiest generic schemes.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "leading a multi‑specialty clinic’s budgeting, compliance, and staff development"
+        },
+        {
+          "type": "direct",
+          "content": "art‑therapy outreach program"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "anna_strahan_workspace_05"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "anna_strahan_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply to one message",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Maya Patel",
+        "priority": "high",
+        "reply_points": [
+          "approve moving the vaccination fridge service to Wednesday afternoon",
+          "ask facilities to confirm the exact arrival window",
+          "remind staff to keep backup coolers ready during the service visit",
+          "thank her for flagging it early"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Maya Patel"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_patel_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_patel_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_patel_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Patel",
+              "subject": "Need your decision: fridge maintenance reschedule",
+              "body": "The vendor can no longer come Tuesday morning for the vaccination fridge service. They offered Wednesday afternoon instead. I need your approval before I confirm with facilities and notify nursing.",
+              "thread_id": "thr_patel_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T06:42:00"
+            }
+          },
+          {
+            "id": "msg_benton_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Chris Benton",
+              "subject": "Updated copier lease quote",
+              "body": "Sending over the revised monthly lease estimate for the front office copier. No action needed today unless you want me to proceed this week.",
+              "thread_id": "thr_benton_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T07:18:00"
+            }
+          },
+          {
+            "id": "msg_hsu_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dr. Lena Hsu",
+              "subject": "FYI: resident shadowing schedule posted",
+              "body": "I uploaded the final resident shadowing schedule for this month. Just an FYI so you know the front desk requests should taper off.",
+              "thread_id": "thr_hsu_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-03T07:31:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Covington",
+        "cuisine": "Italian",
+        "date_time": "2025-02-20T19:00:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Covington",
+            "cuisine": "Italian",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_tulios_01",
+            "date_time": "2025-02-20T19:00:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_tulios_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Tulio's Italian Table",
+              "cuisine": "Italian",
+              "location": "Covington",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "dining room"
+            }
+          },
+          {
+            "id": "rst_marais_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cafe Marais",
+              "cuisine": "French",
+              "location": "Covington",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_roma_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Trattoria Roma",
+              "cuisine": "Italian",
+              "location": "Covington",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "patio"
+            }
+          },
+          {
+            "id": "rst_bayou_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bayou Supper Club",
+              "cuisine": "Southern",
+              "location": "Mandeville",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "dining room"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "workspace",
+      "reason_for_call": "Organize some workspace files",
+      "task_params": {
+        "location": "Q3 Compliance Drop",
+        "file_type": "pdf",
+        "file_ids": [
+          "file_hipaa_01",
+          "file_cms_02",
+          "file_state_03"
+        ],
+        "scheme": "by_type",
+        "folder_id": "fld_compliance_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Q3 Compliance Drop",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_hipaa_01",
+              "file_cms_02",
+              "file_state_03"
+            ],
+            "scheme": "by_type"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_hipaa_01",
+              "file_cms_02",
+              "file_state_03"
+            ],
+            "folder_id": "fld_compliance_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_hipaa_01",
+            "type": "file",
+            "attributes": {
+              "name": "HIPAA Incident Summary.pdf",
+              "file_type": "pdf",
+              "location": "Q3 Compliance Drop",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_cms_02",
+            "type": "file",
+            "attributes": {
+              "name": "CMS Audit Response Draft.pdf",
+              "file_type": "pdf",
+              "location": "Q3 Compliance Drop",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_state_03",
+            "type": "file",
+            "attributes": {
+              "name": "Louisiana State Compliance Checklist.pdf",
+              "file_type": "pdf",
+              "location": "Q3 Compliance Drop",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_budget_04",
+            "type": "file",
+            "attributes": {
+              "name": "Budget Variance Notes.xlsx",
+              "file_type": "xlsx",
+              "location": "Finance Working",
+              "owner": "Anna Strahan",
+              "labels": [
+                "budget"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_compliance_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Compliance Reports",
+              "purpose": "Filed compliance reports and audit materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "communication",
+      "reason_for_call": "Draft a collaboration note",
+      "task_params": {
+        "recipient": "maya@riverfrontyoga.org",
+        "subject": "Possible collaboration for our next wellness workshop",
+        "language": "en",
+        "partner_name": "Maya Thompson",
+        "organization": "Riverfront Yoga Collective",
+        "body_points": [
+          "Invite Maya and Riverfront Yoga Collective to collaborate",
+          "Mention the next local wellness workshop",
+          "Say I admire their community-centered approach",
+          "Suggest combining movement and creative wellness elements",
+          "Ask if they would be open to a brief planning call",
+          "Keep the tone thoughtful, warm, and professional"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "maya@riverfrontyoga.org",
+            "subject": "Possible collaboration for our next wellness workshop",
+            "language": "en",
+            "body": "<authored from partner_name, organization, body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_intro_01",
+            "type": "message",
+            "attributes": {
+              "sender": "board@madisonvillewellnesshub.org",
+              "subject": "Volunteer recap and ideas for next quarter",
+              "body": "Thanks again for helping with the community health fair. We would love to explore more arts-based wellness programming in the coming months.",
+              "thread_id": "thr_intro_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T09:18:00"
+            }
+          },
+          {
+            "id": "msg_partner_02",
+            "type": "message",
+            "attributes": {
+              "sender": "lena@northshorefoodco-op.org",
+              "subject": "Following up on workshop turnout",
+              "body": "The nutrition table had a great response. Let me know if you'd like to partner again for another public wellness event.",
+              "thread_id": "thr_partner_02",
+              "folder": "sent",
+              "labels": [
+                "community"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T15:42:00"
+            }
+          },
+          {
+            "id": "msg_misc_03",
+            "type": "message",
+            "attributes": {
+              "sender": "ops@sttammanyclinic.org",
+              "subject": "Updated supply request process",
+              "body": "Please use the revised internal form for nonclinical supply requests starting next week.",
+              "thread_id": "thr_misc_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-12T08:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "scheduling",
+      "reason_for_call": "Add a calendar reminder.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Leadership Call",
+        "start_time": "2025-02-21T16:00:00-06:00",
+        "end_time": "2025-02-21T17:00:00-06:00",
+        "remind_at": "2025-02-21T13:30:00-06:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_leadership_01",
+            "remind_at": "2025-02-21T13:30:00-06:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_leadership_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Leadership Call",
+              "start_time": "2025-02-21T16:00:00-06:00",
+              "end_time": "2025-02-21T17:00:00-06:00",
+              "participants": [
+                "Clinic Director",
+                "Operations Lead",
+                "Finance Manager"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_budget_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Review",
+              "start_time": "2025-02-21T11:00:00-06:00",
+              "end_time": "2025-02-21T12:00:00-06:00",
+              "participants": [
+                "Anna Strahan",
+                "Finance Manager"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_arttherapy_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Art Therapy Outreach Planning",
+              "start_time": "2025-02-20T15:30:00-06:00",
+              "end_time": "2025-02-20T16:15:00-06:00",
+              "participants": [
+                "Anna Strahan",
+                "Program Coordinator"
+              ],
+              "location": "Office 204",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_bookclub_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Book Club",
+              "start_time": "2025-02-20T19:00:00-06:00",
+              "end_time": "2025-02-20T20:30:00-06:00",
+              "participants": [
+                "Anna Strahan",
+                "Local Book Club"
+              ],
+              "location": "River Road Cafe",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "reservation",
+      "reason_for_call": "Book an outing.",
+      "task_params": {
+        "location": "New Orleans",
+        "event_tags": [
+          "jazz",
+          "live music"
+        ],
+        "ticket_count": 2,
+        "ticket_type": "general_admission",
+        "event_id": "evt_preservation_01"
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "New Orleans",
+            "event_tags": [
+              "jazz",
+              "live music"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_preservation_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_preservation_01",
+            "type": "event",
+            "attributes": {
+              "name": "Late Set at Preservation Hall",
+              "location": "New Orleans",
+              "date_time": "2025-05-17T21:00:00-05:00",
+              "price": 42.0,
+              "event_tags": [
+                "jazz",
+                "live music",
+                "small venue"
+              ]
+            }
+          },
+          {
+            "id": "evt_snugharbor_02",
+            "type": "event",
+            "attributes": {
+              "name": "Weekend Quartet at Snug Harbor",
+              "location": "New Orleans",
+              "date_time": "2025-05-17T20:30:00-05:00",
+              "price": 38.0,
+              "event_tags": [
+                "jazz",
+                "live music",
+                "nightlife"
+              ]
+            }
+          },
+          {
+            "id": "evt_marigny_03",
+            "type": "event",
+            "attributes": {
+              "name": "Frenchmen Street Jazz Session",
+              "location": "New Orleans",
+              "date_time": "2025-05-18T19:30:00-05:00",
+              "price": 25.0,
+              "event_tags": [
+                "jazz",
+                "improv",
+                "live music"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "commerce",
+      "reason_for_call": "Order an art supply.",
+      "task_params": {
+        "category": "oil paint set",
+        "budget": 60,
+        "sort_by": "rating",
+        "quantity": 1,
+        "product_ids": [
+          "prod_oilset_01",
+          "prod_oilset_02",
+          "prod_oilset_03"
+        ]
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "oil paint set",
+            "budget": 60,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_oilset_01",
+              "prod_oilset_02",
+              "prod_oilset_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_oilset_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_oilset_01",
+            "type": "product",
+            "attributes": {
+              "name": "Linden Atelier Oil Paint Set, 12 Tubes",
+              "price": 54.99,
+              "category": "oil paint set",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_oilset_02",
+            "type": "product",
+            "attributes": {
+              "name": "Marais Studio Oil Paint Set, 10 Tubes",
+              "price": 41.5,
+              "category": "oil paint set",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_oilset_03",
+            "type": "product",
+            "attributes": {
+              "name": "Northlight Artist Oil Paint Set, 16 Tubes",
+              "price": 59.0,
+              "category": "oil paint set",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_canvas_01",
+            "type": "product",
+            "attributes": {
+              "name": "Riverbend Stretched Canvas Pack",
+              "price": 24.99,
+              "category": "canvas",
+              "rating": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox.",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Lydia Mercer",
+        "staffing_keywords": [
+          "staffing plan",
+          "headcount freeze",
+          "open requisitions"
+        ],
+        "priority": "high",
+        "label_ids": [
+          "lbl_staffing_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "list_labels",
+        "label_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Lydia Mercer"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_leadership_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "list_labels",
+          "arguments": {}
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_leadership_01"
+            ],
+            "label_ids": [
+              "lbl_staffing_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_leadership_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lydia Mercer",
+              "subject": "Draft staffing plan assumptions for next month",
+              "body": "Please review the staffing plan assumptions before we finalize clinic coverage. We may need to pause open requisitions if the headcount freeze is extended.",
+              "thread_id": "thr_staffing_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T09:18:00"
+            }
+          },
+          {
+            "id": "msg_leadership_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Lydia Mercer",
+              "subject": "Regional budget check-in",
+              "body": "Sending the revised budget notes ahead of the finance review. No staffing plan changes are included here.",
+              "thread_id": "thr_budget_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T10:02:00"
+            }
+          },
+          {
+            "id": "msg_other_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Marcus Bell",
+              "subject": "Vendor follow-up",
+              "body": "Checking on the supply delivery timing for next week.",
+              "thread_id": "thr_vendor_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T08:41:00"
+            }
+          },
+          {
+            "id": "lbl_staffing_01",
+            "type": "label",
+            "attributes": {
+              "name": "Staffing Review",
+              "topic": "messages related to staffing impacts"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "reservation",
+      "reason_for_call": "Book a local appointment.",
+      "task_params": {
+        "service_type": "yoga",
+        "location": "Covington",
+        "date_time": "2025-04-26T09:00:00",
+        "sort_by": "rating"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "yoga",
+            "location": "Covington",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_stillwaterwellness_02",
+            "date_time": "2025-04-26T09:00:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_northshoreflow_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Northshore Flow Studio",
+              "service_type": "yoga",
+              "location": "Covington",
+              "rating": 4.8,
+              "distance_km": 11.2
+            }
+          },
+          {
+            "id": "svc_stillwaterwellness_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Stillwater Wellness Collective",
+              "service_type": "yoga",
+              "location": "Covington",
+              "rating": 4.9,
+              "distance_km": 13.5
+            }
+          },
+          {
+            "id": "svc_hammondpilates_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Hammond Pilates Loft",
+              "service_type": "pilates",
+              "location": "Hammond",
+              "rating": 4.7,
+              "distance_km": 29.4
+            }
+          },
+          {
+            "id": "svc_mandevillemassage_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mandeville Massage House",
+              "service_type": "massage",
+              "location": "Mandeville",
+              "rating": 4.6,
+              "distance_km": 18.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "location": "Community Outreach",
+        "doc_type": "note",
+        "document_title": "Art Therapy Outreach Planning",
+        "brainstorm_points": [
+          "pilot monthly watercolor workshop for caregivers",
+          "partner with parish library for offsite sessions",
+          "ask social worker team for referral criteria",
+          "track attendance and patient mood feedback",
+          "look into small local grant opportunities"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Community Outreach",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_outreach_01",
+            "content_delta": "<authored from brainstorm_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_outreach_01",
+            "type": "document",
+            "attributes": {
+              "title": "Art Therapy Outreach Planning",
+              "doc_type": "note",
+              "location": "Community Outreach",
+              "content_brief": "Working planning note for the clinic's art therapy outreach, including goals, partner ideas, and next steps."
+            }
+          },
+          {
+            "id": "doc_outreach_02",
+            "type": "document",
+            "attributes": {
+              "title": "Community Health Fair Follow-up",
+              "doc_type": "memo",
+              "location": "Community Outreach",
+              "content_brief": "Post-event follow-up memo with volunteer assignments and vendor notes."
+            }
+          },
+          {
+            "id": "doc_ops_03",
+            "type": "document",
+            "attributes": {
+              "title": "Quarterly Staffing Review",
+              "doc_type": "report",
+              "location": "Clinic Operations",
+              "content_brief": "Operations report on staffing levels, overtime usage, and hiring priorities."
+            }
+          },
+          {
+            "id": "file_notes_01",
+            "type": "file",
+            "attributes": {
+              "name": "brainstorm-photo-whiteboard.jpg",
+              "file_type": "image",
+              "location": "Downloads",
+              "owner": "Anna Strahan",
+              "labels": [
+                "brainstorm",
+                "outreach"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "communication",
+      "reason_for_call": "Draft a follow-up message.",
+      "task_params": {
+        "sender": "Bayou Blue Room",
+        "folder": "inbox",
+        "language": "en",
+        "subject": "Thank you for Friday's set",
+        "reply_points": [
+          "thank them for a lovely evening and intimate atmosphere",
+          "mention enjoying the small ensemble format",
+          "ask whether they have more small-set performances coming up",
+          "say she'd love to attend again if they do"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Bayou Blue Room",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_bayou_01",
+            "subject": "Thank you for Friday's set",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_bayou_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Bayou Blue Room",
+              "subject": "Thanks for joining us at Bayou Blue Room",
+              "body": "Hi Anna, thank you for spending Friday evening with us. We loved having you at the room and hope you enjoyed the quartet set. Warmly, Bayou Blue Room",
+              "thread_id": "thr_bayou_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-17T10:14:00"
+            }
+          },
+          {
+            "id": "msg_clinic_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Northshore Clinic Admin",
+              "subject": "Updated staffing grid",
+              "body": "Please review the attached staffing grid for next week.",
+              "thread_id": "thr_clinic_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-03-17T08:05:00"
+            }
+          },
+          {
+            "id": "msg_gallery_03",
+            "type": "message",
+            "attributes": {
+              "sender": "River Parish Gallery",
+              "subject": "Spring opening reception",
+              "body": "We're excited to invite you to our spring opening next month.",
+              "thread_id": "thr_gallery_03",
+              "folder": "archive",
+              "labels": [
+                "arts"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-12T16:42:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "scheduling",
+      "reason_for_call": "Check my calendar and add a reminder",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Book Club",
+        "start_time": "2025-03-07T19:00:00-06:00",
+        "end_time": "2025-03-07T20:30:00-06:00",
+        "remind_at": "2025-03-05T18:00:00-06:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_bookclub_01",
+            "remind_at": "2025-03-05T18:00:00-06:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_bookclub_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Book Club",
+              "start_time": "2025-03-07T19:00:00-06:00",
+              "end_time": "2025-03-07T20:30:00-06:00",
+              "participants": [
+                "Maya",
+                "Jordan",
+                "Priya"
+              ],
+              "location": "Maya's house",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga Class",
+              "start_time": "2025-03-05T17:30:00-06:00",
+              "end_time": "2025-03-05T18:30:00-06:00",
+              "participants": [],
+              "location": "Northshore Wellness Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_budget_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Budget Review",
+              "start_time": "2025-03-06T09:00:00-06:00",
+              "end_time": "2025-03-06T10:00:00-06:00",
+              "participants": [
+                "Finance Team"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_gallery_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Gallery Opening",
+              "start_time": "2025-03-08T18:00:00-06:00",
+              "end_time": "2025-03-08T20:00:00-06:00",
+              "participants": [
+                "Elena"
+              ],
+              "location": "Riverside Arts Center",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Covington",
+        "sort_by": "distance",
+        "provider_id": "srv_shearhaven_01",
+        "date_time": "2025-04-03T17:30:00",
+        "update_scope": "critical"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Covington",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "srv_shearhaven_01",
+            "date_time": "2025-04-03T17:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "srv_shearhaven_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Shear Haven Studio",
+              "service_type": "haircut",
+              "location": "Covington",
+              "rating": 4.7,
+              "distance_km": 8.4
+            }
+          },
+          {
+            "id": "srv_northshorecuts_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Northshore Cuts & Co.",
+              "service_type": "haircut",
+              "location": "Covington",
+              "rating": 4.5,
+              "distance_km": 10.1
+            }
+          },
+          {
+            "id": "srv_madisonstyle_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Madison Style House",
+              "service_type": "haircut",
+              "location": "Madisonville",
+              "rating": 4.8,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "srv_lakesidesalon_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Lakeside Salon Collective",
+              "service_type": "haircut",
+              "location": "Mandeville",
+              "rating": 4.6,
+              "distance_km": 12.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "travel",
+      "reason_for_call": "Find a hotel option.",
+      "task_params": {
+        "location": "Aix-en-Provence",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "hotel_offer_id": "hot_bastide_02"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Aix-en-Provence",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_bastide_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_bastide_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "La Bastide des Fontaines",
+              "location": "Aix-en-Provence",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-22",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 185.0
+            }
+          },
+          {
+            "id": "hot_cloitre_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hotel du Cloitre",
+              "location": "Aix-en-Provence",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-22",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 210.0
+            }
+          },
+          {
+            "id": "hot_mirabeau_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Maison Mirabeau",
+              "location": "Aix-en-Provence",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-22",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 248.0
+            }
+          },
+          {
+            "id": "hot_port_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Le Petit Port",
+              "location": "Marseille",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-22",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 169.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "communication",
+      "reason_for_call": "Draft an email",
+      "task_params": {
+        "recipient": "bookclub@riverhousecircle.org",
+        "subject": "Next month’s reading picks",
+        "language": "en",
+        "reading_pick_points": [
+          "Open with a warm note about the rainy evening",
+          "Say I’m sending a few ideas for next month",
+          "Suggest Donna Tartt",
+          "Suggest Ocean Vuong",
+          "Suggest bell hooks",
+          "Invite everyone to share their preference",
+          "Keep the tone gentle and low-pressure"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "bookclub@riverhousecircle.org",
+            "subject": "Next month’s reading picks",
+            "body": "<authored from reading_pick_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_bookclub_01",
+            "type": "message",
+            "attributes": {
+              "sender": "marisol@riverhousecircle.org",
+              "subject": "Re: July discussion notes",
+              "body": "Thanks again, everyone. I’m glad we had such a thoughtful conversation last night. We can start tossing around ideas for next month whenever folks are ready.",
+              "thread_id": "thr_bookclub_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-06-26T20:14:00"
+            }
+          },
+          {
+            "id": "msg_clinic_01",
+            "type": "message",
+            "attributes": {
+              "sender": "ops@northshoreclinic.org",
+              "subject": "Updated staffing spreadsheet",
+              "body": "Attached is the latest version for Friday review.",
+              "thread_id": "thr_clinic_01",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-06-26T18:02:00"
+            }
+          },
+          {
+            "id": "msg_gallery_01",
+            "type": "message",
+            "attributes": {
+              "sender": "hello@marignyartspace.com",
+              "subject": "Weekend opening reception",
+              "body": "We’d love to see you at the new group show this Saturday evening.",
+              "thread_id": "thr_gallery_01",
+              "folder": "archive",
+              "labels": [
+                "arts"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-06-24T11:30:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "commerce",
+      "reason_for_call": "Order a small gift",
+      "task_params": {
+        "category": "gourmet food",
+        "budget": 45,
+        "sort_by": "rating",
+        "quantity": 1,
+        "list_name": "Sunday supper gift ideas"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "gourmet food",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_crackers_01",
+              "prod_jam_02",
+              "prod_oil_03",
+              "prod_shortbread_04",
+              "prod_honey_05"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "prod_honey_05"
+            ],
+            "list_name": "Sunday supper gift ideas"
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_honey_05",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_crackers_01",
+            "type": "product",
+            "attributes": {
+              "name": "Rustic Cheese Board Cracker Collection",
+              "price": 18.0,
+              "category": "gourmet food",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_jam_02",
+            "type": "product",
+            "attributes": {
+              "name": "Southern Fig Preserves Gift Jar",
+              "price": 14.5,
+              "category": "gourmet food",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_oil_03",
+            "type": "product",
+            "attributes": {
+              "name": "Herb-Infused Olive Oil Duo",
+              "price": 32.0,
+              "category": "gourmet food",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_shortbread_04",
+            "type": "product",
+            "attributes": {
+              "name": "Butter Shortbread Tin",
+              "price": 22.0,
+              "category": "gourmet food",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_honey_05",
+            "type": "product",
+            "attributes": {
+              "name": "Wildflower Honey Gift Set",
+              "price": 28.0,
+              "category": "gourmet food",
+              "rating": 4.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "travel",
+      "reason_for_call": "Book a flight.",
+      "task_params": {
+        "origin": "New Orleans",
+        "destination": "Marseille",
+        "passenger_count": 2,
+        "departure_date": "2025-04-14",
+        "return_date": "2025-04-24",
+        "seat_preference": "aisle"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "New Orleans",
+            "destination": "Marseille",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_dl_02",
+            "seat_preference": "aisle"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_af_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New Orleans",
+              "destination": "Marseille",
+              "departure_date": "2025-04-14",
+              "return_date": "2025-04-24",
+              "airline": "Air France",
+              "price": 1482.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_dl_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New Orleans",
+              "destination": "Marseille",
+              "departure_date": "2025-04-14",
+              "return_date": "2025-04-24",
+              "airline": "Delta",
+              "price": 1325.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_ua_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New Orleans",
+              "destination": "Marseille",
+              "departure_date": "2025-04-15",
+              "return_date": "2025-04-24",
+              "airline": "United",
+              "price": 1198.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_ba_04",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New Orleans",
+              "destination": "Nice",
+              "departure_date": "2025-04-14",
+              "return_date": "2025-04-24",
+              "airline": "British Airways",
+              "price": 1260.0,
+              "available_seats": 5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book an outing.",
+      "task_params": {
+        "location": "Covington",
+        "event_tags": [
+          "art",
+          "gallery"
+        ],
+        "event_id": "evt_sttammany_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Covington",
+            "event_tags": [
+              "art",
+              "gallery"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_sttammany_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_sttammany_01",
+            "type": "event",
+            "attributes": {
+              "name": "St. Tammany Art House Weekend Exhibit",
+              "location": "Covington",
+              "date_time": "2025-03-29T14:00:00",
+              "price": 18.0,
+              "event_tags": [
+                "art",
+                "gallery",
+                "local artists",
+                "exhibit"
+              ]
+            }
+          },
+          {
+            "id": "evt_folk_02",
+            "type": "event",
+            "attributes": {
+              "name": "Northshore Folk Craft Showcase",
+              "location": "Covington",
+              "date_time": "2025-03-29T11:00:00",
+              "price": 12.0,
+              "event_tags": [
+                "crafts",
+                "gallery",
+                "folk art",
+                "market"
+              ]
+            }
+          },
+          {
+            "id": "evt_museum_03",
+            "type": "event",
+            "attributes": {
+              "name": "Regional History Museum Quiet Hours",
+              "location": "Mandeville",
+              "date_time": "2025-03-29T13:30:00",
+              "price": 15.0,
+              "event_tags": [
+                "museum",
+                "history",
+                "cultural",
+                "guided"
+              ]
+            }
+          },
+          {
+            "id": "evt_jazz_04",
+            "type": "event",
+            "attributes": {
+              "name": "Madisonville Listening Room Jazz Matinee",
+              "location": "Madisonville",
+              "date_time": "2025-03-29T16:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "music",
+                "jazz",
+                "cultural",
+                "indoor"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and keep action items.",
+      "task_params": {
+        "folder": "inbox",
+        "routine_sender": "Bayou Office Supply",
+        "action_sender": "MedEquip South",
+        "priority": "high",
+        "label_ids": [
+          "lbl_action_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "archive_messages",
+        "set_message_priority",
+        "label_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Bayou Office Supply"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_bayou_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "MedEquip South"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_medequip_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_medequip_01"
+            ],
+            "label_ids": [
+              "lbl_action_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_bayou_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Bayou Office Supply",
+              "subject": "Monthly toner shipment confirmation",
+              "body": "Your recurring toner order has shipped and will arrive tomorrow. No action needed.",
+              "thread_id": "thr_bayou_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T08:12:00"
+            }
+          },
+          {
+            "id": "msg_medequip_01",
+            "type": "message",
+            "attributes": {
+              "sender": "MedEquip South",
+              "subject": "Backorder notice for exam table paper",
+              "body": "One item in your latest supply order is backordered. Please confirm whether you'd like a partial shipment or to wait for the full order.",
+              "thread_id": "thr_medequip_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T09:04:00"
+            }
+          },
+          {
+            "id": "msg_suncoast_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Suncoast Waste Services",
+              "subject": "Invoice available for March pickup service",
+              "body": "Your latest service invoice is now available in the vendor portal.",
+              "thread_id": "thr_suncoast_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T07:41:00"
+            }
+          },
+          {
+            "id": "lbl_action_01",
+            "type": "label",
+            "attributes": {
+              "name": "Action",
+              "topic": "Needs follow-up"
+            }
+          },
+          {
+            "id": "fld_vendors_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Vendor Archive",
+              "purpose": "Archived routine vendor notices and confirmations"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "travel",
+      "reason_for_call": "Book a short trip.",
+      "task_params": {
+        "location": "Provence",
+        "guest_count": 2,
+        "room_count": 1,
+        "hotel_offer_id": "htl_lavender_inn_01"
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Provence"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_provence_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Provence",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "relevance"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "htl_lavender_inn_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_provence_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Provence Countryside",
+              "region": "Provence",
+              "tags": [
+                "spring",
+                "quiet",
+                "villages",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "dest_nice_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Nice Coast",
+              "region": "French Riviera",
+              "tags": [
+                "beach",
+                "city",
+                "nightlife",
+                "spring"
+              ]
+            }
+          },
+          {
+            "id": "htl_lavender_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Lavender Hill Inn",
+              "location": "Provence",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-21",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 189.0
+            }
+          },
+          {
+            "id": "htl_avignon_suites_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Avignon Central Suites",
+              "location": "Provence",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-21",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 172.0
+            }
+          },
+          {
+            "id": "htl_marseille_harbor_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Marseille Harbor Hotel",
+              "location": "Marseille",
+              "check_in_date": "2026-04-18",
+              "check_out_date": "2026-04-21",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 165.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "scheduling",
+      "reason_for_call": "Reschedule something on my calendar.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Quality & Safety Committee",
+        "start_time": "2025-02-18T14:00:00-06:00",
+        "end_time": "2025-02-18T15:00:00-06:00",
+        "new_start_time": "2025-02-18T16:00:00-06:00",
+        "new_end_time": "2025-02-18T17:00:00-06:00"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "reschedule_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-18T16:00:00-06:00",
+            "end_time": "2025-02-18T17:00:00-06:00"
+          }
+        },
+        {
+          "tool": "reschedule_event",
+          "arguments": {
+            "event_id": "evt_qsc_01",
+            "new_start_time": "2025-02-18T16:00:00-06:00",
+            "new_end_time": "2025-02-18T17:00:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_qsc_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quality & Safety Committee",
+              "start_time": "2025-02-18T14:00:00-06:00",
+              "end_time": "2025-02-18T15:00:00-06:00",
+              "participants": [
+                "anna.strahan@northshoreclinic.org",
+                "maria.gibbs@northshoreclinic.org",
+                "derek.lanoux@northshoreclinic.org",
+                "helen.pike@northshoreclinic.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_cor_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Operations Review",
+              "start_time": "2025-02-18T14:30:00-06:00",
+              "end_time": "2025-02-18T15:30:00-06:00",
+              "participants": [
+                "anna.strahan@northshoreclinic.org",
+                "paul.esparza@northshoreclinic.org",
+                "nina.chauvin@northshoreclinic.org"
+              ],
+              "location": "Admin Suite 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_huddle_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning Staffing Huddle",
+              "start_time": "2025-02-18T08:15:00-06:00",
+              "end_time": "2025-02-18T08:45:00-06:00",
+              "participants": [
+                "anna.strahan@northshoreclinic.org",
+                "ops-team@northshoreclinic.org"
+              ],
+              "location": "Nurses Station West",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_budget_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Variance Check-in",
+              "start_time": "2025-02-18T11:00:00-06:00",
+              "end_time": "2025-02-18T11:30:00-06:00",
+              "participants": [
+                "anna.strahan@northshoreclinic.org",
+                "jason.reed@northshoreclinic.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "workspace",
+      "reason_for_call": "Organize some work files",
+      "task_params": {
+        "location": "Shared Drive/Finance",
+        "file_type": "xlsx",
+        "scheme": "by_project",
+        "budget_file_ids": [
+          "file_budget_q3_01",
+          "file_budget_capex_02"
+        ],
+        "grant_file_ids": [
+          "file_grant_rural_03",
+          "file_grant_art_04"
+        ],
+        "budget_folder_id": "fld_budget_01",
+        "grant_folder_id": "fld_grants_02"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Shared Drive/Finance",
+            "file_type": "xlsx"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_budget_q3_01",
+              "file_budget_capex_02",
+              "file_grant_rural_03",
+              "file_grant_art_04"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_budget_q3_01",
+              "file_budget_capex_02"
+            ],
+            "folder_id": "fld_budget_01"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_grant_rural_03",
+              "file_grant_art_04"
+            ],
+            "folder_id": "fld_grants_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_budget_q3_01",
+            "type": "file",
+            "attributes": {
+              "name": "Clinic Budget Q3 Forecast.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_budget_capex_02",
+            "type": "file",
+            "attributes": {
+              "name": "Capital Budget Equipment Plan.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_grant_rural_03",
+            "type": "file",
+            "attributes": {
+              "name": "Rural Health Grant Budget Draft.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_grant_art_04",
+            "type": "file",
+            "attributes": {
+              "name": "Art Therapy Grant Expense Worksheet.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_budget_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Budget Spreadsheets",
+              "purpose": "Current budgeting and forecast workbooks"
+            }
+          },
+          {
+            "id": "fld_grants_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Grant Materials",
+              "purpose": "Grant-related financial files and support materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "reservation",
+      "reason_for_call": "Book a restaurant reservation.",
+      "task_params": {
+        "location": "Covington",
+        "cuisine": "dessert",
+        "date_time": "2025-03-21T20:15:00",
+        "party_size": 3,
+        "seating_style": "table"
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Covington",
+            "cuisine": "dessert",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_sweetolive_01",
+            "date_time": "2025-03-21T20:15:00",
+            "party_size": 3
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_sweetolive_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sweet Olive Dessert Bar",
+              "cuisine": "dessert",
+              "location": "Covington",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "table"
+            }
+          },
+          {
+            "id": "rst_cedarandcream_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cedar & Cream Cafe",
+              "cuisine": "dessert",
+              "location": "Covington",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "table"
+            }
+          },
+          {
+            "id": "rst_moonlitbeignet_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Moonlit Beignet Room",
+              "cuisine": "dessert",
+              "location": "Mandeville",
+              "rating": 4.6,
+              "price_range": "$",
+              "seating_style": "counter"
+            }
+          },
+          {
+            "id": "rst_lacremeporch_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "La Creme Porch",
+              "cuisine": "French dessert",
+              "location": "Covington",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "table"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "communication",
+      "reason_for_call": "Draft a professional message.",
+      "task_params": {
+        "recipient": "Melissa Landry",
+        "subject": "Appreciation and interest in future growth opportunities",
+        "sender": "Melissa Landry",
+        "folder": "inbox",
+        "message_id": "msg_melissa_01",
+        "thread_id": "thr_melissa_01",
+        "language": "en",
+        "reply_points": [
+          "thank her for the encouragement after the leadership roundup",
+          "say you value the chance to keep growing within the organization",
+          "express interest in future advancement opportunities in the region",
+          "mention willingness to build skills and take on broader responsibility",
+          "keep the tone warm, polished, and not overly eager"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Melissa Landry",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_melissa_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_melissa_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Melissa Landry",
+              "subject": "Great job at the leadership roundup",
+              "body": "Anna, I wanted to say you represented the clinic really well at the leadership roundup. Your comments on staff development and patient access stood out. Keep up the strong work.",
+              "thread_id": "thr_melissa_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T16:18:00"
+            }
+          },
+          {
+            "id": "msg_carla_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Carla Nguyen",
+              "subject": "Updated supply budget worksheet",
+              "body": "Attaching the revised worksheet with the imaging line corrected.",
+              "thread_id": "thr_carla_01",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T14:02:00"
+            }
+          },
+          {
+            "id": "msg_jared_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jared Pope",
+              "subject": "Volunteer fair sign-up",
+              "body": "Checking whether you can cover the Saturday welcome table for an hour.",
+              "thread_id": "thr_jared_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-11T19:44:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s38",
+      "session_type": "learning",
+      "day_offset": 38,
+      "domain": "scheduling",
+      "reason_for_call": "Handle some calendar invites",
+      "task_params": {
+        "calendar": "invites",
+        "participants": [
+          "Maya LeBlanc"
+        ],
+        "event_id": "evt_bookclub_01",
+        "response": "accept"
+      },
+      "expected_tools": [
+        "list_events",
+        "respond_to_event_invite"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites",
+            "participants": [
+              "Maya LeBlanc"
+            ]
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_bookclub_01",
+            "response": "accept"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_bookclub_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Book Club at Maya's",
+              "start_time": "2025-03-24T18:30:00-05:00",
+              "end_time": "2025-03-24T20:00:00-05:00",
+              "participants": [
+                "Maya LeBlanc",
+                "Anna Strahan",
+                "Jules Parker",
+                "Denise Tran"
+              ],
+              "location": "Maya's house",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_clinic_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Operations Huddle",
+              "start_time": "2025-03-24T08:00:00-05:00",
+              "end_time": "2025-03-24T09:00:00-05:00",
+              "participants": [
+                "Anna Strahan",
+                "R. Patel",
+                "Monica Green"
+              ],
+              "location": "Clinic Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Evening Yoga",
+              "start_time": "2025-03-25T18:00:00-05:00",
+              "end_time": "2025-03-25T19:00:00-05:00",
+              "participants": [
+                "Anna Strahan"
+              ],
+              "location": "Northshore Wellness Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_fair_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Health Fair Planning Call",
+              "start_time": "2025-03-26T17:30:00-05:00",
+              "end_time": "2025-03-26T18:15:00-05:00",
+              "participants": [
+                "Anna Strahan",
+                "Lena Brooks",
+                "Maya LeBlanc"
+              ],
+              "location": "Zoom",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "anna_strahan_s40",
+      "session_type": "learning",
+      "day_offset": 40,
+      "domain": "communication",
+      "reason_for_call": "Send a thank-you message",
+      "task_params": {
+        "recipient": "volunteer-team@madisonvillehealthpartners.org",
+        "subject": "Thank you for helping at the community health fair",
+        "language": "en",
+        "body_points": [
+          "thank everyone for showing up and supporting the fair",
+          "mention the screenings, check-in, and workshop help",
+          "say their kindness made visitors feel welcome",
+          "share appreciation for giving their time and energy",
+          "end with warm wishes for a restful weekend"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "volunteer-team@madisonvillehealthpartners.org",
+            "subject": "Thank you for helping at the community health fair",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_healthfair_01",
+            "type": "message",
+            "attributes": {
+              "sender": "nina.patel@madisonvillehealthpartners.org",
+              "subject": "Volunteer team list for outreach follow-up",
+              "body": "Here is the volunteer team distribution list for outreach follow-up: volunteer-team@madisonvillehealthpartners.org. Thanks again for coordinating.",
+              "thread_id": "thr_healthfair_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:12:00"
+            }
+          },
+          {
+            "id": "msg_clinic_02",
+            "type": "message",
+            "attributes": {
+              "sender": "ops@northshoreclinic.org",
+              "subject": "Updated copier maintenance window",
+              "body": "The copier vendor will be onsite Tuesday morning.",
+              "thread_id": "thr_ops_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T08:05:00"
+            }
+          },
+          {
+            "id": "msg_bookclub_03",
+            "type": "message",
+            "attributes": {
+              "sender": "bookclub@riverparishreads.org",
+              "subject": "Next discussion pick",
+              "body": "Sharing the title for next week's discussion.",
+              "thread_id": "thr_book_03",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-02-10T18:20:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "I need one plant for a small front garden display by the porch—keep it under $35 and make sure it won't get taller than about 18 inches. Pick one and order it for me.",
+      "gold_value": "prod_la_mistflower_native_01",
+      "session_id": "anna_strahan_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "anna_strahan_commerce_01",
+      "rule_ref": {
+        "rule_id": "anna_strahan_commerce_01",
+        "rule_text": "When ordering plants or garden supplies, Anna prefers native Louisiana plants and useful herbs over purely ornamental exotics.",
+        "canonical_answer": "For garden orders, I prefer native Louisiana plants and culinary herbs over ornamental exotics."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_la_mistflower_native_01",
+            "type": "product",
+            "attributes": {
+              "name": "Louisiana Blue Mistflower Native Plant",
+              "price": 29.0,
+              "category": "garden_plants",
+              "rating": 4.2,
+              "plant_class": "native perennial",
+              "native_region": "Louisiana",
+              "mature_height_in": 18,
+              "flower_color": "lavender-blue",
+              "container_size": "1-gallon",
+              "review_count": 58
+            }
+          },
+          {
+            "id": "prod_la_swamp_sunflower_01",
+            "type": "product",
+            "attributes": {
+              "name": "Louisiana Swamp Sunflower Native Plant",
+              "price": 31.0,
+              "category": "garden_plants",
+              "rating": 4.7,
+              "plant_class": "native perennial",
+              "native_region": "Louisiana",
+              "mature_height_in": 48,
+              "flower_color": "yellow",
+              "container_size": "1-gallon",
+              "review_count": 133
+            }
+          },
+          {
+            "id": "prod_colorburst_croton_01",
+            "type": "product",
+            "attributes": {
+              "name": "Colorburst Croton Patio Plant",
+              "price": 24.0,
+              "category": "garden_plants",
+              "rating": 4.9,
+              "plant_class": "ornamental tropical",
+              "mature_height_in": 16,
+              "leaf_color": "red-orange-lime",
+              "container_size": "1-gallon",
+              "review_count": 910,
+              "units_sold_last_30_days": 620
+            }
+          },
+          {
+            "id": "prod_dwarf_ixora_01",
+            "type": "product",
+            "attributes": {
+              "name": "Dwarf Pink Ixora Porch Plant",
+              "price": 27.0,
+              "category": "garden_plants",
+              "rating": 4.8,
+              "plant_class": "ornamental tropical",
+              "mature_height_in": 17,
+              "flower_color": "bright pink",
+              "container_size": "1-gallon",
+              "review_count": 740,
+              "units_sold_last_30_days": 480
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_la_mistflower_native_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the watercolor paper pad from my recent order—the item that arrived wasn't the one I meant to buy.",
+      "gold_value": "exchange",
+      "session_id": "anna_strahan_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "anna_strahan_commerce_03",
+      "rule_ref": {
+        "rule_id": "anna_strahan_commerce_03",
+        "rule_text": "If an ordered item for painting, cooking, or gardening arrives wrong, Anna prefers an exchange rather than a refund.",
+        "canonical_answer": "When a supply order is wrong, I usually want an exchange so I still end up with the right item."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_watercolor_paper_01",
+            "type": "product",
+            "attributes": {
+              "name": "Watercolor Paper Pad",
+              "price": 18.5,
+              "category": "painting_supplies",
+              "rating": 4.6,
+              "brand": "Riverbank Studio",
+              "order_id": "ord_7319_art",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-10"
+            }
+          },
+          {
+            "id": "prod_chef_knife_01",
+            "type": "product",
+            "attributes": {
+              "name": "Chef Knife",
+              "price": 41.0,
+              "category": "kitchen_tools",
+              "rating": 4.9,
+              "brand": "Oak & Iron",
+              "order_id": "ord_7281_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-08"
+            }
+          },
+          {
+            "id": "prod_pruning_shears_01",
+            "type": "product",
+            "attributes": {
+              "name": "Pruning Shears",
+              "price": 27.5,
+              "category": "gardening_tools",
+              "rating": 4.8,
+              "brand": "Green Hollow",
+              "order_id": "ord_7274_garden",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-07"
+            }
+          },
+          {
+            "id": "prod_throw_pillows_01",
+            "type": "product",
+            "attributes": {
+              "name": "Striped Throw Pillow Set",
+              "price": 34.99,
+              "category": "home_decor",
+              "rating": 4.95,
+              "brand": "Harbor Glow",
+              "order_id": "ord_7264_home",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-06"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Monica Reyes at South Harbor Neighborhood Center about the community blood pressure screening series. Tell her the clinic can provide two nurses and one bilingual volunteer, say it's fine to mention the diabetes-risk handouts and free blood pressure checks, and ask her to send the latest resident flyer text before it goes out.",
+      "gold_value": null,
+      "session_id": "anna_strahan_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "anna_strahan_communication_01",
+      "rule_ref": {
+        "rule_id": "anna_strahan_communication_01",
+        "rule_text": "When she is preparing outward-facing messages about clinic initiatives or community health programs, Anna prefers them to be drafted for review rather than sent immediately.",
+        "canonical_answer": "I like outreach and clinic-related messages drafted first so I can review the wording before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_monica_screening_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Monica Reyes <monica.reyes@southharborneighborhood.org>",
+              "subject": "Community blood pressure screening series",
+              "body": "Hi Anna, we're getting ready to promote the summer community blood pressure screening series for South Harbor residents and want to make sure the clinic details are accurate before we circulate anything. Can you confirm whether your team can provide nurses and a bilingual volunteer, and whether we should mention the diabetes-risk handouts and free blood pressure checks in the outreach copy? If you have any updated flyer text, send it along and we'll work it into the resident notice.",
+              "thread_id": "thr_monica_screening_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-05-21T09:14"
+            }
+          },
+          {
+            "id": "msg_oliver_fridge_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Oliver Grant <oliver.grant@riversideclinic.org>",
+              "subject": "Vaccine fridge maintenance window",
+              "body": "Facilities can service the vaccine refrigerator on Friday after 4 pm if that won't interfere with the evening immunization appointments. Let me know whether we should reschedule the maintenance.",
+              "thread_id": "thr_oliver_facilities_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-05-21T08:03"
+            }
+          },
+          {
+            "id": "msg_printbridge_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@printbridge.com",
+              "subject": "Your monthly invoice is ready",
+              "body": "Your May printing services invoice is now available in the customer portal.",
+              "thread_id": "thr_printbridge_invoice_11",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-05-21T07:42"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please update the priority on the Crescent City Arts Guide message about the Marigny gallery night and Frenchmen jazz picks that's in my inbox.",
+      "gold_value": "low",
+      "session_id": "anna_strahan_communication_04_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "anna_strahan_communication_04",
+      "rule_ref": {
+        "rule_id": "anna_strahan_communication_04",
+        "rule_text": "When she receives promotional or newsletter-style messages about cultural events she may browse later, Anna prefers marking them low priority rather than treating them as normal inbox work.",
+        "canonical_answer": "I usually mark promotional arts and event emails as low priority so they don’t compete with work messages."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_crescentcityarts_marigny_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Crescent City Arts Guide",
+              "subject": "Marigny gallery night and Frenchmen jazz picks",
+              "body": "This week's roundup includes small-gallery openings in the Marigny, late jazz set listings on Frenchmen Street, ticket links, and neighborhood event details around New Orleans.",
+              "thread_id": "thr_crescentcityarts_marigny_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-09T08:15:00"
+            }
+          },
+          {
+            "id": "msg_crescentcityarts_bywater_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Crescent City Arts Guide",
+              "subject": "Bywater open studios and courtyard sculpture map",
+              "body": "Monthly arts listings with venue hours, a walking map, and RSVP links for open studios and sculpture courtyards in the Bywater.",
+              "thread_id": "thr_crescentcityarts_bywater_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-05T09:02:00"
+            }
+          },
+          {
+            "id": "msg_nolanightmusic_calendar_01",
+            "type": "message",
+            "attributes": {
+              "sender": "NOLA Night Music",
+              "subject": "Thursday club listings and late set calendar",
+              "body": "A local music bulletin with club schedules, cover charges, reservation links, and neighborhood jazz recommendations for the week.",
+              "thread_id": "thr_nolanightmusic_calendar_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T17:40:00"
+            }
+          },
+          {
+            "id": "msg_regionalcare_staffing_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Regional Care Operations",
+              "subject": "Revised staffing grid for outpatient services",
+              "body": "Attached is the updated staffing grid with call coverage notes and open items for the outpatient services team.",
+              "thread_id": "thr_regionalcare_staffing_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-09T07:25:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_message_priority",
+              "arguments": {
+                "priority": "low"
+              },
+              "compare_args": [
+                "priority"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Seattle for two people at 7:00pm on 2026-08-14 — just pick a place and reserve it.",
+      "gold_value": "rst_bayou_harbor_01",
+      "session_id": "anna_strahan_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "anna_strahan_reservation_01",
+      "rule_ref": {
+        "rule_id": "anna_strahan_reservation_01",
+        "rule_text": "When dining out, Anna prefers reservations at local Cajun or Creole restaurants over generic chain options.",
+        "canonical_answer": "If I’m booking a restaurant, I prefer a local Cajun or Creole place over a chain."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_bayou_harbor_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bayou Harbor Kitchen",
+              "cuisine": "Cajun/Creole",
+              "location": "Seattle",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "independent neighborhood restaurant"
+            }
+          },
+          {
+            "id": "rst_riverfront_cajun_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Riverfront Cajun Table",
+              "cuisine": "Cajun/Creole",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "regional chain"
+            }
+          },
+          {
+            "id": "rst_union_station_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Union Station Grill",
+              "cuisine": "American",
+              "location": "Seattle",
+              "rating": 4.9,
+              "price_range": "$",
+              "seating_style": "national chain"
+            }
+          },
+          {
+            "id": "rst_pine_market_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Pine Market Kitchen",
+              "cuisine": "New American",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "independent bistro"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_bayou_harbor_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in New Orleans and want two tickets for a live music night out; keep it under $50 each, pick something and book it.",
+      "gold_value": "evt_frenchmen_zydeco_01",
+      "session_id": "anna_strahan_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "anna_strahan_reservation_02",
+      "rule_ref": {
+        "rule_id": "anna_strahan_reservation_02",
+        "rule_text": "When choosing concert or performance tickets, Anna prefers intimate jazz or zydeco events over larger, more generic mainstream shows.",
+        "canonical_answer": "For live music, I’d rather book an intimate jazz or zydeco event than a big generic show."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_frenchmen_zydeco_01",
+            "type": "event",
+            "attributes": {
+              "name": "Frenchmen Lantern Room Zydeco Trio",
+              "location": "Frenchmen Street, New Orleans",
+              "date_time": "2026-06-20T20:30:00",
+              "price": 46,
+              "event_tags": [
+                "zydeco",
+                "small venue",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_smoothie_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "Summer Nights Pop Tour at Smoothie King Center",
+              "location": "Smoothie King Center, New Orleans",
+              "date_time": "2026-06-20T20:00:00",
+              "price": 39,
+              "event_tags": [
+                "pop",
+                "arena show",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_riverfront_jazz_01",
+            "type": "event",
+            "attributes": {
+              "name": "Riverfront Jazz All-Stars Gala",
+              "location": "Riverfront Pavilion, New Orleans",
+              "date_time": "2026-06-20T19:30:00",
+              "price": 49,
+              "event_tags": [
+                "jazz",
+                "festival headliner",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_saenger_revue_01",
+            "type": "event",
+            "attributes": {
+              "name": "Saenger Theatre Soul Classics Revue",
+              "location": "Saenger Theatre, New Orleans",
+              "date_time": "2026-06-20T20:00:00",
+              "price": 44,
+              "event_tags": [
+                "revue",
+                "touring show",
+                "live music"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_frenchmen_zydeco_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in downtown Seattle for 2026-08-14 at 6:30pm — just pick one for me.",
+      "gold_value": "svc_wellness_stillpoint_01",
+      "session_id": "anna_strahan_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "anna_strahan_reservation_03",
+      "rule_ref": {
+        "rule_id": "anna_strahan_reservation_03",
+        "rule_text": "For local appointments tied to fitness or wellbeing, Anna prefers providers aligned with low-impact yoga or mindfulness over high-intensity options.",
+        "canonical_answer": "When I book a wellness service, I prefer something aligned with yoga or mindfulness rather than a high-intensity setup."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_wellness_luxe_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Luxe Reset Spa",
+              "service_type": "spa wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "svc_wellness_pulse_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Pulse Interval Studio",
+              "service_type": "hiit wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_wellness_core_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "CoreRush Cycle Lab",
+              "service_type": "spin wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "distance_km": 0.6
+            }
+          },
+          {
+            "id": "svc_wellness_stillpoint_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Stillpoint Yoga & Mindfulness Center",
+              "service_type": "yoga mindfulness wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 1.8
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_wellness_stillpoint_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't replied to the Women in Leadership Reception at Harbor Loft on 2026-09-15 from 5:30–7pm. See whether it clashes with anything I already have that evening, and send the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "anna_strahan_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "anna_strahan_scheduling_01",
+      "rule_ref": {
+        "rule_id": "anna_strahan_scheduling_01",
+        "rule_text": "When a calendar invitation overlaps with unresolved work or family demands, Anna prefers to respond tentatively rather than accept or decline outright.",
+        "canonical_answer": "If a commitment is still uncertain, I usually mark it tentative until I know my schedule will hold."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_leadership_reception_20260915",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Women in Leadership Reception",
+              "start_time": "2026-09-15T17:30:00-04:00",
+              "end_time": "2026-09-15T19:00:00-04:00",
+              "participants": [
+                "events@citywomenlead.org",
+                "anna.strahan@example.com"
+              ],
+              "location": "Harbor Loft",
+              "calendar": "invites",
+              "status": "pending",
+              "organizer": "City Women Lead Network",
+              "attendee_count": 140,
+              "rsvp_deadline": "2026-09-12T17:00:00-04:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_staff_scheduling_hold_20260915",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Staff scheduling coverage hold",
+              "start_time": "2026-09-15T17:00:00-04:00",
+              "end_time": "2026-09-15T18:00:00-04:00",
+              "participants": [
+                "anna.strahan@example.com",
+                "maria.velasquez@northclinic.org"
+              ],
+              "location": "Conference Room C",
+              "calendar": "work",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_noah_pickup_backup_20260915",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Noah school pickup backup window",
+              "start_time": "2026-09-15T18:00:00-04:00",
+              "end_time": "2026-09-15T19:00:00-04:00",
+              "participants": [
+                "anna.strahan@example.com"
+              ],
+              "location": "Brookside Elementary",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please set a reminder for the Maple Street Library book club on 2026-09-14 in the evening — I don't want to forget about it.",
+      "gold_value": "weekly",
+      "session_id": "anna_strahan_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "anna_strahan_scheduling_02",
+      "rule_ref": {
+        "rule_id": "anna_strahan_scheduling_02",
+        "rule_text": "For recurring personal commitments like book club or similar standing routines, Anna prefers weekly reminders rather than one-off alerts.",
+        "canonical_answer": "For regular commitments, I prefer a weekly reminder instead of a single one-time ping."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_maple_book_club_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "September Book Club — The Left Hand of Darkness",
+              "start_time": "2026-09-14T19:00:00",
+              "end_time": "2026-09-14T20:30:00",
+              "location": "Maple Street Library",
+              "calendar": "personal",
+              "status": "confirmed",
+              "participants": [
+                "anna.strahan@example.com",
+                "bookclub@maplestreetlibrary.org"
+              ]
+            }
+          },
+          {
+            "id": "evt_maple_author_talk_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Author Talk: New Voices in Fiction",
+              "start_time": "2026-09-14T17:30:00",
+              "end_time": "2026-09-14T18:30:00",
+              "location": "Maple Street Library",
+              "calendar": "personal",
+              "status": "confirmed",
+              "participants": [
+                "events@maplestreetlibrary.org"
+              ]
+            }
+          },
+          {
+            "id": "evt_city_parks_forum_20260916",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "City Parks Feedback Forum",
+              "start_time": "2026-09-16T18:00:00",
+              "end_time": "2026-09-16T19:15:00",
+              "location": "Civic Center Room 204",
+              "calendar": "personal",
+              "status": "confirmed",
+              "participants": [
+                "parksdept@city.gov"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {
+                "cadence": "weekly"
+              },
+              "compare_args": [
+                "cadence"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "A stop on trip T-6114 in Asheville fell through. Please swap in one replacement for an afternoon visit near downtown Asheville that can fit in about 60-90 minutes and will not take us far off the current route.",
+      "gold_value": [
+        "stop_asheville_rad_greenway_01"
+      ],
+      "session_id": "anna_strahan_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "anna_strahan_travel_02",
+      "rule_ref": {
+        "rule_id": "anna_strahan_travel_02",
+        "rule_text": "When a trip needs replanning after a disruption, Anna prefers replacement stops that preserve the original balance of outdoor exploration and local culture rather than generic substitutes.",
+        "canonical_answer": "If a stop falls through, I want the replacement to keep the same mix of nature and local culture."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_asheville_rad_greenway_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "River Arts Greenway & Studios",
+              "location": "Asheville, North Carolina",
+              "trip_id": "T-6114",
+              "stop_type": "arts_district_greenway",
+              "tags": [
+                "outdoor",
+                "river_walk",
+                "local_art",
+                "working_studios",
+                "murals",
+                "walking"
+              ],
+              "rating": 4.5,
+              "review_count": 322,
+              "detour_minutes_from_downtown_route": 9,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_asheville_blue_ridge_overlook_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Blue Ridge Scenic Overlook",
+              "location": "Asheville, North Carolina",
+              "trip_id": "T-6114",
+              "stop_type": "viewpoint",
+              "tags": [
+                "outdoor",
+                "mountain_view",
+                "short_trail",
+                "walking",
+                "scenic"
+              ],
+              "rating": 4.9,
+              "review_count": 2481,
+              "detour_minutes_from_downtown_route": 6,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_asheville_craft_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Asheville Craft Market Hall",
+              "location": "Downtown Asheville, North Carolina",
+              "trip_id": "T-6114",
+              "stop_type": "market_hall",
+              "tags": [
+                "local_culture",
+                "crafts",
+                "music",
+                "makers",
+                "downtown"
+              ],
+              "rating": 4.8,
+              "review_count": 1910,
+              "detour_minutes_from_downtown_route": 2,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_asheville_french_broad_walk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "French Broad Riverwalk",
+              "location": "Asheville, North Carolina",
+              "trip_id": "T-6114",
+              "stop_type": "riverwalk",
+              "tags": [
+                "outdoor",
+                "river_path",
+                "walking",
+                "bridges",
+                "greenway"
+              ],
+              "rating": 4.7,
+              "review_count": 1180,
+              "detour_minutes_from_downtown_route": 4,
+              "visit_duration_hours": 1.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_asheville_rad_greenway_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Chicago to Minneapolis for just me, and use the usual traveler details and payment method on file once you find the best match.",
+      "gold_value": "window",
+      "session_id": "anna_strahan_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "anna_strahan_travel_04",
+      "rule_ref": {
+        "rule_id": "anna_strahan_travel_04",
+        "rule_text": "When she does fly, Anna prefers a window seat rather than an aisle or middle seat.",
+        "canonical_answer": "If I’m on a flight, I prefer a window seat."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_ord_msp_lakeshore_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Minneapolis",
+              "departure_date": "2026-08-14",
+              "airline": "Lakeshore Air",
+              "price": 129,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_ord_msp_heartland_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Minneapolis",
+              "departure_date": "2026-08-14",
+              "airline": "Heartland Jet",
+              "price": 146,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "flt_ord_msp_northstar_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Minneapolis",
+              "departure_date": "2026-08-14",
+              "airline": "Northstar Airlines",
+              "price": 173,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_ord_dtw_lakeshore_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Detroit",
+              "departure_date": "2026-08-14",
+              "airline": "Lakeshore Air",
+              "price": 104,
+              "available_seats": 8
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a hotel in Asheville for 2 adults and 1 room, and keep it at $220 per night or less. It's a short getaway, so just pick one and take care of it.",
+      "gold_value": "htl_asheville_foundry_row_01",
+      "session_id": "anna_strahan_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "anna_strahan_travel_05",
+      "rule_ref": {
+        "rule_id": "anna_strahan_travel_05",
+        "rule_text": "When choosing lodging for a trip, Anna prefers hotels positioned for both exploration and local character, such as near trails, historic areas, or arts districts, over purely generic convenience stays.",
+        "canonical_answer": "I prefer hotels that put me close to trails, historic neighborhoods, or arts areas rather than a generic convenience stop."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_asheville_foundry_row_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Foundry Row Hotel",
+              "location": "River Arts District, Asheville",
+              "check_in_date": "2026-10-09",
+              "check_out_date": "2026-10-12",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 218,
+              "rating": 4.4,
+              "review_count": 287,
+              "neighborhood_profile": "arts district",
+              "walk_time_to_gallery_block_min": 3,
+              "walk_time_to_river_greenway_min": 11
+            }
+          },
+          {
+            "id": "htl_asheville_montford_house_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Montford House Inn",
+              "location": "Montford Historic District, Asheville",
+              "check_in_date": "2026-10-09",
+              "check_out_date": "2026-10-12",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 244,
+              "rating": 4.8,
+              "review_count": 641,
+              "neighborhood_profile": "historic district",
+              "walk_time_to_preserved_homes_min": 4,
+              "walk_time_to_downtown_min": 12
+            }
+          },
+          {
+            "id": "htl_asheville_trailhead_lodge_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Trailhead Lodge Asheville",
+              "location": "East Asheville",
+              "check_in_date": "2026-10-09",
+              "check_out_date": "2026-10-12",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 229,
+              "rating": 4.7,
+              "review_count": 418,
+              "neighborhood_profile": "trail access",
+              "walk_time_to_trail_access_min": 5,
+              "distance_to_blue_ridge_parkway_km": 3.2
+            }
+          },
+          {
+            "id": "htl_asheville_tunnel_road_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Tunnel Road Inn",
+              "location": "Tunnel Road, Asheville",
+              "check_in_date": "2026-10-09",
+              "check_out_date": "2026-10-12",
+              "available_rooms": 11,
+              "max_guests_per_room": 2,
+              "price_per_night": 149,
+              "rating": 4.6,
+              "review_count": 1834,
+              "neighborhood_profile": "highway corridor",
+              "distance_to_interstate_km": 0.2,
+              "free_parking": true
+            }
+          },
+          {
+            "id": "htl_asheville_civic_center_suites_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Civic Center Suites",
+              "location": "Downtown Asheville",
+              "check_in_date": "2026-10-09",
+              "check_out_date": "2026-10-12",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 169,
+              "rating": 4.9,
+              "review_count": 2511,
+              "neighborhood_profile": "business district",
+              "distance_to_transit_km": 0.1,
+              "breakfast_included": true
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_asheville_foundry_row_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy the work files sitting in /Shared/ToSort — it's a jumble of older and newer PDFs, spreadsheets, and docs, and I just need them organized so they're easier to look through.",
+      "gold_value": "by_project",
+      "session_id": "anna_strahan_workspace_05_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "anna_strahan_workspace_05",
+      "rule_ref": {
+        "rule_id": "anna_strahan_workspace_05",
+        "rule_text": "When sorting work files, Anna prefers them classified by project rather than by type or date.",
+        "canonical_answer": "I organize work files by project first, not just by file type or chronology."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_tosort_budget_01",
+            "type": "file",
+            "attributes": {
+              "name": "budget_snapshot.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Budget Review",
+              "modified_date": "2026-03-14",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_budget_02",
+            "type": "file",
+            "attributes": {
+              "name": "vendor_quote.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Budget Review",
+              "modified_date": "2026-03-19",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_tosort_compliance_01",
+            "type": "file",
+            "attributes": {
+              "name": "checklist_notes.docx",
+              "file_type": "docx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Compliance Update",
+              "modified_date": "2026-04-03",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_compliance_02",
+            "type": "file",
+            "attributes": {
+              "name": "policy_matrix.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Compliance Update",
+              "modified_date": "2026-04-09",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_tosort_staff_01",
+            "type": "file",
+            "attributes": {
+              "name": "agenda_outline.docx",
+              "file_type": "docx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Staff Development Series",
+              "modified_date": "2026-05-07",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_staff_02",
+            "type": "file",
+            "attributes": {
+              "name": "attendance_log.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Staff Development Series",
+              "modified_date": "2026-05-12",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_tosort_art_01",
+            "type": "file",
+            "attributes": {
+              "name": "supply_request.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Art Therapy Outreach",
+              "modified_date": "2026-06-02",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_art_02",
+            "type": "file",
+            "attributes": {
+              "name": "volunteer_packet.docx",
+              "file_type": "docx",
+              "location": "/Shared/ToSort",
+              "owner": "Anna Strahan",
+              "labels": [],
+              "archived": false,
+              "project": "Art Therapy Outreach",
+              "modified_date": "2026-06-08",
+              "priority": "medium"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.8461538461538461,
+    "actual_signal_overlap_rules": [
+      "anna_strahan_commerce_01",
+      "anna_strahan_communication_01",
+      "anna_strahan_communication_04",
+      "anna_strahan_reservation_01",
+      "anna_strahan_reservation_02",
+      "anna_strahan_reservation_03",
+      "anna_strahan_scheduling_01",
+      "anna_strahan_scheduling_02",
+      "anna_strahan_travel_04",
+      "anna_strahan_travel_05",
+      "anna_strahan_workspace_05"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.8461538461538461,
+    "teachable_rule_count": 11,
+    "zero_signal_rule_count": 2,
+    "signal_pool_size_dedup": 24,
+    "noise_pool_size": 15,
+    "K": 26,
+    "seed": 0,
+    "selected_rules": [
+      "anna_strahan_commerce_01",
+      "anna_strahan_communication_01",
+      "anna_strahan_communication_04",
+      "anna_strahan_reservation_01",
+      "anna_strahan_reservation_02",
+      "anna_strahan_reservation_03",
+      "anna_strahan_scheduling_01",
+      "anna_strahan_scheduling_02",
+      "anna_strahan_travel_04",
+      "anna_strahan_travel_05",
+      "anna_strahan_workspace_05"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "anna_strahan_commerce_01",
+      "anna_strahan_commerce_03",
+      "anna_strahan_communication_01",
+      "anna_strahan_communication_04",
+      "anna_strahan_reservation_01",
+      "anna_strahan_reservation_02",
+      "anna_strahan_reservation_03",
+      "anna_strahan_scheduling_01",
+      "anna_strahan_scheduling_02",
+      "anna_strahan_travel_02",
+      "anna_strahan_travel_04",
+      "anna_strahan_travel_05",
+      "anna_strahan_workspace_05"
+    ],
+    "signal_count": 24,
+    "noise_count": 2,
+    "trajectory_length": 26
+  }
+}

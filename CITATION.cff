@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "ATRBench: Ask-to-Remember Benchmark"
+message: "If you use ATRBench, please cite the EMNLP 2026 paper."
+type: software
+authors:
+  - family-names: Wu
+    given-names: Bin
+  - family-names: Zou
+    given-names: Guanyun
+  - family-names: Wang
+    given-names: Bingbing
+  - family-names: Zhao
+    given-names: Huan
+  - family-names: Shi
+    given-names: Chuan
+version: 1.0.0
+date-released: 2026-08-28
+repository-code: "https://github.com/BUPT-GAMMA/ATRBench"
+url: "https://openreview.net/forum?id=73Li5tITzy"
+license: Apache-2.0

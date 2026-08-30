@@ -1,0 +1,5332 @@
+{
+  "episode_id": "roosevelt_brown_seed000",
+  "persona_id": "roosevelt_brown",
+  "raw_persona": {
+    "persona_id": "roosevelt_brown",
+    "nemotron_uuid": "90482f872eb642bc8f8c4fd7e3d65c4d",
+    "narrative": "name: Roosevelt Brown\nage: 32\nsex: Male\nmarital_status: married_present\neducation_level: bachelors (stem)\noccupation: medical_or_health_services_manager\nhobbies_and_interests: Abstract painting, Science-fiction reading, Improv comedy, Hosting dinner gatherings, Community health podcast, Experimental cooking, Yoga and mindfulness meditation, Playing keyboard in church choir, Volunteering at health fairs, DIY health-tech prototyping, Visiting art galleries and live-jazz shows, Board game nights with friends\nskills_and_expertise: Health services management, Strategic planning and execution, Data analysis and health informatics, Process improvement (Lean, Six Sigma), Regulatory compliance (HIPAA, CMS), Budgeting and financial oversight, Staff recruitment, training, and development, Patient experience design, Community outreach and partnership building, Public speaking and presentation, Conflict resolution and mediation, Creative problem solving, Cross‑functional team leadership, Project management\ncomplementary_info: Roosevelt Brown grew up in Brockton’s African-American community in a family shaped by grandparents who came north during the Great Migration, carrying storytelling traditions, gospel music, and a strong emphasis on education. He was raised in a historically Black Baptist church, where weekly fellowship, choir participation, and community service were central, and he still plays keyboard there. He regularly joins local Juneteenth celebrations, curates pop-up exhibitions supporting Black artists, and mentors youth through the Brockton Youth Health Initiative. His routines include weekly dinner gatherings for friends, family, and colleagues; co-hosting a community health podcast featuring local artists, clinicians, and activists; journaling for stress management; and tinkering with DIY health-tech prototypes in his garage. In Boston, he attends improv workshops at The Improv Asylum, plays casual Saturday morning volleyball at Boston Common, jogs with a Boston Marathon training group in the fall, and visits galleries and live-jazz venues. He draws painting inspiration from Jackson Pollock and Georgia O’Keeffe, reads Neal Stephenson and Octavia Butler, and follows the Celtics closely. He often takes spontaneous weekend trips to Cape Cod lobster shacks, Portland, Maine’s art scene, and New York’s MoMA, usually planned last-minute through Airbnb. In the kitchen, he is known for global riffs on New England seafood, such as miso-butter lobster ramen, harissa-glazed scallop tacos, and tarragon-infused chowder.",
+    "general_domain": "medical_or_health_services_manager",
+    "specific_domain": "stem"
+  },
+  "structured_persona": {
+    "name": "Roosevelt Brown",
+    "demographics": {
+      "age": 32,
+      "sex": "Male",
+      "marital_status": "married_present",
+      "education_level": "bachelors (stem)",
+      "occupation": "medical_or_health_services_manager",
+      "city": "Brockton",
+      "state": "MA",
+      "zipcode": "2301",
+      "country": "USA"
+    },
+    "persona_summary": "Roosevelt Brown is a 32-year-old health-service innovator whose imagination fuels abstract art, impromptu comedy, experimental seafood dishes, and a restless quest to blend healing with creativity, all while juggling anxiety-driven worry and a habit of misplacing spreadsheets.",
+    "professional_persona": "Roosevelt Brown, a 32-year-old medical and health services manager in Boston, blends data-driven analytics with design-thinking flair to overhaul clinic workflows, spearhead patient-experience redesigns, and lead multicultural staff meetings that feel more like improv sessions than formal briefings.",
+    "sports_persona": "Roosevelt Brown enjoys casual Saturday morning volleyball at the Boston Common, follows the Boston Celtics with fervor, jogs with the Boston Marathon training group in the fall, and treats yoga as a moving meditation that offsets their otherwise impulsive approach to fitness, often missing scheduled runs when a new art exhibit opens.",
+    "arts_persona": "Roosevelt Brown fuels their abstract painting practice with inspiration from Jackson Pollock's drips and Georgia O'Keeffe's color palettes, dives into improv comedy workshops at The Improv Asylum, devours speculative fiction by Neal Stephenson and Octavia Butler, and regularly soaks in live-jazz sets by Herbie Hancock at the Jazz Showcase, letting those experiences shape their weekly community health podcast's creative storytelling.",
+    "travel_persona": "Roosevelt Brown favors spontaneous weekend escapes to Cape Cod's lobster shacks, the quirky art scene of Portland, Maine, and occasional trips to New York's MoMA for a burst of inspiration, planning trips last-minute via Airbnb while juggling work duties, and dreams of a future health-design residency in Barcelona's vibrant creative districts.",
+    "culinary_persona": "Roosevelt Brown's experimental kitchen combines New England staples like lobster and clams with global twists - think miso-butter lobster ramen, harissa-glazed scallop tacos, and tarragon-infused chowder - showcasing a confident yet disorganized cooking style that thrives during weekly dinner parties for friends and colleagues.",
+    "cultural_background": "Roosevelt grew up in the vibrant African‑American community of Brockton, a city shaped by waves of migration from the American South during the mid‑20th century. His grandparents were part of the Great Migration, bringing storytelling traditions, gospel music, and a strong emphasis on education that have been woven into family life. He was raised attending a historically Black Baptist church, where weekly fellowship, choir singing, and community service were central. The multicultural tapestry of Brockton—infused with Caribbean, African, and New England influences—has given Roosevelt a broad perspective on cultural identity. He regularly participates in local Juneteenth celebrations, supports Black artists by curating pop‑up exhibitions, and mentors youth through the Brockton Youth Health Initiative. His cultural grounding informs his professional focus on health equity, ensuring that care delivery respects the historical experiences and specific needs of African‑American patients in the region.",
+    "skills_and_expertise": "Roosevelt Brown leverages a solid foundation in STEM and a bachelor’s degree in a technical field to excel as a medical and health services manager. His core expertise lies in overseeing multi‑disciplinary clinic operations, coordinating staff schedules, and ensuring compliance with healthcare regulations such as HIPAA and CMS standards. He is adept at using data analytics and health‑informatic tools to drive evidence‑based decisions, streamline workflows, and improve patient outcomes. Roosevelt’s imaginative mindset fuels his ability to apply design‑thinking principles to patient‑experience design, turning abstract concepts into tangible service improvements. His strong interpersonal style makes him an effective communicator, comfortable leading large group meetings, delivering public‑health presentations, and building community partnerships. He excels at conflict resolution, staff development, and fostering a collaborative culture, while his flexible, improvisational approach lets him navigate the unpredictable demands of a fast‑moving health‑care environment.",
+    "skills_and_expertise_list": [
+      "Health services management",
+      "Strategic planning and execution",
+      "Data analysis and health informatics",
+      "Process improvement (Lean, Six Sigma)",
+      "Regulatory compliance (HIPAA, CMS)",
+      "Budgeting and financial oversight",
+      "Staff recruitment, training, and development",
+      "Patient experience design",
+      "Community outreach and partnership building",
+      "Public speaking and presentation",
+      "Conflict resolution and mediation",
+      "Creative problem solving",
+      "Cross‑functional team leadership",
+      "Project management"
+    ],
+    "hobbies_and_interests": "Roosevelt spends his free time channeling his imagination into abstract painting, using color and form to explore the emotional landscape of healing. He is an avid reader of science‑fiction and speculative fiction, which fuels his interest in novel concepts and future technologies. He regularly attends improv comedy workshops, enjoying the spontaneity and interaction that feed his sociable nature. Hosting dinner gatherings for friends, family, and colleagues is a weekly ritual that lets him nurture relationships and showcase his experimental cooking, where he blends New England seafood with global flavors. He co‑hosts a community health podcast that interviews local artists, clinicians, and activists, marrying his curiosity for art with his professional expertise. To manage his stress, he practices yoga, mindfulness meditation, and journaling. He plays keyboard in his church’s choir, participates in volunteer health fairs, tinkers with DIY health‑tech prototypes in his garage, and explores Boston’s art galleries and live‑jazz venues. Board‑game nights and spontaneous weekend trips round out his eclectic mix of interests.",
+    "hobbies_and_interests_list": [
+      "Abstract painting",
+      "Science-fiction reading",
+      "Improv comedy",
+      "Hosting dinner gatherings",
+      "Community health podcast",
+      "Experimental cooking",
+      "Yoga and mindfulness meditation",
+      "Playing keyboard in church choir",
+      "Volunteering at health fairs",
+      "DIY health-tech prototyping",
+      "Visiting art galleries and live-jazz shows",
+      "Board game nights with friends"
+    ],
+    "career_goals_and_ambitions": "Roosevelt aims to ascend to senior executive leadership within a major health system, where he can blend his operational expertise with his passion for innovative, patient‑centered design. Over the next five years he plans to earn a Master of Health Administration or an MBA to deepen his strategic skill set, and to spearhead a system‑wide initiative that integrates art, music, and immersive environments into clinical spaces to improve healing outcomes—an ambition that reflects his love of novelty and abstract concepts. He also aspires to become a recognized thought leader in health‑service innovation, publishing articles, speaking at national conferences, and launching a community‑focused health‑equity incubator in Brockton that empowers underserved African‑American residents. Balancing his drive for professional advancement with his compassionate nature, Roosevelt wants to create mentorship programs that support staff well‑being and to institutionalize mental‑health resources for his team, acknowledging his own sensitivity to stress. Ultimately, he envisions leading a network of culturally responsive health facilities that demonstrate both operational excellence and creative, human‑focused care."
+  },
+  "rules": [
+    {
+      "rule_text": "When a purchased item for his creative or technical work is wrong or defective, he prefers exchanging it rather than taking a refund.",
+      "canonical_answer": "If something I ordered for a project is off, I usually want an exchange so I can keep moving on the work.",
+      "counterfactual_default": "A typical assistant would choose a refund as the simplest resolution.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "tinkers with DIY health-tech prototypes in his garage"
+        },
+        {
+          "type": "direct",
+          "content": "abstract painting"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "roosevelt_brown_commerce_02"
+    },
+    {
+      "rule_text": "For software or recurring services that support analytics, content creation, or collaboration, he tends to move up to the pro tier rather than stay on basic.",
+      "canonical_answer": "For tools I rely on for analytics or creative work, I prefer the pro plan over basic.",
+      "counterfactual_default": "A typical assistant would leave the subscription on the basic tier unless forced to upgrade.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "He is adept at using data analytics and health-informatic tools"
+        },
+        {
+          "type": "direct",
+          "content": "He co-hosts a community health podcast"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "change_subscription_plan",
+        "param": "new_plan"
+      },
+      "rule_id": "roosevelt_brown_commerce_03"
+    },
+    {
+      "rule_text": "For community-facing, podcast, or partnership outreach, he prefers having the message drafted first rather than sent immediately.",
+      "canonical_answer": "For outreach tied to the podcast or community partnerships, I like to review a draft before anything goes out.",
+      "counterfactual_default": "A typical assistant would send the composed message directly once it has the content.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "He co-hosts a community health podcast"
+        },
+        {
+          "type": "direct",
+          "content": "building community partnerships"
+        },
+        {
+          "type": "direct",
+          "content": "comfortable leading large group meetings, delivering public-health presentations"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "roosevelt_brown_communication_01"
+    },
+    {
+      "rule_text": "When booking a meal out for socializing, he prefers restaurants known for seafood or inventive fusion cooking over more standard options.",
+      "canonical_answer": "If I’m going out to eat with people, I’d rather book a seafood or creative fusion place than a generic restaurant.",
+      "counterfactual_default": "A typical assistant would optimize for convenience, ratings, or generic crowd-pleasing menus.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "experimental seafood dishes"
+        },
+        {
+          "type": "direct",
+          "content": "blends New England seafood with global flavors"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "roosevelt_brown_reservation_01"
+    },
+    {
+      "rule_text": "When choosing leisure events, he gravitates toward live-jazz, improv, and visual-art events rather than more conventional entertainment picks.",
+      "canonical_answer": "For nights out, I usually choose jazz, improv, or art events over more ordinary entertainment options.",
+      "counterfactual_default": "A typical assistant would favor the most mainstream or top-rated local event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "regularly soaks in live-jazz sets by Herbie Hancock at the Jazz Showcase"
+        },
+        {
+          "type": "direct",
+          "content": "dives into improv comedy workshops at The Improv Asylum"
+        },
+        {
+          "type": "direct",
+          "content": "explores Boston’s art galleries and live-jazz venues"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "roosevelt_brown_reservation_02"
+    },
+    {
+      "rule_text": "When booking a wellness-related appointment, he prefers yoga or mindfulness-oriented providers over high-intensity fitness services.",
+      "canonical_answer": "For wellness appointments, I lean toward yoga or mindfulness-focused providers instead of intense fitness options.",
+      "counterfactual_default": "A typical assistant would treat all fitness or wellness providers as interchangeable and pick by convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "treats yoga as a moving meditation"
+        },
+        {
+          "type": "direct",
+          "content": "To manage his stress, he practices yoga, mindfulness meditation, and journaling."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "roosevelt_brown_reservation_04"
+    },
+    {
+      "rule_text": "For personal wellness habits like yoga, meditation, or journaling, he prefers a private reminder rather than creating a formal calendar event.",
+      "canonical_answer": "For my personal wellness routines, I’d rather set a reminder than block off a formal event.",
+      "counterfactual_default": "A typical assistant would create a calendar event for a recurring self-care activity.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "To manage his stress, he practices yoga, mindfulness meditation, and journaling."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": null
+      },
+      "rule_id": "roosevelt_brown_scheduling_01"
+    },
+    {
+      "rule_text": "For his recurring personal rituals and community commitments, he prefers weekly reminders rather than one-off prompts.",
+      "canonical_answer": "For the things I do as regular rituals, weekly reminders work best for me.",
+      "counterfactual_default": "A typical assistant would set a one-time reminder unless explicitly asked to repeat it.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly dinner parties for friends and colleagues"
+        },
+        {
+          "type": "direct",
+          "content": "weekly fellowship"
+        },
+        {
+          "type": "direct",
+          "content": "weekly community health podcast"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": "cadence"
+      },
+      "rule_id": "roosevelt_brown_scheduling_02"
+    },
+    {
+      "rule_text": "When an optional invite conflicts with unsettled plans or a competing creative opportunity, he prefers responding tentatively rather than accepting outright.",
+      "canonical_answer": "If an invite is optional and my plans are still fluid, I usually answer tentative first.",
+      "counterfactual_default": "A typical assistant would accept the invite if there is no hard conflict yet.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often missing scheduled runs when a new art exhibit opens"
+        },
+        {
+          "type": "direct",
+          "content": "planning trips last-minute"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "roosevelt_brown_scheduling_03"
+    },
+    {
+      "rule_text": "For spontaneous weekend trips in the Northeast, he prefers booking ground transport rather than flights.",
+      "canonical_answer": "For quick regional getaways, I’d rather take ground transport than fly.",
+      "counterfactual_default": "A typical assistant would check flights first for intercity travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "favors spontaneous weekend escapes to Cape Cod's lobster shacks, the quirky art scene of Portland, Maine, and occasional trips to New York's MoMA"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "roosevelt_brown_travel_02"
+    },
+    {
+      "rule_text": "When booking lodging for personal trips, he prefers quirky stays in creative districts over generic business-style hotel options.",
+      "canonical_answer": "For personal travel, I prefer staying somewhere quirky and close to the creative scene.",
+      "counterfactual_default": "A typical assistant would choose a standard convenient hotel near transit or downtown.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "planning trips last-minute via Airbnb"
+        },
+        {
+          "type": "direct",
+          "content": "dreams of a future health-design residency in Barcelona's vibrant creative districts"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "roosevelt_brown_travel_03"
+    },
+    {
+      "rule_text": "When he does fly, he prefers a window seat rather than an aisle or middle seat.",
+      "canonical_answer": "If I’m on a flight, I like a window seat for the view and the headspace.",
+      "counterfactual_default": "A typical assistant would default to an aisle seat for convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "abstract painting"
+        },
+        {
+          "type": "direct",
+          "content": "using color and form to explore the emotional landscape of healing"
+        },
+        {
+          "type": "inferred",
+          "content": "His visual, reflective art practice makes the scenic and inward-facing window-seat experience a better fit than convenience-oriented seating."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "roosevelt_brown_travel_04"
+    },
+    {
+      "rule_text": "When a trip stop falls through, he prefers replacement stops that preserve the same art, design, or cultural theme instead of swapping in whatever is most convenient.",
+      "canonical_answer": "If a stop on my trip breaks, I want the replacement to keep the same creative or cultural vibe.",
+      "counterfactual_default": "A typical assistant would replace the disrupted stop with the simplest available alternative.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "the quirky art scene of Portland, Maine"
+        },
+        {
+          "type": "direct",
+          "content": "occasional trips to New York's MoMA for a burst of inspiration"
+        },
+        {
+          "type": "direct",
+          "content": "vibrant creative districts"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "roosevelt_brown_travel_05"
+    },
+    {
+      "rule_text": "For work files, he prefers organizing them by project rather than by type or date.",
+      "canonical_answer": "I keep work files organized by project first, not just by file type or date.",
+      "counterfactual_default": "A typical assistant would choose a broad scheme like by type or by date.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "spearhead patient-experience redesigns"
+        },
+        {
+          "type": "direct",
+          "content": "Cross-functional team leadership"
+        },
+        {
+          "type": "direct",
+          "content": "a habit of misplacing spreadsheets"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "roosevelt_brown_workspace_01"
+    },
+    {
+      "rule_text": "When he needs to create a reusable structure for recurring meetings, outreach, or planning workflows, he prefers starting from a template rather than a one-off document.",
+      "canonical_answer": "For anything I’ll repeat, I prefer making a template instead of a one-time document.",
+      "counterfactual_default": "A typical assistant would create a regular note or memo for the immediate task.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly community health podcast"
+        },
+        {
+          "type": "direct",
+          "content": "weekly dinner parties for friends and colleagues"
+        },
+        {
+          "type": "direct",
+          "content": "lead multicultural staff meetings"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "create_document",
+        "param": "doc_type"
+      },
+      "rule_id": "roosevelt_brown_workspace_06"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "roosevelt_brown_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox and reply.",
+      "task_params": {
+        "sender": "Maya Patel",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "Thanks for flagging the coverage gap",
+          "I can help with outreach for today's opening",
+          "Please contact per-diem pool first",
+          "If still uncovered by 7:15, call me and I'll step in",
+          "Keep me posted once someone confirms"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Maya Patel"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_staff_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_staff_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_staff_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Patel",
+              "subject": "Urgent staffing gap for front desk",
+              "body": "Good morning Roosevelt — Jamila called out sick, so we have an opening at the front desk for the first half of the day. Can you advise on coverage or help escalate? I need an answer before 7:30 AM.",
+              "thread_id": "thr_staff_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00-05:00"
+            }
+          },
+          {
+            "id": "msg_staff_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Patel",
+              "subject": "Draft next week's MA rotation",
+              "body": "Sharing the first pass at next week's medical assistant rotation. No action needed tonight unless you spot a major issue.",
+              "thread_id": "thr_staff_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-13T20:11:00-05:00"
+            }
+          },
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Cho",
+              "subject": "Waiting room signage proof",
+              "body": "The vendor sent the revised proof for the multilingual wayfinding signs. Review whenever you have a chance this week.",
+              "thread_id": "thr_ops_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T06:10:00-05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files",
+      "task_params": {
+        "location": "Desktop",
+        "file_type": "xlsx",
+        "scheme": "by_project",
+        "destination_folder_id": "fld_qi_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Desktop",
+            "file_type": "xlsx"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_qiwait_01",
+              "fil_discharge_02",
+              "fil_noshow_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_qiwait_01",
+              "fil_discharge_02",
+              "fil_noshow_03"
+            ],
+            "folder_id": "fld_qi_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_qiwait_01",
+            "type": "file",
+            "attributes": {
+              "name": "QI_wait_times_baseline.xlsx",
+              "file_type": "xlsx",
+              "location": "Desktop/QI dump",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_discharge_02",
+            "type": "file",
+            "attributes": {
+              "name": "Discharge_followup_PDSA_v2.xlsx",
+              "file_type": "xlsx",
+              "location": "Desktop/loose files",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_noshow_03",
+            "type": "file",
+            "attributes": {
+              "name": "No_show_outreach_tracker.xlsx",
+              "file_type": "xlsx",
+              "location": "Desktop",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_qi_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Quality Improvement",
+              "purpose": "active quality improvement working files"
+            }
+          },
+          {
+            "id": "fld_archive_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Archive",
+              "purpose": "inactive files and old materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small office item.",
+      "task_params": {
+        "category": "label maker",
+        "budget": 45,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_dymo_01",
+          "prod_brother_02",
+          "prod_niimbot_03"
+        ],
+        "product_id": "prod_brother_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "label maker",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_dymo_01",
+              "prod_brother_02",
+              "prod_niimbot_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_brother_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_dymo_01",
+            "type": "product",
+            "attributes": {
+              "name": "DYMO LetraTag Compact Label Maker",
+              "price": 29.99,
+              "category": "label maker",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_brother_02",
+            "type": "product",
+            "attributes": {
+              "name": "Brother P-touch Cube Plus Label Maker",
+              "price": 39.99,
+              "category": "label maker",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_niimbot_03",
+            "type": "product",
+            "attributes": {
+              "name": "NIIMBOT D11 Mini Label Maker",
+              "price": 27.5,
+              "category": "label maker",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_phomemo_04",
+            "type": "product",
+            "attributes": {
+              "name": "Phomemo D30 Portable Label Maker",
+              "price": 35.99,
+              "category": "label maker",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "communication",
+      "reason_for_call": "Draft an invitation note",
+      "task_params": {
+        "sender": "Maya Ortiz",
+        "folder": "inbox",
+        "language": "en",
+        "invite_points": [
+          "say I loved seeing the work at the gallery opening",
+          "invite her to join our community health podcast",
+          "mention the conversation would explore art and healing",
+          "keep the tone warm and low-pressure",
+          "ask if she would be open to chatting next week"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Ortiz",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "body": "<authored from invite_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Ortiz",
+              "subject": "Great meeting you at the opening",
+              "body": "Roosevelt, it was great talking with you at the opening last night. Thanks for spending time with the new series and for sharing your thoughts about art in community spaces.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-04T08:42:00"
+            }
+          },
+          {
+            "id": "msg_clinic_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Easton Community Clinic",
+              "subject": "Updated patient flow deck",
+              "body": "Sharing the revised slides before tomorrow's operations review.",
+              "thread_id": "thr_clinic_01",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-05-04T07:55:00"
+            }
+          },
+          {
+            "id": "msg_darius_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Darius Lee",
+              "subject": "Saturday dinner check-in",
+              "body": "Still good for dinner this weekend? I can bring dessert.",
+              "thread_id": "thr_darius_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-03T18:10:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a reservation.",
+      "task_params": {
+        "location": "South End",
+        "cuisine": "Italian",
+        "sort_by": "rating",
+        "date_time": "2025-02-14T19:30:00-05:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "South End",
+            "cuisine": "Italian",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_barmezzana_02",
+            "date_time": "2025-02-14T19:30:00-05:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_coppa_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Coppa",
+              "cuisine": "Italian",
+              "location": "South End",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "cozy bistro"
+            }
+          },
+          {
+            "id": "rst_barmezzana_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bar Mezzana",
+              "cuisine": "Italian",
+              "location": "South End",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "intimate dining room"
+            }
+          },
+          {
+            "id": "rst_krasi_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Krasi",
+              "cuisine": "Greek",
+              "location": "South End",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "warm shared plates"
+            }
+          },
+          {
+            "id": "rst_mistral_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mistral",
+              "cuisine": "French",
+              "location": "South End",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "romantic dining room"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document.",
+      "task_params": {
+        "location": "Clinic Strategy",
+        "doc_type": "note",
+        "title": "Health Equity Initiative Planning Sprint",
+        "content_brief": "Capture goals, stakeholder ideas, early workstreams, metrics, risks, and immediate next steps for the clinic's health-equity initiative."
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Clinic Strategy",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Health Equity Initiative Planning Sprint",
+            "location": "Clinic Strategy",
+            "content_brief": "Capture goals, stakeholder ideas, early workstreams, metrics, risks, and immediate next steps for the clinic's health-equity initiative."
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_strategy_01",
+            "type": "document",
+            "attributes": {
+              "title": "Patient Experience Redesign Brainstorm",
+              "doc_type": "note",
+              "location": "Clinic Strategy",
+              "content_brief": "Raw meeting notes on patient journey friction points and service redesign ideas."
+            }
+          },
+          {
+            "id": "doc_strategy_02",
+            "type": "document",
+            "attributes": {
+              "title": "Community Partnership Opportunities Q3",
+              "doc_type": "memo",
+              "location": "Clinic Strategy",
+              "content_brief": "Possible local partners, outreach channels, and engagement themes for clinic programs."
+            }
+          },
+          {
+            "id": "doc_strategy_03",
+            "type": "document",
+            "attributes": {
+              "title": "Access Metrics Baseline",
+              "doc_type": "report",
+              "location": "Clinic Strategy",
+              "content_brief": "Baseline utilization, no-show, and patient access metrics by service line."
+            }
+          },
+          {
+            "id": "doc_ops_01",
+            "type": "document",
+            "attributes": {
+              "title": "Staffing Grid July",
+              "doc_type": "spreadsheet",
+              "location": "Operations",
+              "content_brief": "Weekly staffing coverage and open shifts."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "scheduling",
+      "reason_for_call": "Set up a reminder.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Multicultural Staff Huddle",
+        "start_time": "2025-03-14T11:00:00-04:00",
+        "end_time": "2025-03-14T12:00:00-04:00",
+        "remind_at": "2025-03-14T09:15:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_huddle_01",
+            "remind_at": "2025-03-14T09:15:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_huddle_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Multicultural Staff Huddle",
+              "start_time": "2025-03-14T11:00:00-04:00",
+              "end_time": "2025-03-14T12:00:00-04:00",
+              "participants": [
+                "Amina Patel",
+                "Luis Romero",
+                "Keisha Grant",
+                "Roosevelt Brown"
+              ],
+              "location": "Conference Room B / Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_ops_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Operations Review",
+              "start_time": "2025-03-14T08:00:00-04:00",
+              "end_time": "2025-03-14T09:00:00-04:00",
+              "participants": [
+                "Roosevelt Brown",
+                "Dana Walsh"
+              ],
+              "location": "Admin Suite 2A",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_design_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Experience Design Sprint",
+              "start_time": "2025-03-14T13:30:00-04:00",
+              "end_time": "2025-03-14T14:30:00-04:00",
+              "participants": [
+                "Roosevelt Brown",
+                "Maya Chen",
+                "Trevor Ellis"
+              ],
+              "location": "Innovation Lab",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dentist_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dentist Appointment",
+              "start_time": "2025-03-14T16:30:00-04:00",
+              "end_time": "2025-03-14T17:15:00-04:00",
+              "participants": [],
+              "location": "Bright Smiles Dental",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "reservation",
+      "reason_for_call": "Book some tickets.",
+      "task_params": {
+        "location": "Boston",
+        "event_tags": [
+          "improv"
+        ],
+        "date_time": "2025-03-15T20:00:00-04:00",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Boston",
+            "event_tags": [
+              "improv"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_lateyes_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_lateyes_01",
+            "type": "event",
+            "attributes": {
+              "name": "Late Night Yes, And!",
+              "location": "Boston",
+              "date_time": "2025-03-15T20:00:00-04:00",
+              "price": 28.0,
+              "event_tags": [
+                "improv",
+                "comedy",
+                "live performance"
+              ]
+            }
+          },
+          {
+            "id": "evt_charlesjam_02",
+            "type": "event",
+            "attributes": {
+              "name": "Charles Street Improv Jam",
+              "location": "Boston",
+              "date_time": "2025-03-15T18:30:00-04:00",
+              "price": 18.0,
+              "event_tags": [
+                "improv",
+                "community",
+                "comedy"
+              ]
+            }
+          },
+          {
+            "id": "evt_sketchharbor_03",
+            "type": "event",
+            "attributes": {
+              "name": "Sketch Harbor Showcase",
+              "location": "Boston",
+              "date_time": "2025-03-15T21:00:00-04:00",
+              "price": 24.0,
+              "event_tags": [
+                "sketch",
+                "comedy",
+                "theater"
+              ]
+            }
+          },
+          {
+            "id": "evt_cambridgebits_04",
+            "type": "event",
+            "attributes": {
+              "name": "Bits & Beats Comedy Hour",
+              "location": "Cambridge",
+              "date_time": "2025-03-15T20:00:00-04:00",
+              "price": 22.0,
+              "event_tags": [
+                "standup",
+                "comedy",
+                "music"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "travel",
+      "reason_for_call": "Book a short trip",
+      "task_params": {
+        "origin": "Boston South Station",
+        "destination": "Portland, ME",
+        "passenger_count": 1,
+        "sort_by": "price_asc",
+        "departure_date": "2025-08-22",
+        "mode": "train"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Boston South Station",
+            "destination": "Portland, ME",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trans_downeaster_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trans_downeaster_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston South Station",
+              "destination": "Portland, ME",
+              "mode": "train",
+              "departure_date": "2025-08-22",
+              "price": 38.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "trans_concord_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston South Station",
+              "destination": "Portland, ME",
+              "mode": "bus",
+              "departure_date": "2025-08-22",
+              "price": 27.0,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "trans_downeaster_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston South Station",
+              "destination": "Portland, ME",
+              "mode": "train",
+              "departure_date": "2025-08-23",
+              "price": 41.0,
+              "available_seats": 15
+            }
+          },
+          {
+            "id": "trans_cascade_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston South Station",
+              "destination": "Portland, ME",
+              "mode": "car_transfer",
+              "departure_date": "2025-08-22",
+              "price": 129.0,
+              "available_seats": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Portland, ME",
+        "guest_count": 2,
+        "room_count": 1,
+        "check_in_date": "2025-09-19",
+        "check_out_date": "2025-09-21"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Portland, ME",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "relevance"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_artyard_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_artyard_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Artyard Loft House",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 219.0
+            }
+          },
+          {
+            "id": "hot_harborline_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Harborline Suites",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 5,
+              "max_guests_per_room": 4,
+              "price_per_night": 189.0
+            }
+          },
+          {
+            "id": "hot_presshotel_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Press Room Hotel",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-20",
+              "check_out_date": "2025-09-22",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 205.0
+            }
+          },
+          {
+            "id": "hot_cascolight_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Casco Light Inn",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 1,
+              "max_guests_per_room": 2,
+              "price_per_night": 172.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "scheduling",
+      "reason_for_call": "Block time on my calendar.",
+      "task_params": {
+        "title": "Meal Prep + Decompress",
+        "start_time": "2025-04-27T18:30:00-04:00",
+        "end_time": "2025-04-27T21:30:00-04:00",
+        "participants": [],
+        "location": "Home"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-04-27T18:30:00-04:00",
+            "end_time": "2025-04-27T21:30:00-04:00",
+            "participants": []
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Meal Prep + Decompress",
+            "start_time": "2025-04-27T18:30:00-04:00",
+            "end_time": "2025-04-27T21:30:00-04:00",
+            "participants": [],
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_choir_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Church Choir Rehearsal",
+              "start_time": "2025-04-27T14:00:00-04:00",
+              "end_time": "2025-04-27T15:30:00-04:00",
+              "participants": [
+                "choir@newhopebaptist.org"
+              ],
+              "location": "New Hope Baptist Church",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_family_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Call with Mom and Grandma",
+              "start_time": "2025-04-27T16:00:00-04:00",
+              "end_time": "2025-04-27T16:45:00-04:00",
+              "participants": [
+                "mom_brown@example.com",
+                "grandma_brown@example.com"
+              ],
+              "location": "Phone",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_walk_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Meal Prep + Decompress",
+              "start_time": "2025-04-27T18:30:00-04:00",
+              "end_time": "2025-04-27T21:30:00-04:00",
+              "participants": [],
+              "location": "Brockton",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_huddle_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Ops Prep Huddle",
+              "start_time": "2025-04-27T21:45:00-04:00",
+              "end_time": "2025-04-27T22:15:00-04:00",
+              "participants": [
+                "ops-team@harborclinic.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Brockton",
+        "date_time": "2025-02-25T18:30:00-05:00",
+        "provider_id": "svc_clipcraft_01"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Brockton",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_clipcraft_01",
+            "date_time": "2025-02-25T18:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_clipcraft_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "ClipCraft Barbershop",
+              "service_type": "haircut",
+              "location": "Brockton",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_unionfade_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Union Fade Studio",
+              "service_type": "haircut",
+              "location": "Brockton",
+              "rating": 4.6,
+              "distance_km": 1.4
+            }
+          },
+          {
+            "id": "svc_southstyle_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "South Style Salon",
+              "service_type": "haircut",
+              "location": "Brockton",
+              "rating": 4.4,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "svc_beacontrim_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Beacon Trim House",
+              "service_type": "haircut",
+              "location": "Brockton",
+              "rating": 4.7,
+              "distance_km": 2.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "communication",
+      "reason_for_call": "Reply to a work message",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for sharing ideas in yesterday's meeting",
+          "say the connection between art and healing spaces really resonated",
+          "mention interest in weaving patient and staff input into the concept",
+          "suggest a short follow-up chat next week to explore practical next steps",
+          "keep the tone warm, thoughtful, and professional"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_healing_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Re: Healing spaces brainstorming",
+              "body": "Thanks again for making space for the conversation yesterday. I kept thinking about how art could soften the clinical feel of waiting areas and maybe even support reflection for patients and staff. If helpful, I'm happy to share a few examples and keep brainstorming.",
+              "thread_id": "thr_healing_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-20T08:42:00"
+            }
+          },
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Ortiz",
+              "subject": "Updated staffing spreadsheet",
+              "body": "Attached is the revised staffing sheet for next month. Please review the Friday coverage gaps when you have a chance.",
+              "thread_id": "thr_staffing_07",
+              "folder": "inbox",
+              "labels": [
+                "operations"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-20T09:15:00"
+            }
+          },
+          {
+            "id": "msg_maya_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Quarterly community mural update",
+              "body": "Quick note that the community mural partners confirmed the install window for next month. I'll send a fuller update later this week.",
+              "thread_id": "thr_mural_03",
+              "folder": "archive",
+              "labels": [
+                "community"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-12T16:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "reservation",
+      "reason_for_call": "Book an outing.",
+      "task_params": {
+        "location": "Boston",
+        "event_tags": [
+          "jazz"
+        ],
+        "event_id": "evt_blue_note_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 3
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Boston",
+            "event_tags": [
+              "jazz"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_blue_note_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 3
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_blue_note_01",
+            "type": "event",
+            "attributes": {
+              "name": "Blue Note Rooftop Quartet",
+              "location": "Boston",
+              "date_time": "2025-03-28T19:30:00-04:00",
+              "price": 32.0,
+              "event_tags": [
+                "jazz",
+                "live music",
+                "rooftop"
+              ]
+            }
+          },
+          {
+            "id": "evt_harbor_swing_02",
+            "type": "event",
+            "attributes": {
+              "name": "Harbor Swing Collective",
+              "location": "Boston",
+              "date_time": "2025-03-29T20:00:00-04:00",
+              "price": 28.0,
+              "event_tags": [
+                "jazz",
+                "swing",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_southend_poetry_03",
+            "type": "event",
+            "attributes": {
+              "name": "South End Poetry Mic",
+              "location": "Boston",
+              "date_time": "2025-03-28T19:00:00-04:00",
+              "price": 15.0,
+              "event_tags": [
+                "poetry",
+                "spoken word"
+              ]
+            }
+          },
+          {
+            "id": "evt_brockton_film_04",
+            "type": "event",
+            "attributes": {
+              "name": "Indie Shorts Screening",
+              "location": "Brockton",
+              "date_time": "2025-03-28T18:30:00-04:00",
+              "price": 12.0,
+              "event_tags": [
+                "film",
+                "festival"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "communication",
+      "reason_for_call": "Send an invitation",
+      "task_params": {
+        "recipient": "friends-group@lists.local, nina.patel@harborclinic.org, devon.ross@harborclinic.org",
+        "subject": "Seafood dinner at my place this Saturday",
+        "language": "en",
+        "invite_points": [
+          "casual invite for a seafood dinner night at my place",
+          "this Saturday at 7 PM",
+          "friends plus Nina and Devon are included",
+          "I’m making lobster pasta and clams",
+          "bring a drink or dessert if they want",
+          "ask them to let me know by Thursday"
+        ]
+      },
+      "expected_tools": [
+        "draft_message",
+        "send_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "friends-group@lists.local, nina.patel@harborclinic.org, devon.ross@harborclinic.org",
+            "subject": "Seafood dinner at my place this Saturday",
+            "language": "en",
+            "body": "<authored from invite_points>"
+          }
+        },
+        {
+          "tool": "send_message",
+          "arguments": {
+            "recipient": "friends-group@lists.local, nina.patel@harborclinic.org, devon.ross@harborclinic.org",
+            "subject": "Seafood dinner at my place this Saturday",
+            "language": "en",
+            "body": "<authored from invite_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_social_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Board game night next week?",
+              "body": "A few of us are free Wednesday if you want to host again.",
+              "thread_id": "thr_social_01",
+              "folder": "inbox",
+              "labels": [
+                "Friends"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-24T18:42:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Patel",
+              "subject": "Patient experience huddle notes",
+              "body": "Sending the revised notes before tomorrow morning.",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [
+                "Work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-24T16:10:00"
+            }
+          },
+          {
+            "id": "msg_work_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Devon Ross",
+              "subject": "Quick follow-up on staffing grid",
+              "body": "I updated the spreadsheet and added weekend coverage options.",
+              "thread_id": "thr_work_03",
+              "folder": "inbox",
+              "labels": [
+                "Work"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-24T14:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "commerce",
+      "reason_for_call": "Order a couple home items",
+      "task_params": {
+        "platter_product_id": "prod_platter_01",
+        "bowls_product_id": "prod_bowls_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_platter_01",
+              "prod_bowls_02"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_platter_01",
+            "quantity": 1
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_bowls_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_platter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Stoneware Oval Serving Platter",
+              "price": 34.0,
+              "category": "serveware",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_bowls_02",
+            "type": "product",
+            "attributes": {
+              "name": "Small Appetizer Bowl Set, 4-Piece",
+              "price": 22.0,
+              "category": "serveware",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_board_03",
+            "type": "product",
+            "attributes": {
+              "name": "Acacia Wood Cheese Board",
+              "price": 28.0,
+              "category": "serveware",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_ramekins_04",
+            "type": "product",
+            "attributes": {
+              "name": "Mini Ramekin Set, 6-Pack",
+              "price": 18.0,
+              "category": "serveware",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "note",
+        "title": "Dinner Prep Sheet",
+        "location": "Personal/Hosting",
+        "prep_points": [
+          "menu section with appetizer, main, side, dessert, drinks",
+          "guest task section with names and assigned items",
+          "cooking timeline from early prep to serving",
+          "serving reminders for plates, utensils, and ice",
+          "cleanup section for leftovers and dishes"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Personal/Hosting",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Dinner Prep Sheet",
+            "location": "Personal/Hosting",
+            "content_brief": "<authored from prep_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_hosting_01",
+            "type": "document",
+            "attributes": {
+              "title": "Seafood Dinner Ideas",
+              "doc_type": "note",
+              "location": "Personal/Hosting",
+              "content_brief": "Brainstormed dishes and flavor combinations for a small dinner."
+            }
+          },
+          {
+            "id": "doc_hosting_02",
+            "type": "document",
+            "attributes": {
+              "title": "Guest List Scratchpad",
+              "doc_type": "note",
+              "location": "Personal/Hosting",
+              "content_brief": "Rough guest names and a few potluck ideas."
+            }
+          },
+          {
+            "id": "doc_work_01",
+            "type": "document",
+            "attributes": {
+              "title": "Clinic Workflow Memo",
+              "doc_type": "memo",
+              "location": "Work/Operations",
+              "content_brief": "Staffing and patient flow notes for the week."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "scheduling",
+      "reason_for_call": "Set up some reminders",
+      "task_params": {
+        "grocery_pickup_event_id": "evt_grocery_01",
+        "grocery_pickup_remind_at": "2025-03-15T09:30:00-04:00",
+        "marinating_event_id": "evt_dinner_01",
+        "marinating_remind_at": "2025-03-15T11:00:00-04:00",
+        "table_setup_event_id": "evt_dinner_01",
+        "table_setup_remind_at": "2025-03-15T16:30:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_grocery_01",
+            "remind_at": "2025-03-15T09:30:00-04:00",
+            "cadence": "once"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_dinner_01",
+            "remind_at": "2025-03-15T11:00:00-04:00",
+            "cadence": "once"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_dinner_01",
+            "remind_at": "2025-03-15T16:30:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_grocery_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Grocery pickup",
+              "start_time": "2025-03-15T10:30:00-04:00",
+              "end_time": "2025-03-15T11:00:00-04:00",
+              "participants": [],
+              "location": "Roche Bros. Westborough",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner at home with friends",
+              "start_time": "2025-03-15T19:00:00-04:00",
+              "end_time": "2025-03-15T22:00:00-04:00",
+              "participants": [
+                "Avery Brown",
+                "Nina Clark",
+                "Marcus Lee"
+              ],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning yoga",
+              "start_time": "2025-03-15T08:00:00-04:00",
+              "end_time": "2025-03-15T09:00:00-04:00",
+              "participants": [],
+              "location": "Brockton Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "communication",
+      "reason_for_call": "Triage invite replies",
+      "task_params": {
+        "folder": "inbox",
+        "invite_subject": "Friday dinner at my place",
+        "label_name": "Dietary Restrictions"
+      },
+      "expected_tools": [
+        "search_messages",
+        "list_labels",
+        "label_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "list_labels",
+          "arguments": {}
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_reply_01",
+              "msg_reply_03",
+              "msg_reply_04"
+            ],
+            "label_ids": [
+              "lbl_dietary_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_reply_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Patel",
+              "subject": "Re: Friday dinner at my place",
+              "body": "Count me in. Just a heads up, I have a shellfish allergy, so I need to avoid shrimp, lobster, and anything cooked with them.",
+              "thread_id": "thr_dinner_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T09:14:00"
+            }
+          },
+          {
+            "id": "msg_reply_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marcus Lee",
+              "subject": "Re: Friday dinner at my place",
+              "body": "Sounds great. I can bring sparkling water if that helps.",
+              "thread_id": "thr_dinner_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T10:02:00"
+            }
+          },
+          {
+            "id": "msg_reply_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Avery Johnson",
+              "subject": "Re: Friday dinner at my place",
+              "body": "I'll be there. I'm vegetarian, and I also can't eat anything with fish sauce or chicken broth.",
+              "thread_id": "thr_dinner_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T11:27:00"
+            }
+          },
+          {
+            "id": "msg_reply_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Brooks",
+              "subject": "Re: Friday dinner at my place",
+              "body": "Thanks for inviting me. I usually eat pretty much anything, but spicy stuff knocks me out, so I'd rather skip very hot dishes.",
+              "thread_id": "thr_dinner_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T12:41:00"
+            }
+          },
+          {
+            "id": "lbl_dietary_01",
+            "type": "label",
+            "attributes": {
+              "name": "Dietary Restrictions",
+              "topic": "food planning"
+            }
+          },
+          {
+            "id": "lbl_followup_02",
+            "type": "label",
+            "attributes": {
+              "name": "Follow Up",
+              "topic": "response tracking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "yoga",
+        "location": "Brockton",
+        "date_time": "2025-02-13T19:00:00-05:00",
+        "sort_by": "distance"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "yoga",
+            "location": "Brockton",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_stillpoint_01",
+            "date_time": "2025-02-13T19:00:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_stillpoint_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Stillpoint Yoga Brockton",
+              "service_type": "yoga",
+              "location": "Brockton",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_breathroom_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Breath Room Wellness",
+              "service_type": "yoga",
+              "location": "Brockton",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_harborflow_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Harbor Flow Studio",
+              "service_type": "yoga",
+              "location": "Quincy",
+              "rating": 4.9,
+              "distance_km": 18.7
+            }
+          },
+          {
+            "id": "svc_centeredpath_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Centered Path Pilates & Yoga",
+              "service_type": "yoga",
+              "location": "Brockton",
+              "rating": 4.5,
+              "distance_km": 4.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a work email",
+      "task_params": {
+        "sender": "linda.chen@harborpointhealth.org",
+        "folder": "inbox",
+        "language": "en",
+        "body_points": [
+          "thank her for supporting my professional growth",
+          "say I am exploring graduate school planning",
+          "ask what professional-development support may be available",
+          "mention tuition assistance or schedule flexibility as examples",
+          "ask if she would be open to a brief conversation next week",
+          "keep the tone respectful and appreciative"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "linda.chen@harborpointhealth.org",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_checkin_14",
+            "language": "en",
+            "body": "<authored from body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_supervisor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "linda.chen@harborpointhealth.org",
+              "subject": "Quarterly check-in follow-up",
+              "body": "Roosevelt, thanks again for the thoughtful conversation during our quarterly check-in. If there are development goals you want to discuss this spring, feel free to reply here and we can set aside time.",
+              "thread_id": "thr_checkin_14",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-30T09:18:00"
+            }
+          },
+          {
+            "id": "msg_supervisor_02",
+            "type": "message",
+            "attributes": {
+              "sender": "linda.chen@harborpointhealth.org",
+              "subject": "Updated staffing dashboard",
+              "body": "Sharing the latest staffing dashboard before tomorrow's leadership review.",
+              "thread_id": "thr_dashboard_08",
+              "folder": "archive",
+              "labels": [
+                "operations"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-04-12T16:42:00"
+            }
+          },
+          {
+            "id": "msg_coworker_01",
+            "type": "message",
+            "attributes": {
+              "sender": "mark.delgado@harborpointhealth.org",
+              "subject": "Patient experience workshop notes",
+              "body": "Attaching notes from the workshop. Let me know what should go into the redesign summary.",
+              "thread_id": "thr_workshop_22",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-05-01T11:06:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "workspace",
+      "reason_for_call": "Organize some documents",
+      "task_params": {
+        "location": "Downloads",
+        "name": "Career Growth",
+        "scheme": "by_project",
+        "target_keywords": [
+          "MHA vs MBA",
+          "grad school compare"
+        ]
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Downloads"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_mha_01",
+              "fil_grad_02"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_mha_01",
+              "fil_grad_02"
+            ],
+            "folder_id": "fld_career_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_mha_01",
+            "type": "file",
+            "attributes": {
+              "name": "MHA_vs_MBA_comparison_notes.txt",
+              "file_type": "txt",
+              "location": "Downloads",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_grad_02",
+            "type": "file",
+            "attributes": {
+              "name": "grad_school_compare_scratchpad.txt",
+              "file_type": "txt",
+              "location": "Downloads",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_resume_03",
+            "type": "file",
+            "attributes": {
+              "name": "resume_revision_2025.docx",
+              "file_type": "docx",
+              "location": "Career Growth",
+              "owner": "Roosevelt Brown",
+              "labels": [
+                "career"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_career_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Career Growth",
+              "purpose": "Store resumes, degree planning, and leadership development materials."
+            }
+          },
+          {
+            "id": "fld_admin_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Admin Archive",
+              "purpose": "Older operational and compliance files."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a focused block.",
+      "task_params": {
+        "title": "Graduate Program Research",
+        "start_time": "2025-03-18T19:30:00-04:00",
+        "end_time": "2025-03-18T21:00:00-04:00",
+        "location": "Home"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-18T19:30:00-04:00",
+            "end_time": "2025-03-18T21:00:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Graduate Program Research",
+            "start_time": "2025-03-18T19:30:00-04:00",
+            "end_time": "2025-03-18T21:00:00-04:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_pcp_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Primary Care Follow-up Call",
+              "start_time": "2025-03-18T17:45:00-04:00",
+              "end_time": "2025-03-18T18:15:00-04:00",
+              "participants": [
+                "clinic coordinator"
+              ],
+              "location": "Phone",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Maya and Chris",
+              "start_time": "2025-03-18T21:15:00-04:00",
+              "end_time": "2025-03-18T22:30:00-04:00",
+              "participants": [
+                "Maya Brown",
+                "Chris Daniels"
+              ],
+              "location": "Downtown Brockton",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_huddle_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic Ops Huddle",
+              "start_time": "2025-03-18T16:00:00-04:00",
+              "end_time": "2025-03-18T17:00:00-04:00",
+              "participants": [
+                "ops team"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Graduate Program Research",
+              "start_time": "2025-03-18T19:30:00-04:00",
+              "end_time": "2025-03-18T21:00:00-04:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "reservation",
+      "reason_for_call": "Book some tickets.",
+      "task_params": {
+        "location": "Boston",
+        "event_tags": [
+          "art",
+          "exhibit"
+        ],
+        "date_time": "2025-09-13T14:00:00",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Boston",
+            "event_tags": [
+              "art",
+              "exhibit"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_inklight_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_inklight_01",
+            "type": "event",
+            "attributes": {
+              "name": "Ink & Light: Contemporary Abstracts",
+              "location": "Boston",
+              "date_time": "2025-09-13T14:00:00",
+              "price": 24.0,
+              "event_tags": [
+                "art",
+                "exhibit",
+                "abstract"
+              ]
+            }
+          },
+          {
+            "id": "evt_harborphoto_02",
+            "type": "event",
+            "attributes": {
+              "name": "Harbor Frames Photography Showcase",
+              "location": "Boston",
+              "date_time": "2025-09-13T11:00:00",
+              "price": 18.0,
+              "event_tags": [
+                "photography",
+                "gallery",
+                "exhibit"
+              ]
+            }
+          },
+          {
+            "id": "evt_ceramicpulse_03",
+            "type": "event",
+            "attributes": {
+              "name": "Ceramic Pulse at SoWa",
+              "location": "Boston",
+              "date_time": "2025-09-14T15:30:00",
+              "price": 20.0,
+              "event_tags": [
+                "art",
+                "ceramics",
+                "market"
+              ]
+            }
+          },
+          {
+            "id": "evt_colorfield_04",
+            "type": "event",
+            "attributes": {
+              "name": "Color Field Weekend Installation",
+              "location": "Cambridge",
+              "date_time": "2025-09-13T14:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "art",
+                "installation",
+                "exhibit"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message.",
+      "task_params": {
+        "target_sender": "Monica Ellis",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "I can play keyboard at the next Sunday service",
+          "I plan to be there by 8:15 AM for warm-up",
+          "Thanks for checking in",
+          "Please send any updated song list or rehearsal notes"
+        ],
+        "tone_keywords": [
+          "dependable",
+          "warm",
+          "concise"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Monica Ellis",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_music_01",
+            "language": "en",
+            "body": "<authored from reply_points and tone_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_music_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Monica Ellis",
+              "subject": "Keyboard availability for next Sunday",
+              "body": "Hi Roosevelt, checking whether you’re available to play keyboard at next Sunday’s service. If so, I’ll add you to the lineup and send the song list. Thanks!",
+              "thread_id": "thr_music_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-08T14:22:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Alicia Grant",
+              "subject": "Clinic flow notes for review",
+              "body": "Can you look over the revised intake workflow before tomorrow afternoon?",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-08T11:05:00"
+            }
+          },
+          {
+            "id": "msg_family_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Darnell Brown",
+              "subject": "Game night photos",
+              "body": "Sending the pictures from Friday—some of these are hilarious.",
+              "thread_id": "thr_family_03",
+              "folder": "archive",
+              "labels": [
+                "family"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-06T20:48:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s41",
+      "session_type": "learning",
+      "day_offset": 41,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "origin": "Boston",
+        "destination": "New York",
+        "passenger_count": 2,
+        "departure_date": "2025-06-14",
+        "return_date": "2025-06-16"
+      },
+      "expected_tools": [
+        "search_flights",
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "Boston",
+            "destination": "New York",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Boston",
+            "destination": "New York",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trp_amtrak_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_jetblue_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "New York",
+              "departure_date": "2025-06-14",
+              "return_date": "2025-06-16",
+              "airline": "JetBlue",
+              "price": 289.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "New York",
+              "departure_date": "2025-06-14",
+              "return_date": "2025-06-15",
+              "airline": "Delta",
+              "price": 248.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trp_amtrak_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "New York",
+              "mode": "train",
+              "departure_date": "2025-06-14",
+              "price": 96.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "trp_amtrak_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "New York",
+              "mode": "train",
+              "departure_date": "2025-06-15",
+              "price": 88.0,
+              "available_seats": 10
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s42",
+      "session_type": "learning",
+      "day_offset": 42,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Manhattan",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "check_in_date": "2025-10-18",
+        "check_out_date": "2025-10-20"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Manhattan",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "htl_gallery_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_gallery_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Gallery Row Hotel",
+              "location": "Midtown Manhattan",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-20",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 245.0
+            }
+          },
+          {
+            "id": "htl_riverside_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Riverside Lantern Inn",
+              "location": "Upper West Side Manhattan",
+              "check_in_date": "2025-10-17",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 210.0
+            }
+          },
+          {
+            "id": "htl_brooklyn_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Bridgeview Suites",
+              "location": "Downtown Brooklyn",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-20",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 189.0
+            }
+          },
+          {
+            "id": "htl_nomad_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "NoMad House Hotel",
+              "location": "NoMad Manhattan",
+              "check_in_date": "2025-10-19",
+              "check_out_date": "2025-10-21",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 230.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s43",
+      "session_type": "learning",
+      "day_offset": 43,
+      "domain": "communication",
+      "reason_for_call": "Draft a message.",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "suggest recording an episode after I get back",
+          "use the trip as inspiration for the episode theme",
+          "focus on art, travel, and community health connections",
+          "ask if next week works for recording"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_17",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Episode ideas for later this month",
+              "body": "Hey Roosevelt — once you're back, we should sketch out the next episode. I think your museum trip could spark something fun for the show. Let me know when you want to record.",
+              "thread_id": "thr_maya_17",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T09:14:00"
+            }
+          },
+          {
+            "id": "msg_ops_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Clinic Operations",
+              "subject": "Revised staffing template",
+              "body": "Please review the updated staffing sheet before Friday.",
+              "thread_id": "thr_ops_08",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-12T08:02:00"
+            }
+          },
+          {
+            "id": "msg_jordan_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Ellis",
+              "subject": "Dinner this weekend?",
+              "body": "Want to host on Saturday, or should I take point this time?",
+              "thread_id": "thr_jordan_11",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T18:47:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s44",
+      "session_type": "learning",
+      "day_offset": 44,
+      "domain": "scheduling",
+      "reason_for_call": "Set a calendar reminder",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Weekend away",
+        "start_time": "2025-03-22T17:30:00-04:00",
+        "end_time": "2025-03-24T20:30:00-04:00",
+        "remind_at": "2025-03-21T19:00:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_weekendaway_01",
+            "remind_at": "2025-03-21T19:00:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_weekendaway_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Weekend away",
+              "start_time": "2025-03-22T17:30:00-04:00",
+              "end_time": "2025-03-24T20:30:00-04:00",
+              "participants": [],
+              "location": "Portland, Maine",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_volleyball_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Saturday volleyball",
+              "start_time": "2025-03-22T09:00:00-04:00",
+              "end_time": "2025-03-22T10:30:00-04:00",
+              "participants": [
+                "Marcus",
+                "Jen"
+              ],
+              "location": "Boston Common",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_staffsync_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Clinic staff sync",
+              "start_time": "2025-03-21T14:00:00-04:00",
+              "end_time": "2025-03-21T15:00:00-04:00",
+              "participants": [
+                "Operations Team"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_podcast_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community health podcast recording",
+              "start_time": "2025-03-20T18:30:00-04:00",
+              "end_time": "2025-03-20T19:30:00-04:00",
+              "participants": [
+                "Alicia"
+              ],
+              "location": "Home studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "roosevelt_brown_s46",
+      "session_type": "learning",
+      "day_offset": 46,
+      "domain": "communication",
+      "reason_for_call": "Triage messages and draft a note",
+      "task_params": {
+        "sender": "deals@harborhome.com",
+        "recipient": "maya.ellis@example.com, jonah.price@example.com, celeste.morris@example.com, devon.reed@example.com",
+        "subject": "Thanks for coming by tonight",
+        "language": "en",
+        "thank_you_points": [
+          "thank everyone for coming over for dinner",
+          "say the conversation made the night feel easy and fun",
+          "mention appreciation for the dessert someone brought",
+          "say he'd love to have everyone over again soon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "archive_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "deals@harborhome.com",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_harbor_01",
+              "msg_harbor_02"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "maya.ellis@example.com, jonah.price@example.com, celeste.morris@example.com, devon.reed@example.com",
+            "subject": "Thanks for coming by tonight",
+            "language": "en",
+            "body": "<authored from thank_you_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_harbor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "deals@harborhome.com",
+              "subject": "Final hours: kitchen storage sale",
+              "body": "Take 25% off pantry bins, racks, and organizers before midnight.",
+              "thread_id": "thr_harbor_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T18:42:00"
+            }
+          },
+          {
+            "id": "msg_harbor_02",
+            "type": "message",
+            "attributes": {
+              "sender": "deals@harborhome.com",
+              "subject": "Your weekly home picks",
+              "body": "Fresh markdowns on tableware, lighting, and dining accessories.",
+              "thread_id": "thr_harbor_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T16:11:00"
+            }
+          },
+          {
+            "id": "msg_clinic_01",
+            "type": "message",
+            "attributes": {
+              "sender": "operations@brooklineclinic.org",
+              "subject": "Updated staffing grid for Monday",
+              "body": "Please review the revised front-desk coverage before tomorrow morning.",
+              "thread_id": "thr_clinic_09",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-16T19:03:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please take care of the return for the bench microscope from my recent order. The focus knob is jammed and I can't use it.",
+      "gold_value": "exchange",
+      "session_id": "roosevelt_brown_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "roosevelt_brown_commerce_02",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_commerce_02",
+        "rule_text": "When a purchased item for his creative or technical work is wrong or defective, he prefers exchanging it rather than taking a refund.",
+        "canonical_answer": "If something I ordered for a project is off, I usually want an exchange so I can keep moving on the work."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_bench_microscope_01",
+            "type": "product",
+            "attributes": {
+              "name": "Bench Microscope for PCB Repair",
+              "price": 86.0,
+              "category": "electronics tools",
+              "rating": 4.2,
+              "order_id": "ord_5831_lab",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-16"
+            }
+          },
+          {
+            "id": "prod_glass_palette_01",
+            "type": "product",
+            "attributes": {
+              "name": "Tempered Glass Paint Palette",
+              "price": 18.5,
+              "category": "art supplies",
+              "rating": 4.8,
+              "order_id": "ord_5820_art",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-14"
+            }
+          },
+          {
+            "id": "prod_mug_warmer_01",
+            "type": "product",
+            "attributes": {
+              "name": "Ceramic Mug Warmer Plate",
+              "price": 24.0,
+              "category": "home office",
+              "rating": 4.7,
+              "order_id": "ord_5804_home",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-11"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please reset my PodLens Studio subscription to the default paid tier and keep the service active.",
+      "gold_value": "pro",
+      "session_id": "roosevelt_brown_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "roosevelt_brown_commerce_03",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_commerce_03",
+        "rule_text": "For software or recurring services that support analytics, content creation, or collaboration, he tends to move up to the pro tier rather than stay on basic.",
+        "canonical_answer": "For tools I rely on for analytics or creative work, I prefer the pro plan over basic."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_podlens_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "PodLens Studio",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 9.99,
+              "service_type": "podcast editing and listener analytics",
+              "billing_cycle": "monthly"
+            }
+          },
+          {
+            "id": "sub_familycart_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "FamilyCart Lists",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 5.99,
+              "service_type": "shared grocery lists",
+              "billing_cycle": "monthly"
+            }
+          },
+          {
+            "id": "sub_watchtower_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "WatchTower Plus",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 29.99,
+              "service_type": "home camera monitoring",
+              "billing_cycle": "monthly"
+            }
+          },
+          {
+            "id": "sub_meetgrid_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "MeetGrid",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 14.99,
+              "service_type": "team video meetings",
+              "billing_cycle": "monthly"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "change_subscription_plan",
+              "arguments": {
+                "new_plan": "pro"
+              },
+              "compare_args": [
+                "new_plan"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Morales at Eastside Community Kitchen about her note on coming onto the Community Health Hour podcast and possibly teaming up on a fall workshop series. Tell her we'd be glad to explore it, that 2026-09-03 at 2:00 PM works for a 20-minute prep call, and ask her to send a short bio plus any program links or talking points she'd like us to mention.",
+      "gold_value": null,
+      "session_id": "roosevelt_brown_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "roosevelt_brown_communication_01",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_communication_01",
+        "rule_text": "For community-facing, podcast, or partnership outreach, he prefers having the message drafted first rather than sent immediately.",
+        "canonical_answer": "For outreach tied to the podcast or community partnerships, I like to review a draft before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_podcast_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Morales <lena@eastsidekitchen.org>",
+              "subject": "Could Eastside Community Kitchen join Community Health Hour?",
+              "body": "Hi Roosevelt, I'm the outreach director at Eastside Community Kitchen. We're launching a fall hydration and meal-planning campaign and wondered whether you might be open to having us on Community Health Hour. If it sounds like a fit, I'd also love to talk about whether there are other ways we could partner on neighborhood workshops this season. Happy to share a short bio, program links, and suggested talking points.",
+              "thread_id": "thr_lena_podcast_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-27T10:14"
+            }
+          },
+          {
+            "id": "msg_malik_restock_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Malik Turner <malik.turner@clinicops.local>",
+              "subject": "Blood pressure cuff restock",
+              "body": "Can you confirm whether we should reorder the medium-size cuffs this week? We are down to three in the east exam rooms.",
+              "thread_id": "thr_malik_supply_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-27T09:02"
+            }
+          },
+          {
+            "id": "msg_hosting_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@soundharbor.fm",
+              "subject": "September podcast hosting invoice",
+              "body": "Your monthly hosting invoice is ready in the SoundHarbor billing portal.",
+              "thread_id": "thr_soundharbor_billing_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-08-27T07:41"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm meeting three friends for dinner in Boston on 2026-08-14 at 7:30pm; please pick a place and book it for 4 people.",
+      "gold_value": "rst_harbor_current_01",
+      "session_id": "roosevelt_brown_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "roosevelt_brown_reservation_01",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_reservation_01",
+        "rule_text": "When booking a meal out for socializing, he prefers restaurants known for seafood or inventive fusion cooking over more standard options.",
+        "canonical_answer": "If I’m going out to eat with people, I’d rather book a seafood or creative fusion place than a generic restaurant."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_harbor_current_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harbor Current Kitchen",
+              "cuisine": "Seafood fusion",
+              "location": "Seaport, Boston",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "shared plates dining room"
+            }
+          },
+          {
+            "id": "rst_north_end_hearth_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "North End Hearth",
+              "cuisine": "Italian",
+              "location": "North End, Boston",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "large dining room"
+            }
+          },
+          {
+            "id": "rst_back_bay_social_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Back Bay Social Grill",
+              "cuisine": "American",
+              "location": "Back Bay, Boston",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "lively bar dining"
+            }
+          },
+          {
+            "id": "rst_fenway_cantina_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Fenway Cantina",
+              "cuisine": "Mexican",
+              "location": "Fenway, Boston",
+              "rating": 4.7,
+              "price_range": "$",
+              "seating_style": "communal tables"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_harbor_current_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in Boston and want tickets for a night out for two people; keep it under $50 each, pick something and book it.",
+      "gold_value": "evt_boston_blueharbor_01",
+      "session_id": "roosevelt_brown_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "roosevelt_brown_reservation_02",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_reservation_02",
+        "rule_text": "When choosing leisure events, he gravitates toward live-jazz, improv, and visual-art events rather than more conventional entertainment picks.",
+        "canonical_answer": "For nights out, I usually choose jazz, improv, or art events over more ordinary entertainment options."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_boston_broadway_01",
+            "type": "event",
+            "attributes": {
+              "name": "Broadway in Boston: Golden Summer",
+              "location": "Theater District, Boston",
+              "date_time": "2026-09-18T19:30:00",
+              "price": 39,
+              "event_tags": [
+                "touring_musical",
+                "broadway",
+                "theater"
+              ]
+            }
+          },
+          {
+            "id": "evt_boston_wilbur_01",
+            "type": "event",
+            "attributes": {
+              "name": "Wilbur Headliner Stand-Up Night",
+              "location": "Boston",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 32,
+              "event_tags": [
+                "stand_up",
+                "comedy",
+                "headliner"
+              ]
+            }
+          },
+          {
+            "id": "evt_boston_pops_01",
+            "type": "event",
+            "attributes": {
+              "name": "Boston Pops: Movie Themes Spectacular",
+              "location": "Symphony Hall, Boston",
+              "date_time": "2026-09-18T19:00:00",
+              "price": 44,
+              "event_tags": [
+                "pops_concert",
+                "movie_themes",
+                "orchestra"
+              ]
+            }
+          },
+          {
+            "id": "evt_boston_blueharbor_01",
+            "type": "event",
+            "attributes": {
+              "name": "Blue Harbor Trio Late Set",
+              "location": "South End, Boston",
+              "date_time": "2026-09-18T20:30:00",
+              "price": 47,
+              "event_tags": [
+                "live_jazz",
+                "small_venue",
+                "trio"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_boston_blueharbor_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in downtown Seattle for 2026-07-14 at 6:30pm — just pick a provider and handle it.",
+      "gold_value": "svc_wellness_harborstill_01",
+      "session_id": "roosevelt_brown_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "roosevelt_brown_reservation_04",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_reservation_04",
+        "rule_text": "When booking a wellness-related appointment, he prefers yoga or mindfulness-oriented providers over high-intensity fitness services.",
+        "canonical_answer": "For wellness appointments, I lean toward yoga or mindfulness-focused providers instead of intense fitness options."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_wellness_harborstill_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Harbor Stillness Studio",
+              "service_type": "mindfulness wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 2.3
+            }
+          },
+          {
+            "id": "svc_wellness_pulsepoint_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "PulsePoint HIIT Wellness",
+              "service_type": "HIIT wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "svc_wellness_coreforge_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "CoreForge Bootcamp Wellness",
+              "service_type": "bootcamp wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_wellness_spinrush_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "SpinRush Wellness Cycle",
+              "service_type": "spin wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "distance_km": 0.6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_wellness_harborstill_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm trying to keep up with my Tuesday evening yoga at home on 2026-09-08 from 19:00 to 19:45. Add it for me.",
+      "gold_value": null,
+      "session_id": "roosevelt_brown_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "roosevelt_brown_scheduling_01",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_scheduling_01",
+        "rule_text": "For personal wellness habits like yoga, meditation, or journaling, he prefers a private reminder rather than creating a formal calendar event.",
+        "canonical_answer": "For my personal wellness routines, I’d rather set a reminder than block off a formal event."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_tuesday_yoga_01",
+            "type": "event",
+            "attributes": {
+              "title": "Tuesday evening yoga",
+              "start_time": "2026-09-08T19:00:00",
+              "end_time": "2026-09-08T19:45:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "planned"
+            }
+          },
+          {
+            "id": "evt_pilates_class_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pilates class",
+              "start_time": "2026-09-10T18:00:00",
+              "end_time": "2026-09-10T19:00:00",
+              "participants": [],
+              "location": "Northside Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dentist_cleaning_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dentist cleaning",
+              "start_time": "2026-09-08T15:30:00",
+              "end_time": "2026-09-08T16:15:00",
+              "participants": [],
+              "location": "Lakeview Dental",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please set a reminder for my 7pm fellowship gathering at Oak Street Chapel on 2026-09-14 — I don't want it to slip my mind.",
+      "gold_value": "weekly",
+      "session_id": "roosevelt_brown_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "roosevelt_brown_scheduling_02",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_scheduling_02",
+        "rule_text": "For his recurring personal rituals and community commitments, he prefers weekly reminders rather than one-off prompts.",
+        "canonical_answer": "For the things I do as regular rituals, weekly reminders work best for me."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_oak_fellowship_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Evening Fellowship Circle",
+              "start_time": "2026-09-14T19:00:00",
+              "end_time": "2026-09-14T20:30:00",
+              "participants": [
+                "roosevelt.brown@example.com",
+                "pastor.james@oakstreetchapel.org",
+                "smallgroup@oakstreetchapel.org"
+              ],
+              "location": "Oak Street Chapel",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dental_cleaning_20260915",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dental Cleaning",
+              "start_time": "2026-09-15T10:00:00",
+              "end_time": "2026-09-15T11:00:00",
+              "participants": [
+                "roosevelt.brown@example.com",
+                "frontdesk@riversidedental.com"
+              ],
+              "location": "Riverside Dental",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_housing_board_meeting_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Southside Housing Board Meeting",
+              "start_time": "2026-09-14T17:00:00",
+              "end_time": "2026-09-14T18:00:00",
+              "participants": [
+                "roosevelt.brown@example.com",
+                "secretary@southsidehousing.org"
+              ],
+              "location": "Civic Center Room 204",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {
+                "cadence": "weekly"
+              },
+              "compare_args": [
+                "cadence"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Riverside Business Association mixer at Harbor House. Check what else I've got around that time and send back a fitting reply so they’re not waiting on me.",
+      "gold_value": "tentative",
+      "session_id": "roosevelt_brown_scheduling_03_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "roosevelt_brown_scheduling_03",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_scheduling_03",
+        "rule_text": "When an optional invite conflicts with unsettled plans or a competing creative opportunity, he prefers responding tentatively rather than accepting outright.",
+        "canonical_answer": "If an invite is optional and my plans are still fluid, I usually answer tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_rba_autumn_mixer_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Riverside Business Association Autumn Mixer",
+              "start_time": "2026-09-12T18:30:00-04:00",
+              "end_time": "2026-09-12T20:30:00-04:00",
+              "participants": [
+                "events@riversideba.org",
+                "roosevelt.brown@example.com"
+              ],
+              "location": "Harbor House",
+              "calendar": "invites",
+              "status": "confirmed",
+              "organizer": "Riverside Business Association",
+              "attendee_count": 180,
+              "rsvp_deadline": "2026-09-10T17:00:00-04:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_gallery_crawl_east_wharf_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "East Wharf gallery crawl",
+              "start_time": "2026-09-12T18:00:00-04:00",
+              "end_time": "2026-09-12T21:00:00-04:00",
+              "participants": [],
+              "location": "East Wharf Arts District",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "manual_hold"
+            }
+          },
+          {
+            "id": "evt_morning_run_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning run along the river",
+              "start_time": "2026-09-12T08:00:00-04:00",
+              "end_time": "2026-09-12T09:00:00-04:00",
+              "participants": [],
+              "location": "Riverside Trail",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I want to head to Portland, ME from New York, NY for a quick weekend away. One traveler, outbound on 2026-09-18 only — please look at the available options and book the travel.",
+      "gold_value": null,
+      "session_id": "roosevelt_brown_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "roosevelt_brown_travel_02",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_travel_02",
+        "rule_text": "For spontaneous weekend trips in the Northeast, he prefers booking ground transport rather than flights.",
+        "canonical_answer": "For quick regional getaways, I’d rather take ground transport than fly."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_nyc_pwm_20260918_b6_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New York, NY",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "JetBlue",
+              "price": 109,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_nyc_pwm_20260918_dl_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New York, NY",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "Delta Air Lines",
+              "price": 121,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "flt_nyc_pwm_20260918_aa_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "New York, NY",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "American Airlines",
+              "price": 134,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "trp_nyc_pwm_20260918_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "New York, NY",
+              "destination": "Portland, ME",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 168,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "trp_nyc_pwm_20260918_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "New York, NY",
+              "destination": "Portland, ME",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 186,
+              "available_seats": 9
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm taking a personal long weekend in Barcelona with one friend. Please book 1 room for 2 adults, keep it under $240 per night, and just pick one of the available options for us.",
+      "gold_value": "htl_barcelona_verdi_courtyard_01",
+      "session_id": "roosevelt_brown_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "roosevelt_brown_travel_03",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_travel_03",
+        "rule_text": "When booking lodging for personal trips, he prefers quirky stays in creative districts over generic business-style hotel options.",
+        "canonical_answer": "For personal travel, I prefer staying somewhere quirky and close to the creative scene."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_barcelona_verdi_courtyard_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Verdi Courtyard Rooms",
+              "location": "Gràcia, Barcelona",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 232,
+              "rating": 4.4,
+              "review_count": 287,
+              "property_style": "converted townhouse",
+              "neighborhood_profile": "independent galleries, print studios, small music venues",
+              "room_style": "individually decorated rooms",
+              "distance_to_metro_min": 11
+            }
+          },
+          {
+            "id": "htl_barcelona_plaza_central_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Plaza Central Hotel",
+              "location": "Plaça Catalunya, Barcelona",
+              "available_rooms": 8,
+              "max_guests_per_room": 2,
+              "price_per_night": 198,
+              "rating": 4.9,
+              "review_count": 3410,
+              "property_style": "full-service hotel",
+              "neighborhood_profile": "downtown shopping and transit hub",
+              "distance_to_metro_min": 2,
+              "business_amenities": [
+                "meeting rooms",
+                "24-hour desk"
+              ]
+            }
+          },
+          {
+            "id": "htl_barcelona_sants_connect_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Sants Connect Hotel",
+              "location": "Sants, Barcelona",
+              "available_rooms": 10,
+              "max_guests_per_room": 2,
+              "price_per_night": 176,
+              "rating": 4.8,
+              "review_count": 2104,
+              "property_style": "business hotel",
+              "neighborhood_profile": "station district",
+              "distance_to_metro_min": 1,
+              "business_amenities": [
+                "express check-in",
+                "conference floor"
+              ]
+            }
+          },
+          {
+            "id": "htl_barcelona_poblenou_hub_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Poblenou Hub Suites",
+              "location": "Poblenou, Barcelona",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 214,
+              "rating": 4.7,
+              "review_count": 918,
+              "property_style": "serviced aparthotel",
+              "neighborhood_profile": "converted warehouses, design studios, startup offices",
+              "room_style": "uniform studio layouts",
+              "distance_to_metro_min": 4
+            }
+          },
+          {
+            "id": "htl_barcelona_port_lantern_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Port Lantern House",
+              "location": "Barceloneta, Barcelona",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 208,
+              "rating": 4.6,
+              "review_count": 642,
+              "property_style": "themed guesthouse",
+              "neighborhood_profile": "beachfront restaurant strip and tourist promenade",
+              "room_style": "nautical-themed rooms",
+              "distance_to_metro_min": 7
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_barcelona_verdi_courtyard_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Portland to San Diego for just me from the available options. I’m only bringing a small backpack and want the trip to be easy, so use the usual traveler details and payment method on file and go ahead once you find the best match.",
+      "gold_value": "window",
+      "session_id": "roosevelt_brown_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "roosevelt_brown_travel_04",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_travel_04",
+        "rule_text": "When he does fly, he prefers a window seat rather than an aisle or middle seat.",
+        "canonical_answer": "If I’m on a flight, I like a window seat for the view and the headspace."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_pdx_sandiego_sunwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "SunWest",
+              "price": 129.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_pdx_sandiego_harborjet_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "HarborJet",
+              "price": 156.0,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "flt_pdx_sandiego_bluecanyon_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "Blue Canyon Air",
+              "price": 184.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_pdx_phoenix_sunwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Phoenix",
+              "departure_date": "2026-08-14",
+              "airline": "SunWest",
+              "price": 118.0,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "flt_sea_sandiego_coastline_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "Coastline Air",
+              "price": 137.0,
+              "available_seats": 5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One planned stop in Portland, Maine is no longer available. Please swap in one replacement for a daytime visit that should take about 60–90 minutes and keep the route easy without a big detour.",
+      "gold_value": [
+        "stop_maine_craft_exchange_01"
+      ],
+      "session_id": "roosevelt_brown_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "roosevelt_brown_travel_05",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_travel_05",
+        "rule_text": "When a trip stop falls through, he prefers replacement stops that preserve the same art, design, or cultural theme instead of swapping in whatever is most convenient.",
+        "canonical_answer": "If a stop on my trip breaks, I want the replacement to keep the same creative or cultural vibe."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_press_lane_warehouse_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Press Lane Warehouse",
+              "stop_type": "studio_collective",
+              "location": "Portland, Maine",
+              "tags": [
+                "gallery",
+                "makers",
+                "indoor",
+                "daytime"
+              ],
+              "trip_id": "T-7742",
+              "status": "canceled",
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 0
+            }
+          },
+          {
+            "id": "stop_maine_craft_exchange_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Maine Craft Exchange",
+              "stop_type": "craft_market",
+              "location": "Portland, Maine",
+              "tags": [
+                "craft",
+                "makers",
+                "indoor",
+                "daytime"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.4,
+              "review_count": 118,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 9
+            }
+          },
+          {
+            "id": "stop_harbor_contemporary_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Harbor Contemporary Museum",
+              "stop_type": "museum",
+              "location": "East Bayside, Portland, Maine",
+              "tags": [
+                "museum",
+                "indoor",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.8,
+              "review_count": 1642,
+              "visit_duration_hours": 2.0,
+              "detour_minutes_from_current_route": 26
+            }
+          },
+          {
+            "id": "stop_union_station_food_hall_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Union Station Food Hall",
+              "stop_type": "food_hall",
+              "location": "Downtown Portland, Maine",
+              "tags": [
+                "food",
+                "indoor",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.8,
+              "review_count": 2410,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 4
+            }
+          },
+          {
+            "id": "stop_old_port_harbor_walk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Old Port Harbor Walk",
+              "stop_type": "waterfront_walk",
+              "location": "Old Port, Portland, Maine",
+              "tags": [
+                "waterfront",
+                "scenic",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.9,
+              "review_count": 3204,
+              "visit_duration_hours": 0.75,
+              "detour_minutes_from_current_route": 3
+            }
+          },
+          {
+            "id": "stop_casco_bay_viewpoint_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Casco Bay Viewpoint",
+              "stop_type": "viewpoint",
+              "location": "Portland, Maine",
+              "tags": [
+                "scenic",
+                "waterfront",
+                "daytime"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.7,
+              "review_count": 1875,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 2
+            }
+          },
+          {
+            "id": "stop_east_end_brew_hall_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "East End Brew Hall",
+              "stop_type": "brewery_taproom",
+              "location": "Portland, Maine",
+              "tags": [
+                "drinks",
+                "indoor",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-7742",
+              "status": "available",
+              "rating": 4.9,
+              "review_count": 2108,
+              "visit_duration_hours": 1.25,
+              "detour_minutes_from_current_route": 1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_maine_craft_exchange_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy up everything in /Work/Shared/Incoming — it's a jumble of PDFs, spreadsheets, and docs, and I just need the files organized so I can find things again.",
+      "gold_value": "by_project",
+      "session_id": "roosevelt_brown_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "roosevelt_brown_workspace_01",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_workspace_01",
+        "rule_text": "For work files, he prefers organizing them by project rather than by type or date.",
+        "canonical_answer": "I keep work files organized by project first, not just by file type or date."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_incoming_px_01",
+            "type": "file",
+            "attributes": {
+              "name": "survey_notes.docx",
+              "file_type": "docx",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Discharge Experience Refresh",
+              "modified_date": "2026-03-11",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_incoming_px_02",
+            "type": "file",
+            "attributes": {
+              "name": "vendor_costs.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Clinic Check-In Pilot",
+              "modified_date": "2026-03-14",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_incoming_px_03",
+            "type": "file",
+            "attributes": {
+              "name": "message_map.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Nurse Callback Redesign",
+              "modified_date": "2026-03-18",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_incoming_px_04",
+            "type": "file",
+            "attributes": {
+              "name": "staffing_outline.docx",
+              "file_type": "docx",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Wayfinding Signage Update",
+              "modified_date": "2026-03-22",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_incoming_px_05",
+            "type": "file",
+            "attributes": {
+              "name": "response_tracker.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Billing FAQ Cleanup",
+              "modified_date": "2026-03-27",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_incoming_px_06",
+            "type": "file",
+            "attributes": {
+              "name": "feedback_summary.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Shared/Incoming",
+              "owner": "Roosevelt Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Care Team Handoff Review",
+              "modified_date": "2026-04-01",
+              "priority": "medium"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please write up something short for the River Street clinic outreach team and save it in /Community/Operations. It should help with the Friday partner calls by covering attendance, updates from each clinic, upcoming neighborhood events, and who owns each follow-up item. Title it \"River Street Partner Call Notes\".",
+      "gold_value": "template",
+      "session_id": "roosevelt_brown_workspace_06_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "roosevelt_brown_workspace_06",
+      "rule_ref": {
+        "rule_id": "roosevelt_brown_workspace_06",
+        "rule_text": "When he needs to create a reusable structure for recurring meetings, outreach, or planning workflows, he prefers starting from a template rather than a one-off document.",
+        "canonical_answer": "For anything I’ll repeat, I prefer making a template instead of a one-time document."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_river_street_partner_followup_01",
+            "type": "document",
+            "attributes": {
+              "title": "River Street Partner Call Follow-Up",
+              "doc_type": "memo",
+              "location": "/Community/Operations",
+              "content_brief": "Summary sent after a recent Friday clinic partner call, including outreach updates and owner assignments."
+            }
+          },
+          {
+            "id": "doc_river_street_tabling_notes_01",
+            "type": "document",
+            "attributes": {
+              "title": "River Street Tabling Debrief",
+              "doc_type": "note",
+              "location": "/Community/Operations",
+              "content_brief": "Quick notes on turnout, resident questions, and flyer counts from a neighborhood outreach table."
+            }
+          },
+          {
+            "id": "doc_staff_huddle_reminders_01",
+            "type": "document",
+            "attributes": {
+              "title": "Staff Huddle Reminders",
+              "doc_type": "memo",
+              "location": "/Community/Operations",
+              "content_brief": "One-page talking points for a regular team huddle covering attendance, announcements, and follow-ups."
+            }
+          },
+          {
+            "id": "doc_weekly_outreach_agenda_tpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Weekly Outreach Meeting Agenda",
+              "doc_type": "template",
+              "location": "/Community/Templates",
+              "content_brief": "Blank structure used for recurring outreach meetings with attendance, updates, event planning, and action items."
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_document",
+              "arguments": {
+                "doc_type": "template"
+              },
+              "compare_args": [
+                "doc_type"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.6666666666666666,
+    "actual_signal_overlap_rules": [
+      "roosevelt_brown_communication_01",
+      "roosevelt_brown_reservation_01",
+      "roosevelt_brown_reservation_02",
+      "roosevelt_brown_reservation_04",
+      "roosevelt_brown_scheduling_01",
+      "roosevelt_brown_scheduling_02",
+      "roosevelt_brown_travel_02",
+      "roosevelt_brown_travel_03",
+      "roosevelt_brown_workspace_01",
+      "roosevelt_brown_workspace_06"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.6666666666666666,
+    "teachable_rule_count": 10,
+    "zero_signal_rule_count": 5,
+    "signal_pool_size_dedup": 25,
+    "noise_pool_size": 22,
+    "K": 30,
+    "seed": 0,
+    "selected_rules": [
+      "roosevelt_brown_communication_01",
+      "roosevelt_brown_reservation_01",
+      "roosevelt_brown_reservation_02",
+      "roosevelt_brown_reservation_04",
+      "roosevelt_brown_scheduling_01",
+      "roosevelt_brown_scheduling_02",
+      "roosevelt_brown_travel_02",
+      "roosevelt_brown_travel_03",
+      "roosevelt_brown_workspace_01",
+      "roosevelt_brown_workspace_06"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "roosevelt_brown_commerce_02",
+      "roosevelt_brown_commerce_03",
+      "roosevelt_brown_communication_01",
+      "roosevelt_brown_reservation_01",
+      "roosevelt_brown_reservation_02",
+      "roosevelt_brown_reservation_04",
+      "roosevelt_brown_scheduling_01",
+      "roosevelt_brown_scheduling_02",
+      "roosevelt_brown_scheduling_03",
+      "roosevelt_brown_travel_02",
+      "roosevelt_brown_travel_03",
+      "roosevelt_brown_travel_04",
+      "roosevelt_brown_travel_05",
+      "roosevelt_brown_workspace_01",
+      "roosevelt_brown_workspace_06"
+    ],
+    "signal_count": 25,
+    "noise_count": 5,
+    "trajectory_length": 30
+  }
+}

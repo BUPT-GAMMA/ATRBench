@@ -1,0 +1,38 @@
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environments and credentials
+.venv/
+.env
+.env.*
+!.env.example
+lib/api_keys_local.py
+
+# Generated benchmark runs
+outputs/
+outputs_*/
+outputs.*/
+logs/
+build/
+dist/
+*.egg-info/
+*.log
+
+# Local tools and editors
+.claude/
+.codex/
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Temporary files
+tmp/
+*.tmp
+*.bak

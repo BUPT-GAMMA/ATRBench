@@ -1,0 +1,4494 @@
+{
+  "episode_id": "cecilia_lisette_garciaperez_seed000",
+  "persona_id": "cecilia_lisette_garciaperez",
+  "raw_persona": {
+    "persona_id": "cecilia_lisette_garciaperez",
+    "nemotron_uuid": "e6d66f9ff248489299a0e08f04e67051",
+    "narrative": "name: Cecilia Lisette Garciaperez\nage: 58\nsex: Female\nmarital_status: divorced\neducation_level: bachelors (arts humanities)\noccupation: editor\nhobbies_and_interests: reading Mexican and Latin American literature, cooking traditional Mexican dishes, herb and succulent gardening, participating in small literary salons, volunteering as a literacy mentor, hiking in Hill Country, black‑and‑white photography\nskills_and_expertise: copyediting, proofreading, bilingual content editing (Spanish/English), content strategy development, digital publishing platforms (WordPress, Adobe InCopy), project management (Trello, Asana), research and fact‑checking, cultural sensitivity in storytelling, team coordination and mentorship, deadline and workflow optimization, negotiation and conflict resolution, emerging publishing technology adoption\ncomplementary_info: Cecilia Lisette Garciaperez grew up in a bilingual Mexican-American household in San Antonio, speaking Spanish at home and English at school, and remains deeply shaped by Tejano culture, Catholic feast observances, Día de los Muertos, quinceañeras, and other family rituals. As a first-generation college graduate, she sees education and storytelling as ways to preserve cultural memory, and she often acts as a bridge between older and younger community members through local cultural festivals and heritage-focused initiatives. She is known to over-edit drafts late at night, plan careful weekend getaways to places like Enchanted Rock, and spend weekends hiking with the Hill Country Hiking Club, often pausing for a quiet moment of gratitude after a trek. Her home life includes collecting vintage cookbooks, tending herbs, succulents, and heirloom tomatoes, and cooking mole, pozole, and tamales with ingredients like chipotle, ancho chiles, fresh cilantro, and produce from her garden. She hosts intimate dinners and sometimes lingers over a glass of red wine. Her artistic world includes neighborhood literary salons, black-and-white photography centered on light and shadow, inspiration from Ansel Adams, admiration for Octavio Paz, and collecting limited-edition Frida Kahlo prints. She also follows the San Antonio Spurs and San Antonio FC. Long term, she hopes to move into senior editorial leadership or create a boutique imprint centered on Mexican-American voices, build mentorship pathways for emerging Latino editors and writers, experiment with multimedia formats like podcasts and interactive e-books, and eventually write a reflective memoir. She also dreams of visiting Oaxaca’s markets and Seville’s Alcázar, though budget considerations often keep travel modest.",
+    "general_domain": "editor",
+    "specific_domain": "arts_humanities"
+  },
+  "structured_persona": {
+    "name": "Cecilia Lisette Garciaperez",
+    "demographics": {
+      "age": 58,
+      "sex": "Female",
+      "marital_status": "divorced",
+      "education_level": "bachelors (arts humanities)",
+      "occupation": "editor",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipcode": "78250",
+      "country": "USA"
+    },
+    "persona_summary": "Cecilia Garciaperez, at 58, blends a lifelong devotion to preserving regional stories with a habit of over‑editing drafts at night, a love for solitary hikes, and a tendency to hoard vintage cookbooks that never make it to the kitchen, yet they always save a spot on the bookshelf for a new find.",
+    "professional_persona": "Cecilia Garciaperez, now 58, a veteran editorial strategist with three decades of bilingual copyediting and content‑strategy expertise, channels their practical curiosity and meticulous organization into leading cross‑cultural publishing projects while mentoring junior staff with a compassionate yet assertive style.",
+    "sports_persona": "Cecilia Garciaperez, at 58, an avid hiker who spends weekends traversing the Hill Country trails with the local Hill Country Hiking Club and follows the San Antonio Spurs and San Antonio FC with quiet devotion, prefers low‑impact fitness that blends social camaraderie with solitary reflection, and they often end each trek with a moment of quiet gratitude.",
+    "arts_persona": "Cecilia Garciaperez, now 58, a dedicated participant in neighborhood literary salons and an avid black‑and‑white photographer, draws inspiration from Ansel Adams, finds resonance in the poetry of Octavio Paz, and collects limited‑edition prints by Frida Kahlo, letting these artistic touchstones shape their evenings of contemplation.",
+    "travel_persona": "Cecilia Garciaperez, at 58, who meticulously plans weekend getaways to Hill Country gems like Enchanted Rock and dreams of strolling through Oaxaca's vibrant markets and Seville's historic Alcázar, favors relaxed itineraries that balance cultural immersion with the comfort of home‑cooked meals, yet their modest retirement budget sometimes curtails longer trips.",
+    "culinary_persona": "Cecilia Garciaperez, now 58, an experienced home chef who perfects traditional mole, pozole, and tamales using locally sourced chipotle, ancho chilies, and fresh cilantro while occasionally improvising with heirloom tomatoes from their garden, delights in hosting intimate dinner gatherings despite a habit of lingering over a glass of red wine.",
+    "cultural_background": "Cecilia Lisette Garciaperez grew up in a bilingual Mexican‑American household in San Antonio, where Spanish was spoken at home and English at school. Her family maintains deep ties to Mexican traditions such as Día de los Muertos, quinceañeras, and the observance of Catholic feasts, which have shaped her appreciation for ritual, storytelling, and community solidarity. The vibrant Tejano culture of San Antonio—characterized by its music, food, and interwoven histories—has informed her identity, granting her a nuanced perspective on the convergence of Mexican heritage and American life. As a first‑generation college graduate with a bachelor’s degree in arts and humanities, she values education as a means of preserving cultural narratives. Her experiences as a divorced woman navigating independence have reinforced a pragmatic yet compassionate worldview. Throughout her life, Cecilia has been actively involved in local cultural festivals, supporting initiatives that highlight Mexican‑American art, literature, and history, and she often serves as a bridge between older generations and younger community members seeking to understand their roots.",
+    "skills_and_expertise": "Cecilia Lisette Garciaperez has spent over three decades honing a comprehensive set of editorial and communication abilities. She excels in copyediting and proofreading, ensuring both grammatical precision and cultural nuance in bilingual content. Her expertise includes content strategy development for print and digital platforms, with a practical orientation toward workflow optimization using tools like Adobe InCopy, WordPress, and collaborative project management software such as Trello and Asana. She is fluent in Spanish and English, which allows her to manage translations and maintain authenticity of Mexican-American narratives. Her academic background in humanities underpins strong research and fact‑checking skills, as well as an ability to contextualize texts within broader cultural and historical frameworks. She is adept at managing editorial calendars, coordinating small teams, and mentoring junior staff, balancing assertiveness with compassion. Her curiosity drives continuous learning about emerging publishing technologies, while her organized nature ensures deadlines are met without sacrificing quality. She also possesses strong negotiation abilities, stakeholder communication, and conflict resolution for editorial disputes.",
+    "skills_and_expertise_list": [
+      "copyediting",
+      "proofreading",
+      "bilingual content editing (Spanish/English)",
+      "content strategy development",
+      "digital publishing platforms (WordPress, Adobe InCopy)",
+      "project management (Trello, Asana)",
+      "research and fact‑checking",
+      "cultural sensitivity in storytelling",
+      "team coordination and mentorship",
+      "deadline and workflow optimization",
+      "negotiation and conflict resolution",
+      "emerging publishing technology adoption"
+    ],
+    "hobbies_and_interests": "Cecilia’s interests reflect a blend of solitary contemplation and intimate community engagement. An avid reader, she devotes hours each week to exploring Mexican and Latin American literature, classic poetry, and contemporary nonfiction that resonates with her heritage. She enjoys cooking traditional dishes—especially mole, pozole, and tamales—experimenting with family recipes while incorporating locally sourced ingredients from the Texas Hill Country. Gardening offers her a quiet retreat; she cultivates a modest herb garden and a collection of native succulents, finding solace in their steady growth. In her spare time, Cecilia participates in small literary salons at neighborhood cafés, where she shares insights and offers constructive feedback to fellow writers. She also volunteers as a mentor for a local literacy program, guiding adult learners in reading and writing. Hiking the trails of the nearby Hill Country provides a physical outlet, and she often captures the landscape through black‑and‑white photography, focusing on the interplay of light and shadow.",
+    "hobbies_and_interests_list": [
+      "reading Mexican and Latin American literature",
+      "cooking traditional Mexican dishes",
+      "herb and succulent gardening",
+      "participating in small literary salons",
+      "volunteering as a literacy mentor",
+      "hiking in Hill Country",
+      "black‑and‑white photography"
+    ],
+    "career_goals_and_ambitions": "Cecilia’s career ambition is to transition from her current editorial role into a senior leadership position where she can shape the narrative landscape of Texas‑Mexican culture. She aims to become an Editorial Director at a regional publishing house or to establish a boutique imprint dedicated to preserving and amplifying Mexican-American voices. In this capacity, she plans to curate a series of anthologies that blend contemporary essays with traditional folklore, fostering intergenerational dialogue. Mentorship is a core component of her vision; she intends to create a structured program for emerging Latino editors and writers, offering practical guidance while respecting their creative autonomy. Recognizing the rapid shift toward digital consumption, Cecilia also seeks to integrate innovative multimedia storytelling tools—such as interactive e‑books and podcasts—while maintaining rigorous editorial standards. Ultimately, she hopes to author a reflective memoir that weaves her personal journey with broader cultural themes, contributing both to her own legacy and to the community’s collective memory."
+  },
+  "rules": [
+    {
+      "rule_text": "For product purchases, she prefers items that support cooking, books, gardening, or cultural preservation over generic household buys.",
+      "canonical_answer": "When I order something, I usually want it to connect to cooking, books, gardening, or preserving culture.",
+      "counterfactual_default": "Choose a generic practical product that loosely fits the request.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "a tendency to hoard vintage cookbooks that never make it to the kitchen, yet they always save a spot on the bookshelf for a new find"
+        },
+        {
+          "type": "direct",
+          "content": "cooking traditional Mexican dishes"
+        },
+        {
+          "type": "direct",
+          "content": "herb and succulent gardening"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_commerce_01"
+    },
+    {
+      "rule_text": "When returning an order, she prefers an exchange over a refund if the item supports one of her core hobbies or cultural interests.",
+      "canonical_answer": "If something I bought for one of my core interests is wrong, I usually want a replacement instead of giving up on it.",
+      "counterfactual_default": "Request a refund to close the return quickly.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "they always save a spot on the bookshelf for a new find"
+        },
+        {
+          "type": "direct",
+          "content": "collects limited‑edition prints by Frida Kahlo"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_commerce_02"
+    },
+    {
+      "rule_text": "When she does change a subscription tier, she prefers the basic plan to keep recurring costs modest.",
+      "canonical_answer": "If I need to switch plans, I prefer the basic tier unless there is a compelling reason not to.",
+      "counterfactual_default": "Keep the current tier or upgrade to a more feature-rich plan.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "their modest retirement budget sometimes curtails longer trips"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "change_subscription_plan",
+        "param": "new_plan"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_commerce_04"
+    },
+    {
+      "rule_text": "For messages tied to editorial, mentoring, or culturally sensitive topics, she prefers a draft to review rather than having them sent immediately.",
+      "canonical_answer": "I always want editorial or culturally sensitive messages drafted first so I can revise them before they go out.",
+      "counterfactual_default": "Send the composed message directly once the requested content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "blends a lifelong devotion to preserving regional stories with a habit of over‑editing drafts at night"
+        },
+        {
+          "type": "direct",
+          "content": "three decades of bilingual copyediting and content‑strategy expertise"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "cecilia_lisette_garciaperez_communication_01"
+    },
+    {
+      "rule_text": "For restaurant reservations, she prefers intimate places suited to conversation over louder, more impersonal venues.",
+      "canonical_answer": "When I dine out, I prefer small, conversation-friendly places over loud scene-driven restaurants.",
+      "counterfactual_default": "Choose the most popular or highest-profile restaurant available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "delights in hosting intimate dinner gatherings"
+        },
+        {
+          "type": "direct",
+          "content": "participates in small literary salons at neighborhood cafés"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_reservation_01"
+    },
+    {
+      "rule_text": "When she needs a local service appointment, she prefers providers connected to books, arts, gardening, or community-oriented work over purely trend-driven options.",
+      "canonical_answer": "If I book a local service, I gravitate toward providers tied to books, arts, gardening, or community life.",
+      "counterfactual_default": "Pick whichever provider is most convenient or broadly rated highest.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "participates in neighborhood literary salons"
+        },
+        {
+          "type": "direct",
+          "content": "Gardening offers her a quiet retreat"
+        },
+        {
+          "type": "direct",
+          "content": "actively involved in local cultural festivals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_reservation_03"
+    },
+    {
+      "rule_text": "When a calendar invite conflicts with unresolved work or personal bandwidth, she prefers responding tentatively rather than accepting or declining too quickly.",
+      "canonical_answer": "If I am not fully sure about an invitation, I respond as tentative first.",
+      "counterfactual_default": "Accept or decline the invitation right away.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing assertiveness with compassion"
+        },
+        {
+          "type": "direct",
+          "content": "favors relaxed itineraries"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_scheduling_01"
+    },
+    {
+      "rule_text": "For literary salons, mentoring sessions, and culturally rooted gatherings, she prefers creating full calendar events instead of only setting private reminders.",
+      "canonical_answer": "For real gatherings with other people, I want an actual calendar event, not just a private reminder.",
+      "counterfactual_default": "Set a simple reminder for herself instead of creating a shared event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "participates in small literary salons at neighborhood cafés"
+        },
+        {
+          "type": "direct",
+          "content": "volunteers as a mentor for a local literacy program"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "cecilia_lisette_garciaperez_scheduling_02"
+    },
+    {
+      "rule_text": "When travel planning includes optional stops, she prefers culturally meaningful places such as markets, historic sites, and literary landmarks over generic tourist fillers.",
+      "canonical_answer": "For trips, I like stops with real cultural texture, not just generic tourist attractions.",
+      "counterfactual_default": "Choose broadly popular or highest-rated stops regardless of cultural relevance.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "dreams of strolling through Oaxaca's vibrant markets and Seville's historic Alcázar"
+        },
+        {
+          "type": "direct",
+          "content": "favors relaxed itineraries that balance cultural immersion with the comfort of home‑cooked meals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_travel_01"
+    },
+    {
+      "rule_text": "For weekend getaways, she prefers ground transportation over flights when a reasonable option exists.",
+      "canonical_answer": "For short trips, I prefer to go by train, bus, or car transfer instead of flying.",
+      "counterfactual_default": "Check flight options first for intercity travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "meticulously plans weekend getaways to Hill Country gems like Enchanted Rock"
+        },
+        {
+          "type": "direct",
+          "content": "prefers low‑impact fitness"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "cecilia_lisette_garciaperez_travel_03"
+    },
+    {
+      "rule_text": "When choosing a hotel, she prefers quieter, smaller-scale lodging options that support a relaxed itinerary over large generic stays.",
+      "canonical_answer": "I pick lodging that feels calm and unhurried rather than big generic hotel options.",
+      "counterfactual_default": "Choose the most standard or prominent hotel offer in the area.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "favors relaxed itineraries that balance cultural immersion with the comfort of home‑cooked meals"
+        },
+        {
+          "type": "direct",
+          "content": "Cecilia’s interests reflect a blend of solitary contemplation and intimate community engagement"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_travel_04"
+    },
+    {
+      "rule_text": "When organizing files, she prefers classifying them by project rather than by generic type or date.",
+      "canonical_answer": "I organize working files by project first, not just by format or date.",
+      "counterfactual_default": "Sort files by type or date because that is the easiest broad scheme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "leading cross‑cultural publishing projects"
+        },
+        {
+          "type": "direct",
+          "content": "project management (Trello, Asana)"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "cecilia_lisette_garciaperez_workspace_01"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "cecilia_lisette_garciaperez_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and draft a reply.",
+      "task_params": {
+        "sender": "Mariana Rojas",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "thank her for the updated interview transcript",
+          "say I reviewed the bilingual notes this morning",
+          "confirm the revised copy will be ready by 4 PM today",
+          "ask her to send any final caption corrections before noon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Mariana Rojas",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_mariana_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_mariana_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_mariana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Mariana Rojas",
+              "subject": "Transcript update / actualización de entrevista",
+              "body": "Hi Cecilia, te mando la versión corregida del transcript y las notas bilingües. Can you confirm whether the revised copy can still go out today? También tengo un par de captions pendientes.",
+              "thread_id": "thr_mariana_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00-06:00"
+            }
+          },
+          {
+            "id": "msg_vendor_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Riverbend Printing",
+              "subject": "Invoice attached",
+              "body": "Please find the February invoice attached for review.",
+              "thread_id": "thr_vendor_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00-06:00"
+            }
+          },
+          {
+            "id": "msg_lucia_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Lucia Chen",
+              "subject": "Quick follow-up / seguimiento breve",
+              "body": "Buenos días, just checking whether the event blurb still needs a line edit. Si no, lo cierro de mi lado.",
+              "thread_id": "thr_lucia_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T05:55:00-06:00"
+            }
+          },
+          {
+            "id": "msg_digest_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Publishing Daily",
+              "subject": "Morning industry digest",
+              "body": "Top publishing headlines and trend notes for today.",
+              "thread_id": "thr_digest_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T05:10:00-06:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "scheduling",
+      "reason_for_call": "Organize some calendar time.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Quiet Editing Block",
+        "start_time": "2025-03-12T13:30:00-05:00",
+        "end_time": "2025-03-12T15:30:00-05:00",
+        "location": "Home office"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-12T13:30:00-05:00",
+            "end_time": "2025-03-12T15:30:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Quiet Editing Block",
+            "start_time": "2025-03-12T13:30:00-05:00",
+            "end_time": "2025-03-12T15:30:00-05:00",
+            "location": "Home office"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Editorial Standup",
+              "start_time": "2025-03-10T09:00:00-05:00",
+              "end_time": "2025-03-10T09:30:00-05:00",
+              "participants": [
+                "marina@press.org",
+                "jlee@press.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Manuscript Review Meeting",
+              "start_time": "2025-03-11T11:00:00-05:00",
+              "end_time": "2025-03-11T12:00:00-05:00",
+              "participants": [
+                "ana@press.org",
+                "tom@press.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Translator Check-in",
+              "start_time": "2025-03-12T10:00:00-05:00",
+              "end_time": "2025-03-12T10:45:00-05:00",
+              "participants": [
+                "lucia@press.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quiet Editing Block",
+              "start_time": "2025-03-12T13:30:00-05:00",
+              "end_time": "2025-03-12T15:30:00-05:00",
+              "participants": [],
+              "location": "Home office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Sort some manuscript files",
+      "task_params": {
+        "location": "LateNightEdits",
+        "file_type": "docx",
+        "file_ids": [
+          "file_msintro_01",
+          "file_ch3_02",
+          "file_notes_03"
+        ],
+        "scheme": "by_project",
+        "folder_id": "fld_borderlands_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "LateNightEdits",
+            "file_type": "docx"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_msintro_01",
+              "file_ch3_02",
+              "file_notes_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_msintro_01",
+              "file_ch3_02",
+              "file_notes_03"
+            ],
+            "folder_id": "fld_borderlands_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_msintro_01",
+            "type": "file",
+            "attributes": {
+              "name": "BorderlandsMemoir_Intro_rework.docx",
+              "file_type": "docx",
+              "location": "Desktop/LateNightEdits",
+              "owner": "Cecilia Garciaperez",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_ch3_02",
+            "type": "file",
+            "attributes": {
+              "name": "BorderlandsMemoir_Chapter3_lineedits.docx",
+              "file_type": "docx",
+              "location": "Desktop/LateNightEdits",
+              "owner": "Cecilia Garciaperez",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_notes_03",
+            "type": "file",
+            "attributes": {
+              "name": "BorderlandsMemoir_scene_notes.docx",
+              "file_type": "docx",
+              "location": "Desktop/LateNightEdits",
+              "owner": "Cecilia Garciaperez",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_borderlands_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Borderlands Memoir Draft",
+              "purpose": "Primary working folder for current manuscript"
+            }
+          },
+          {
+            "id": "fld_archive_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Old Editorial Archives",
+              "purpose": "Archived past project materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a home item",
+      "task_params": {
+        "category": "desk lamp",
+        "budget": 70,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "desk lamp",
+            "budget": 70,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_luma_01",
+              "prod_haloglow_02",
+              "prod_verde_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_luma_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_luma_01",
+            "type": "product",
+            "attributes": {
+              "name": "LumaSoft LED Desk Lamp",
+              "price": 64.99,
+              "category": "desk lamp",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_haloglow_02",
+            "type": "product",
+            "attributes": {
+              "name": "HaloGlow Adjustable Desk Lamp",
+              "price": 58.5,
+              "category": "desk lamp",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_verde_03",
+            "type": "product",
+            "attributes": {
+              "name": "Verde Clamp Desk Lamp",
+              "price": 42.0,
+              "category": "desk lamp",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_nightowl_04",
+            "type": "product",
+            "attributes": {
+              "name": "NightOwl Floor Reading Light",
+              "price": 79.99,
+              "category": "floor lamp",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "communication",
+      "reason_for_call": "Draft a follow-up note.",
+      "task_params": {
+        "sender": "Maya Torres",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for the thoughtful mentoring conversation",
+          "say her reporting instincts are strong",
+          "mention the lead is promising but still too broad",
+          "ask for a sharper nut graf near the top",
+          "suggest trimming repeated background in the middle sections",
+          "recommend adding two concrete community voices",
+          "encourage her not to lose her original angle",
+          "invite her to send a revised draft by Friday afternoon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Torres",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Torres",
+              "subject": "Thank you for today's mentoring chat",
+              "body": "Hi Cecilia, thank you again for taking the time to walk through my feature draft with me today. I left with a lot to think about, especially around focus and structure. If you have a moment later, I'd really appreciate any quick written guidance on what to tackle first in revision.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-05T15:42:00"
+            }
+          },
+          {
+            "id": "msg_jon_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jon Feldman",
+              "subject": "Budget copy edits needed",
+              "body": "Can you review the revised budget language before noon tomorrow?",
+              "thread_id": "thr_jon_01",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-05-05T10:18:00"
+            }
+          },
+          {
+            "id": "msg_lucia_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lucia Benitez",
+              "subject": "Re: Festival program captions",
+              "body": "Thanks, the bilingual captions look great now.",
+              "thread_id": "thr_lucia_01",
+              "folder": "archive",
+              "labels": [
+                "completed"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-05-03T09:11:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "reservation",
+      "reason_for_call": "Book a table.",
+      "task_params": {
+        "location": "Monte Vista",
+        "cuisine": "Cafe",
+        "sort_by": "price_asc",
+        "date_time": "2025-03-22T15:30:00-05:00",
+        "party_size": 6
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Monte Vista",
+            "cuisine": "Cafe",
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_inkwell_02",
+            "date_time": "2025-03-22T15:30:00-05:00",
+            "party_size": 6
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_larkspur_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Larkspur Café",
+              "cuisine": "Cafe",
+              "location": "Monte Vista",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "small dining room"
+            }
+          },
+          {
+            "id": "rst_inkwell_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Inkwell Coffee House",
+              "cuisine": "Cafe",
+              "location": "Monte Vista",
+              "rating": 4.3,
+              "price_range": "$",
+              "seating_style": "cozy tables"
+            }
+          },
+          {
+            "id": "rst_jasmine_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Jasmine Street Bistro",
+              "cuisine": "American",
+              "location": "Monte Vista",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "full-service dining room"
+            }
+          },
+          {
+            "id": "rst_quieta_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa Quieta Café",
+              "cuisine": "Cafe",
+              "location": "Monte Vista",
+              "rating": 4.1,
+              "price_range": "$$",
+              "seating_style": "patio and indoor tables"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting.",
+      "task_params": {
+        "title": "Contributor Check-In",
+        "start_time": "2025-03-11T14:00:00-05:00",
+        "end_time": "2025-03-11T14:30:00-05:00",
+        "participants": [
+          "marco.rivera@mesquitepress.org",
+          "ana.solis@mesquitepress.org",
+          "jules.nguyen@mesquitepress.org"
+        ],
+        "location": "Zoom"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-11T14:00:00-05:00",
+            "end_time": "2025-03-11T14:30:00-05:00",
+            "participants": [
+              "marco.rivera@mesquitepress.org",
+              "ana.solis@mesquitepress.org",
+              "jules.nguyen@mesquitepress.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Contributor Check-In",
+            "start_time": "2025-03-11T14:00:00-05:00",
+            "end_time": "2025-03-11T14:30:00-05:00",
+            "participants": [
+              "marco.rivera@mesquitepress.org",
+              "ana.solis@mesquitepress.org",
+              "jules.nguyen@mesquitepress.org"
+            ],
+            "location": "Zoom"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Proof Pass with Design",
+              "start_time": "2025-03-11T09:30:00-05:00",
+              "end_time": "2025-03-11T10:15:00-05:00",
+              "participants": [
+                "marco.rivera@mesquitepress.org",
+                "design@mesquitepress.org"
+              ],
+              "location": "Editorial Conference Room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Review",
+              "start_time": "2025-03-11T12:00:00-05:00",
+              "end_time": "2025-03-11T13:00:00-05:00",
+              "participants": [
+                "finance@mesquitepress.org",
+                "ana.solis@mesquitepress.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Contributor Check-In",
+              "start_time": "2025-03-11T14:00:00-05:00",
+              "end_time": "2025-03-11T14:30:00-05:00",
+              "participants": [
+                "jules.nguyen@mesquitepress.org",
+                "events@mesquitepress.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dentist Cleaning",
+              "start_time": "2025-03-11T16:30:00-05:00",
+              "end_time": "2025-03-11T17:30:00-05:00",
+              "participants": [],
+              "location": "Alamo Dental",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "stationery",
+        "budget": 35,
+        "sort_by": "rating",
+        "notebook_id": "prod_cahier_01",
+        "pens_id": "prod_sakura_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "stationery",
+            "budget": 35,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_cahier_01",
+              "prod_sakura_02"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_cahier_01",
+            "quantity": 1
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_sakura_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_cahier_01",
+            "type": "product",
+            "attributes": {
+              "name": "Moleskine Cahier Journal Large Ruled 3-Pack",
+              "price": 14.99,
+              "category": "stationery",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_sakura_02",
+            "type": "product",
+            "attributes": {
+              "name": "Sakura Pigma Micron Fineliner Set of 6",
+              "price": 16.49,
+              "category": "stationery",
+              "rating": 4.9
+            }
+          },
+          {
+            "id": "prod_leuchtturm_03",
+            "type": "product",
+            "attributes": {
+              "name": "Leuchtturm1917 Medium A5 Dotted Notebook",
+              "price": 24.95,
+              "category": "stationery",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_pilot_04",
+            "type": "product",
+            "attributes": {
+              "name": "Pilot G2 Premium Gel Ink Pens 5-Pack",
+              "price": 9.99,
+              "category": "stationery",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Hill Country",
+          "relaxed"
+        ],
+        "destination": "Fredericksburg",
+        "duration_days": 2,
+        "traveler_count": 1,
+        "stop_tags": [
+          "hiking",
+          "photography"
+        ],
+        "selected_stop_ids": [
+          "stop_enchanted_01",
+          "stop_willow_02",
+          "stop_mainst_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Hill Country",
+              "relaxed"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_fbg_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Fredericksburg",
+            "stop_tags": [
+              "hiking",
+              "photography"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Fredericksburg",
+            "duration_days": 2,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stop_enchanted_01",
+              "stop_willow_02",
+              "stop_mainst_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_fbg_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Fredericksburg",
+              "region": "Texas Hill Country",
+              "tags": [
+                "relaxed",
+                "hiking",
+                "photography",
+                "weekend"
+              ]
+            }
+          },
+          {
+            "id": "dest_wmb_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Wimberley",
+              "region": "Texas Hill Country",
+              "tags": [
+                "relaxed",
+                "river",
+                "arts",
+                "weekend"
+              ]
+            }
+          },
+          {
+            "id": "stop_enchanted_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Enchanted Rock Summit Trail",
+              "location": "Fredericksburg",
+              "tags": [
+                "hiking",
+                "photography",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "stop_willow_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Willow City Loop Scenic Drive",
+              "location": "Fredericksburg",
+              "tags": [
+                "photography",
+                "scenic",
+                "relaxed"
+              ]
+            }
+          },
+          {
+            "id": "stop_mainst_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Main Street Historic District",
+              "location": "Fredericksburg",
+              "tags": [
+                "walkable",
+                "relaxed",
+                "photography"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "oil change",
+        "location": "San Antonio",
+        "sort_by": "distance",
+        "name": "Alamo Auto Care",
+        "date_time": "2025-02-21T09:30:00-06:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "oil change",
+            "location": "San Antonio",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_alamo_auto_01",
+            "date_time": "2025-02-21T09:30:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_alamo_auto_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Alamo Auto Care",
+              "service_type": "oil change",
+              "location": "San Antonio",
+              "rating": 4.7,
+              "distance_km": 4.2
+            }
+          },
+          {
+            "id": "svc_hillcountry_lube_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Hill Country Lube Express",
+              "service_type": "oil change",
+              "location": "San Antonio",
+              "rating": 4.5,
+              "distance_km": 6.8
+            }
+          },
+          {
+            "id": "svc_mission_tire_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mission Tire & Service",
+              "service_type": "tire rotation",
+              "location": "San Antonio",
+              "rating": 4.6,
+              "distance_km": 5.1
+            }
+          },
+          {
+            "id": "svc_northside_garage_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Northside Garage",
+              "service_type": "brake inspection",
+              "location": "San Antonio",
+              "rating": 4.4,
+              "distance_km": 3.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Fredericksburg",
+        "guest_count": 1,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "check_in_date": "2025-04-18",
+        "check_out_date": "2025-04-20"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Fredericksburg",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_hill_country_lodge_03"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_fredericksburg_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Fredericksburg Inn & Suites",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-04-18",
+              "check_out_date": "2025-04-20",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 149.0
+            }
+          },
+          {
+            "id": "hot_peach_tree_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Peach Tree Inn & Suites",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-04-18",
+              "check_out_date": "2025-04-20",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 132.0
+            }
+          },
+          {
+            "id": "hot_hill_country_lodge_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hill Country Lodge",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-04-18",
+              "check_out_date": "2025-04-20",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 118.0
+            }
+          },
+          {
+            "id": "hot_stonewall_motor_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Stonewall Motor Lodge",
+              "location": "Stonewall",
+              "check_in_date": "2025-04-18",
+              "check_out_date": "2025-04-20",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 109.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Marisol Vega",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for reaching out",
+          "confirm I can share comments on the new piece",
+          "say I can send feedback by Thursday evening",
+          "mention I'm looking forward to reading it"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Marisol Vega",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_salon_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_salon_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Vega",
+              "subject": "Would you be willing to comment on a new piece?",
+              "body": "Hi Cecilia, I'm circulating a new piece ahead of our next salon gathering and would love to know whether you'd be open to sharing comments once you've had a chance to read it.",
+              "thread_id": "thr_salon_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-17T09:14:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Javier Molina",
+              "subject": "Copy edits for borderlands essay",
+              "body": "Checking whether you can review the latest tracked changes before lunch.",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-17T08:02:00"
+            }
+          },
+          {
+            "id": "msg_news_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Hill Country Hiking Club",
+              "subject": "Trail conditions update",
+              "body": "Weekend trail conditions and meetup reminders.",
+              "thread_id": "thr_hike_03",
+              "folder": "archive",
+              "labels": [
+                "outdoors"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-16T18:25:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Fredericksburg",
+        "check_in_date": "2025-10-17",
+        "check_out_date": "2025-10-19",
+        "guest_count": 1,
+        "room_count": 1,
+        "sort_by": "price_asc"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Fredericksburg",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "htl_mesquite_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_cottonwood_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Cottonwood Creek Inn",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-10-17",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 139.0
+            }
+          },
+          {
+            "id": "htl_mesquite_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Mesquite Quiet Lodge",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-10-17",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 125.0
+            }
+          },
+          {
+            "id": "htl_pecan_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Pecan House Suites",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-20",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 119.0
+            }
+          },
+          {
+            "id": "htl_riverstone_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Riverstone Motor Court",
+              "location": "Fredericksburg",
+              "check_in_date": "2025-10-17",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 5,
+              "max_guests_per_room": 1,
+              "price_per_night": 149.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Lunch with Elena Morales",
+        "start_time": "2025-03-19T12:30:00-05:00",
+        "end_time": "2025-03-19T13:45:00-05:00",
+        "participants": [
+          "elena.morales@mesquitepress.org"
+        ],
+        "location": "Jardín Market Cafe"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-19T12:30:00-05:00",
+            "end_time": "2025-03-19T13:45:00-05:00",
+            "participants": [
+              "elena.morales@mesquitepress.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Lunch with Elena Morales",
+            "start_time": "2025-03-19T12:30:00-05:00",
+            "end_time": "2025-03-19T13:45:00-05:00",
+            "participants": [
+              "elena.morales@mesquitepress.org"
+            ],
+            "location": "Jardín Market Cafe"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Editorial Budget Review",
+              "start_time": "2025-03-17T09:00:00-05:00",
+              "end_time": "2025-03-17T10:30:00-05:00",
+              "participants": [
+                "finance@tejanoletters.org",
+                "cecilia.g@tejanoletters.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mentorship Check-in",
+              "start_time": "2025-03-18T12:00:00-05:00",
+              "end_time": "2025-03-18T13:00:00-05:00",
+              "participants": [
+                "interns@tejanoletters.org"
+              ],
+              "location": "Breakout Room 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Author Call: Spring Essays",
+              "start_time": "2025-03-18T15:00:00-05:00",
+              "end_time": "2025-03-18T16:00:00-05:00",
+              "participants": [
+                "marco.ruiz@authormail.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lunch with Elena Morales",
+              "start_time": "2025-03-19T12:30:00-05:00",
+              "end_time": "2025-03-19T13:45:00-05:00",
+              "participants": [
+                "production@tejanoletters.org"
+              ],
+              "location": "Conference Room A",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_05",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Copy Deck Final Pass",
+              "start_time": "2025-03-21T13:00:00-05:00",
+              "end_time": "2025-03-21T15:00:00-05:00",
+              "participants": [
+                "layout@tejanoletters.org"
+              ],
+              "location": "Office 314",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "books",
+        "budget": 45,
+        "sort_by": "rating",
+        "product_id": "prod_cocinaantigua_01",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "books",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_cocinaantigua_01",
+              "prod_pueblamesa_02",
+              "prod_mercadosabores_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_cocinaantigua_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_cocinaantigua_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cocina Antigua de México: Vintage Recipes and Kitchen Notes",
+              "price": 38.0,
+              "category": "books",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_pueblamesa_02",
+            "type": "product",
+            "attributes": {
+              "name": "La Mesa Poblana: A Vintage Mexican Family Cookbook",
+              "price": 42.5,
+              "category": "books",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_mercadosabores_03",
+            "type": "product",
+            "attributes": {
+              "name": "Sabores del Mercado: Classic Mexican Market Cooking",
+              "price": 29.99,
+              "category": "books",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_talaveraplatter_04",
+            "type": "product",
+            "attributes": {
+              "name": "Hand-Painted Talavera Serving Platter",
+              "price": 54.0,
+              "category": "home decor",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Alamo Heights",
+        "cuisine": "Mexican",
+        "sort_by": "rating",
+        "date_time": "2025-03-28T19:00:00-05:00",
+        "party_size": 4
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Alamo Heights",
+            "cuisine": "Mexican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_cielo_01",
+            "date_time": "2025-03-28T19:00:00-05:00",
+            "party_size": 4
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_cielo_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cielo Mesa",
+              "cuisine": "Mexican",
+              "location": "Alamo Heights",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "dining room"
+            }
+          },
+          {
+            "id": "rst_nopal_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Nopal y Brasa",
+              "cuisine": "Mexican",
+              "location": "Alamo Heights",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "patio"
+            }
+          },
+          {
+            "id": "rst_olive_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Olive Court Bistro",
+              "cuisine": "Mediterranean",
+              "location": "Alamo Heights",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "dining room"
+            }
+          },
+          {
+            "id": "rst_rivera_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Rivera Table",
+              "cuisine": "Mexican",
+              "location": "Southtown",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "dining room"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "scheduling",
+      "reason_for_call": "Block out some time",
+      "task_params": {
+        "title": "Hiking Block",
+        "start_time": "2025-08-23T08:00:00-05:00",
+        "end_time": "2025-08-23T13:00:00-05:00",
+        "location": "Hill Country trails"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-08-23T08:00:00-05:00",
+            "end_time": "2025-08-23T13:00:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Hiking Block",
+            "start_time": "2025-08-23T08:00:00-05:00",
+            "end_time": "2025-08-23T13:00:00-05:00",
+            "location": "Hill Country trails"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_workshop_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Manuscript Review Workshop",
+              "start_time": "2025-08-22T14:00:00-05:00",
+              "end_time": "2025-08-22T15:30:00-05:00",
+              "participants": [
+                "editorial@riverpress.org",
+                "team@riverpress.org"
+              ],
+              "location": "River Press Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_brunch_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Hiking Block",
+              "start_time": "2025-08-23T08:00:00-05:00",
+              "end_time": "2025-08-23T13:00:00-05:00",
+              "participants": [],
+              "location": "Hill Country trails",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_literacy_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Literacy Mentor Session",
+              "start_time": "2025-08-24T10:00:00-05:00",
+              "end_time": "2025-08-24T11:30:00-05:00",
+              "participants": [
+                "program@literacysa.org"
+              ],
+              "location": "Westside Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Mexico",
+          "markets",
+          "history",
+          "walking",
+          "budget"
+        ],
+        "destination": "Oaxaca",
+        "duration_days": 4,
+        "traveler_count": 1,
+        "stop_tags": [
+          "market",
+          "history",
+          "walking"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Mexico",
+              "markets",
+              "history",
+              "walking",
+              "budget"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_oaxaca_01",
+              "dest_puebla_02"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Oaxaca",
+            "stop_tags": [
+              "market",
+              "history",
+              "walking"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Oaxaca",
+            "duration_days": 4,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stop_benitojuarez_01",
+              "stop_santodomingo_02",
+              "stop_andador_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_oaxaca_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Oaxaca",
+              "region": "Oaxaca, Mexico",
+              "tags": [
+                "markets",
+                "history",
+                "walking",
+                "budget",
+                "culture"
+              ]
+            }
+          },
+          {
+            "id": "dest_puebla_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Puebla",
+              "region": "Puebla, Mexico",
+              "tags": [
+                "markets",
+                "history",
+                "walking",
+                "budget",
+                "architecture"
+              ]
+            }
+          },
+          {
+            "id": "stop_benitojuarez_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Mercado Benito Juárez",
+              "location": "Oaxaca",
+              "tags": [
+                "market",
+                "walking",
+                "food"
+              ]
+            }
+          },
+          {
+            "id": "stop_santodomingo_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Templo de Santo Domingo",
+              "location": "Oaxaca",
+              "tags": [
+                "history",
+                "walking",
+                "architecture"
+              ]
+            }
+          },
+          {
+            "id": "stop_andador_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Andador Macedonio Alcalá",
+              "location": "Oaxaca",
+              "tags": [
+                "walking",
+                "history",
+                "street life"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Alamo Heights",
+        "sort_by": "rating",
+        "date_time": "2025-03-05T15:30:00-06:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Alamo Heights",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_shearcraft_01",
+            "date_time": "2025-03-05T15:30:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_shearcraft_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Shear Craft Studio",
+              "service_type": "haircut",
+              "location": "Alamo Heights",
+              "rating": 4.9,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "svc_olivestreet_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Olive Street Salon",
+              "service_type": "haircut",
+              "location": "Alamo Heights",
+              "rating": 4.7,
+              "distance_km": 2.4
+            }
+          },
+          {
+            "id": "svc_vistabob_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Vista Bob & Style",
+              "service_type": "haircut",
+              "location": "Alamo Heights",
+              "rating": 4.5,
+              "distance_km": 4.1
+            }
+          },
+          {
+            "id": "svc_restorewell_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "RestoreWell Bodywork",
+              "service_type": "massage",
+              "location": "Alamo Heights",
+              "rating": 4.8,
+              "distance_km": 3.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "scheduling",
+      "reason_for_call": "Handle an invitation response",
+      "task_params": {
+        "title": "Westside Adult Literacy Volunteer Orientation",
+        "start_time": "2025-05-22T18:30:00-05:00",
+        "end_time": "2025-05-22T20:00:00-05:00",
+        "response": "accept",
+        "remind_at": "2025-05-21T18:30:00-05:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "respond_to_event_invite",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_literacy_01",
+            "response": "accept"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_literacy_01",
+            "remind_at": "2025-05-21T18:30:00-05:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_literacy_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Westside Adult Literacy Volunteer Orientation",
+              "start_time": "2025-05-22T18:30:00-05:00",
+              "end_time": "2025-05-22T20:00:00-05:00",
+              "participants": [
+                "volunteers@westsideliteracy.org"
+              ],
+              "location": "Westside Learning Center",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_garden_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Garden Bed Prep Day",
+              "start_time": "2025-05-10T08:00:00-05:00",
+              "end_time": "2025-05-10T11:30:00-05:00",
+              "participants": [
+                "hello@greenblocksa.org"
+              ],
+              "location": "Jefferson Community Garden",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_history_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Barrio Stories Archive Kickoff",
+              "start_time": "2025-05-29T19:00:00-05:00",
+              "end_time": "2025-05-29T21:00:00-05:00",
+              "participants": [
+                "programs@barrioarchive.org"
+              ],
+              "location": "Guadalupe Cultural Arts Center",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_bookfair_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Neighborhood Used Book Fair Setup",
+              "start_time": "2025-05-17T14:00:00-05:00",
+              "end_time": "2025-05-17T17:00:00-05:00",
+              "participants": [
+                "events@friendslibrarysa.org"
+              ],
+              "location": "Memorial Branch Library",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a family note.",
+      "task_params": {
+        "sender": "Elena Garciaperez",
+        "folder": "inbox",
+        "language": "en",
+        "note_points": [
+          "open warmly in English and Spanish",
+          "say plans are still simple and flexible",
+          "invite everyone to share what would help them feel included",
+          "mention older and younger relatives both matter",
+          "keep the tone gentle and not pushy",
+          "close with love and appreciation"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Elena Garciaperez",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_family_01",
+            "language": "en",
+            "body": "<authored from note_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_family_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Garciaperez",
+              "subject": "Checking in about family plans",
+              "body": "Hi Cecilia, a few of us were wondering what you're thinking for the family gathering this year. I want to make sure everyone feels included, especially the kids and Tía Rosa. Let me know when you can.",
+              "thread_id": "thr_family_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-01T09:18:00"
+            }
+          },
+          {
+            "id": "msg_family_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marco Garciaperez",
+              "subject": "Photos from Sunday",
+              "body": "Sending over the pictures from abuela's album. We should scan the rest soon.",
+              "thread_id": "thr_family_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-01T11:42:00"
+            }
+          },
+          {
+            "id": "msg_work_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nora Delgado",
+              "subject": "Proof pass notes",
+              "body": "Attaching the latest proof corrections for chapter three.",
+              "thread_id": "thr_work_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-01T08:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "travel",
+      "reason_for_call": "Plan a trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Andalusia",
+          "cultural",
+          "budget"
+        ],
+        "destination": "Andalusia",
+        "duration_days": 12,
+        "traveler_count": 1,
+        "selected_stop_ids": [
+          "stop_seville_01",
+          "stop_cordoba_01",
+          "stop_granada_01"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Andalusia",
+              "cultural",
+              "budget"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_andalusia_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Andalusia",
+            "stop_tags": [
+              "cultural"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Andalusia",
+            "duration_days": 12,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stop_seville_01",
+              "stop_cordoba_01",
+              "stop_granada_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_andalusia_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Andalusia Cultural Circuit",
+              "region": "Andalusia, Spain",
+              "tags": [
+                "cultural",
+                "historic",
+                "budget",
+                "slow travel"
+              ]
+            }
+          },
+          {
+            "id": "dest_madrid_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Madrid City Break",
+              "region": "Madrid, Spain",
+              "tags": [
+                "museums",
+                "urban",
+                "cultural"
+              ]
+            }
+          },
+          {
+            "id": "stop_seville_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Seville Old Quarter and Alcazar",
+              "location": "Seville, Andalusia, Spain",
+              "tags": [
+                "cultural",
+                "historic",
+                "walkable"
+              ]
+            }
+          },
+          {
+            "id": "stop_cordoba_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Cordoba Historic Center and Mezquita",
+              "location": "Cordoba, Andalusia, Spain",
+              "tags": [
+                "cultural",
+                "historic",
+                "architecture"
+              ]
+            }
+          },
+          {
+            "id": "stop_granada_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Granada Albaicin and Alhambra Area",
+              "location": "Granada, Andalusia, Spain",
+              "tags": [
+                "cultural",
+                "historic",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "stop_malaga_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Malaga Waterfront and Picasso Museum",
+              "location": "Malaga, Andalusia, Spain",
+              "tags": [
+                "cultural",
+                "museum",
+                "coastal"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "commerce",
+      "reason_for_call": "Buy a sporting item.",
+      "task_params": {
+        "category": "hiking poles",
+        "budget": 90,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "hiking poles",
+            "budget": 90,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_trailglide_01",
+              "prod_canyonflex_02",
+              "prod_creekpath_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_canyonflex_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_trailglide_01",
+            "type": "product",
+            "attributes": {
+              "name": "TrailGlide Aluminum Hiking Poles",
+              "price": 64.99,
+              "category": "hiking poles",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_canyonflex_02",
+            "type": "product",
+            "attributes": {
+              "name": "CanyonFlex Shock-Absorb Hiking Poles",
+              "price": 84.5,
+              "category": "hiking poles",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_limestone_03",
+            "type": "product",
+            "attributes": {
+              "name": "Limestone Trek Carbon Hiking Poles",
+              "price": 92.0,
+              "category": "hiking poles",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_creekpath_04",
+            "type": "product",
+            "attributes": {
+              "name": "CreekPath Compact Hiking Poles",
+              "price": 49.95,
+              "category": "hiking poles",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cecilia_lisette_garciaperez_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "communication",
+      "reason_for_call": "Draft a professional message",
+      "task_params": {
+        "sender": "Marisol Vega",
+        "folder": "inbox",
+        "language": "en",
+        "subject": "Coffee next week?",
+        "body_points": [
+          "thank her again for the thoughtful panel conversation",
+          "suggest a coffee meeting next week",
+          "mention a long-term anthology project centered on regional voices",
+          "say the project blends contemporary essays and inherited stories",
+          "ask whether she would be open to hearing the vision informally",
+          "keep the tone warm, professional, and concise"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Marisol Vega",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_vega_01",
+            "subject": "Coffee next week?",
+            "language": "en",
+            "body": "<authored from body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_vega_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Vega",
+              "subject": "Wonderful meeting you at the panel",
+              "body": "Cecilia, it was a pleasure meeting you after the discussion tonight. I'd enjoy continuing our conversation about publishing projects when schedules allow.",
+              "thread_id": "thr_vega_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-06T20:41:00"
+            }
+          },
+          {
+            "id": "msg_vega_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Vega",
+              "subject": "Re: Wonderful meeting you at the panel",
+              "body": "Also, if you'd ever like to swap ideas over coffee, I'd be glad to.",
+              "thread_id": "thr_vega_01",
+              "folder": "archive",
+              "labels": [
+                "publishing"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-03-01T10:12:00"
+            }
+          },
+          {
+            "id": "msg_ortega_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Luis Ortega",
+              "subject": "Updated copy deck",
+              "body": "Sending the revised headlines before tomorrow's review.",
+              "thread_id": "thr_ortega_01",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-03-06T16:05:00"
+            }
+          },
+          {
+            "id": "msg_salon_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Barrio Literary Salon",
+              "subject": "March reading circle details",
+              "body": "Here are the details for next Thursday's reading circle at the café.",
+              "thread_id": "thr_salon_01",
+              "folder": "inbox",
+              "labels": [
+                "community"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-05T09:30:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one small shelf accessory for the apartment, under $25. Just pick something useful that won't take up much space.",
+      "gold_value": "prod_compact_bookend_pair_01",
+      "session_id": "cecilia_lisette_garciaperez_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "cecilia_lisette_garciaperez_commerce_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_commerce_01",
+        "rule_text": "For product purchases, she prefers items that support cooking, books, gardening, or cultural preservation over generic household buys.",
+        "canonical_answer": "When I order something, I usually want it to connect to cooking, books, gardening, or preserving culture."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_compact_bookend_pair_01",
+            "type": "product",
+            "attributes": {
+              "name": "Compact Metal Bookend Pair",
+              "price": 22.5,
+              "category": "shelf_accessories",
+              "rating": 4.3,
+              "review_count": 72,
+              "units_sold_last_30_days": 18,
+              "width_in": 7.5,
+              "material": "powder-coated steel"
+            }
+          },
+          {
+            "id": "prod_oak_magazine_rack_01",
+            "type": "product",
+            "attributes": {
+              "name": "Oak Magazine Rack",
+              "price": 29.0,
+              "category": "shelf_accessories",
+              "rating": 4.6,
+              "review_count": 210,
+              "units_sold_last_30_days": 35,
+              "width_in": 14.0,
+              "material": "oak"
+            }
+          },
+          {
+            "id": "prod_woven_catchall_basket_01",
+            "type": "product",
+            "attributes": {
+              "name": "Woven Catchall Basket",
+              "price": 13.99,
+              "category": "shelf_accessories",
+              "rating": 4.9,
+              "review_count": 1840,
+              "units_sold_last_30_days": 640,
+              "width_in": 9.0,
+              "material": "rattan"
+            }
+          },
+          {
+            "id": "prod_remote_caddy_01",
+            "type": "product",
+            "attributes": {
+              "name": "Slim Remote Control Caddy",
+              "price": 11.99,
+              "category": "shelf_accessories",
+              "rating": 4.8,
+              "review_count": 1210,
+              "units_sold_last_30_days": 590,
+              "width_in": 6.0,
+              "material": "linen"
+            }
+          },
+          {
+            "id": "prod_folding_storage_bin_01",
+            "type": "product",
+            "attributes": {
+              "name": "Folding Fabric Storage Bin",
+              "price": 15.49,
+              "category": "shelf_accessories",
+              "rating": 4.8,
+              "review_count": 970,
+              "units_sold_last_30_days": 480,
+              "width_in": 10.0,
+              "material": "felt"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_compact_bookend_pair_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the hardcover book from my recent order.",
+      "gold_value": "exchange",
+      "session_id": "cecilia_lisette_garciaperez_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "cecilia_lisette_garciaperez_commerce_02",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_commerce_02",
+        "rule_text": "When returning an order, she prefers an exchange over a refund if the item supports one of her core hobbies or cultural interests.",
+        "canonical_answer": "If something I bought for one of my core interests is wrong, I usually want a replacement instead of giving up on it."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_frida_kahlo_catalog_01",
+            "type": "product",
+            "attributes": {
+              "name": "Frida Kahlo Exhibition Catalog Hardcover Book",
+              "price": 42.0,
+              "category": "books",
+              "rating": 4.8,
+              "brand": "Museo Press",
+              "order_id": "ord_5128_books",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-09"
+            }
+          },
+          {
+            "id": "prod_stoneware_bowl_01",
+            "type": "product",
+            "attributes": {
+              "name": "Stoneware Serving Bowl",
+              "price": 36.0,
+              "category": "kitchen",
+              "rating": 4.9,
+              "brand": "North Table",
+              "order_id": "ord_5071_home",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-07"
+            }
+          },
+          {
+            "id": "prod_linen_runner_01",
+            "type": "product",
+            "attributes": {
+              "name": "Linen Table Runner",
+              "price": 28.0,
+              "category": "home_decor",
+              "rating": 4.7,
+              "brand": "Harbor House",
+              "order_id": "ord_5034_decor",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-05"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please change the plan on my CloudDesk Workspace subscription to a different tier and keep the service active. I still use it every week for shared folders, occasional guest collaboration, and file reviews.",
+      "gold_value": "basic",
+      "session_id": "cecilia_lisette_garciaperez_commerce_04_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "cecilia_lisette_garciaperez_commerce_04",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_commerce_04",
+        "rule_text": "When she does change a subscription tier, she prefers the basic plan to keep recurring costs modest.",
+        "canonical_answer": "If I need to switch plans, I prefer the basic tier unless there is a compelling reason not to."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_clouddesk_workspace_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "CloudDesk Workspace",
+              "plan": "enterprise",
+              "status": "active",
+              "price_per_period": 79.99,
+              "shared_folders": 6,
+              "guest_collaborators_last_30_days": 9,
+              "storage_gb_used": 420,
+              "video_review_projects_last_30_days": 5
+            }
+          },
+          {
+            "id": "sub_familystream_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "FamilyStream",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 18.99,
+              "simultaneous_streams": 4,
+              "video_quality": "4K"
+            }
+          },
+          {
+            "id": "sub_gardenjournal_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "Garden Journal",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 9.99,
+              "notebooks_included": 50,
+              "export_formats": "pdf,csv"
+            }
+          },
+          {
+            "id": "sub_fitnestudio_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "FitneStudio",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 7.99,
+              "live_classes_per_month": 4,
+              "device_limit": 1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "change_subscription_plan",
+              "arguments": {
+                "new_plan": "basic"
+              },
+              "compare_args": [
+                "new_plan"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Marisol Vega from Barrio Stories about Don Ernesto. Tell her to leave the family nickname out of the short intro, keep the Spanish quote paired with its English translation, and say I'll send over two title ideas on 2026-08-05 in the morning.",
+      "gold_value": null,
+      "session_id": "cecilia_lisette_garciaperez_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "cecilia_lisette_garciaperez_communication_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_communication_01",
+        "rule_text": "For messages tied to editorial, mentoring, or culturally sensitive topics, she prefers a draft to review rather than having them sent immediately.",
+        "canonical_answer": "I always want editorial or culturally sensitive messages drafted first so I can revise them before they go out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_marisol_donernesto_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Vega <marisol@barriostories.org>",
+              "subject": "Don Ernesto wording questions for Barrio Stories",
+              "body": "Hi Cecilia — before we lock the Don Ernesto piece, could you weigh in on a couple of lines? The short intro still uses the family nickname, and section three shows his Spanish quote without the English translation beside it. If you want different wording or placement, let me know. Also, if you have any better title ideas, send them my way.",
+              "thread_id": "thr_marisol_donernesto_17",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-04T09:11"
+            }
+          },
+          {
+            "id": "msg_ruben_panel_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Ruben Ortiz <ruben@civicarts.org>",
+              "subject": "Friday panel seating chart",
+              "body": "Can you confirm whether the moderator table should seat four or five people before I send the final room diagram to the venue?",
+              "thread_id": "thr_ruben_panel_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-04T08:24"
+            }
+          },
+          {
+            "id": "msg_kira_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Kira Holt <billing@northshoreprint.com>",
+              "subject": "July invoice available",
+              "body": "Your July printing invoice is ready to view in the customer portal.",
+              "thread_id": "thr_kira_invoice_31",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-08-04T07:42"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner for four in Seattle on 2026-09-18 at 7:00pm — just pick a place and make the reservation.",
+      "gold_value": "rst_fern_table_01",
+      "session_id": "cecilia_lisette_garciaperez_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "cecilia_lisette_garciaperez_reservation_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_reservation_01",
+        "rule_text": "For restaurant reservations, she prefers intimate places suited to conversation over louder, more impersonal venues.",
+        "canonical_answer": "When I dine out, I prefer small, conversation-friendly places over loud scene-driven restaurants."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_fern_table_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Fern & Table",
+              "cuisine": "Pacific Northwest",
+              "location": "Seattle",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "32-seat dining room with well-spaced two-top and four-top tables"
+            }
+          },
+          {
+            "id": "rst_foundry_hall_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Foundry Hall",
+              "cuisine": "New American",
+              "location": "Seattle",
+              "rating": 4.9,
+              "price_range": "$$$",
+              "seating_style": "140-seat open dining hall with a central bar and communal tables"
+            }
+          },
+          {
+            "id": "rst_marquee_room_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Marquee Room",
+              "cuisine": "Contemporary",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "90-seat dining room with lounge seating and a live music stage"
+            }
+          },
+          {
+            "id": "rst_pier_exchange_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Pier Exchange",
+              "cuisine": "Seafood",
+              "location": "Seattle",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "large waterfront room with shared high-top tables and bar seating"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_fern_table_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a haircut appointment in Seattle for 2026-07-09 at 5:30pm — just pick one for me.",
+      "gold_value": "svc_hair_storygarden_01",
+      "session_id": "cecilia_lisette_garciaperez_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "cecilia_lisette_garciaperez_reservation_03",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_reservation_03",
+        "rule_text": "When she needs a local service appointment, she prefers providers connected to books, arts, gardening, or community-oriented work over purely trend-driven options.",
+        "canonical_answer": "If I book a local service, I gravitate toward providers tied to books, arts, gardening, or community life."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_hair_storygarden_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Story Garden Community Cuts",
+              "service_type": "haircut",
+              "location": "Seattle",
+              "rating": 4.4,
+              "distance_km": 3.6,
+              "tags": [
+                "community",
+                "literary",
+                "gardening"
+              ]
+            }
+          },
+          {
+            "id": "svc_hair_glossgrid_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "GlossGrid Style Bar",
+              "service_type": "haircut",
+              "location": "Seattle",
+              "rating": 4.9,
+              "distance_km": 0.3,
+              "tags": [
+                "trend_color",
+                "influencer",
+                "blowout"
+              ]
+            }
+          },
+          {
+            "id": "svc_hair_lumeloop_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "LumeLoop Hair Studio",
+              "service_type": "haircut",
+              "location": "Seattle",
+              "rating": 4.8,
+              "distance_km": 0.6,
+              "tags": [
+                "viral_styles",
+                "airtouch",
+                "beauty_content"
+              ]
+            }
+          },
+          {
+            "id": "svc_hair_modwave_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "ModWave Cut House",
+              "service_type": "haircut",
+              "location": "Seattle",
+              "rating": 4.7,
+              "distance_km": 0.4,
+              "tags": [
+                "trend_cut",
+                "fashion_drop",
+                "gloss_finish"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_hair_storygarden_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I just got an invite to the Harbor District founders breakfast at Pier Loft on 2026-09-17 from 8:30 to 10:00. Look at what I already have that morning and send back the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "cecilia_lisette_garciaperez_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "cecilia_lisette_garciaperez_scheduling_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_scheduling_01",
+        "rule_text": "When a calendar invite conflicts with unresolved work or personal bandwidth, she prefers responding tentatively rather than accepting or declining too quickly.",
+        "canonical_answer": "If I am not fully sure about an invitation, I respond as tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_harbor_founders_breakfast_20260917",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Harbor District Founders Breakfast",
+              "start_time": "2026-09-17T08:30:00-07:00",
+              "end_time": "2026-09-17T10:00:00-07:00",
+              "participants": [
+                "events@harbordistrictalliance.org",
+                "cecilia.garciaperez@example.com"
+              ],
+              "location": "Pier Loft",
+              "calendar": "invites",
+              "status": "pending",
+              "organizer": "Harbor District Business Alliance",
+              "rsvp_deadline": "2026-09-15T17:00:00-07:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_q3_board_packet_revisions_20260917",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Q3 board packet revisions with Mia",
+              "start_time": "2026-09-17T08:00:00-07:00",
+              "end_time": "2026-09-17T10:30:00-07:00",
+              "participants": [
+                "cecilia.garciaperez@example.com",
+                "mia.santos@example.com"
+              ],
+              "location": "Studio Office / Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_client_lunch_verity_20260917",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Client lunch with Verity Labs",
+              "start_time": "2026-09-17T12:00:00-07:00",
+              "end_time": "2026-09-17T13:00:00-07:00",
+              "participants": [
+                "cecilia.garciaperez@example.com",
+                "nora.chen@veritylabs.com"
+              ],
+              "location": "Marina Grill",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The details in our Café Marisol poetry circle thread are set: 2026-09-18 from 19:00 to 20:30 at Café Marisol in Little Havana, with ana.rivera@luzhouse.org, mateo.santos@luzhouse.org, and ines.ortega@luzhouse.org involved. Please take care of it so it doesn't slip past me.",
+      "gold_value": null,
+      "session_id": "cecilia_lisette_garciaperez_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "cecilia_lisette_garciaperez_scheduling_02",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_scheduling_02",
+        "rule_text": "For literary salons, mentoring sessions, and culturally rooted gatherings, she prefers creating full calendar events instead of only setting private reminders.",
+        "canonical_answer": "For real gatherings with other people, I want an actual calendar event, not just a private reminder."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_marisol_poetry_thread_01",
+            "type": "event",
+            "attributes": {
+              "title": "Café Marisol poetry circle thread",
+              "start_time": "2026-09-18T19:00:00",
+              "end_time": "2026-09-18T20:30:00",
+              "participants": [],
+              "location": "Café Marisol, Little Havana",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "group_chat"
+            }
+          },
+          {
+            "id": "evt_mango_street_mentor_thread_02",
+            "type": "event",
+            "attributes": {
+              "title": "Mango Street literacy mentor check-in thread",
+              "start_time": "2026-09-24T17:30:00",
+              "end_time": "2026-09-24T18:30:00",
+              "participants": [],
+              "location": "Mango Street Library",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "text_chain"
+            }
+          },
+          {
+            "id": "evt_budget_review_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quarterly budget review",
+              "start_time": "2026-09-16T11:00:00",
+              "end_time": "2026-09-16T12:00:00",
+              "participants": [
+                "finance@luzhouse.org"
+              ],
+              "location": "Office Conference Room A",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm putting together a relaxed 2-day solo trip in Seville. From the candidate daytime stops, pick one place I can slot in for about an hour without booking ahead, and include that stop in the plan.",
+      "gold_value": [
+        "stop_seville_triana_market_01"
+      ],
+      "session_id": "cecilia_lisette_garciaperez_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cecilia_lisette_garciaperez_travel_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_travel_01",
+        "rule_text": "When travel planning includes optional stops, she prefers culturally meaningful places such as markets, historic sites, and literary landmarks over generic tourist fillers.",
+        "canonical_answer": "For trips, I like stops with real cultural texture, not just generic tourist attractions."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_seville_triana_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Mercado de Triana",
+              "location": "Triana, Seville, Spain",
+              "stop_type": "market",
+              "tags": [
+                "market",
+                "local_food",
+                "ceramics",
+                "neighborhood",
+                "indoor",
+                "daytime"
+              ],
+              "rating": 4.5,
+              "review_count": 12400,
+              "visit_duration_hours": 1.0,
+              "advance_ticket_required": false
+            }
+          },
+          {
+            "id": "stop_seville_plaza_espana_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Plaza de España",
+              "location": "Parque de María Luisa, Seville, Spain",
+              "stop_type": "landmark_square",
+              "tags": [
+                "landmark",
+                "architecture",
+                "canal",
+                "photos",
+                "popular",
+                "daytime"
+              ],
+              "rating": 4.8,
+              "review_count": 104300,
+              "visit_duration_hours": 1.0,
+              "advance_ticket_required": false
+            }
+          },
+          {
+            "id": "stop_seville_metropol_parasol_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Metropol Parasol",
+              "location": "Encarnación, Seville, Spain",
+              "stop_type": "viewpoint",
+              "tags": [
+                "viewpoint",
+                "modern_landmark",
+                "photos",
+                "popular",
+                "daytime"
+              ],
+              "rating": 4.7,
+              "review_count": 55800,
+              "visit_duration_hours": 0.75,
+              "advance_ticket_required": false
+            }
+          },
+          {
+            "id": "stop_seville_alcazar_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Royal Alcázar of Seville",
+              "location": "Seville, Spain",
+              "stop_type": "palace",
+              "tags": [
+                "historic_site",
+                "palace",
+                "gardens",
+                "UNESCO",
+                "ticketed_attraction"
+              ],
+              "rating": 4.9,
+              "review_count": 112400,
+              "visit_duration_hours": 3.0,
+              "advance_ticket_required": true
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_seville_triana_market_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm putting together a quick weekend getaway to New Orleans, LA from Austin, TX, leaving on 2026-10-09. It's just me, and I only need the outbound leg right now—please check the available options and book it.",
+      "gold_value": null,
+      "session_id": "cecilia_lisette_garciaperez_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cecilia_lisette_garciaperez_travel_03",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_travel_03",
+        "rule_text": "For weekend getaways, she prefers ground transportation over flights when a reasonable option exists.",
+        "canonical_answer": "For short trips, I prefer to go by train, bus, or car transfer instead of flying."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_aus_nor_20261009_southwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Austin, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-10-09",
+              "airline": "Southwest Airlines",
+              "price": 118,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_aus_nor_20261009_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Austin, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-10-09",
+              "airline": "Delta Air Lines",
+              "price": 129,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_aus_nor_20261009_american_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Austin, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-10-09",
+              "airline": "American Airlines",
+              "price": 136,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "trp_aus_nor_20261009_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Austin, TX",
+              "destination": "New Orleans, LA",
+              "mode": "bus",
+              "departure_date": "2026-10-09",
+              "price": 165,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "trp_aus_nor_20261009_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Austin, TX",
+              "destination": "New Orleans, LA",
+              "mode": "train",
+              "departure_date": "2026-10-09",
+              "price": 189,
+              "available_seats": 7
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a hotel in Kyoto for two adults, one room, and keep it under $230 per night. I’ll only be there a few days, so just pick one of the available options and take care of it.",
+      "gold_value": "htl_kyoto_higashiyama_courtyard_01",
+      "session_id": "cecilia_lisette_garciaperez_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cecilia_lisette_garciaperez_travel_04",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_travel_04",
+        "rule_text": "When choosing a hotel, she prefers quieter, smaller-scale lodging options that support a relaxed itinerary over large generic stays.",
+        "canonical_answer": "I pick lodging that feels calm and unhurried rather than big generic hotel options."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_kyoto_higashiyama_courtyard_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Higashiyama Courtyard Inn",
+              "location": "Higashiyama, Kyoto",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 214,
+              "rating": 4.4,
+              "review_count": 186,
+              "property_style": "inn",
+              "room_total": 14,
+              "street_profile": "residential lane",
+              "noise_level": "low"
+            }
+          },
+          {
+            "id": "htl_kyoto_station_central_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Kyoto Station Central Hotel",
+              "location": "Shimogyo, Kyoto",
+              "available_rooms": 18,
+              "max_guests_per_room": 2,
+              "price_per_night": 189,
+              "rating": 4.9,
+              "review_count": 4210,
+              "property_style": "chain hotel",
+              "room_total": 248,
+              "street_profile": "station boulevard",
+              "noise_level": "high"
+            }
+          },
+          {
+            "id": "htl_kyoto_gion_grand_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Gion Grand Plaza Hotel",
+              "location": "Gion, Kyoto",
+              "available_rooms": 11,
+              "max_guests_per_room": 2,
+              "price_per_night": 226,
+              "rating": 4.8,
+              "review_count": 3075,
+              "property_style": "full-service hotel",
+              "room_total": 182,
+              "street_profile": "main tourist street",
+              "noise_level": "medium"
+            }
+          },
+          {
+            "id": "htl_kyoto_shijo_market_tower_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Shijo Market Tower Hotel",
+              "location": "Nakagyo, Kyoto",
+              "available_rooms": 24,
+              "max_guests_per_room": 2,
+              "price_per_night": 205,
+              "rating": 4.7,
+              "review_count": 2654,
+              "property_style": "business hotel",
+              "room_total": 312,
+              "street_profile": "shopping avenue",
+              "noise_level": "medium-high"
+            }
+          },
+          {
+            "id": "htl_kyoto_kamo_townhouse_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Kamo Riverside Townhouse Hotel",
+              "location": "Sanjo, Kyoto",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 221,
+              "rating": 4.6,
+              "review_count": 744,
+              "property_style": "townhouse hotel",
+              "room_total": 32,
+              "street_profile": "late-night dining strip",
+              "noise_level": "medium-high"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_kyoto_higashiyama_courtyard_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy up the files in /Publishing/Incoming — it's a mix of PDFs, spreadsheets, and docs, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "cecilia_lisette_garciaperez_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "cecilia_lisette_garciaperez_workspace_01",
+      "rule_ref": {
+        "rule_id": "cecilia_lisette_garciaperez_workspace_01",
+        "rule_text": "When organizing files, she prefers classifying them by project rather than by generic type or date.",
+        "canonical_answer": "I organize working files by project first, not just by format or date."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_pub_incoming_01",
+            "type": "file",
+            "attributes": {
+              "name": "contract_notes.docx",
+              "file_type": "docx",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Andes Folktales",
+              "modified_date": "2026-02-11"
+            }
+          },
+          {
+            "id": "fil_pub_incoming_02",
+            "type": "file",
+            "attributes": {
+              "name": "translator_queries.docx",
+              "file_type": "docx",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Baltic Short Stories",
+              "modified_date": "2026-02-18"
+            }
+          },
+          {
+            "id": "fil_pub_incoming_03",
+            "type": "file",
+            "attributes": {
+              "name": "rights_grid.xlsx",
+              "file_type": "xlsx",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Cairo Children's Reader",
+              "modified_date": "2026-03-03"
+            }
+          },
+          {
+            "id": "fil_pub_incoming_04",
+            "type": "file",
+            "attributes": {
+              "name": "print_costs.xlsx",
+              "file_type": "xlsx",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Seoul City Essays",
+              "modified_date": "2026-03-22"
+            }
+          },
+          {
+            "id": "fil_pub_incoming_05",
+            "type": "file",
+            "attributes": {
+              "name": "jacket_markup.pdf",
+              "file_type": "pdf",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Mosaic Poetry Anthology",
+              "modified_date": "2026-04-07"
+            }
+          },
+          {
+            "id": "fil_pub_incoming_06",
+            "type": "file",
+            "attributes": {
+              "name": "launch_assets.pdf",
+              "file_type": "pdf",
+              "location": "/Publishing/Incoming",
+              "owner": "Cecilia Lisette Garcia Perez",
+              "labels": [],
+              "archived": false,
+              "project": "Lisbon Classroom Reader",
+              "modified_date": "2026-04-19"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.75,
+    "actual_signal_overlap_rules": [
+      "cecilia_lisette_garciaperez_commerce_01",
+      "cecilia_lisette_garciaperez_communication_01",
+      "cecilia_lisette_garciaperez_reservation_01",
+      "cecilia_lisette_garciaperez_reservation_03",
+      "cecilia_lisette_garciaperez_scheduling_01",
+      "cecilia_lisette_garciaperez_scheduling_02",
+      "cecilia_lisette_garciaperez_travel_01",
+      "cecilia_lisette_garciaperez_travel_04",
+      "cecilia_lisette_garciaperez_workspace_01"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.75,
+    "teachable_rule_count": 9,
+    "zero_signal_rule_count": 3,
+    "signal_pool_size_dedup": 24,
+    "noise_pool_size": 14,
+    "K": 24,
+    "seed": 0,
+    "selected_rules": [
+      "cecilia_lisette_garciaperez_commerce_01",
+      "cecilia_lisette_garciaperez_communication_01",
+      "cecilia_lisette_garciaperez_reservation_01",
+      "cecilia_lisette_garciaperez_reservation_03",
+      "cecilia_lisette_garciaperez_scheduling_01",
+      "cecilia_lisette_garciaperez_scheduling_02",
+      "cecilia_lisette_garciaperez_travel_01",
+      "cecilia_lisette_garciaperez_travel_04",
+      "cecilia_lisette_garciaperez_workspace_01"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "cecilia_lisette_garciaperez_commerce_01",
+      "cecilia_lisette_garciaperez_commerce_02",
+      "cecilia_lisette_garciaperez_commerce_04",
+      "cecilia_lisette_garciaperez_communication_01",
+      "cecilia_lisette_garciaperez_reservation_01",
+      "cecilia_lisette_garciaperez_reservation_03",
+      "cecilia_lisette_garciaperez_scheduling_01",
+      "cecilia_lisette_garciaperez_scheduling_02",
+      "cecilia_lisette_garciaperez_travel_01",
+      "cecilia_lisette_garciaperez_travel_03",
+      "cecilia_lisette_garciaperez_travel_04",
+      "cecilia_lisette_garciaperez_workspace_01"
+    ],
+    "signal_count": 24,
+    "noise_count": 0,
+    "trajectory_length": 24
+  }
+}

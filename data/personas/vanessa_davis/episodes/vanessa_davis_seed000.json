@@ -1,0 +1,5559 @@
+{
+  "episode_id": "vanessa_davis_seed000",
+  "persona_id": "vanessa_davis",
+  "raw_persona": {
+    "persona_id": "vanessa_davis",
+    "nemotron_uuid": "aa90b1eaaed94fb195e06d435b7346f2",
+    "narrative": "name: Vanessa Davis\nage: 54\nsex: Female\nmarital_status: married_present\neducation_level: some_college\noccupation: driver_sales_worker_or_truck_driver\nhobbies_and_interests: Desert hiking and trail exploration, Landscape photography (sunrise/sunset), Stargazing and astronomy club participation, Listening to classic soul, jazz, and R&B, Cooking Southern comfort food, Church youth outreach and vehicle safety workshops, Reading historical fiction and true‑crime novels, DIY vehicle maintenance and woodworking projects, Road‑trip storytelling with spouse\nskills_and_expertise: Commercial Driving (Class A CDL), Hazardous Materials Endorsement, Tanker Endorsement, Route Planning and Navigation, Vehicle Inspection and Maintenance, Basic Mechanical Troubleshooting, DOT Safety Compliance, Customer Relationship Management, Negotiation and Sales, Fleet Management Software (KeepTruckin, Omnitracs), Inventory Tracking and Record Keeping, Excel and Simple CRM Use, Adaptability to Changing Road Conditions\ncomplementary_info: Vanessa Davis has over three decades of experience in commercial driving and driver-sales work, and she relies on practical checklists to stay organized even though she tends to put off paperwork and dental visits. She regularly drives Mojave desert routes, using GPS, satellite communications, and off-road mapping tools, and handles pre- and post-trip inspections, preventive maintenance coordination, freight-rate negotiation, and occasional equipment product demonstrations. Off the clock, she often hikes Mojave dunes and rocky trails, photographs desert sunrises and sunsets for a small online desert-photography community, and joins a local astronomy club for night walks and observatory meetups; she also does occasional yoga for back stiffness. Her road trips have included the Grand Canyon, Zion National Park, and Sedona, and she hopes to see Denali and New Orleans in the future. At home she cooks Southern dishes like fried chicken, collard greens, and cornbread with smoked paprika and hot sauce, sometimes treating herself to a local seafood boil, usually with Marvin Gaye, Aretha Franklin, Miles Davis, or Alicia Keys playing. She reads Ken Follett and Tracy Ward, keeps a modest DIY garage for small repairs and handcrafted wooden tool-storage crates, volunteers through her church’s youth outreach with vehicle-safety lessons and road-trip storytelling, and follows the Los Angeles Dodgers and LA Lakers. Her background is African American, with family roots in the Deep South and grandparents who came to California during the Great Migration; she grew up in the Central Valley in a close extended family shaped by faith, resilience, and community service, stays active in a Black church community in Kern County, observes Juneteenth and Kwanzaa, attends Black History Month events, and remains connected to Black transportation professionals through mentorship and regional gatherings.",
+    "general_domain": "driver_sales_worker_or_truck_driver",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Vanessa Davis",
+    "demographics": {
+      "age": 54,
+      "sex": "Female",
+      "marital_status": "married_present",
+      "education_level": "some_college",
+      "occupation": "driver_sales_worker_or_truck_driver",
+      "city": "Mojave",
+      "state": "CA",
+      "zipcode": "93501",
+      "country": "USA"
+    },
+    "persona_summary": "Vanessa Davis is a disciplined yet flexibly minded desert‑loving driver‑sales pro who balances meticulous safety checklists with a love for spontaneous stargazing, soulful music, and Southern comfort cooking, and, despite a tendency to procrastinate on paperwork and dental visits, they maintain a steady course.",
+    "professional_persona": "Vanessa Davis, a Class A commercial driver with hazardous‑materials and tanker endorsements who also serves as a driver‑sales associate, they apply three decades of meticulous route‑planning, safety‑regulation expertise, and practical checklists to offset occasional disorganization, while leveraging a competitive, skeptical sales approach to negotiate freight rates and build client trust.",
+    "sports_persona": "Vanessa Davis channels their love of the desert into regular hikes along Mojave dunes and rocky trails, participates in a local astronomy club’s night‑walks that double as cardio, roots for the Los Angeles Dodgers in baseball and follows the LA Lakers season, and, to ease back stiffness, they supplement their outdoor routine with occasional yoga sessions.",
+    "arts_persona": "Vanessa Davis expresses creativity through sunrise‑and‑sunset desert photography shared with a niche online community, finds solace listening to classic soul legends like Marvin Gaye and Aretha Franklin, jazz icons such as Miles Davis, and contemporary R&B artists like Alicia Keys while cooking, and, during quiet evenings, they unwind with historical fiction by Ken Follett and true‑crime novels by Tracy Ward, weaving these artistic influences into weekend family gatherings.",
+    "travel_persona": "Vanessa Davis prefers road‑trip adventures that blend scenic desert driving with stargazing excursions, having visited the Grand Canyon, Zion National Park, and Sedona, while eyeing a future trek to Alaska’s Denali for aurora watching and a planned cultural tour of New Orleans’ jazz districts, and, when planning these journeys, they balance retirement budgeting with family commitments.",
+    "culinary_persona": "Vanessa Davis crafts Southern‑style comfort meals such as fried chicken, collard greens, and buttery cornbread seasoned with smoked paprika and hot sauce, while pairing their cooking sessions with classic soul and jazz playlists, and, whenever inspiration strikes, they treat themselves to a local seafood boil featuring shrimp, crab, and fresh corn on the cob.",
+    "cultural_background": "Vanessa’s cultural identity is rooted in her African‑American heritage, with family origins tracing back to the Deep South before her grandparents relocated to California during the Great Migration. Growing up in the Central Valley, she was raised in a close‑knit extended family that emphasized faith, resilience, and community service. The local Black church in Kern County has been a cultural hub for her, where she celebrates holidays such as Juneteenth and observes traditions like Kwanzaa, while also participating in Black History Month events that highlight contributions of African‑Americans to the Southwest. Vanessa’s love of soul and jazz music reflects the musical legacy passed down from her parents, and she often shares that heritage with her children and nieces. Though she lives in a predominantly non‑Black, desert community, she remains connected to a network of Black professionals in the transportation sector, contributing to mentorship programs and attending regional cultural gatherings that reinforce her sense of belonging and pride.",
+    "skills_and_expertise": "Vanessa brings over three decades of experience behind the wheel, holding a Class A commercial driver’s license with hazardous‑materials and tanker endorsements. She is adept at planning efficient routes across the Mojave desert, using GPS, satellite communications, and off‑road mapping tools to anticipate weather and road challenges. Her day‑to‑day responsibilities include conducting thorough pre‑trip and post‑trip vehicle inspections, performing basic mechanical troubleshooting, and coordinating preventive maintenance to keep the fleet running smoothly. She has a solid grasp of DOT safety regulations, and she consistently logs compliance paperwork, though she prefers that the process be streamlined to avoid excessive bureaucracy. In her dual role as a driver‑sales associate, she negotiates freight rates, cultivates client relationships, and provides product demonstrations for equipment sold by her company, balancing customer service with a healthy dose of skepticism to protect her margins. Vanessa is comfortable with fleet‑management software (e.g., KeepTruckin, Omnitracs), basic inventory tracking, and uses Excel and a simple CRM to keep sales records organized, compensating for her occasional disorganization with clear, practical checklists.",
+    "skills_and_expertise_list": [
+      "Commercial Driving (Class A CDL)",
+      "Hazardous Materials Endorsement",
+      "Tanker Endorsement",
+      "Route Planning and Navigation",
+      "Vehicle Inspection and Maintenance",
+      "Basic Mechanical Troubleshooting",
+      "DOT Safety Compliance",
+      "Customer Relationship Management",
+      "Negotiation and Sales",
+      "Fleet Management Software (KeepTruckin, Omnitracs)",
+      "Inventory Tracking and Record Keeping",
+      "Excel and Simple CRM Use",
+      "Adaptability to Changing Road Conditions"
+    ],
+    "hobbies_and_interests": "In her off‑hours Vanessa enjoys the quiet of the desert landscape. She frequently hikes the dunes and rocky trails around Mojave, often stopping to photograph sunrise and sunset vistas, which she later posts to a small online community of desert‑photography enthusiasts. She loves stargazing on clear desert nights, sometimes joining a local astronomy club that meets at a nearby observatory. Music is a constant companion—she listens to classic soul, jazz, and contemporary R&B while cooking her favorite Southern‑style comfort dishes for family gatherings. Vanessa volunteers at her church’s youth outreach program, where she teaches basic vehicle safety and hosts occasional “road‑trip stories” sessions. She also reads historical fiction and true‑crime novels, and she maintains a modest DIY garage where she works on small vehicle repair projects and occasionally builds handcrafted wooden storage crates for her tools.",
+    "hobbies_and_interests_list": [
+      "Desert hiking and trail exploration",
+      "Landscape photography (sunrise/sunset)",
+      "Stargazing and astronomy club participation",
+      "Listening to classic soul, jazz, and R&B",
+      "Cooking Southern comfort food",
+      "Church youth outreach and vehicle safety workshops",
+      "Reading historical fiction and true‑crime novels",
+      "DIY vehicle maintenance and woodworking projects",
+      "Road‑trip storytelling with spouse"
+    ],
+    "career_goals_and_ambitions": "Vanessa is focused on translating her extensive driving and sales experience into a longer‑term leadership role within the transportation industry. Over the next five years she plans to obtain a certified driver‑trainer designation and pursue an advanced safety‑director certification, positioning herself to move into fleet supervision or dispatch management. She dreams of purchasing a modestly used tractor‑trailer so she can run a small independent contract operation, giving her more control over schedule flexibility and income. At the same time, she wants to refine her organizational habits, adopting digital workflow tools that can reduce paperwork hassles and free up time for family. Vanessa also hopes to mentor younger Black drivers in Kern County, sharing her knowledge and helping them navigate the challenges of a predominantly white, male‑dominated field. Financially, she aims to build a retirement nest‑egg that secures her family’s future while allowing for occasional road‑trip adventures with her spouse."
+  },
+  "rules": [
+    {
+      "rule_text": "When ordering food ingredients, she favors Southern comfort staples and seafood-boil items over generic convenience foods.",
+      "canonical_answer": "If I’m ordering ingredients, I want Southern comfort staples or seafood-boil items, not just generic convenience stuff.",
+      "counterfactual_default": "Choose generic or convenience-oriented food products.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "fried chicken, collard greens, and buttery cornbread seasoned with smoked paprika and hot sauce"
+        },
+        {
+          "type": "direct",
+          "content": "a local seafood boil featuring shrimp, crab, and fresh corn on the cob"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "vanessa_davis_commerce_02"
+    },
+    {
+      "rule_text": "If a purchased tool or piece of equipment arrives wrong or defective, she prefers exchanging it for a working replacement rather than taking a refund.",
+      "canonical_answer": "For tools or equipment, I’d rather exchange a bad item than just get a refund.",
+      "counterfactual_default": "Request a refund instead of a replacement.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "maintains a modest DIY garage where she works on small vehicle repair projects"
+        },
+        {
+          "type": "direct",
+          "content": "occasionally builds handcrafted wooden storage crates for her tools"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "vanessa_davis_commerce_03"
+    },
+    {
+      "rule_text": "For client or community outreach, she prefers messages to be drafted first instead of being sent immediately.",
+      "canonical_answer": "For outreach messages, I want a draft first so I can look it over before anything goes out.",
+      "counterfactual_default": "Send the message directly once the content is prepared.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "leveraging a competitive, skeptical sales approach"
+        },
+        {
+          "type": "direct",
+          "content": "build client trust"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "vanessa_davis_communication_01"
+    },
+    {
+      "rule_text": "When choosing a restaurant for a treat or gathering, she favors Southern comfort food or seafood-boil places over trendier generic options.",
+      "canonical_answer": "If I’m eating out for fun, I’d rather pick Southern comfort food or a seafood boil spot than a trendy random place.",
+      "counterfactual_default": "Book a popular restaurant without regard to Southern or seafood-boil style.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Vanessa crafts Southern‑style comfort meals"
+        },
+        {
+          "type": "direct",
+          "content": "whenever inspiration strikes, they treat themselves to a local seafood boil featuring shrimp, crab, and fresh corn on the cob"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "vanessa_davis_reservation_01"
+    },
+    {
+      "rule_text": "For wellness appointments, she prefers booking practical back-relief services like yoga-oriented care over purely pampering appointments.",
+      "canonical_answer": "When I book a service for myself, I prefer something that helps my back and mobility, like yoga-related care, over pampering.",
+      "counterfactual_default": "Choose a generic self-care or beauty-oriented provider.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "to ease back stiffness, they supplement their outdoor routine with occasional yoga sessions"
+        },
+        {
+          "type": "direct",
+          "content": "regular hikes along Mojave dunes and rocky trails"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "vanessa_davis_reservation_03"
+    },
+    {
+      "rule_text": "When an invitation overlaps with uncertain work routing or family obligations, she prefers responding tentatively instead of accepting or declining outright.",
+      "canonical_answer": "If my route or family schedule is still up in the air, I answer invitations as tentative.",
+      "counterfactual_default": "Accept or decline the invite immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balance retirement budgeting with family commitments"
+        },
+        {
+          "type": "direct",
+          "content": "Adaptability to Changing Road Conditions"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "vanessa_davis_scheduling_01"
+    },
+    {
+      "rule_text": "For appointments or activities that need preparation, she prefers reminders tied to the event timing rather than generic standalone reminders.",
+      "canonical_answer": "For anything I need to prep for, I want the reminder set relative to the event itself.",
+      "counterfactual_default": "Set a one-off reminder at an arbitrary time.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "meticulous safety checklists"
+        },
+        {
+          "type": "direct",
+          "content": "conducting thorough pre‑trip and post‑trip vehicle inspections"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": "cadence"
+      },
+      "rule_id": "vanessa_davis_scheduling_02"
+    },
+    {
+      "rule_text": "For church outreach sessions, mentoring meetups, or family gatherings, she prefers creating a proper shared calendar event rather than relying on an informal reminder.",
+      "canonical_answer": "For group plans, I want a real calendar event that everyone can work from.",
+      "counterfactual_default": "Set only a private reminder or keep the plan informal in messages.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekend family gatherings"
+        },
+        {
+          "type": "direct",
+          "content": "volunteers at her church’s youth outreach program"
+        },
+        {
+          "type": "direct",
+          "content": "contributing to mentorship programs"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "vanessa_davis_scheduling_04"
+    },
+    {
+      "rule_text": "When planning a leisure trip, she prefers itineraries built around scenic desert and stargazing stops rather than generic city attractions.",
+      "canonical_answer": "When I plan a fun trip, I want the stops to lean toward desert scenery and stargazing instead of standard tourist-city picks.",
+      "counterfactual_default": "Pick the most broadly popular or urban sightseeing stops.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Vanessa prefers road‑trip adventures that blend scenic desert driving with stargazing excursions"
+        },
+        {
+          "type": "direct",
+          "content": "She frequently hikes the dunes and rocky trails around Mojave, often stopping to photograph sunrise and sunset vistas"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "vanessa_davis_travel_01"
+    },
+    {
+      "rule_text": "If a booked trip stop falls through, she prefers replacement stops that preserve the original nature-or-astronomy theme instead of swapping in any high-rated alternative.",
+      "canonical_answer": "If part of my trip breaks, I want the replacement stop to keep the same desert, hiking, or stargazing vibe.",
+      "counterfactual_default": "Replace the disrupted stop with any convenient or highly rated substitute.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Vanessa prefers road‑trip adventures that blend scenic desert driving with stargazing excursions"
+        },
+        {
+          "type": "direct",
+          "content": "She loves stargazing on clear desert nights"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "vanessa_davis_travel_02"
+    },
+    {
+      "rule_text": "For personal travel, she consistently prefers ground transportation over flights.",
+      "canonical_answer": "For my trips, I usually want to go by road or rail instead of flying.",
+      "counterfactual_default": "Book a flight for the trip.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Vanessa prefers road‑trip adventures"
+        },
+        {
+          "type": "direct",
+          "content": "driver‑sales pro"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "vanessa_davis_travel_03"
+    },
+    {
+      "rule_text": "When booking lodging for her own trips, she prefers modest budget-friendly hotel options over upscale ones.",
+      "canonical_answer": "I want practical, budget-conscious lodging rather than luxury hotel splurges.",
+      "counterfactual_default": "Choose a more premium or comfort-maximizing hotel offer.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "when planning these journeys, they balance retirement budgeting with family commitments"
+        },
+        {
+          "type": "direct",
+          "content": "Financially, she aims to build a retirement nest‑egg"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "vanessa_davis_travel_04"
+    },
+    {
+      "rule_text": "She prefers work files to be classified by project rather than by date or file type.",
+      "canonical_answer": "I organize work files by project because that matches how I track routes, clients, and jobs.",
+      "counterfactual_default": "Classify files by date or type.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "uses Excel and a simple CRM to keep sales records organized"
+        },
+        {
+          "type": "direct",
+          "content": "compensating for her occasional disorganization with clear, practical checklists"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "vanessa_davis_workspace_01"
+    },
+    {
+      "rule_text": "For blurry or duplicate desert photos, she prefers deleting them outright rather than keeping extra clutter.",
+      "canonical_answer": "If a desert photo is blurry or duplicated, I’d rather delete it than keep clutter around.",
+      "counterfactual_default": "Keep the files or merely move them aside.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "sunrise‑and‑sunset desert photography shared with a niche online community"
+        },
+        {
+          "type": "inferred",
+          "content": "Because she actively shares photography with a niche community, low-quality or duplicate shots are less useful than a clean set of keepers."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "delete_files",
+        "param": null
+      },
+      "rule_id": "vanessa_davis_workspace_03"
+    },
+    {
+      "rule_text": "When setting up repeatable workflow materials, she prefers creating a template rather than a one-off document.",
+      "canonical_answer": "If it’s something I’ll reuse, I want it built as a template.",
+      "counterfactual_default": "Create a regular one-off document.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "meticulous safety checklists"
+        },
+        {
+          "type": "direct",
+          "content": "clear, practical checklists"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "create_document",
+        "param": "doc_type"
+      },
+      "rule_id": "vanessa_davis_workspace_05"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "vanessa_davis_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "template",
+        "title": "Pre-Trip Running Checklist",
+        "location": "Fleet Ops",
+        "checklist_points": [
+          "pre-trip inspection section for lights, tires, brakes, fluids",
+          "maintenance notes section with date, issue, and repair follow-up",
+          "paperwork deadlines section for registration, permits, and inspection dates",
+          "simple format she can keep updating between trips"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Fleet Ops",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "template",
+            "title": "Pre-Trip Running Checklist",
+            "location": "Fleet Ops",
+            "content_brief": "<authored from checklist_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_fleet_01",
+            "type": "document",
+            "attributes": {
+              "title": "Vehicle Inspection Template",
+              "doc_type": "template",
+              "location": "Fleet Ops",
+              "content_brief": "Basic inspection template with cab, tires, and brake checkpoints."
+            }
+          },
+          {
+            "id": "doc_fleet_02",
+            "type": "document",
+            "attributes": {
+              "title": "Maintenance Follow-Up Notes",
+              "doc_type": "note",
+              "location": "Fleet Ops",
+              "content_brief": "Running maintenance note with issue summaries and repair status."
+            }
+          },
+          {
+            "id": "doc_fleet_03",
+            "type": "document",
+            "attributes": {
+              "title": "DOT Renewal Dates",
+              "doc_type": "spreadsheet",
+              "location": "Fleet Ops",
+              "content_brief": "Spreadsheet tracking permit and inspection renewal dates."
+            }
+          },
+          {
+            "id": "doc_admin_01",
+            "type": "document",
+            "attributes": {
+              "title": "Weekly Sales Call Notes",
+              "doc_type": "note",
+              "location": "Sales Admin",
+              "content_brief": "Call notes and customer follow-ups."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item.",
+      "task_params": {
+        "category": "phone mount",
+        "budget": 80,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_mount_01",
+          "prod_mount_02",
+          "prod_mount_03"
+        ],
+        "product_id": "prod_mount_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "phone mount",
+            "budget": 80,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_mount_01",
+              "prod_mount_02",
+              "prod_mount_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_mount_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_mount_01",
+            "type": "product",
+            "attributes": {
+              "name": "RoadForge ClampGrip Dash Phone Mount",
+              "price": 39.99,
+              "category": "phone mount",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_mount_02",
+            "type": "product",
+            "attributes": {
+              "name": "DesertHaul Heavy-Duty Cab Phone Mount",
+              "price": 59.5,
+              "category": "phone mount",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_mount_03",
+            "type": "product",
+            "attributes": {
+              "name": "IronTrail Vibration-Lock Phone Mount",
+              "price": 74.0,
+              "category": "phone mount",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_mount_04",
+            "type": "product",
+            "attributes": {
+              "name": "MesaFlex Vent Phone Mount",
+              "price": 24.99,
+              "category": "phone mount",
+              "rating": 4.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "communication",
+      "reason_for_call": "Triage email and draft a reply",
+      "task_params": {
+        "target_sender": "Dana Ruiz",
+        "folder": "inbox",
+        "target_timestamp": "2025-05-08T16:18:00-07:00",
+        "language": "en",
+        "reply_points": [
+          "Apologize for the delayed response while I was traveling",
+          "Thank them for checking in",
+          "Confirm the XG-200 tank monitor now supports Bluetooth syncing",
+          "Say the latest spec sheet lists 18-month battery life",
+          "Mention current lead time is about 2 weeks",
+          "Offer to send the full spec sheet and answer follow-up questions"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Dana Ruiz",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_dana_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_dana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Ruiz",
+              "subject": "Updated info on the XG-200 tank monitor?",
+              "body": "Hi Vanessa, following up to see if you have the latest product details on the XG-200 tank monitor. Specifically I need to confirm whether Bluetooth syncing is included now, what the battery life is on the newest version, and what lead times look like at the moment. Thanks.",
+              "thread_id": "thr_dana_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-08T16:18:00-07:00"
+            }
+          },
+          {
+            "id": "msg_dana_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Ruiz",
+              "subject": "Re: Demo pricing for fleet sensors",
+              "body": "Thanks for the pricing notes last month. I'll circle back after I talk with my team.",
+              "thread_id": "thr_dana_00",
+              "folder": "archive",
+              "labels": [
+                "customer"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-04-18T11:05:00-07:00"
+            }
+          },
+          {
+            "id": "msg_mike_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Mike Halpern",
+              "subject": "Route paperwork reminder",
+              "body": "Please upload the signed delivery sheet when you're back in range.",
+              "thread_id": "thr_mike_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-05-08T14:02:00-07:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "scheduling",
+      "reason_for_call": "Set a reminder",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Church Youth Outreach Planning Call",
+        "start_time": "2025-05-18T15:00:00-07:00",
+        "end_time": "2025-05-18T16:00:00-07:00",
+        "remind_at": "2025-05-16T20:00:00-07:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_church_01",
+            "remind_at": "2025-05-16T20:00:00-07:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_church_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Church Youth Outreach Planning Call",
+              "start_time": "2025-05-18T15:00:00-07:00",
+              "end_time": "2025-05-18T16:00:00-07:00",
+              "participants": [
+                "Vanessa Davis",
+                "Deacon Miller",
+                "Sister Angela"
+              ],
+              "location": "Phone call",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Fleet Safety Check-In",
+              "start_time": "2025-05-16T17:30:00-07:00",
+              "end_time": "2025-05-16T18:00:00-07:00",
+              "participants": [
+                "Vanessa Davis",
+                "Dispatch Team"
+              ],
+              "location": "Work yard office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_family_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Marcus",
+              "start_time": "2025-05-16T19:00:00-07:00",
+              "end_time": "2025-05-16T20:30:00-07:00",
+              "participants": [
+                "Vanessa Davis",
+                "Marcus Davis"
+              ],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_hobby_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Astronomy Club Night Walk",
+              "start_time": "2025-05-17T21:00:00-07:00",
+              "end_time": "2025-05-17T23:00:00-07:00",
+              "participants": [
+                "Vanessa Davis",
+                "Mojave Astronomy Club"
+              ],
+              "location": "Red Rock overlook",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "dentist",
+        "location": "Mojave",
+        "sort_by": "distance",
+        "date_time": "2025-02-18T10:30:00-08:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "dentist",
+            "location": "Mojave",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_mojavesmiles_02",
+            "date_time": "2025-02-18T10:30:00-08:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_highdesertdental_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "High Desert Dental Care",
+              "service_type": "dentist",
+              "location": "Mojave",
+              "rating": 4.7,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_mojavesmiles_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mojave Smiles Family Dentistry",
+              "service_type": "dentist",
+              "location": "Mojave",
+              "rating": 4.5,
+              "distance_km": 1.4
+            }
+          },
+          {
+            "id": "svc_desertcrestdental_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Desert Crest Dental Group",
+              "service_type": "dentist",
+              "location": "Mojave",
+              "rating": 4.8,
+              "distance_km": 3.8
+            }
+          },
+          {
+            "id": "svc_tehachapifamilydental_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Tehachapi Family Dental",
+              "service_type": "dentist",
+              "location": "Tehachapi",
+              "rating": 4.6,
+              "distance_km": 18.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "workspace",
+      "reason_for_call": "Organize some work files.",
+      "task_params": {
+        "location": "Route Desk Loose",
+        "owner": "Vanessa Davis",
+        "scheme": "by_priority"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Route Desk Loose"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_sales_01",
+              "fil_sales_02",
+              "fil_safe_01",
+              "fil_safe_02"
+            ],
+            "scheme": "by_priority"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_sales_01",
+              "fil_sales_02",
+              "fil_safe_01",
+              "fil_safe_02"
+            ],
+            "folder_id": "fld_quick_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_sales_01",
+            "type": "file",
+            "attributes": {
+              "name": "Fuel Stop Sales Sheet Apr.xlsx",
+              "file_type": "xlsx",
+              "location": "Route Desk Loose",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "unfiled"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_sales_02",
+            "type": "file",
+            "attributes": {
+              "name": "Route 8 Sales Sheet May.xlsx",
+              "file_type": "xlsx",
+              "location": "Route Desk Loose",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "unfiled"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_safe_01",
+            "type": "file",
+            "attributes": {
+              "name": "Hazmat Safety Notes.pdf",
+              "file_type": "pdf",
+              "location": "Route Desk Loose",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "unfiled"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_safe_02",
+            "type": "file",
+            "attributes": {
+              "name": "Liftgate Safety Notes.pdf",
+              "file_type": "pdf",
+              "location": "Route Desk Loose",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "unfiled"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_other_01",
+            "type": "file",
+            "attributes": {
+              "name": "Warehouse Photo.jpg",
+              "file_type": "image",
+              "location": "Route Desk Loose",
+              "owner": "Marcus Hill",
+              "labels": [
+                "unfiled"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_quick_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Quick Access",
+              "purpose": "Current high-priority work files"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a calendar meet-up",
+      "task_params": {
+        "title": "Mentor check-in with Jamal",
+        "start_time": "2025-03-19T18:15:00-07:00",
+        "end_time": "2025-03-19T18:35:00-07:00",
+        "participants": [
+          "jamal.harris@example.com"
+        ],
+        "location": "Route 58 Diner"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-19T18:15:00-07:00",
+            "end_time": "2025-03-19T18:35:00-07:00",
+            "participants": [
+              "jamal.harris@example.com"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Mentor check-in with Jamal",
+            "start_time": "2025-03-19T18:15:00-07:00",
+            "end_time": "2025-03-19T18:35:00-07:00",
+            "participants": [
+              "jamal.harris@example.com"
+            ],
+            "location": "Route 58 Diner"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Bakersfield supply drop",
+              "start_time": "2025-03-19T13:00:00-07:00",
+              "end_time": "2025-03-19T16:45:00-07:00",
+              "participants": [
+                "dispatch@highdesertlogistics.com"
+              ],
+              "location": "Bakersfield yard",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Post-trip inspection and paperwork",
+              "start_time": "2025-03-19T17:00:00-07:00",
+              "end_time": "2025-03-19T17:40:00-07:00",
+              "participants": [],
+              "location": "Mojave depot",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_pers_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Call with Denise",
+              "start_time": "2025-03-19T19:15:00-07:00",
+              "end_time": "2025-03-19T19:45:00-07:00",
+              "participants": [
+                "denise.davis@example.com"
+              ],
+              "location": "",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_pers_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mentor check-in with Jamal",
+              "start_time": "2025-03-19T18:15:00-07:00",
+              "end_time": "2025-03-19T18:35:00-07:00",
+              "participants": [
+                "jamal.harris@example.com"
+              ],
+              "location": "Route 58 Diner",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "communication",
+      "reason_for_call": "Send a message",
+      "task_params": {
+        "sender": "Mojave Desert Skywatchers",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "Say she enjoyed seeing the club update",
+          "Ask if newcomers are welcome to join the next evening walk",
+          "Mention she is interested in stargazing",
+          "Ask if there is anything a first-timer should bring",
+          "Close with thanks"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Mojave Desert Skywatchers",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_skywatchers_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_skywatchers_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Mojave Desert Skywatchers",
+              "subject": "Desert observatory evening walk update",
+              "body": "Hi members and friends, our next evening walk by the observatory is coming up soon. We will share final timing and sky conditions later this week.",
+              "thread_id": "thr_skywatchers_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T18:22:00"
+            }
+          },
+          {
+            "id": "msg_church_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Mojave Community Church",
+              "subject": "Youth outreach volunteer reminder",
+              "body": "Just a reminder about Saturday's vehicle safety session.",
+              "thread_id": "thr_church_01",
+              "folder": "inbox",
+              "labels": [
+                "community"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-13T09:10:00"
+            }
+          },
+          {
+            "id": "msg_route_01",
+            "type": "message",
+            "attributes": {
+              "sender": "High Desert Logistics",
+              "subject": "Route sheet correction",
+              "body": "Please review the updated route sheet before tomorrow morning.",
+              "thread_id": "thr_route_01",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-14T06:45:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "destination_constraints": [
+          "Joshua Tree",
+          "desert",
+          "stargazing"
+        ],
+        "destination": "Joshua Tree",
+        "duration_days": 3,
+        "traveler_count": 2,
+        "stop_tags": [
+          "scenic",
+          "easy hike",
+          "stargazing"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Joshua Tree",
+              "desert",
+              "stargazing"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_joshua_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Joshua Tree",
+            "stop_tags": [
+              "scenic",
+              "easy hike",
+              "stargazing"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Joshua Tree",
+            "duration_days": 3,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_keysview_01",
+              "stp_barker_02",
+              "stp_chollagarden_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_joshua_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Joshua Tree National Park",
+              "region": "Southern California desert",
+              "tags": [
+                "desert",
+                "stargazing",
+                "scenic drives",
+                "easy hiking"
+              ]
+            }
+          },
+          {
+            "id": "dst_borrego_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Anza-Borrego Desert State Park",
+              "region": "Southern California desert",
+              "tags": [
+                "desert",
+                "wildflowers",
+                "scenic drives",
+                "night sky"
+              ]
+            }
+          },
+          {
+            "id": "dst_deathvalley_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Death Valley National Park",
+              "region": "Eastern California desert",
+              "tags": [
+                "desert",
+                "scenic overlooks",
+                "stargazing",
+                "long drives"
+              ]
+            }
+          },
+          {
+            "id": "stp_keysview_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Keys View",
+              "location": "Joshua Tree National Park",
+              "tags": [
+                "scenic",
+                "sunset",
+                "stargazing",
+                "viewpoint"
+              ]
+            }
+          },
+          {
+            "id": "stp_barker_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Barker Dam Trail",
+              "location": "Joshua Tree National Park",
+              "tags": [
+                "easy hike",
+                "scenic",
+                "rocks",
+                "nature"
+              ]
+            }
+          },
+          {
+            "id": "stp_chollagarden_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Cholla Cactus Garden",
+              "location": "Joshua Tree",
+              "tags": [
+                "scenic",
+                "easy hike",
+                "stargazing",
+                "photography"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a packing note",
+      "task_params": {
+        "doc_type": "note",
+        "location": "Road Trips",
+        "title": "Red Rock Canyon Scenic Drive Packing Note",
+        "packing_points": [
+          "camera body and wide-angle lens",
+          "spare battery and memory cards",
+          "tripod and lens cloth",
+          "small daypack with trail map",
+          "water bottles and electrolyte packets",
+          "sun hat, sunscreen, and light jacket",
+          "sturdy shoes and basic first-aid kit",
+          "folding camp chair and small blanket",
+          "thermos of coffee and easy snacks"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Road Trips",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Red Rock Canyon Scenic Drive Packing Note",
+            "location": "Road Trips",
+            "content_brief": "<authored from packing_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_tripnotes_01",
+            "type": "document",
+            "attributes": {
+              "title": "Alabama Hills Sunrise Photo Checklist",
+              "doc_type": "note",
+              "location": "Road Trips",
+              "content_brief": "Packing checklist for a sunrise photography stop with camera gear, layers, snacks, and roadside essentials."
+            }
+          },
+          {
+            "id": "doc_tripnotes_02",
+            "type": "document",
+            "attributes": {
+              "title": "Owens Valley Stargazing Night Drive Notes",
+              "doc_type": "note",
+              "location": "Road Trips",
+              "content_brief": "Night-drive prep note covering binoculars, warm layers, hot drinks, flashlight, and folding chairs."
+            }
+          },
+          {
+            "id": "doc_home_01",
+            "type": "document",
+            "attributes": {
+              "title": "Garage Shelf Supply List",
+              "doc_type": "note",
+              "location": "Home Projects",
+              "content_brief": "Lumber sizes, screws, stain options, and measuring notes for a garage shelving build."
+            }
+          },
+          {
+            "id": "file_cam_01",
+            "type": "file",
+            "attributes": {
+              "name": "red-rock-overlook.jpg",
+              "file_type": "image",
+              "location": "Photos/Scouting",
+              "owner": "Vanessa",
+              "labels": [
+                "desert",
+                "scouting"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Flagstaff",
+        "cuisine": "American",
+        "sort_by": "rating",
+        "date_time": "2025-06-21T19:00:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Flagstaff",
+            "cuisine": "American",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_lumberyard_01",
+            "date_time": "2025-06-21T19:00:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_lumberyard_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Lumberyard Tap Room & Grille",
+              "cuisine": "American",
+              "location": "Flagstaff",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_josephines_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Josephine's Modern American Bistro",
+              "cuisine": "American",
+              "location": "Flagstaff",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_salsa_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Salsa Brava",
+              "cuisine": "Mexican",
+              "location": "Flagstaff",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_osteria_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Osteria Canyon",
+              "cuisine": "Italian",
+              "location": "Flagstaff",
+              "rating": 4.3,
+              "price_range": "$$$",
+              "seating_style": "casual"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s18",
+      "session_type": "learning",
+      "day_offset": 18,
+      "domain": "communication",
+      "reason_for_call": "Draft a family message",
+      "task_params": {
+        "sender": "Monica Davis",
+        "folder": "inbox",
+        "language": "en",
+        "message_points": [
+          "We’re planning a quiet little getaway",
+          "Everything is fine, just keeping it low-key",
+          "We’ll share the details once plans are settled",
+          "Love y’all"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Monica Davis",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_family_03",
+            "language": "en",
+            "body": "<authored from message_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_family_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Monica Davis",
+              "subject": "Family catch-up for next month",
+              "body": "Hey everybody, just checking in to see how folks are doing and whether we want to plan a family dinner soon.",
+              "thread_id": "thr_family_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-18T09:14:00"
+            }
+          },
+          {
+            "id": "msg_family_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Andre Davis",
+              "subject": "Photos from Sunday",
+              "body": "Uploading the pictures from Sunday now. Let me know which ones you want me to print.",
+              "thread_id": "thr_family_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-17T19:42:00"
+            }
+          },
+          {
+            "id": "msg_work_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Route Dispatch",
+              "subject": "Fuel receipt reminder",
+              "body": "Please upload the missing fuel receipt for Thursday before end of day.",
+              "thread_id": "thr_work_12",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-18T07:30:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "travel",
+      "reason_for_call": "Book a hotel.",
+      "task_params": {
+        "location": "Flagstaff",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "check_in_date": "2025-09-12",
+        "check_out_date": "2025-09-14"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Flagstaff",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_flagstaffinn_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_flagstaffinn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Flagstaff Canyon Inn",
+              "location": "Flagstaff, AZ",
+              "check_in_date": "2025-09-12",
+              "check_out_date": "2025-09-14",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 129.0
+            }
+          },
+          {
+            "id": "hot_pineslodge_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Ponderosa Pines Lodge",
+              "location": "Flagstaff, AZ",
+              "check_in_date": "2025-09-12",
+              "check_out_date": "2025-09-14",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 149.0
+            }
+          },
+          {
+            "id": "hot_railside_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Railside Suites Flagstaff",
+              "location": "Flagstaff, Arizona",
+              "check_in_date": "2025-09-12",
+              "check_out_date": "2025-09-14",
+              "available_rooms": 2,
+              "max_guests_per_room": 4,
+              "price_per_night": 165.0
+            }
+          },
+          {
+            "id": "hot_skyview_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Skyview Motor Lodge",
+              "location": "Flagstaff, AZ",
+              "check_in_date": "2025-09-13",
+              "check_out_date": "2025-09-15",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 119.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "camera battery",
+        "budget": 80,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "camera battery",
+            "budget": 80,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_battery_01",
+              "prod_battery_02",
+              "prod_battery_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_battery_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_battery_01",
+            "type": "product",
+            "attributes": {
+              "name": "PowerMax Camera Battery Pack",
+              "price": 34.99,
+              "category": "camera battery",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_battery_02",
+            "type": "product",
+            "attributes": {
+              "name": "SunPeak Camera Battery Pro",
+              "price": 49.5,
+              "category": "camera battery",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_battery_03",
+            "type": "product",
+            "attributes": {
+              "name": "DesertLine Camera Battery XL",
+              "price": 62.0,
+              "category": "camera battery",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_tripod_01",
+            "type": "product",
+            "attributes": {
+              "name": "TrailLite Compact Tripod",
+              "price": 57.99,
+              "category": "tripod",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working note",
+      "task_params": {
+        "doc_type": "note",
+        "title": "Youth Session: Basic Vehicle Safety and Road Awareness",
+        "location": "Church Youth Outreach",
+        "content_brief": "One-page note for a youth session covering simple vehicle safety tips and road awareness.",
+        "safety_points": [
+          "check seat belts before the car moves",
+          "walk around the vehicle and watch for kids or objects",
+          "keep eyes on the road and limit phone distractions",
+          "follow speed limits and leave safe stopping distance",
+          "use turn signals and check mirrors before changing lanes",
+          "watch road signs, crosswalks, and school zones",
+          "never ride with an unsafe or impaired driver",
+          "speak up if something in the car feels unsafe"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Church Youth Outreach",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Youth Session: Basic Vehicle Safety and Road Awareness",
+            "location": "Church Youth Outreach",
+            "content_brief": "<authored from safety_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_tpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Youth Outreach Session Note Template",
+              "doc_type": "template",
+              "location": "Church Youth Outreach",
+              "content_brief": "Simple one-page teaching template with heading, key points, and closing reminder."
+            }
+          },
+          {
+            "id": "doc_note_02",
+            "type": "document",
+            "attributes": {
+              "title": "Volunteer Check-In Talking Points",
+              "doc_type": "note",
+              "location": "Church Youth Outreach",
+              "content_brief": "Brief welcome note and attendance reminders for youth volunteers."
+            }
+          },
+          {
+            "id": "doc_tpl_03",
+            "type": "document",
+            "attributes": {
+              "title": "Community Workshop Handout Template",
+              "doc_type": "template",
+              "location": "Community Programs",
+              "content_brief": "Generic handout template for short educational sessions."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "scheduling",
+      "reason_for_call": "Reschedule something on my calendar",
+      "task_params": {
+        "workshop_event_id": "evt_youth_01",
+        "new_start_time": "2025-05-22T18:30:00-07:00",
+        "new_end_time": "2025-05-22T20:00:00-07:00",
+        "remind_at": "2025-05-22T17:45:00-07:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "reschedule_event",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-05-22T18:30:00-07:00",
+            "end_time": "2025-05-22T20:00:00-07:00"
+          }
+        },
+        {
+          "tool": "reschedule_event",
+          "arguments": {
+            "event_id": "evt_youth_01",
+            "new_start_time": "2025-05-22T18:30:00-07:00",
+            "new_end_time": "2025-05-22T20:00:00-07:00"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_youth_01",
+            "remind_at": "2025-05-22T17:45:00-07:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_youth_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Church Youth Vehicle Safety Workshop",
+              "start_time": "2025-05-22T16:00:00-07:00",
+              "end_time": "2025-05-22T17:30:00-07:00",
+              "participants": [
+                "youthministry@highdesertchurch.org",
+                "vanessa.davis@example.com"
+              ],
+              "location": "High Desert Church - Fellowship Hall",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_route_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Barstow Delivery Run",
+              "start_time": "2025-05-22T14:30:00-07:00",
+              "end_time": "2025-05-22T18:00:00-07:00",
+              "participants": [
+                "dispatch@mojavelogistics.com",
+                "vanessa.davis@example.com"
+              ],
+              "location": "Barstow route",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_route_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lancaster Supply Pickup",
+              "start_time": "2025-05-22T08:00:00-07:00",
+              "end_time": "2025-05-22T11:00:00-07:00",
+              "participants": [
+                "warehouse@mojavelogistics.com",
+                "vanessa.davis@example.com"
+              ],
+              "location": "Lancaster yard",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_family_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Marcus",
+              "start_time": "2025-05-22T20:30:00-07:00",
+              "end_time": "2025-05-22T21:30:00-07:00",
+              "participants": [
+                "marcus.davis@example.com",
+                "vanessa.davis@example.com"
+              ],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "reservation",
+      "reason_for_call": "Book a wellness appointment.",
+      "task_params": {
+        "service_type": "yoga",
+        "location": "Mojave",
+        "sort_by": "rating",
+        "date_time": "2025-03-29T10:30:00-07:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "yoga",
+            "location": "Mojave",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "sp_highdesert_03",
+            "date_time": "2025-03-29T10:30:00-07:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "sp_desertflow_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Desert Flow Yoga Studio",
+              "service_type": "yoga",
+              "location": "Mojave",
+              "rating": 4.8,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "sp_sunrisewell_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Sunrise Wellness Collective",
+              "service_type": "massage",
+              "location": "Mojave",
+              "rating": 4.7,
+              "distance_km": 2.4
+            }
+          },
+          {
+            "id": "sp_highdesert_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "High Desert Stretch & Yoga",
+              "service_type": "yoga",
+              "location": "Mojave",
+              "rating": 4.9,
+              "distance_km": 5.1
+            }
+          },
+          {
+            "id": "sp_tehachapibalance_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Tehachapi Balance Room",
+              "service_type": "yoga",
+              "location": "Tehachapi",
+              "rating": 4.6,
+              "distance_km": 34.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination": "New Orleans",
+        "duration_days": 4,
+        "traveler_count": 2,
+        "destination_constraints": [
+          "New Orleans",
+          "jazz",
+          "food"
+        ],
+        "stop_tags": [
+          "jazz",
+          "history",
+          "food"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "New Orleans",
+              "jazz",
+              "food"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_neworleans_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "New Orleans",
+            "stop_tags": [
+              "jazz",
+              "history",
+              "food"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "New Orleans",
+            "duration_days": 4,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_preservationhall_01",
+              "stp_backstreet_01",
+              "stp_stroch_01",
+              "stp_frenchmen_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_neworleans_01",
+            "type": "destination",
+            "attributes": {
+              "name": "New Orleans",
+              "region": "Louisiana",
+              "tags": [
+                "jazz",
+                "food",
+                "history",
+                "culture",
+                "budget-friendly"
+              ]
+            }
+          },
+          {
+            "id": "stp_frenchmen_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Frenchmen Street Live Music Walk",
+              "location": "New Orleans",
+              "tags": [
+                "jazz",
+                "music",
+                "nightlife",
+                "walking"
+              ]
+            }
+          },
+          {
+            "id": "stp_preservationhall_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Preservation Hall",
+              "location": "New Orleans",
+              "tags": [
+                "jazz",
+                "history",
+                "music",
+                "landmark"
+              ]
+            }
+          },
+          {
+            "id": "stp_backstreet_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Backstreet Cultural Museum",
+              "location": "New Orleans",
+              "tags": [
+                "history",
+                "culture",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "stp_stroch_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "St. Roch Market",
+              "location": "New Orleans",
+              "tags": [
+                "food",
+                "market",
+                "casual",
+                "budget-friendly"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "Future Leisure Trip Budget Comparison",
+        "location": "Travel Planning",
+        "trip_options_keywords": [
+          "Denali aurora trip",
+          "New Orleans jazz trip",
+          "Sedona stargazing trip"
+        ],
+        "comparison_points": [
+          "side-by-side cost columns for each trip option",
+          "categories: transportation, lodging, food, activities, buffer",
+          "include estimated total for each trip",
+          "add a target budget line of $3500",
+          "show the gap between estimate and target"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Travel Planning",
+            "doc_type": "spreadsheet"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "Future Leisure Trip Budget Comparison",
+            "location": "Travel Planning",
+            "content_brief": "<authored from trip_options_keywords and comparison_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_travel_01",
+            "type": "document",
+            "attributes": {
+              "title": "Road Trip Packing Checklist",
+              "doc_type": "note",
+              "location": "Travel Planning",
+              "content_brief": "Checklist for desert driving, snacks, overnight gear, and camera items."
+            }
+          },
+          {
+            "id": "doc_travel_02",
+            "type": "document",
+            "attributes": {
+              "title": "National Park Mileage Estimates",
+              "doc_type": "spreadsheet",
+              "location": "Travel Planning",
+              "content_brief": "Rough driving distances, fuel stops, and lodging notes for Southwest routes."
+            }
+          },
+          {
+            "id": "doc_travel_03",
+            "type": "document",
+            "attributes": {
+              "title": "Retirement Savings Check-In",
+              "doc_type": "report",
+              "location": "Travel Planning",
+              "content_brief": "Quarterly review of savings goals and discretionary spending."
+            }
+          },
+          {
+            "id": "doc_work_01",
+            "type": "document",
+            "attributes": {
+              "title": "Fleet Safety Meeting Notes",
+              "doc_type": "memo",
+              "location": "Work Admin",
+              "content_brief": "Driver reminders, inspection issues, and maintenance scheduling."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "commerce",
+      "reason_for_call": "Order a travel item",
+      "task_params": {
+        "category": "carry-on bag",
+        "budget": 90,
+        "sort_by": "price_asc",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "carry-on bag",
+            "budget": 90,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_desertline_03",
+              "prod_skytrail_01",
+              "prod_roaddock_02"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_roaddock_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_skytrail_01",
+            "type": "product",
+            "attributes": {
+              "name": "SkyTrail Softside Carry-On Bag",
+              "price": 69.99,
+              "category": "carry-on bag",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_roaddock_02",
+            "type": "product",
+            "attributes": {
+              "name": "RoadDock Expandable Carry-On Bag",
+              "price": 84.5,
+              "category": "carry-on bag",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_desertline_03",
+            "type": "product",
+            "attributes": {
+              "name": "DesertLine Weekender Carry-On Bag",
+              "price": 59.0,
+              "category": "carry-on bag",
+              "rating": 4.0
+            }
+          },
+          {
+            "id": "prod_gatehopper_04",
+            "type": "product",
+            "attributes": {
+              "name": "GateHopper Hardside Carry-On Bag",
+              "price": 109.99,
+              "category": "carry-on bag",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "scheduling",
+      "reason_for_call": "Add time on my calendar",
+      "task_params": {
+        "title": "Retirement and Travel Planning",
+        "start_time": "2025-03-29T14:00:00-07:00",
+        "end_time": "2025-03-29T16:30:00-07:00",
+        "location": "Home office"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-29T14:00:00-07:00",
+            "end_time": "2025-03-29T16:30:00-07:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Retirement and Travel Planning",
+            "start_time": "2025-03-29T14:00:00-07:00",
+            "end_time": "2025-03-29T16:30:00-07:00",
+            "location": "Home office"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_routecheck_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Route paperwork catch-up",
+              "start_time": "2025-03-28T17:30:00-07:00",
+              "end_time": "2025-03-28T18:30:00-07:00",
+              "participants": [],
+              "location": "Dispatch office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_church_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Youth outreach vehicle safety session",
+              "start_time": "2025-03-29T10:00:00-07:00",
+              "end_time": "2025-03-29T11:30:00-07:00",
+              "participants": [
+                "church youth team"
+              ],
+              "location": "Community church hall",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_family_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Call with niece",
+              "start_time": "2025-03-29T18:00:00-07:00",
+              "end_time": "2025-03-29T18:30:00-07:00",
+              "participants": [
+                "niece"
+              ],
+              "location": "Phone",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_hike_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Retirement and Travel Planning",
+              "start_time": "2025-03-29T14:00:00-07:00",
+              "end_time": "2025-03-29T16:30:00-07:00",
+              "participants": [
+                "spouse"
+              ],
+              "location": "Home office",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files",
+      "task_params": {
+        "location": "Desktop",
+        "file_type": "xlsx",
+        "file_ids": [
+          "fil_saleslog_01",
+          "fil_q2routes_02"
+        ],
+        "scheme": "by_type",
+        "folder_id": "fld_salesrecords_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Desktop",
+            "file_type": "xlsx"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_saleslog_01",
+              "fil_q2routes_02"
+            ],
+            "scheme": "by_type"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_saleslog_01",
+              "fil_q2routes_02"
+            ],
+            "folder_id": "fld_salesrecords_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_saleslog_01",
+            "type": "file",
+            "attributes": {
+              "name": "Sales_Log_April.xlsx",
+              "file_type": "xlsx",
+              "location": "Desktop",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_q2routes_02",
+            "type": "file",
+            "attributes": {
+              "name": "Q2_Client_Route_Revenue.xlsx",
+              "file_type": "xlsx",
+              "location": "Desktop",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_brakenotes_03",
+            "type": "file",
+            "attributes": {
+              "name": "Brake_Service_Notes.docx",
+              "file_type": "docx",
+              "location": "Desktop",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_salesrecords_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Sales Records",
+              "purpose": "Store revenue logs, route sales sheets, and client billing files."
+            }
+          },
+          {
+            "id": "fld_maintnotes_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Maintenance Notes",
+              "purpose": "Keep service writeups, repair notes, and inspection summaries."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "communication",
+      "reason_for_call": "Reply to a customer message.",
+      "task_params": {
+        "sender": "Jordan Pike",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank them for following up",
+          "say the quoted rate already reflects a sharp price",
+          "be clear there is no room to reduce it further",
+          "keep the tone professional and respectful",
+          "invite any questions about scope or timing"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Jordan Pike",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Pike",
+              "subject": "Re: Bulk coolant delivery quote",
+              "body": "Thanks for sending this over. I like the service window, but your number is still higher than I hoped. Can you sharpen the quote any further if we move ahead this week?",
+              "thread_id": "thr_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:18:00"
+            }
+          },
+          {
+            "id": "msg_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marta Ruiz",
+              "subject": "Updated unloading checklist",
+              "body": "Please review the latest checklist before tomorrow's yard handoff.",
+              "thread_id": "thr_02",
+              "folder": "inbox",
+              "labels": [
+                "ops"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-14T07:42:00"
+            }
+          },
+          {
+            "id": "msg_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Pike",
+              "subject": "Quote received",
+              "body": "Got it, thanks. I'll take a closer look and circle back.",
+              "thread_id": "thr_03",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-01-29T16:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s39",
+      "session_type": "learning",
+      "day_offset": 39,
+      "domain": "commerce",
+      "reason_for_call": "Order a kitchen item",
+      "task_params": {
+        "category": "cast iron cornbread pan",
+        "budget": 45,
+        "sort_by": "rating",
+        "product_id": "prod_lodge_08",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "cast iron cornbread pan",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_lodge_08",
+              "prod_bruntmor_11",
+              "prod_oldmountain_14",
+              "prod_bayouclassic_19"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_lodge_08",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_lodge_08",
+            "type": "product",
+            "attributes": {
+              "name": "Lodge Seasoned Cast Iron Cornstick Pan",
+              "price": 24.99,
+              "category": "cast iron cornbread pan",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_bruntmor_11",
+            "type": "product",
+            "attributes": {
+              "name": "Bruntmor Pre-Seasoned Cast Iron Cornbread Wedge Pan",
+              "price": 29.95,
+              "category": "cast iron cornbread pan",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_oldmountain_14",
+            "type": "product",
+            "attributes": {
+              "name": "Old Mountain Cast Iron Biscuit and Cornbread Pan",
+              "price": 34.5,
+              "category": "cast iron cornbread pan",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_bayouclassic_19",
+            "type": "product",
+            "attributes": {
+              "name": "Bayou Classic Cast Iron Cornbread Pan",
+              "price": 39.99,
+              "category": "cast iron cornbread pan",
+              "rating": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s40",
+      "session_type": "learning",
+      "day_offset": 40,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "note",
+        "title": "Chicken and Cornbread Comfort Tweaks",
+        "location": "Personal/Recipes",
+        "tweak_points": [
+          "Add smoked paprika to the flour for the chicken",
+          "Use a little hot sauce in the buttermilk soak",
+          "Season collard greens with turkey instead of ham hock",
+          "Brush cornbread top with melted butter after baking",
+          "Leave space for future side-dish notes"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Personal/Recipes",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Chicken and Cornbread Comfort Tweaks",
+            "location": "Personal/Recipes",
+            "content_brief": "<authored from tweak_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_recipe_01",
+            "type": "document",
+            "attributes": {
+              "title": "Seafood Boil Notes",
+              "doc_type": "note",
+              "location": "Personal/Recipes",
+              "content_brief": "Casual cooking note with seasoning reminders and timing tips."
+            }
+          },
+          {
+            "id": "doc_recipe_02",
+            "type": "document",
+            "attributes": {
+              "title": "Sunday Dinner Ideas",
+              "doc_type": "note",
+              "location": "Personal/Recipes",
+              "content_brief": "Short note collecting main dish and side ideas for family meals."
+            }
+          },
+          {
+            "id": "doc_home_03",
+            "type": "document",
+            "attributes": {
+              "title": "Garage Supply List",
+              "doc_type": "note",
+              "location": "Personal/Home",
+              "content_brief": "Checklist for small repair supplies and storage items."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s41",
+      "session_type": "learning",
+      "day_offset": 41,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a reminder.",
+      "task_params": {
+        "title": "Grocery run",
+        "start_time": "2025-03-15T10:00:00-07:00",
+        "end_time": "2025-03-15T11:00:00-07:00",
+        "location": "Albertsons"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-15T10:00:00-07:00",
+            "end_time": "2025-03-15T11:00:00-07:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Grocery run",
+            "start_time": "2025-03-15T10:00:00-07:00",
+            "end_time": "2025-03-15T11:00:00-07:00",
+            "location": "Albertsons"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_church_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Grocery run",
+              "start_time": "2025-03-15T10:00:00-07:00",
+              "end_time": "2025-03-15T11:00:00-07:00",
+              "participants": [],
+              "location": "Albertsons",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_oil_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Oil change appointment",
+              "start_time": "2025-03-15T12:30:00-07:00",
+              "end_time": "2025-03-15T13:30:00-07:00",
+              "participants": [],
+              "location": "Mojave Auto Service",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_call_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Call with Denise",
+              "start_time": "2025-03-15T15:00:00-07:00",
+              "end_time": "2025-03-15T15:30:00-07:00",
+              "participants": [
+                "Denise"
+              ],
+              "location": "",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s42",
+      "session_type": "learning",
+      "day_offset": 42,
+      "domain": "travel",
+      "reason_for_call": "Plan a trip",
+      "task_params": {
+        "destination_constraints": [
+          "Denali"
+        ],
+        "destination_ids": [
+          "dst_denali_01"
+        ],
+        "destination": "Denali",
+        "stop_tags": [
+          "aurora",
+          "scenic drive",
+          "budget"
+        ],
+        "selected_stop_ids": [
+          "stp_denali_highway_01",
+          "stp_healy_lodge_02",
+          "stp_wonder_lake_03"
+        ],
+        "duration_days": 5,
+        "traveler_count": 2
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Denali"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_denali_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Denali",
+            "stop_tags": [
+              "aurora",
+              "scenic drive",
+              "budget"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Denali",
+            "duration_days": 5,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_denali_highway_01",
+              "stp_healy_lodge_02",
+              "stp_wonder_lake_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_denali_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Denali National Park and Preserve",
+              "region": "Alaska",
+              "tags": [
+                "aurora",
+                "scenic drive",
+                "wildlife",
+                "budget lodges",
+                "fall"
+              ]
+            }
+          },
+          {
+            "id": "dst_fairbanks_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Fairbanks",
+              "region": "Alaska",
+              "tags": [
+                "aurora",
+                "city stay",
+                "museums",
+                "winter"
+              ]
+            }
+          },
+          {
+            "id": "stp_denali_highway_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Denali Highway Viewpoints",
+              "location": "Denali, Alaska",
+              "tags": [
+                "scenic drive",
+                "photo stop",
+                "budget",
+                "mountain views"
+              ]
+            }
+          },
+          {
+            "id": "stp_healy_lodge_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Healy Budget Lodge Area",
+              "location": "Healy near Denali, Alaska",
+              "tags": [
+                "budget",
+                "lodging",
+                "aurora",
+                "small town"
+              ]
+            }
+          },
+          {
+            "id": "stp_wonder_lake_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Wonder Lake",
+              "location": "Denali National Park, Alaska",
+              "tags": [
+                "aurora",
+                "scenic drive",
+                "lake",
+                "wildlife"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s43",
+      "session_type": "learning",
+      "day_offset": 43,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Imani Brooks",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "say she is not failing just learning a hard job",
+          "mention the first month is often the toughest",
+          "remind her to focus on safety before speed",
+          "tell her to ask questions and keep a small checklist",
+          "encourage her that confidence comes with more miles",
+          "offer to talk if she wants advice"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Imani Brooks",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_imani_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_imani_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Imani Brooks",
+              "subject": "Rough first month out here",
+              "body": "Hey Ms. Davis, I wanted to be honest and say this first month has been rough. I have had a couple of wrong turns, I am slower than the other drivers, and I keep second-guessing myself. Nobody's been mean, but I feel like I might not be cut out for this. If you have a minute, I could really use some advice.",
+              "thread_id": "thr_imani_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T18:14:00"
+            }
+          },
+          {
+            "id": "msg_dispatch_01",
+            "type": "message",
+            "attributes": {
+              "sender": "High Desert Dispatch",
+              "subject": "Updated fuel stop guidance",
+              "body": "Please review the revised fuel stop sequence for the northbound route and acknowledge receipt.",
+              "thread_id": "thr_dispatch_04",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-12T15:02:00"
+            }
+          },
+          {
+            "id": "msg_church_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Greater Hope Outreach",
+              "subject": "Youth workshop volunteer signup",
+              "body": "We are confirming volunteers for next week's vehicle safety workshop. Let us know if you can help.",
+              "thread_id": "thr_church_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T20:27:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s45",
+      "session_type": "learning",
+      "day_offset": 45,
+      "domain": "reservation",
+      "reason_for_call": "Book a personal appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Mojave",
+        "sort_by": "distance",
+        "date_time": "2025-02-20T16:30:00-08:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Mojave",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_shears_01",
+            "date_time": "2025-02-20T16:30:00-08:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_shears_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "High Desert Shears",
+              "service_type": "haircut",
+              "location": "Mojave",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_clippers_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mojave Style Chair",
+              "service_type": "haircut",
+              "location": "Mojave",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_beauty_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Desert Bloom Salon",
+              "service_type": "haircut",
+              "location": "Mojave",
+              "rating": 4.9,
+              "distance_km": 5.2
+            }
+          },
+          {
+            "id": "svc_nails_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Cactus Nails Studio",
+              "service_type": "manicure",
+              "location": "Mojave",
+              "rating": 4.5,
+              "distance_km": 1.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "vanessa_davis_s46",
+      "session_type": "learning",
+      "day_offset": 46,
+      "domain": "scheduling",
+      "reason_for_call": "Set up a reminder.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Safety paperwork block",
+        "start_time": "2025-03-10T08:30:00-08:00",
+        "end_time": "2025-03-10T09:30:00-08:00",
+        "remind_at": "2025-03-10T07:45:00-08:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_work_01",
+            "remind_at": "2025-03-10T07:45:00-08:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Safety paperwork block",
+              "start_time": "2025-03-10T08:30:00-08:00",
+              "end_time": "2025-03-10T09:30:00-08:00",
+              "participants": [],
+              "location": "Dispatch office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quarterly route review",
+              "start_time": "2025-03-11T14:00:00-08:00",
+              "end_time": "2025-03-11T15:00:00-08:00",
+              "participants": [
+                "ops_manager@highdesertfreight.com"
+              ],
+              "location": "Main conference room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dentist cleaning",
+              "start_time": "2025-03-12T10:00:00-08:00",
+              "end_time": "2025-03-12T11:00:00-08:00",
+              "participants": [],
+              "location": "Sierra Dental",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one shelf-stable side mix for dinner, keep it under $6, and just pick one for me.",
+      "gold_value": "prod_delta_cornbread_01",
+      "session_id": "vanessa_davis_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "vanessa_davis_commerce_02",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_commerce_02",
+        "rule_text": "When ordering food ingredients, she favors Southern comfort staples and seafood-boil items over generic convenience foods.",
+        "canonical_answer": "If I’m ordering ingredients, I want Southern comfort staples or seafood-boil items, not just generic convenience stuff."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_delta_cornbread_01",
+            "type": "product",
+            "attributes": {
+              "name": "Delta Stone-Ground Cornbread Mix",
+              "price": 5.79,
+              "category": "side mix",
+              "rating": 4.3,
+              "cuisine_style": "southern",
+              "review_count": 86,
+              "prep_style": "oven bake"
+            }
+          },
+          {
+            "id": "prod_bayou_hushpuppy_01",
+            "type": "product",
+            "attributes": {
+              "name": "Bayou Buttermilk Hush Puppy Mix",
+              "price": 6.89,
+              "category": "side mix",
+              "rating": 4.8,
+              "cuisine_style": "southern",
+              "review_count": 522,
+              "prep_style": "fry mix"
+            }
+          },
+          {
+            "id": "prod_creamy_mac_01",
+            "type": "product",
+            "attributes": {
+              "name": "Creamy Stove-Top Mac & Cheese Mix",
+              "price": 3.49,
+              "category": "side mix",
+              "rating": 4.9,
+              "review_count": 1830,
+              "prep_style": "quick cook",
+              "units_sold_last_30_days": 1400
+            }
+          },
+          {
+            "id": "prod_garlic_mashed_01",
+            "type": "product",
+            "attributes": {
+              "name": "Garlic Instant Mashed Potatoes",
+              "price": 2.99,
+              "category": "side mix",
+              "rating": 4.8,
+              "review_count": 1410,
+              "prep_style": "instant",
+              "units_sold_last_30_days": 1280
+            }
+          },
+          {
+            "id": "prod_cheddar_rice_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cheddar Broccoli Rice Side",
+              "price": 2.79,
+              "category": "side mix",
+              "rating": 4.7,
+              "review_count": 980,
+              "prep_style": "boxed convenience",
+              "units_sold_last_30_days": 990
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_delta_cornbread_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the torque wrench from my recent order. It arrived defective and won't power on.",
+      "gold_value": "exchange",
+      "session_id": "vanessa_davis_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "vanessa_davis_commerce_03",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_commerce_03",
+        "rule_text": "If a purchased tool or piece of equipment arrives wrong or defective, she prefers exchanging it for a working replacement rather than taking a refund.",
+        "canonical_answer": "For tools or equipment, I’d rather exchange a bad item than just get a refund."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_harborline_torque_wrench_01",
+            "type": "product",
+            "attributes": {
+              "name": "HarborLine Digital Torque Wrench",
+              "price": 89.99,
+              "category": "automotive_tools",
+              "rating": 4.2,
+              "brand": "HarborLine",
+              "order_id": "ord_5528_auto",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-18"
+            }
+          },
+          {
+            "id": "prod_rivetpeak_socket_set_01",
+            "type": "product",
+            "attributes": {
+              "name": "RivetPeak 64-Piece Socket Set",
+              "price": 74.99,
+              "category": "automotive_tools",
+              "rating": 4.8,
+              "brand": "RivetPeak",
+              "order_id": "ord_5493_shop",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-12"
+            }
+          },
+          {
+            "id": "prod_lumenforge_shop_light_01",
+            "type": "product",
+            "attributes": {
+              "name": "LumenForge Magnetic Shop Light",
+              "price": 32.5,
+              "category": "garage_equipment",
+              "rating": 4.7,
+              "brand": "LumenForge",
+              "order_id": "ord_5477_garage",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-10"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Ortiz at Harborview Community Pantry about the winter food-drive partnership. Tell her I'd be happy to join the planning meeting, ask her to send the expected attendee count and table setup details first, and let her know I can bring a one-page overview of our small-business mentoring program.",
+      "gold_value": null,
+      "session_id": "vanessa_davis_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "vanessa_davis_communication_01",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_communication_01",
+        "rule_text": "For client or community outreach, she prefers messages to be drafted first instead of being sent immediately.",
+        "canonical_answer": "For outreach messages, I want a draft first so I can look it over before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_pantry_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Ortiz <lena@harborviewpantry.org>",
+              "subject": "Winter food-drive partnership",
+              "body": "Hi Vanessa, I'm coordinating this season's food-drive at Harborview Community Pantry and wanted to see whether you'd be open to partnering with us. We expect a mix of neighborhood families and local shop owners, and I think your small-business mentoring program could fit well. If you're interested, could you join our planning meeting and let me know what kind of table setup or materials you would need?",
+              "thread_id": "thr_lena_pantry_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-01-12T09:14"
+            }
+          },
+          {
+            "id": "msg_aisha_expenses_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Aisha Bell <aisha@northpointadvisors.local>",
+              "subject": "Updated expense spreadsheet",
+              "body": "I cleaned up the mileage entries and uploaded the latest version of the reimbursement sheet. Can you double-check the January totals when you have a minute?",
+              "thread_id": "thr_aisha_expenses_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-01-12T08:02"
+            }
+          },
+          {
+            "id": "msg_portal_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@brightpathcrm.com",
+              "subject": "Your monthly invoice is ready",
+              "body": "Your January BrightPath CRM invoice is now available in the customer billing portal.",
+              "thread_id": "thr_brightpath_invoice_31",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-01-12T07:26"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Seattle for four people on 2026-09-18 at 7:30pm; keep it around a $$ price range, just choose a place and make the reservation.",
+      "gold_value": "rst_pier_lantern_01",
+      "session_id": "vanessa_davis_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "vanessa_davis_reservation_01",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_reservation_01",
+        "rule_text": "When choosing a restaurant for a treat or gathering, she favors Southern comfort food or seafood-boil places over trendier generic options.",
+        "canonical_answer": "If I’m eating out for fun, I’d rather pick Southern comfort food or a seafood boil spot than a trendy random place."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_pier_lantern_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Pier Lantern Boil House",
+              "cuisine": "Seafood boil",
+              "location": "Seattle",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "communal tables"
+            }
+          },
+          {
+            "id": "rst_juniper_ash_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Juniper & Ash",
+              "cuisine": "New American",
+              "location": "Seattle",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "modern small plates"
+            }
+          },
+          {
+            "id": "rst_northline_oyster_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Northline Oyster Room",
+              "cuisine": "Seafood",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "raw bar"
+            }
+          },
+          {
+            "id": "rst_cedar_room_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cedar Room Social",
+              "cuisine": "Contemporary American",
+              "location": "Seattle",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "rooftop dining"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_pier_lantern_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in Old Town Scottsdale for 2026-09-18 at 6:00pm — just choose a place for me.",
+      "gold_value": "svc_wellness_trailline_01",
+      "session_id": "vanessa_davis_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "vanessa_davis_reservation_03",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_reservation_03",
+        "rule_text": "For wellness appointments, she prefers booking practical back-relief services like yoga-oriented care over purely pampering appointments.",
+        "canonical_answer": "When I book a service for myself, I prefer something that helps my back and mobility, like yoga-related care, over pampering."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_wellness_oasisglow_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Oasis Glow Spa",
+              "service_type": "spa wellness",
+              "location": "Old Town Scottsdale",
+              "rating": 4.9,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "svc_wellness_velvetcactus_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Velvet Cactus Facial Lounge",
+              "service_type": "facial wellness",
+              "location": "Old Town Scottsdale",
+              "rating": 4.8,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_wellness_desertdew_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Desert Dew Beauty Studio",
+              "service_type": "beauty wellness",
+              "location": "Old Town Scottsdale",
+              "rating": 4.7,
+              "distance_km": 0.6
+            }
+          },
+          {
+            "id": "svc_wellness_trailline_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Trailline Yoga Wellness",
+              "service_type": "yoga wellness",
+              "location": "Old Town Scottsdale",
+              "rating": 4.4,
+              "distance_km": 1.8
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_wellness_trailline_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I haven't answered the Oak Hall neighborhood potluck at the community center on 2026-08-21 from 5:30 to 7pm yet. Check what else I have around then and send back a reply for me so they're not waiting.",
+      "gold_value": "tentative",
+      "session_id": "vanessa_davis_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "vanessa_davis_scheduling_01",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_scheduling_01",
+        "rule_text": "When an invitation overlaps with uncertain work routing or family obligations, she prefers responding tentatively instead of accepting or declining outright.",
+        "canonical_answer": "If my route or family schedule is still up in the air, I answer invitations as tentative."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_oak_hall_potluck_20260821",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Oak Hall Neighborhood Potluck",
+              "start_time": "2026-08-21T17:30:00",
+              "end_time": "2026-08-21T19:00:00",
+              "participants": [
+                "events@oakhallneighbors.org",
+                "vanessa.davis@example.com"
+              ],
+              "location": "Oak Hall Community Center",
+              "calendar": "invites",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_south_county_route_window_20260821",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "South County route coverage window",
+              "start_time": "2026-08-21T16:45:00",
+              "end_time": "2026-08-21T18:45:00",
+              "participants": [
+                "dispatch@greenlinecouriers.com",
+                "vanessa.davis@example.com"
+              ],
+              "location": "South County service area",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_mom_discharge_pickup_20260821",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mom discharge pickup window",
+              "start_time": "2026-08-21T17:00:00",
+              "end_time": "2026-08-21T18:30:00",
+              "participants": [
+                "vanessa.davis@example.com",
+                "lena.davis@example.com"
+              ],
+              "location": "Cedar Valley Medical Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_budget_call_20260821",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Retirement budget review call",
+              "start_time": "2026-08-21T20:00:00",
+              "end_time": "2026-08-21T20:45:00",
+              "participants": [
+                "vanessa.davis@example.com",
+                "advisor@harborfinplan.com"
+              ],
+              "location": "Phone call",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I've got a vehicle inspection at Fleet Yard Bay 3 on 2026-07-14 — set a reminder for it.",
+      "gold_value": "before_event",
+      "session_id": "vanessa_davis_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "vanessa_davis_scheduling_02",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_scheduling_02",
+        "rule_text": "For appointments or activities that need preparation, she prefers reminders tied to the event timing rather than generic standalone reminders.",
+        "canonical_answer": "For anything I need to prep for, I want the reminder set relative to the event itself."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_pretrip_vehicle_inspection_20260714",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pre-trip vehicle inspection",
+              "start_time": "2026-07-14T07:30:00",
+              "end_time": "2026-07-14T08:15:00",
+              "location": "Fleet Yard Bay 3",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_driver_safety_briefing_20260714",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Driver safety briefing",
+              "start_time": "2026-07-14T09:00:00",
+              "end_time": "2026-07-14T10:00:00",
+              "location": "Fleet Yard Conference Room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_registration_renewal_20260716",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Annual vehicle registration renewal appointment",
+              "start_time": "2026-07-16T11:00:00",
+              "end_time": "2026-07-16T11:30:00",
+              "location": "County Vehicle Office",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {
+                "cadence": "before_event"
+              },
+              "compare_args": [
+                "cadence"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The details in our Lakeview family brunch thread are settled: 2026-08-16 from 11:00 to 14:00 at Aunt Denise's house in Lakeview, with denise.walker@familymail.com, eric.walker@familymail.com, and nia.walker@familymail.com joining. Keep this on my radar.",
+      "gold_value": null,
+      "session_id": "vanessa_davis_scheduling_04_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "vanessa_davis_scheduling_04",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_scheduling_04",
+        "rule_text": "For church outreach sessions, mentoring meetups, or family gatherings, she prefers creating a proper shared calendar event rather than relying on an informal reminder.",
+        "canonical_answer": "For group plans, I want a real calendar event that everyone can work from."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_lakeview_family_brunch_thread_01",
+            "type": "event",
+            "attributes": {
+              "title": "Lakeview family brunch thread",
+              "start_time": "2026-08-16T11:00:00",
+              "end_time": "2026-08-16T14:00:00",
+              "participants": [
+                "denise.walker@familymail.com",
+                "eric.walker@familymail.com",
+                "nia.walker@familymail.com"
+              ],
+              "location": "Aunt Denise's House, Lakeview",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "family_group_chat"
+            }
+          },
+          {
+            "id": "evt_riverbend_outreach_thread_02",
+            "type": "event",
+            "attributes": {
+              "title": "Riverbend outreach dinner thread",
+              "start_time": "2026-08-23T17:30:00",
+              "end_time": "2026-08-23T19:00:00",
+              "participants": [
+                "sara.cole@riverbendchurch.org",
+                "micah.turner@riverbendchurch.org",
+                "lena.ford@riverbendchurch.org"
+              ],
+              "location": "Riverbend Church Hall",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "group_chat"
+            }
+          },
+          {
+            "id": "evt_eye_exam_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Eye exam",
+              "start_time": "2026-08-14T09:00:00",
+              "end_time": "2026-08-14T09:45:00",
+              "participants": [],
+              "location": "North Clinic",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm putting together a fun 3-day Las Vegas trip for myself. From the candidate stops below, pick one place around Las Vegas to anchor the itinerary and build the plan around it; I'd like something that fits in about half a day and doesn't require a huge drive from town.",
+      "gold_value": [
+        "stop_vegas_valley_fire_nightsky_01"
+      ],
+      "session_id": "vanessa_davis_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "vanessa_davis_travel_01",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_travel_01",
+        "rule_text": "When planning a leisure trip, she prefers itineraries built around scenic desert and stargazing stops rather than generic city attractions.",
+        "canonical_answer": "When I plan a fun trip, I want the stops to lean toward desert scenery and stargazing instead of standard tourist-city picks."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_vegas_valley_fire_nightsky_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Valley of Fire Night Sky Point",
+              "location": "Las Vegas area, Nevada",
+              "tags": [
+                "desert",
+                "stargazing",
+                "night_sky",
+                "red_rock",
+                "scenic_drive",
+                "sunset"
+              ],
+              "rating": 4.6,
+              "review_count": 614,
+              "drive_time_from_town_min": 55,
+              "visit_duration_hours": 4.0
+            }
+          },
+          {
+            "id": "stop_vegas_mojave_dunes_darksky_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Mojave Dunes Dark Sky Pullout",
+              "location": "Las Vegas outskirts, Nevada",
+              "tags": [
+                "desert",
+                "stargazing",
+                "dark_sky",
+                "dunes",
+                "night_photography",
+                "milky_way"
+              ],
+              "rating": 4.9,
+              "review_count": 1842,
+              "drive_time_from_town_min": 145,
+              "visit_duration_hours": 6.0
+            }
+          },
+          {
+            "id": "stop_vegas_red_rock_loop_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Red Rock Scenic Loop",
+              "location": "Las Vegas area, Nevada",
+              "tags": [
+                "desert",
+                "red_rock",
+                "scenic_drive",
+                "hiking",
+                "sunset",
+                "popular"
+              ],
+              "rating": 4.9,
+              "review_count": 4821,
+              "drive_time_from_town_min": 30,
+              "visit_duration_hours": 3.0
+            }
+          },
+          {
+            "id": "stop_vegas_bellagio_fountains_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Bellagio Fountain Promenade",
+              "location": "Las Vegas Strip, Nevada",
+              "tags": [
+                "city",
+                "landmark",
+                "nightlife",
+                "shopping",
+                "popular",
+                "walkable"
+              ],
+              "rating": 4.9,
+              "review_count": 22110,
+              "drive_time_from_town_min": 10,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_vegas_fremont_street_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Fremont Street Experience",
+              "location": "Downtown Las Vegas, Nevada",
+              "tags": [
+                "city",
+                "nightlife",
+                "live_music",
+                "landmark",
+                "popular",
+                "walkable"
+              ],
+              "rating": 4.8,
+              "review_count": 16340,
+              "drive_time_from_town_min": 8,
+              "visit_duration_hours": 2.5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_vegas_valley_fire_nightsky_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-5814 near Moab fell through. Please swap in a single replacement for the evening of 2026-08-14 that fits in about 1 to 2 hours and does not require a long drive out from Moab.",
+      "gold_value": [
+        "stop_moab_sand_flats_sky_01"
+      ],
+      "session_id": "vanessa_davis_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "vanessa_davis_travel_02",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_travel_02",
+        "rule_text": "If a booked trip stop falls through, she prefers replacement stops that preserve the original nature-or-astronomy theme instead of swapping in any high-rated alternative.",
+        "canonical_answer": "If part of my trip breaks, I want the replacement stop to keep the same desert, hiking, or stargazing vibe."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_moab_sand_flats_sky_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sand Flats Dark Sky Pullout",
+              "location": "Moab, Utah",
+              "tags": [
+                "desert",
+                "stargazing",
+                "night_sky",
+                "scenic_drive",
+                "evening"
+              ],
+              "trip_id": "T-5814",
+              "rating": 4.6,
+              "review_count": 214,
+              "detour_minutes_from_moab_route": 18,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_moab_night_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Moab Main Street Night Market",
+              "location": "Downtown Moab, Utah",
+              "tags": [
+                "downtown",
+                "food",
+                "shopping",
+                "evening",
+                "popular"
+              ],
+              "trip_id": "T-5814",
+              "rating": 4.9,
+              "review_count": 1326,
+              "detour_minutes_from_moab_route": 3,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_moab_history_house_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Moab Film & History House",
+              "location": "Moab, Utah",
+              "tags": [
+                "museum",
+                "indoor",
+                "history",
+                "evening"
+              ],
+              "trip_id": "T-5814",
+              "rating": 4.8,
+              "review_count": 904,
+              "detour_minutes_from_moab_route": 5,
+              "visit_duration_hours": 1.0
+            }
+          },
+          {
+            "id": "stop_moab_riverwalk_lights_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Colorado River Walk at Lions Park",
+              "location": "Moab, Utah",
+              "tags": [
+                "riverwalk",
+                "evening",
+                "scenic",
+                "popular"
+              ],
+              "trip_id": "T-5814",
+              "rating": 4.8,
+              "review_count": 1187,
+              "detour_minutes_from_moab_route": 7,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_moab_dead_horse_rim_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Dead Horse Rim Night Overlook",
+              "location": "Canyonlands area near Moab, Utah",
+              "tags": [
+                "desert",
+                "stargazing",
+                "night_sky",
+                "viewpoint",
+                "evening",
+                "popular"
+              ],
+              "trip_id": "T-5814",
+              "rating": 4.9,
+              "review_count": 1880,
+              "detour_minutes_from_moab_route": 37,
+              "visit_duration_hours": 1.5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_moab_sand_flats_sky_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm visiting a friend on 2026-09-18 and need the one-way trip booked for just me from Phoenix, AZ to Denver, CO. I already have the place I'm staying, so just take care of how I'm getting there.",
+      "gold_value": null,
+      "session_id": "vanessa_davis_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "vanessa_davis_travel_03",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_travel_03",
+        "rule_text": "For personal travel, she consistently prefers ground transportation over flights.",
+        "canonical_answer": "For my trips, I usually want to go by road or rail instead of flying."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_phx_den_frontier_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-09-18",
+              "airline": "Frontier Airlines",
+              "price": 118,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_phx_den_southwest_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-09-18",
+              "airline": "Southwest Airlines",
+              "price": 129,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_phx_den_united_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-09-18",
+              "airline": "United Airlines",
+              "price": 143,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "trp_phx_den_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 189,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "trp_phx_den_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 214,
+              "available_seats": 6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book one hotel room in Savannah for 2 adults for May 14, 2026 through May 17, 2026. Pick one of the available options and take care of the booking.",
+      "gold_value": "htl_savannah_garden_inn_02",
+      "session_id": "vanessa_davis_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "vanessa_davis_travel_04",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_travel_04",
+        "rule_text": "When booking lodging for her own trips, she prefers modest budget-friendly hotel options over upscale ones.",
+        "canonical_answer": "I want practical, budget-conscious lodging rather than luxury hotel splurges."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_savannah_garden_inn_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Savannah Garden Inn",
+              "location": "Midtown Savannah, Georgia",
+              "check_in_date": "2026-05-14",
+              "check_out_date": "2026-05-17",
+              "available_rooms": 8,
+              "max_guests_per_room": 2,
+              "price_per_night": 149,
+              "category": "budget",
+              "star_rating": 3,
+              "rating": 4.3,
+              "review_count": 428,
+              "distance_to_historic_district_km": 4.8
+            }
+          },
+          {
+            "id": "htl_savannah_forsyth_grand_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Forsyth Grand Hotel",
+              "location": "Historic District, Savannah, Georgia",
+              "check_in_date": "2026-05-14",
+              "check_out_date": "2026-05-17",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 289,
+              "category": "luxury",
+              "star_rating": 5,
+              "rating": 4.9,
+              "review_count": 2510,
+              "distance_to_river_street_km": 0.6
+            }
+          },
+          {
+            "id": "htl_savannah_riverwalk_suites_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Riverwalk Suites Savannah",
+              "location": "River Street, Savannah, Georgia",
+              "check_in_date": "2026-05-14",
+              "check_out_date": "2026-05-17",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 259,
+              "category": "upscale",
+              "star_rating": 4,
+              "rating": 4.8,
+              "review_count": 1762,
+              "distance_to_river_street_km": 0.1
+            }
+          },
+          {
+            "id": "htl_savannah_oak_manor_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Oak Manor House",
+              "location": "Historic District, Savannah, Georgia",
+              "check_in_date": "2026-05-14",
+              "check_out_date": "2026-05-17",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 229,
+              "category": "upscale",
+              "star_rating": 4,
+              "rating": 4.7,
+              "review_count": 1361,
+              "distance_to_forsyth_park_km": 0.3
+            }
+          },
+          {
+            "id": "htl_savannah_market_square_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Market Square Hotel",
+              "location": "City Market, Savannah, Georgia",
+              "check_in_date": "2026-05-14",
+              "check_out_date": "2026-05-17",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 239,
+              "category": "upscale",
+              "star_rating": 4,
+              "rating": 4.8,
+              "review_count": 1984,
+              "distance_to_city_market_km": 0.1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_savannah_garden_inn_02"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please sort out the files sitting in /Sales/Dropoff — it's a mix of PDFs, spreadsheets, and docs from the last couple of months, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "vanessa_davis_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "vanessa_davis_workspace_01",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_workspace_01",
+        "rule_text": "She prefers work files to be classified by project rather than by date or file type.",
+        "canonical_answer": "I organize work files by project because that matches how I track routes, clients, and jobs."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_dropoff_01",
+            "type": "file",
+            "attributes": {
+              "name": "pricing_notes.docx",
+              "file_type": "docx",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Deli Refresh",
+              "modified_date": "2026-04-18",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_02",
+            "type": "file",
+            "attributes": {
+              "name": "cost_breakout.xlsx",
+              "file_type": "xlsx",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Morningside Dental Signage",
+              "modified_date": "2026-04-19",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_dropoff_03",
+            "type": "file",
+            "attributes": {
+              "name": "approval_scan.pdf",
+              "file_type": "pdf",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Pine Street Grocer Rollout",
+              "modified_date": "2026-04-24",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_dropoff_04",
+            "type": "file",
+            "attributes": {
+              "name": "site_visit_points.docx",
+              "file_type": "docx",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Morningside Dental Signage",
+              "modified_date": "2026-05-07",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_05",
+            "type": "file",
+            "attributes": {
+              "name": "display_sizes.xlsx",
+              "file_type": "xlsx",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Pine Street Grocer Rollout",
+              "modified_date": "2026-05-11",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_06",
+            "type": "file",
+            "attributes": {
+              "name": "permit_copy.pdf",
+              "file_type": "pdf",
+              "location": "/Sales/Dropoff",
+              "owner": "Vanessa Davis",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Deli Refresh",
+              "modified_date": "2026-05-16",
+              "priority": "high"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please sort out the Red Mesa sunrise selects in /photos/desert/selects/red_mesa. A few soft or repeated frames are mixed in with the keepers, and I want that folder easier to review before I share from it.",
+      "gold_value": null,
+      "session_id": "vanessa_davis_workspace_03_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "vanessa_davis_workspace_03",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_workspace_03",
+        "rule_text": "For blurry or duplicate desert photos, she prefers deleting them outright rather than keeping extra clutter.",
+        "canonical_answer": "If a desert photo is blurry or duplicated, I’d rather delete it than keep clutter around."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_redmesa_sunrise_duneglow_011",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_duneglow_011.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T05:48:12",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_duneglow_011",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_duneglow_011_dup",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_duneglow_011 copy.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T05:48:13",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_duneglow_011",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_ridgecurve_018",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_ridgecurve_018.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T05:57:44",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_ridgecurve_018",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_ridgecurve_018_soft",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_ridgecurve_018_soft.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T05:57:45",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_ridgecurve_018_soft",
+              "focus_status": "soft"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_longshadow_023",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_longshadow_023.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T06:06:31",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_longshadow_023",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_longshadow_023_dup",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_longshadow_023 (1).jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T06:06:32",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_longshadow_023",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fil_redmesa_sunrise_cactusline_027",
+            "type": "file",
+            "attributes": {
+              "name": "redmesa_sunrise_cactusline_027.jpg",
+              "file_type": "image",
+              "location": "/photos/desert/selects/red_mesa",
+              "owner": "Vanessa Davis",
+              "labels": [
+                "desert",
+                "sunrise",
+                "red_mesa",
+                "selects"
+              ],
+              "archived": false,
+              "captured_at": "2026-06-14T06:14:09",
+              "shoot": "red_mesa_sunrise_2026_06_14",
+              "capture_signature": "rm_cactusline_027",
+              "focus_status": "sharp"
+            }
+          },
+          {
+            "id": "fld_desert_outtakes_holding_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Desert Outtakes Holding",
+              "purpose": "Storage for additional desert frames kept outside the active selects folder.",
+              "location": "/photos/desert/outtakes"
+            }
+          },
+          {
+            "id": "fld_landscape_season_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Landscape Season Archive",
+              "purpose": "Archive for finished landscape photo batches that are no longer in active review.",
+              "location": "/photos/archive/landscapes"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "delete_files",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please put together a short write-up the South Dock crew can use whenever they swap a forklift battery, save it in /Operations/Safety, and title it \"South Dock Battery Swap Steps\". It should cover locking the truck, disconnecting the battery, checking the charging area, and noting any corrosion or cable damage.",
+      "gold_value": "template",
+      "session_id": "vanessa_davis_workspace_05_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "vanessa_davis_workspace_05",
+      "rule_ref": {
+        "rule_id": "vanessa_davis_workspace_05",
+        "rule_text": "When setting up repeatable workflow materials, she prefers creating a template rather than a one-off document.",
+        "canonical_answer": "If it’s something I’ll reuse, I want it built as a template."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_southdock_charger_reminder_01",
+            "type": "document",
+            "attributes": {
+              "title": "South Dock Charger Ventilation Reminder",
+              "doc_type": "memo",
+              "location": "/Operations/Safety",
+              "content_brief": "Reminder about keeping charger vents clear and confirming the spill kit is stocked after an inspection."
+            }
+          },
+          {
+            "id": "doc_battery_cable_walkthrough_note_01",
+            "type": "document",
+            "attributes": {
+              "title": "Battery Cable Walkthrough Notes",
+              "doc_type": "note",
+              "location": "/Operations/Safety",
+              "content_brief": "One-page notes from a floor walk about frayed battery cables and worn connector covers."
+            }
+          },
+          {
+            "id": "doc_loading_bay_nearmiss_report_01",
+            "type": "document",
+            "attributes": {
+              "title": "Loading Bay Near-Miss Summary",
+              "doc_type": "report",
+              "location": "/Operations/Safety",
+              "content_brief": "Summary of a recent incident involving an unplugged charger and a blocked aisle near the battery station."
+            }
+          },
+          {
+            "id": "doc_equipment_startup_sheet_tpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Equipment Startup Step Sheet",
+              "doc_type": "template",
+              "location": "/Operations/Templates",
+              "content_brief": "Reusable step list for crews to follow and initial during startup inspections."
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_document",
+              "arguments": {
+                "doc_type": "template"
+              },
+              "compare_args": [
+                "doc_type"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.7333333333333333,
+    "actual_signal_overlap_rules": [
+      "vanessa_davis_commerce_02",
+      "vanessa_davis_communication_01",
+      "vanessa_davis_reservation_01",
+      "vanessa_davis_reservation_03",
+      "vanessa_davis_scheduling_02",
+      "vanessa_davis_scheduling_04",
+      "vanessa_davis_travel_01",
+      "vanessa_davis_travel_04",
+      "vanessa_davis_workspace_01",
+      "vanessa_davis_workspace_05"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.6666666666666666,
+    "teachable_rule_count": 11,
+    "zero_signal_rule_count": 4,
+    "signal_pool_size_dedup": 35,
+    "noise_pool_size": 12,
+    "K": 30,
+    "seed": 0,
+    "selected_rules": [
+      "vanessa_davis_commerce_02",
+      "vanessa_davis_communication_01",
+      "vanessa_davis_reservation_01",
+      "vanessa_davis_reservation_03",
+      "vanessa_davis_scheduling_01",
+      "vanessa_davis_scheduling_02",
+      "vanessa_davis_scheduling_04",
+      "vanessa_davis_travel_01",
+      "vanessa_davis_travel_04",
+      "vanessa_davis_workspace_01",
+      "vanessa_davis_workspace_05"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "vanessa_davis_commerce_02",
+      "vanessa_davis_commerce_03",
+      "vanessa_davis_communication_01",
+      "vanessa_davis_reservation_01",
+      "vanessa_davis_reservation_03",
+      "vanessa_davis_scheduling_01",
+      "vanessa_davis_scheduling_02",
+      "vanessa_davis_scheduling_04",
+      "vanessa_davis_travel_01",
+      "vanessa_davis_travel_02",
+      "vanessa_davis_travel_03",
+      "vanessa_davis_travel_04",
+      "vanessa_davis_workspace_01",
+      "vanessa_davis_workspace_03",
+      "vanessa_davis_workspace_05"
+    ],
+    "signal_count": 30,
+    "noise_count": 0,
+    "trajectory_length": 30
+  }
+}

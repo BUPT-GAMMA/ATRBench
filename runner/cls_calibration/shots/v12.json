@@ -1,0 +1,1025 @@
+{
+  "_doc": "Classifier few-shot bank with curated broad-standing-rule hits and sharper communication/ground-transport boundaries.",
+  "match": [
+    {
+      "rule_pool": [
+        {
+          "rule_id": "professional_draft_first",
+          "statement": "If a message carries strategy, advocacy, or polished public-facing ideas, I draft it before it goes out."
+        },
+        {
+          "rule_id": "email_priority",
+          "statement": "I want leadership emails marked high priority when they arrive."
+        }
+      ],
+      "agent_text": "When you get urgent messages from clinical leadership like this, do you prefer that I always draft a reply for your review first, or are there situations where you would like me to send a response directly without the review step?",
+      "rule_id": "professional_draft_first",
+      "reasoning": "The question asks the review-versus-direct-send field for important professional correspondence, which the draft-first rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "editorial_review_first",
+          "statement": "I always want editorial or culturally sensitive messages drafted first so I can revise them before they go out."
+        },
+        {
+          "rule_id": "message_tone",
+          "statement": "I prefer a warm but professional tone in outgoing messages."
+        }
+      ],
+      "agent_text": "When I draft replies like this on your behalf, do you generally prefer to review them before I send, or are you comfortable with me sending them directly once they look good?",
+      "rule_id": "editorial_review_first",
+      "reasoning": "The question asks whether sensitive drafted replies should be reviewed before sending, matching the draft-first revision rule."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "work_project_draft_first",
+          "statement": "I like work and project messages drafted first so I can review them before they go out."
+        },
+        {
+          "rule_id": "personal_message_tone",
+          "statement": "I prefer warm, friendly wording in personal messages."
+        }
+      ],
+      "agent_text": "When I draft personal messages for you, would you prefer I always create a draft for your review first, or would you like me to send directly when the content is straightforward?",
+      "rule_id": null,
+      "reasoning": "The available draft-first rule is limited to work and project messages, while this asks about personal messages."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "professional_draft_first",
+          "statement": "If a message carries strategy, advocacy, or polished public-facing ideas, I draft it before it goes out."
+        },
+        {
+          "rule_id": "email_priority",
+          "statement": "I want leadership emails marked high priority when they arrive."
+        }
+      ],
+      "agent_text": "For future leadership emails like this, would you like me to automatically mark them as high priority or apply a specific label?",
+      "rule_id": null,
+      "reasoning": "The question asks about labeling or priority, not whether important messages should be drafted before going out."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "professional_draft_first",
+          "statement": "If a message carries strategy, advocacy, or polished public-facing ideas, I draft it before it goes out."
+        },
+        {
+          "rule_id": "message_tone",
+          "statement": "For program reports, I prefer a practical, evidence-aware tone."
+        }
+      ],
+      "agent_text": "Would you like me to apply this practical and evidence-aware tone as a default for all program-related reports and memos I draft for you?",
+      "rule_id": null,
+      "reasoning": "The question asks about writing tone inside drafts; it does not ask whether to draft messages before sending."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "classify_by_project",
+          "statement": "I organize working files around the project they belong to, not just by date or file type."
+        },
+        {
+          "rule_id": "active_project_folder",
+          "statement": "If a file is still part of an active project, I move it into the proper project folder instead of archiving it."
+        }
+      ],
+      "agent_text": "When you ask me to organize files, should I sort them by date, or should the sorting usually depend on which project each file belongs to?",
+      "rule_id": "classify_by_project",
+      "reasoning": "The question asks for the file organization axis, and the rule answers project membership rather than date or type."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "classify_by_project",
+          "statement": "I organize working files around the project they belong to, not just by file format."
+        },
+        {
+          "rule_id": "active_project_folder",
+          "statement": "If a file is still part of an active project, I move it into the proper project folder instead of archiving it."
+        }
+      ],
+      "agent_text": "Since you prefer project-based organization, should I proactively suggest grouping new draft files by their writing project whenever I find them?",
+      "rule_id": "classify_by_project",
+      "reasoning": "The proposed future behavior is grouping working files by project, which directly answers the organization rule."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_folder_placement",
+          "statement": "I always move working files into the folder for the specific project, not just into a generic type folder."
+        },
+        {
+          "rule_id": "organize_by_type",
+          "statement": "I prefer splitting review files by file type into notes, slides, and data folders."
+        }
+      ],
+      "agent_text": "Would you like me to automatically suggest organizing files from your Downloads folder into these specific Review folders whenever I see new files with similar names or types?",
+      "rule_id": "project_folder_placement",
+      "reasoning": "The question asks the working-file placement field, and the rule answers that files should go to specific project folders rather than generic type folders."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "active_project_folder",
+          "statement": "I want active files moved into the right project folder so the shop mess does not spread to my digital stuff."
+        },
+        {
+          "rule_id": "classify_by_project",
+          "statement": "I organize files around the project they belong to, not just by date or file type."
+        }
+      ],
+      "agent_text": "When you drop files into a bench_dump or similar staging area, would you like me to automatically move them to Restoration Projects by default, or do you prefer I always check with you first?",
+      "rule_id": "active_project_folder",
+      "reasoning": "The question asks whether active files in a staging area should be moved into the project folder, which the active-file placement rule resolves."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "classify_by_project",
+          "statement": "I organize working files around the project they belong to, not just by file format."
+        },
+        {
+          "rule_id": "create_project_folders",
+          "statement": "Whenever I start a new project, I create a fresh folder for it first."
+        }
+      ],
+      "agent_text": "Would you like me to always create a new folder for any new project you start, to keep related notes and files together?",
+      "rule_id": null,
+      "reasoning": "Creating folders for new projects is a folder-creation workflow, not the same field as how to classify or place existing working files."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "active_project_folder",
+          "statement": "If a file is still part of an active project, I move it into the proper project folder instead of archiving it."
+        },
+        {
+          "rule_id": "archive_finished_work",
+          "statement": "When a project is finished, I move the whole folder to archive."
+        }
+      ],
+      "agent_text": "For completed work, would you like me to suggest archiving an entire project folder once it looks finished?",
+      "rule_id": null,
+      "reasoning": "The question asks when to archive completed projects, while the active-file rule answers where active files go before archiving."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "active_project_folder",
+          "statement": "If a file is still part of an active project, I move it into the proper project folder instead of archiving it."
+        },
+        {
+          "rule_id": "classify_by_project",
+          "statement": "I organize working files around the project they belong to, not just by file format."
+        }
+      ],
+      "agent_text": "Would you like me to automatically move photos with certain labels into matching archive folders whenever they appear?",
+      "rule_id": null,
+      "reasoning": "Label-based photo archiving is a different field from active working-file placement or project-based organization."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "program_template",
+          "statement": "Repeatable program work should start from a template, not a scratch note."
+        },
+        {
+          "rule_id": "report_tone",
+          "statement": "For program reports, I prefer a practical, evidence-aware tone."
+        }
+      ],
+      "agent_text": "Since you have mentioned that repeatable program work should start from a template, would you like me to create a standard Program Report template for this and future reports?",
+      "rule_id": "program_template",
+      "reasoning": "The question asks whether recurring program reports should use a template, directly matching template versus scratch-note handling."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "program_template",
+          "statement": "Repeatable program work should start from a template, not a scratch note."
+        },
+        {
+          "rule_id": "spreadsheet_sorting",
+          "statement": "When comparing ideas, I prefer sorting spreadsheet rows by leadership priority."
+        }
+      ],
+      "agent_text": "Would you like me to use this same set of columns as a standard template whenever you ask to create a Comparison or Evaluation spreadsheet for new program ideas?",
+      "rule_id": "program_template",
+      "reasoning": "The question asks whether a repeatable program-comparison artifact should become a reusable template rather than be rebuilt from scratch."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "reuse_as_template",
+          "statement": "If a document will be reused, I want it built as a template."
+        },
+        {
+          "rule_id": "delete_throwaways",
+          "statement": "If a file is a duplicate or throwaway version, I would rather delete it."
+        }
+      ],
+      "agent_text": "If this shop checklist is something you will reuse, would you like me to build it as a template instead of a one-off document?",
+      "rule_id": "reuse_as_template",
+      "reasoning": "The question directly asks the reusable-document template versus one-off-document field."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "program_template",
+          "statement": "Repeatable program work should start from a template, not a scratch note."
+        },
+        {
+          "rule_id": "weekly_planning_reminder",
+          "statement": "I like weekly reminders for recurring planning routines."
+        }
+      ],
+      "agent_text": "Would you like me to automatically create a planning document from your program template whenever you schedule a meeting with Planning in the title?",
+      "rule_id": null,
+      "reasoning": "This asks about a cross-tool automation trigger from calendar titles to document creation, not whether repeatable program work should use templates."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "program_template",
+          "statement": "Repeatable program work should start from a template, not a scratch note."
+        },
+        {
+          "rule_id": "report_tone",
+          "statement": "For program reports, I prefer a practical, evidence-aware tone."
+        }
+      ],
+      "agent_text": "Would you like me to apply this practical and evidence-aware tone as a default for all program-related reports and memos I draft for you, rather than a more aspirational tone?",
+      "rule_id": null,
+      "reasoning": "This asks about default writing tone, while the template rule answers document structure and starting point."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "reuse_as_template",
+          "statement": "For repeatable procedures or teaching materials, I prefer a template over a one-off note."
+        },
+        {
+          "rule_id": "delete_throwaways",
+          "statement": "If a file is a duplicate or throwaway version, I would rather delete it."
+        }
+      ],
+      "agent_text": "For future travel planning notes, would you like me to always include specific sections like Budget, Places to Stop, and Creative Inspiration as a default template, or customize the sections each time?",
+      "rule_id": null,
+      "reasoning": "The question asks about default sections for travel notes, not repeatable procedures or teaching materials as templates."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "scheduled_reminder_before_event",
+          "statement": "Whenever a reminder is for something scheduled, I want it timed before the event instead of as a generic repeat."
+        },
+        {
+          "rule_id": "schedule_change_tracking",
+          "statement": "When I book event tickets, I want schedule changes tracked automatically."
+        }
+      ],
+      "agent_text": "When I am setting reminders for community or volunteer events like this, do you have a preferred lead time you would like me to use by default, such as 30 minutes or an hour?",
+      "rule_id": "scheduled_reminder_before_event",
+      "reasoning": "The question asks for reminder timing before scheduled events, which is exactly the reminder-lead-time field."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "scheduled_reminder_before_event",
+          "statement": "Whenever a reminder is for something scheduled, I want it timed before the event instead of as a generic repeat."
+        },
+        {
+          "rule_id": "tentative_event_response",
+          "statement": "Whenever I am not fully sure I can make an event, I respond tentatively first."
+        }
+      ],
+      "agent_text": "For community events, would you like me to automatically set a 30-minute reminder before each new calendar event I create for you?",
+      "rule_id": "scheduled_reminder_before_event",
+      "reasoning": "The question asks whether reminders for scheduled events should be set before the event, with a specific default lead time."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "time_block_routines",
+          "statement": "Meaningful routines deserve an actual time block, not just a nudge."
+        },
+        {
+          "rule_id": "weekly_practice_reminders",
+          "statement": "I always set recurring personal-practice reminders on a weekly rhythm."
+        }
+      ],
+      "agent_text": "Would you like me to automatically set a reminder for any calendar events labeled as Focus or Writing blocks?",
+      "rule_id": null,
+      "reasoning": "This asks about adding reminders to existing calendar events, not whether routines should be time blocks or what reminder cadence to use."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "tentative_invite_response",
+          "statement": "If I am conflicted or still figuring out timing, I usually mark the invite tentative."
+        },
+        {
+          "rule_id": "shared_event_calendar",
+          "statement": "For things I plan to attend or run, I want an actual calendar event, not just a reminder."
+        }
+      ],
+      "agent_text": "When meetings conflict, do you prefer that I suggest the next available time slot, or should I always check with you first before changing anything?",
+      "rule_id": null,
+      "reasoning": "This asks about conflict-resolution workflow, not tentative RSVP behavior or calendar-event creation."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "shared_event_calendar",
+          "statement": "If other people are part of it, I want it on the calendar as a real event, not just a reminder to myself."
+        },
+        {
+          "rule_id": "tentative_invite_response",
+          "statement": "If an invite conflicts with my own time, I usually respond tentative first."
+        }
+      ],
+      "agent_text": "For future restaurant bookings like this, would you like me to automatically add the reservation to your calendar?",
+      "rule_id": null,
+      "reasoning": "This asks about calendar automation for restaurant reservations, not whether shared commitments should be real events instead of personal reminders."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "trip_hiking_photos",
+          "statement": "Whenever I plan stops, I pick places with hiking and strong photo opportunities first."
+        },
+        {
+          "rule_id": "road_over_flight",
+          "statement": "I choose road travel over flying when both are workable for a trip."
+        }
+      ],
+      "agent_text": "When you are looking for photography-focused getaways, do you generally prefer me to prioritize state parks and natural areas like this, or are you also interested in urban or historic spots for your photos?",
+      "rule_id": "trip_hiking_photos",
+      "reasoning": "The question asks which trip stops to prioritize for photo-focused travel, and the rule answers hiking and photo opportunities first."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "cultural_over_luxury",
+          "statement": "For trips, I prefer cultural and artistic depth over luxury attractions."
+        },
+        {
+          "rule_id": "road_or_rail",
+          "statement": "For regional trips, I would rather go by road or rail than fly."
+        }
+      ],
+      "agent_text": "When choosing trip stops, would you like me to favor local art, neighborhood history, and cultural sites over luxury shopping or resort-style attractions?",
+      "rule_id": "cultural_over_luxury",
+      "reasoning": "The question directly contrasts cultural depth with luxury attractions, matching the trip-stop preference."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For regional trips, I prefer ground transport over flying when both are workable."
+        },
+        {
+          "rule_id": "scenic_trip_stops",
+          "statement": "When I plan trip stops, I prefer scenic outdoor places first."
+        }
+      ],
+      "agent_text": "For regional trips, if driving or taking the train is workable, would you like me to choose that instead of booking a flight?",
+      "rule_id": "ground_over_flight",
+      "reasoning": "The question asks whether ground transport should be preferred over flying for regional trips."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "event_live_music",
+          "statement": "For event tickets, I usually want live music, especially jazz, gospel, or soul-adjacent performances, over other kinds of events."
+        },
+        {
+          "rule_id": "restaurant_soul_food",
+          "statement": "If I book a meal out, I would rather go somewhere known for Southern comfort food or local soul-inflected cooking than a chain."
+        }
+      ],
+      "agent_text": "When you book event tickets, do you generally prefer I prioritize live music events, or are you equally open to comedy, theater, and other types of performances?",
+      "rule_id": "event_live_music",
+      "reasoning": "The question asks which kind of event ticket to prioritize, and the rule answers live music over other events."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "quiet_restaurants",
+          "statement": "When I dine out, I prefer small, conversation-friendly places over loud scene-driven restaurants."
+        },
+        {
+          "rule_id": "modern_mexican_restaurants",
+          "statement": "When I book restaurants, I prefer modern Mexican places over generic options."
+        }
+      ],
+      "agent_text": "When booking cafe or restaurant reservations for groups, do you generally prefer a quieter spot for conversation, or are you open to livelier atmospheres?",
+      "rule_id": "quiet_restaurants",
+      "reasoning": "The question asks quiet conversation-friendly dining versus livelier restaurants, which the quiet-restaurant rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "calm_lodging",
+          "statement": "I pick lodging that feels calm and unhurried rather than big generic hotel options."
+        },
+        {
+          "rule_id": "hotel_budget_first",
+          "statement": "I usually book the lowest-priced hotel that still matches the trip dates."
+        }
+      ],
+      "agent_text": "When booking hotels for trips, do you prefer that I look for quieter, smaller-scale stays instead of large standard hotel chains?",
+      "rule_id": "calm_lodging",
+      "reasoning": "The question asks the same lodging field: calm smaller-scale stays rather than large generic hotels."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For regional trips, I prefer ground transport over flying when both are workable."
+        },
+        {
+          "rule_id": "scenic_trip_stops",
+          "statement": "When I plan trip stops, I prefer scenic outdoor places first."
+        }
+      ],
+      "agent_text": "When both a train and a bus are available, do you prefer that I always prioritize train options, or should I compare the different ground modes each time?",
+      "rule_id": null,
+      "reasoning": "The question asks train versus bus within ground transport, not whether ground transport should be preferred over flying."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "hotel_free_breakfast",
+          "statement": "I only book hotels with free breakfast."
+        },
+        {
+          "rule_id": "hotel_near_attractions",
+          "statement": "I usually pick the hotel closest to attractions."
+        }
+      ],
+      "agent_text": "When booking hotels for trips, do you generally prefer the most affordable option, or do you like to weigh factors like location, amenities, or guest ratings more heavily?",
+      "rule_id": null,
+      "reasoning": "The question asks budget versus other ranking factors, not free breakfast or closest-to-attractions."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "cultural_over_luxury",
+          "statement": "For trips, I prefer cultural and artistic depth over luxury attractions."
+        },
+        {
+          "rule_id": "road_or_rail",
+          "statement": "For regional trips, I would rather go by road or rail than fly."
+        }
+      ],
+      "agent_text": "For sightseeing, would you like me to prioritize structured art centers and sculpture parks over raw nature stops?",
+      "rule_id": null,
+      "reasoning": "This contrasts art-structured stops with raw nature, not cultural depth versus luxury attractions."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "shopping_list_before_buying",
+          "statement": "For food or kitchen supplies, I want a shopping list built first so I can plan before buying."
+        },
+        {
+          "rule_id": "local_produce",
+          "statement": "If I order ingredients, I prefer locally grown produce when there is a good option."
+        }
+      ],
+      "agent_text": "Before buying food or kitchen supplies, would you like me to build a shopping list first so you can plan the order?",
+      "rule_id": "shopping_list_before_buying",
+      "reasoning": "The question directly asks whether to build a shopping list before buying food or kitchen supplies."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "shopping_list_before_buying",
+          "statement": "For food or kitchen supplies, I want a shopping list built first so I can plan before buying."
+        },
+        {
+          "rule_id": "local_produce",
+          "statement": "If I order ingredients, I prefer locally grown produce when there is a good option."
+        }
+      ],
+      "agent_text": "When building shopping lists for meal prep, do you prefer I organize items by store section or keep them grouped by meal and recipe?",
+      "rule_id": null,
+      "reasoning": "This asks how to organize items inside a shopping list, not whether to build a shopping list before buying."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "client_school_church_draft_first",
+          "statement": "I like messages to clients, school partners, or church teams drafted first so I can review the tone and details before they go out."
+        },
+        {
+          "rule_id": "message_priority",
+          "statement": "I want messages from school partners marked high priority when they arrive."
+        }
+      ],
+      "agent_text": "When you have multiple tasks like this, do you prefer that I draft replies first and wait for your review, or should I send them immediately if they match your instructions?",
+      "rule_id": "client_school_church_draft_first",
+      "reasoning": "The question asks the draft-first versus direct-send field for replies; the available draft-first rule directly answers that behavior."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I organize working files by project first, not just by format or date."
+        },
+        {
+          "rule_id": "archive_old_files",
+          "statement": "When files are older than a year, I archive them into a yearly folder."
+        }
+      ],
+      "agent_text": "For future reference, would you like me to automatically move any new files with a project name in the title to that project's folder, or would you prefer to review them first?",
+      "rule_id": "project_first_files",
+      "reasoning": "The question asks whether matching working files should be moved into the relevant project folder, which is a direct application of project-first organization."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I keep work files organized by project first, not just by file type or date."
+        },
+        {
+          "rule_id": "filename_convention",
+          "statement": "I like filenames to include the date before the project name."
+        }
+      ],
+      "agent_text": "For future file organization requests, would you like me to default to organizing by file type, or should I use a project-based scheme when the project is clear?",
+      "rule_id": "project_first_files",
+      "reasoning": "The question asks the organization axis: file type versus project. The project-first rule resolves that choice."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "quiet_restaurant",
+          "statement": "When I dine out, I prefer small, conversation-friendly places over loud scene-driven restaurants."
+        },
+        {
+          "rule_id": "restaurant_budget",
+          "statement": "For restaurants, I usually pick the lowest-priced option that has availability."
+        }
+      ],
+      "agent_text": "For future restaurant bookings, do you generally prefer a quieter indoor dining room where conversation is easy, or should I offer livelier seating options too?",
+      "rule_id": "quiet_restaurant",
+      "reasoning": "The question asks quiet conversation-friendly dining versus livelier options, which the quiet-restaurant rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "window_seat",
+          "statement": "When I fly, I prefer a window seat."
+        },
+        {
+          "rule_id": "ground_transport",
+          "statement": "For regional trips, I prefer ground transport over flying."
+        }
+      ],
+      "agent_text": "When booking flights for you in the future, would you like me to always prioritize an aisle seat as your default preference, or should I ask each trip?",
+      "rule_id": "window_seat",
+      "reasoning": "The question asks the flight-seat default field; the window-seat rule answers by rejecting aisle as the default and supplying the preferred seat value."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "real_calendar_event",
+          "statement": "For things I plan to attend or run, I want an actual calendar event, not just a reminder."
+        },
+        {
+          "rule_id": "tentative_invite",
+          "statement": "If I am conflicted or still figuring out timing, I usually mark the invite tentative."
+        }
+      ],
+      "agent_text": "When I book event tickets for you, would you like me to automatically add the event to your calendar, or would you prefer to do that yourself?",
+      "rule_id": "real_calendar_event",
+      "reasoning": "The question asks whether an attended event booking should become a calendar event, which the real-calendar-event rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For regional trips, I prefer ground transport over flying when both are workable."
+        },
+        {
+          "rule_id": "scenic_stops",
+          "statement": "When planning trips, I prefer stops with scenic outdoor views."
+        }
+      ],
+      "agent_text": "For rural trips, would you like me to prioritize car rental for flexibility, or should I stick to public transit like trains and buses?",
+      "rule_id": null,
+      "reasoning": "This compares modes inside ground transportation. It does not ask whether ground transport should be preferred over flying."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "personal_reminder_not_calendar",
+          "statement": "For my personal routines, I would rather set myself a reminder than clutter the calendar with a full event."
+        },
+        {
+          "rule_id": "weekly_routine_reminders",
+          "statement": "For recurring routines, I prefer weekly reminders instead of one-time reminders."
+        }
+      ],
+      "agent_text": "For future early morning rehearsals or church commitments, would you like me to automatically set a reminder for 50 minutes before the start time, or would you prefer to set each one manually?",
+      "rule_id": null,
+      "reasoning": "The available rule answers reminder versus calendar event; this question asks about automatic reminder lead time and manual setup."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "appointment_reminders",
+          "statement": "I like a reminder attached to appointments because I do sometimes forget them."
+        },
+        {
+          "rule_id": "weekly_reminders",
+          "statement": "For things I do regularly, a weekly reminder works better for me than a single reminder."
+        }
+      ],
+      "agent_text": "For the reminders I will be adding to your future appointments, would you like me to use a standard lead time like 45 minutes before by default, or would you prefer to specify the time for each one?",
+      "rule_id": null,
+      "reasoning": "The rule says appointments should have reminders, but it does not specify the reminder lead time default."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "appointment_reminders",
+          "statement": "I like a reminder attached to appointments because I do sometimes forget them."
+        },
+        {
+          "rule_id": "tentative_when_unsure",
+          "statement": "If I am not sure yet, I usually respond as tentative instead of forcing an early yes or no."
+        }
+      ],
+      "agent_text": "Since we have already set a 30-minute default for your work reminders, would you like me to also apply that same 30-minute lead time as a default for your personal appointments?",
+      "rule_id": null,
+      "reasoning": "Reusing a 30-minute lead time is a timing-default question, not the reminder-existence field covered by the appointment-reminder rule."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "important_work_draft_first",
+          "statement": "I like to draft important messages first so I can make sure they are clear and well-phrased."
+        },
+        {
+          "rule_id": "warm_personal_tone",
+          "statement": "For personal notes, I prefer a warm and friendly tone."
+        }
+      ],
+      "agent_text": "For future personal or warm replies like this, would you like me to always draft them for your review first, or are there certain people you would be comfortable with me sending replies to directly?",
+      "rule_id": null,
+      "reasoning": "The draft-first rule is scoped to important work or project messages; this question broadens the scope to personal warm replies."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "modest_hotels",
+          "statement": "I usually choose modest hotels because I care more about the trip than luxury lodging."
+        },
+        {
+          "rule_id": "cultural_trip_stops",
+          "statement": "When I travel, I want stops with cultural and artistic depth more than luxury attractions."
+        }
+      ],
+      "agent_text": "For future trips, do you have a preferred type of accommodation, such as boutique hotels, bed and breakfasts, or larger resorts, that you would like me to prioritize?",
+      "rule_id": null,
+      "reasoning": "Accommodation type is not the same axis as modest versus luxury lodging unless the question explicitly asks that budget/luxury choice."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "quiet_restaurant",
+          "statement": "When I dine out, I prefer small, conversation-friendly places over loud scene-driven restaurants."
+        },
+        {
+          "rule_id": "seasonal_restaurant",
+          "statement": "For dining out, I usually choose places that feel seasonal and locally rooted."
+        }
+      ],
+      "agent_text": "For future restaurant bookings, do you generally prefer a specific seating style, such as a quiet indoor dining room or outdoor patio seating, or should I continue to offer you a variety of options?",
+      "rule_id": "quiet_restaurant",
+      "reasoning": "The quiet indoor dining-room option is a direct way to satisfy a conversation-friendly dining preference."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I keep work files organized by project first, not just by file type or date."
+        },
+        {
+          "rule_id": "delete_duplicates",
+          "statement": "For bad duplicate shots or unusable art-file clutter, I delete them instead of saving them somewhere."
+        }
+      ],
+      "agent_text": "Would you like me to automatically move any new files with keywords like grad, school, or resume into the Career Growth folder to keep your downloads organized?",
+      "rule_id": "project_first_files",
+      "reasoning": "The question asks whether files whose names reveal a project or work stream should be moved into that matching folder, which is project-first organization."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I organize work files by project first, especially for ESG, SAP, and budgeting work."
+        },
+        {
+          "rule_id": "filename_dates",
+          "statement": "I like filenames to start with the date before the topic."
+        }
+      ],
+      "agent_text": "For future file organization requests, would you like me to default to organizing by file type, or would you prefer I ask you for a specific scheme like by project or date each time?",
+      "rule_id": "project_first_files",
+      "reasoning": "The question contrasts file-type organization with project/date schemes; the project-first rule answers the organizing axis."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "calendar_blocks",
+          "statement": "For yoga, volunteering, and other regular commitments, I prefer a real calendar event so the time is actually blocked."
+        },
+        {
+          "rule_id": "tentative_invites",
+          "statement": "If an invite might conflict with my schedule, I usually mark it tentative first."
+        }
+      ],
+      "agent_text": "For future event bookings, would you like me to automatically add them to your calendar once confirmed, or would you prefer to do that yourself?",
+      "rule_id": "calendar_blocks",
+      "reasoning": "The question asks whether confirmed commitments should become real calendar events, which directly answers the calendar-block rule."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "local_budget_lodging",
+          "statement": "For hotels, I prefer something budget-conscious and locally characterful rather than luxury for its own sake."
+        },
+        {
+          "rule_id": "window_seat",
+          "statement": "I always prefer a window seat when I fly."
+        }
+      ],
+      "agent_text": "For future travel planning, when I am looking for accommodations, do you have a preference for specific hotel chains or boutique-style properties?",
+      "rule_id": "local_budget_lodging",
+      "reasoning": "Boutique-style properties versus generic chains asks the local-character lodging field, which the budget-conscious local lodging rule answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I organize working files by project first, not just by file type or date."
+        },
+        {
+          "rule_id": "archive_finished_files",
+          "statement": "When a project is finished, I move the project folder to archive."
+        }
+      ],
+      "agent_text": "When I archive files for you in the future, would you like me to maintain their original project-based folder structure within the archive, or is it okay to group them all together in a single archive folder?",
+      "rule_id": null,
+      "reasoning": "The question asks about folder structure inside the archive, not how active working files should be organized."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "appointment_reminders",
+          "statement": "I like a reminder attached to appointments because I do sometimes forget them."
+        },
+        {
+          "rule_id": "weekly_routine_reminders",
+          "statement": "For things I do regularly, a weekly reminder works better for me than a single reminder."
+        }
+      ],
+      "agent_text": "For future personal events, would you like me to automatically set a reminder for a specific time like 1 hour before, or would you prefer to decide for each event?",
+      "rule_id": "appointment_reminders",
+      "reasoning": "The question asks whether personal events should automatically receive a reminder at all; the appointment-reminder rule answers yes even though the exact lead time is only illustrative."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "relative_event_reminders",
+          "statement": "For anything I need to prep for, I want the reminder set relative to the event itself."
+        },
+        {
+          "rule_id": "calendar_blocks",
+          "statement": "For group plans, I want a real calendar event that everyone can work from."
+        }
+      ],
+      "agent_text": "For future reminders that you would like set relative to an event, would you like me to use a standard default lead time such as 1 hour before unless you specify otherwise, or would you prefer I ask you for the time each time?",
+      "rule_id": "relative_event_reminders",
+      "reasoning": "The question keeps the reminder tied relative to an event and asks how to default that relative timing, so the relative-event-reminder rule applies."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "reuse_as_template",
+          "statement": "If it is something I will reuse, I want it built as a template."
+        },
+        {
+          "rule_id": "project_first_files",
+          "statement": "I organize work files by project because that matches how I track routes, clients, and jobs."
+        }
+      ],
+      "agent_text": "When planning a trip, do you usually prefer to have a separate copy of this checklist for each specific journey, or would you rather keep one master document that you update continuously?",
+      "rule_id": null,
+      "reasoning": "The reusable-template rule answers template versus one-off document creation; this asks how to manage copies after a checklist template already exists."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "tentative_conflict_response",
+          "statement": "If an invitation overlaps with work, church, or volunteer commitments I am still sorting out, I respond as tentative first."
+        },
+        {
+          "rule_id": "draft_first_for_teams",
+          "statement": "I like messages to clients, school partners, or church teams drafted first so I can review them before they go out."
+        }
+      ],
+      "agent_text": "For future calendar invitations, if the invite is missing the room, agenda, or organizer details, should I mark it tentative by default until the details come in?",
+      "rule_id": null,
+      "reasoning": "The tentative rule is triggered by unresolved conflicts with commitments, while this question asks about missing invite information; the trigger is different."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "personal_routine_reminder_not_event",
+          "statement": "For personal routines like study, jogging, or yoga, I prefer a private reminder rather than a full calendar event."
+        },
+        {
+          "rule_id": "tentative_invites",
+          "statement": "If an invitation conflicts with unsettled commitments, I usually mark it tentative first."
+        }
+      ],
+      "agent_text": "When I schedule study sessions on your calendar, would you like me to automatically add a 30-minute reminder, or should I leave reminders for you to set manually?",
+      "rule_id": null,
+      "reasoning": "The personal-routine rule answers reminder versus calendar event; this question already assumes a scheduled session and asks about automatic reminder setup or lead time."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "client_school_church_draft_first",
+          "statement": "I like messages to clients, school partners, or church teams drafted first so I can review the tone and details before they go out."
+        },
+        {
+          "rule_id": "message_tone",
+          "statement": "For casual replies, I prefer warm and friendly wording."
+        }
+      ],
+      "agent_text": "For future volunteer or church-team coordination messages like this, would you prefer that I always create a draft for your review before sending, or send directly when the details are straightforward?",
+      "rule_id": "client_school_church_draft_first",
+      "reasoning": "Volunteer or church-team coordination is covered by the church-team trigger, and the question asks draft-for-review versus direct-send, which the rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "delete_bad_duplicates",
+          "statement": "If a file is blurry, duplicated, or clearly unusable, I delete it outright rather than keeping extra clutter."
+        },
+        {
+          "rule_id": "project_archive",
+          "statement": "When a project is finished, I move the project folder into a project archive."
+        }
+      ],
+      "agent_text": "For future blurry or duplicate files, would you like me to suggest archiving them for later review, or should I ask you before doing anything?",
+      "rule_id": null,
+      "reasoning": "The available duplicate-file rule says to delete bad duplicates outright; a question about archiving or review does not preserve that delete-rather-than-archive behavior."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "client_school_church_draft_first",
+          "statement": "I like messages to clients, school partners, or church teams drafted first so I can review the tone and details before they go out."
+        },
+        {
+          "rule_id": "message_format",
+          "statement": "For team updates, I prefer short bullet points over long paragraphs."
+        }
+      ],
+      "agent_text": "When you ask me to draft routine follow-up or confirmation messages like this, would you prefer that I show you a draft for review before sending, or send directly once the key points are confirmed?",
+      "rule_id": "client_school_church_draft_first",
+      "reasoning": "The question asks draft-review versus direct-send for follow-up messages in the current client, school, or church-team style context, so the draft-first rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "tentative_invites",
+          "statement": "When an invitation conflicts with commitments I have not settled yet, I respond tentative first."
+        },
+        {
+          "rule_id": "event_reminders",
+          "statement": "For calendar events, I like a reminder the day before."
+        }
+      ],
+      "agent_text": "Do you have a standing rule for how I should handle calendar invites in the future?",
+      "rule_id": "tentative_invites",
+      "reasoning": "A broad standing-rule ask about calendar invites should match the available invite-handling rule when that is the only rule that answers the invite decision field."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "quiet_restaurant",
+          "statement": "When I book a meal out, I prefer quiet conversation-friendly restaurants over loud chain spots."
+        },
+        {
+          "rule_id": "event_live_music",
+          "statement": "For event tickets, I prefer live music over other performances."
+        }
+      ],
+      "agent_text": "For future restaurant reservations, do you have a standing rule for how you would like me to handle them?",
+      "rule_id": "quiet_restaurant",
+      "reasoning": "The question is broad, but the pool contains a direct restaurant-reservation preference, so that rule naturally answers it."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "themed_trip_stops",
+          "statement": "When planning trips, I prefer stops tied to my core hobbies rather than generic sightseeing."
+        },
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For regional trips, I prefer ground transportation instead of flying."
+        }
+      ],
+      "agent_text": "For future trip planning, do you have a standing rule for how I should choose stops or build the itinerary?",
+      "rule_id": "themed_trip_stops",
+      "reasoning": "The broad trip-planning ask includes itinerary and stop selection, which the themed-trip-stops rule directly answers."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "event_live_music",
+          "statement": "For event tickets, I usually want live music, especially jazz or soul, over other events."
+        },
+        {
+          "rule_id": "restaurant_soul_food",
+          "statement": "For meals out, I prefer Southern comfort restaurants over chains."
+        }
+      ],
+      "agent_text": "When booking events for me in the future, do you have a standing rule I should follow?",
+      "rule_id": "event_live_music",
+      "reasoning": "The question asks about event bookings, and the event-ticket live-music rule is the available rule for that booking field."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "draft_review_first",
+          "statement": "For client, school, volunteer, or community coordination messages, I want a draft first so I can review the tone and details before anything is sent."
+        },
+        {
+          "rule_id": "friendly_tone",
+          "statement": "For casual personal notes, I prefer warm and friendly wording."
+        }
+      ],
+      "agent_text": "For future volunteer or scheduling messages, should I always create a draft for your review first, or are there cases where I should send the reply directly?",
+      "rule_id": "draft_review_first",
+      "reasoning": "This asks the exact draft-first versus send-direct decision for volunteer or scheduling messages, so it matches the draft-review rule rather than a mere tone rule."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "project_first_files",
+          "statement": "I organize working files by project first, not just by file type or date."
+        },
+        {
+          "rule_id": "archive_old_files",
+          "statement": "When files are old, I move them into a yearly archive folder."
+        }
+      ],
+      "agent_text": "For future file moves, should I automatically add the project label or project folder when the project is clear, or leave the files untagged?",
+      "rule_id": "project_first_files",
+      "reasoning": "Project labeling or placement is a direct application of organizing files by project first."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For regional work or conference trips, I prefer to drive or take ground transportation instead of booking a flight."
+        },
+        {
+          "rule_id": "themed_trip_stops",
+          "statement": "When planning trips, I prefer stops connected to audio, electronics, or maker culture."
+        }
+      ],
+      "agent_text": "Do you have a standing rule for how I should handle ground transportation bookings in the future?",
+      "rule_id": null,
+      "reasoning": "This only asks how to handle bookings inside the ground-transportation category; it does not ask whether to choose ground transportation instead of flying."
+    },
+    {
+      "rule_pool": [
+        {
+          "rule_id": "ground_over_flight",
+          "statement": "For short trips, I prefer to go by train, bus, or car transfer instead of flying."
+        },
+        {
+          "rule_id": "cultural_stops",
+          "statement": "For trips, I prefer culturally meaningful stops over generic tourist fillers."
+        }
+      ],
+      "agent_text": "For multi-city trips, do you want me to prioritize trains over buses, buses over trains, or simply pick the cheapest ground route?",
+      "rule_id": null,
+      "reasoning": "The available ground rule contrasts ground transport with flights; this question is only about ranking ground modes against each other."
+    }
+  ]
+}

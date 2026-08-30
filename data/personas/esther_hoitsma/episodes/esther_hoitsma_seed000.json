@@ -1,0 +1,4856 @@
+{
+  "episode_id": "esther_hoitsma_seed000",
+  "persona_id": "esther_hoitsma",
+  "raw_persona": {
+    "persona_id": "esther_hoitsma",
+    "nemotron_uuid": "d39cb893599c4f1e9e0f6ecb4890d9f5",
+    "narrative": "name: Esther Hoitsma\nage: 21\nsex: Female\nmarital_status: never_married\neducation_level: high_school\noccupation: home_health_aide\nhobbies_and_interests: Watercolor Painting, Visiting Local Art Galleries, Participating in Community Art Workshops, Recreational Soccer, Cooking Traditional Mexican Cuisine, Experimenting with Fusion Recipes, Reading Science‑Fiction and Philosophy, Attending TED‑style Talks and Lectures, Hiking in Owyhee Mountains, Practicing Yoga, Volunteering at Senior Center Cultural Events, Exploring New Languages (e.g., American Sign Language)\nskills_and_expertise: Patient Care and Personal Hygiene Assistance, Vital Sign Monitoring, Basic Wound Care, Medication Assistance, Basic Life Support (BLS) and First Aid Certified, Bilingual Spanish–English Communication, Electronic Health Record (EHR) Documentation, Scheduling and Logistics Management, Inventory and Supply Control, Interpersonal Communication and Active Listening, Art‑Therapy Integration for Patient Engagement, Time Management and Goal‑Oriented Planning\ncomplementary_info: Esther Hoitsma is a first-generation Mexican-American raised in a bilingual Spanish-English household in Caldwell by parents from Jalisco, Mexico. She grew up observing Día de los Muertos, Las Posadas, Mexican Independence Day, and local Idaho festivities, and she often serves as a cultural bridge for Spanish-speaking clients and immigrant families while staying involved in local cultural organizations. Her long-term path is centered on elder care: earning CNA certification within the next year, then an Associate’s in Nursing, later becoming an RN in geriatrics and eventually supervising home-health teams. She also aims to build culturally relevant art-therapy programs for Mexican-American seniors, create a bilingual health-education curriculum for Idaho home-care agencies, and eventually found a community nonprofit focused on affordable culturally sensitive elder care. In daily life, she brings watercolor-based activities into senior care and helps host monthly potluck nights at the senior center featuring dishes such as mole poblano, handmade tamales, smoked-salmon mole, and huckleberry salsa verde. She paints Idaho canyon country landscapes, drawing inspiration from Ansel Adams and Georgia O’Keeffe, and regularly attends openings at the Idaho State Museum of Art and River City Gallery, including contemporary mixed-media shows featuring artists like Tania Bruguera. She also attends TED-style talks at the Boise Public Library. In sports and outdoor life, she plays forward for the Caldwell United co-ed recreational soccer league, joins weekend hiking groups in the Owyhee Mountains, tracks summits with a GPS watch, and often travels with soccer teammates on budgeted weekend trips. Places tied to her recurring travel and cultural routines include the Columbia River Gorge, Arches National Park near Moab, San Miguel de Allende for Day of the Dead, and a hoped-for future solo trek in the Canadian Rockies. Her music rotation includes Maná, Björk, and mariachi, and during sports seasons she follows the Boise State Broncos and the Idaho Falls Chukars.",
+    "general_domain": "home_health_aide",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Esther Hoitsma",
+    "demographics": {
+      "age": 21,
+      "sex": "Female",
+      "marital_status": "never_married",
+      "education_level": "high_school",
+      "occupation": "home_health_aide",
+      "city": "Caldwell",
+      "state": "ID",
+      "zipcode": "83607",
+      "country": "USA"
+    },
+    "persona_summary": "Esther Hoitsma, a 21‑year‑old home health aide with a competitive spirit, blends bilingual care, organized precision, and a love for watercolor art to uplift seniors while chasing a nursing career and a savings streak.",
+    "professional_persona": "Esther Hoitsma, a 21‑year‑old home health aide in Caldwell, Idaho, blends rigorous clinical skills—BLS certification, vital‑sign monitoring, and medication assistance—with bilingual communication and an organized, data‑driven approach to EHR documentation. Their curiosity drives the integration of watercolor‑based art activities into patient care, boosting morale among seniors. With a competitive drive for advancement, they are pursuing CNA certification within the year, aiming for an Associate’s in Nursing and eventually a supervisory RN role specializing in geriatrics, while planning to embed culturally resonant art‑therapy programs across home‑care agencies.",
+    "sports_persona": "Esther Hoitsma plays forward for the Caldwell United co‑ed recreational soccer league, where their competitive nature fuels a drive to lead the team to league finals. They also join weekend hiking groups in the Owyhee Mountains, tracking summits with a GPS watch, and they cheer for the Boise State Broncos football team and the Idaho Falls Chukars minor‑league baseball squad during the season.",
+    "arts_persona": "Esther Hoitsma expresses creativity through watercolor paintings of Idaho’s canyon country, drawing inspiration from Ansel Adams’ landscape photography and Georgia O’Keeffe’s bold color palettes. They frequent the Idaho State Museum of Art and the River City Gallery, often attending openings featuring contemporary mixed‑media artists like Tania Bruguera. Their musical tastes range from the rock band Maná to the avant‑garde pop of Björk, and they regularly attend TED‑style talks at the Boise Public Library to feed their curiosity.",
+    "travel_persona": "Esther Hoitsma prefers carefully planned weekend getaways that blend adventure and cultural immersion, such as hiking the Columbia River Gorge in Oregon, exploring the turquoise waters of Moab’s Arches National Park, and attending the Day of the Dead celebration in San Miguel de Allende. They budget trips using a travel‑fund app, often traveling with soccer teammates to share costs, and they dream of a solo trek through the Canadian Rockies next summer.",
+    "culinary_persona": "Esther Hoitsma loves preparing traditional mole poblano and hand‑made tamales, while experimenting with Pacific Northwest twists like smoked salmon mole and huckleberry‑infused salsa verde. Their kitchen staple ingredients include dried chilies, cacao nibs, locally sourced fir tree mushrooms, and fresh trout. They are adept at balancing flavors, often layering chipotle and rosemary, and they host monthly potluck nights at the senior center, showcasing their fusion dishes.",
+    "cultural_background": "Esther is a first‑generation Mexican‑American; her parents emigrated from the state of Jalisco, Mexico, and raised her in a bilingual household in Caldwell, Idaho. She grew up celebrating both Mexican traditions—such as Día de los Muertos, Las Posadas, and Mexican Independence Day—and local Idaho festivities, fostering a blended cultural identity. Her Mexican heritage is reflected in her love for family gatherings, traditional cuisine, mariachi music, and the value placed on hard work and community support. Fluent in Spanish and English, Esther often acts as a cultural bridge within her workplace, providing nuanced care to Spanish‑speaking clients. While she embraces the entrepreneurial spirit and self‑reliance common in Idaho’s community, she also maintains strong ties to the Mexican diaspora, participating in local cultural organizations and supporting initiatives that uplift immigrant families.",
+    "skills_and_expertise": "Esther is a skilled home health aide with a strong foundation in direct patient care, including personal hygiene assistance, mobility support, vital sign monitoring, and basic wound care. She is certified in Basic Life Support (BLS) and First Aid, and is adept at medication assistance under supervision. Her bilingual fluency in Spanish and English enables clear communication with diverse clients and families. Esther excels in electronic health record (EHR) documentation, ensuring accurate and timely record-keeping. Her exceptional organizational abilities allow her to manage client schedules, inventory supplies, and coordinate with multidisciplinary teams efficiently. She also incorporates creative approaches such as art‑based activities to enhance patient morale, reflecting her curiosity and appreciation for the arts. Additionally, she possesses strong interpersonal skills—active listening, conflict resolution, and motivational encouragement—while maintaining a competitive drive for continuous professional development.",
+    "skills_and_expertise_list": [
+      "Patient Care and Personal Hygiene Assistance",
+      "Vital Sign Monitoring",
+      "Basic Wound Care",
+      "Medication Assistance",
+      "Basic Life Support (BLS) and First Aid Certified",
+      "Bilingual Spanish–English Communication",
+      "Electronic Health Record (EHR) Documentation",
+      "Scheduling and Logistics Management",
+      "Inventory and Supply Control",
+      "Interpersonal Communication and Active Listening",
+      "Art‑Therapy Integration for Patient Engagement",
+      "Time Management and Goal‑Oriented Planning"
+    ],
+    "hobbies_and_interests": "Outside of work, Esther enjoys expressing her creativity through watercolor painting, often capturing the rugged landscapes of Idaho’s canyon country. She regularly visits local art galleries and participates in community art workshops, where she experiments with mixed media. A sports enthusiast, she plays in a co‑ed recreational soccer league and finds energy in group activities. Cooking is another passion; she loves preparing traditional Mexican dishes, especially mole and tamales, and experimenting with fusion recipes that blend Mexican flavors with Pacific Northwest ingredients. Esther is an avid reader of science‑fiction and philosophy, and she frequently attends TED‑style talks to satisfy her curiosity. Hiking the nearby Owyhee Mountains, practicing yoga, and volunteering at the senior center’s cultural events round out her interests, reflecting her sociable and outgoing nature.",
+    "hobbies_and_interests_list": [
+      "Watercolor Painting",
+      "Visiting Local Art Galleries",
+      "Participating in Community Art Workshops",
+      "Recreational Soccer",
+      "Cooking Traditional Mexican Cuisine",
+      "Experimenting with Fusion Recipes",
+      "Reading Science‑Fiction and Philosophy",
+      "Attending TED‑style Talks and Lectures",
+      "Hiking in Owyhee Mountains",
+      "Practicing Yoga",
+      "Volunteering at Senior Center Cultural Events",
+      "Exploring New Languages (e.g., American Sign Language)"
+    ],
+    "career_goals_and_ambitions": "Esther aims to build upon her home health experience by earning Certified Nursing Assistant (CNA) credentials within the next year, followed by an Associate’s degree in Nursing at a community college. Her long‑term ambition is to become a Registered Nurse specializing in geriatrics and to eventually take on a supervisory role overseeing home health teams. She is particularly passionate about integrating culturally relevant art‑therapy programs for Mexican‑American seniors, and hopes to develop a bilingual health education curriculum that can be implemented across Idaho’s home‑care agencies. Esther also envisions founding a community‑based nonprofit that provides affordable, culturally sensitive elder‑care services, leveraging her organizational strengths and competitive drive to secure funding and partnerships."
+  },
+  "rules": [
+    {
+      "rule_text": "When ordering ingredients or kitchen supplies, Esther prefers products that reflect locally sourced Pacific Northwest or traditional Mexican cooking over generic substitutes.",
+      "canonical_answer": "For cooking purchases, I go for ingredients that feel either traditionally Mexican or distinctly local to the Northwest.",
+      "counterfactual_default": "Choose a generic mainstream product that merely fits the category.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "locally sourced fir tree mushrooms"
+        },
+        {
+          "type": "direct",
+          "content": "traditional mole poblano and hand‑made tamales"
+        },
+        {
+          "type": "direct",
+          "content": "Pacific Northwest twists like smoked salmon mole and huckleberry‑infused salsa verde"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "esther_hoitsma_commerce_01"
+    },
+    {
+      "rule_text": "When something she bought is wrong but still useful to her plans, Esther prefers an exchange rather than a refund.",
+      "canonical_answer": "If an item is the wrong version but I still need it, I’d rather exchange it than just get my money back.",
+      "counterfactual_default": "Request a refund and end the transaction.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "experimenting with fusion recipes"
+        },
+        {
+          "type": "direct",
+          "content": "participates in community art workshops"
+        },
+        {
+          "type": "inferred",
+          "content": "Because Esther actively uses specialty cooking ingredients and art materials, a mistaken purchase often still needs replacement more than reimbursement."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "esther_hoitsma_commerce_02"
+    },
+    {
+      "rule_text": "When she needs to trim recurring costs without giving a service up entirely, Esther prefers switching to the basic plan.",
+      "canonical_answer": "If I’m trying to save money but still keep a service, I move it down to the basic plan.",
+      "counterfactual_default": "Keep the current plan or cancel the subscription outright.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "a savings streak"
+        },
+        {
+          "type": "direct",
+          "content": "budget trips using a travel‑fund app"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "change_subscription_plan",
+        "param": "new_plan"
+      },
+      "rule_id": "esther_hoitsma_commerce_03"
+    },
+    {
+      "rule_text": "For messages that represent her professionally, Esther prefers a draft-first workflow instead of sending immediately.",
+      "canonical_answer": "I always want professional messages drafted first so I can review the wording before anything goes out.",
+      "counterfactual_default": "Send the message directly once the content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "organized, data‑driven approach to EHR documentation"
+        },
+        {
+          "type": "direct",
+          "content": "Bilingual Spanish–English Communication"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "esther_hoitsma_communication_01"
+    },
+    {
+      "rule_text": "Messages tied to patient care, scheduling, or family coordination should be marked high priority for Esther.",
+      "canonical_answer": "Anything related to care coordination or family communication should be marked high priority for me.",
+      "counterfactual_default": "Leave the messages at normal priority.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "coordinate with multidisciplinary teams efficiently"
+        },
+        {
+          "type": "direct",
+          "content": "providing nuanced care to Spanish‑speaking clients"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_message_priority",
+        "param": "priority"
+      },
+      "rule_id": "esther_hoitsma_communication_02"
+    },
+    {
+      "rule_text": "For dining plans, Esther prefers restaurants with strong Mexican or fusion flavors suitable for sharing over generic American options.",
+      "canonical_answer": "When I’m choosing a place to eat, I usually go for Mexican or fusion spots that work well for shared meals.",
+      "counterfactual_default": "Pick a generic nearby restaurant without a cuisine-based preference.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "loves preparing traditional mole poblano and hand‑made tamales"
+        },
+        {
+          "type": "direct",
+          "content": "showcasing their fusion dishes"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "esther_hoitsma_reservation_02"
+    },
+    {
+      "rule_text": "When booking a service appointment, Esther prefers a bilingual or culturally sensitive provider when one is available.",
+      "canonical_answer": "If I’m booking a service, I prefer someone bilingual or culturally aware whenever I can get that.",
+      "counterfactual_default": "Choose any available provider without regard to language or cultural fit.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Fluent in Spanish and English, Esther often acts as a cultural bridge"
+        },
+        {
+          "type": "direct",
+          "content": "culturally sensitive elder‑care services"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "esther_hoitsma_reservation_03"
+    },
+    {
+      "rule_text": "When restaurant plans shift, Esther prefers adjusting the reservation by party size rather than changing the whole time slot first.",
+      "canonical_answer": "If dinner plans change, I usually want to fix the headcount before I move the reservation time.",
+      "counterfactual_default": "Modify the reservation time instead of the party size.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often traveling with soccer teammates to share costs"
+        },
+        {
+          "type": "direct",
+          "content": "host monthly potluck nights at the senior center"
+        },
+        {
+          "type": "inferred",
+          "content": "Because Esther regularly organizes social meals with teammates and community groups, attendance swings are a more characteristic change than the chosen dining time."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "modify_restaurant_reservation",
+        "param": "field"
+      },
+      "rule_id": "esther_hoitsma_reservation_04"
+    },
+    {
+      "rule_text": "When an invitation overlaps with work coverage or an unresolved commitment, Esther prefers to respond tentatively rather than accepting or declining right away.",
+      "canonical_answer": "When my schedule is still in flux, I usually mark invites as tentative until I know I can fully commit.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "manage client schedules"
+        },
+        {
+          "type": "direct",
+          "content": "plays forward for the Caldwell United co‑ed recreational soccer league"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "esther_hoitsma_scheduling_01"
+    },
+    {
+      "rule_text": "For group plans like potlucks, volunteer events, or teammate meetups, Esther prefers creating a shared calendar event rather than a private reminder.",
+      "canonical_answer": "If other people are involved, I want it on the calendar as a real shared event, not just a personal reminder.",
+      "counterfactual_default": "Set a private reminder instead of creating a calendar event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "they host monthly potluck nights at the senior center"
+        },
+        {
+          "type": "direct",
+          "content": "volunteering at the senior center’s cultural events"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "esther_hoitsma_scheduling_02"
+    },
+    {
+      "rule_text": "For regional group travel, Esther prefers shared ground transport over air travel when it helps the group stay together and save money.",
+      "canonical_answer": "On shorter regional trips with other people, I prefer shared ground travel so we can keep costs down and travel together.",
+      "counterfactual_default": "Check flights first or choose the fastest air option.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often traveling with soccer teammates to share costs"
+        },
+        {
+          "type": "direct",
+          "content": "carefully planned weekend getaways"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": "transport_offer_id"
+      },
+      "rule_id": "esther_hoitsma_travel_03"
+    },
+    {
+      "rule_text": "When booking lodging for group trips, Esther prefers hotel offers that support roommate-style cost sharing rather than private single-occupancy options.",
+      "canonical_answer": "If I’m traveling with a group, I prefer lodging that lets us split the room and the cost.",
+      "counterfactual_default": "Choose a standard private room for comfort or convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often traveling with soccer teammates to share costs"
+        },
+        {
+          "type": "direct",
+          "content": "budget trips using a travel‑fund app"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "esther_hoitsma_travel_04"
+    },
+    {
+      "rule_text": "When she does fly, Esther prefers a window seat for the landscape views.",
+      "canonical_answer": "If I’m on a plane, I want a window seat because I love seeing the landscape.",
+      "counterfactual_default": "Choose an aisle seat for convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "watercolor paintings of Idaho’s canyon country"
+        },
+        {
+          "type": "direct",
+          "content": "drawing inspiration from Ansel Adams’ landscape photography"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "esther_hoitsma_travel_05"
+    },
+    {
+      "rule_text": "When organizing work-related files, Esther prefers classifying them by date rather than by project or owner.",
+      "canonical_answer": "For my work files, I usually organize them by date so the timeline stays clear.",
+      "counterfactual_default": "Classify the files by project or file type.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "accurate and timely record-keeping"
+        },
+        {
+          "type": "direct",
+          "content": "organized precision"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "esther_hoitsma_workspace_03"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "esther_hoitsma_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply to one message.",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Lucia Ramirez",
+        "priority": "high",
+        "reply_language": "en",
+        "reply_points": [
+          "thank her for checking in",
+          "say Rosa had a calm evening and slept well",
+          "mention breakfast and morning meds are done",
+          "note Esther will send another update after lunch"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Lucia Ramirez"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_rosa_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lucia Ramirez",
+              "subject": "Quick update on Rosa?",
+              "body": "Hi Esther, could you let me know how Rosa did overnight and whether she took her morning medications? I want to update my brother before work. Thank you.",
+              "thread_id": "thr_rosa_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-15T06:42:00"
+            }
+          },
+          {
+            "id": "msg_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Darren Cole",
+              "subject": "Timesheet reminder",
+              "body": "Please upload yesterday's timesheet before noon if you haven't already.",
+              "thread_id": "thr_admin_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-15T07:05:00"
+            }
+          },
+          {
+            "id": "msg_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Maribel Soto",
+              "subject": "Art supplies for next week",
+              "body": "Can you bring extra watercolor paper when you visit next Tuesday?",
+              "thread_id": "thr_art_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-15T08:11:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a study note",
+      "task_params": {
+        "reference_doc_type": "template",
+        "doc_type": "note",
+        "location": "CNA Prep",
+        "title": "Patient Safety Basics Review",
+        "safety_points": [
+          "hand hygiene before and after every patient contact",
+          "use gloves and PPE when exposure risk is present",
+          "confirm patient identity before care tasks",
+          "keep bed low and call light within reach",
+          "lock wheelchair and bed brakes during transfers",
+          "report changes in vital signs or condition promptly",
+          "follow fall prevention steps and clear trip hazards",
+          "document care accurately and right away"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "CNA Prep",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Patient Safety Basics Review",
+            "location": "CNA Prep",
+            "content_brief": "<authored from safety_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_cna_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "CNA Skills Study Template",
+              "doc_type": "template",
+              "location": "CNA Prep",
+              "content_brief": "Simple study template with headings for topic, key reminders, and quick review bullets."
+            }
+          },
+          {
+            "id": "doc_shift_note_02",
+            "type": "document",
+            "attributes": {
+              "title": "Home Care Shift Notes Example",
+              "doc_type": "note",
+              "location": "Work Notes",
+              "content_brief": "Example of concise patient care documentation from a prior shift."
+            }
+          },
+          {
+            "id": "doc_exam_outline_03",
+            "type": "document",
+            "attributes": {
+              "title": "CNA Exam Outline",
+              "doc_type": "report",
+              "location": "CNA Prep",
+              "content_brief": "Outline of major exam domains including infection control and safety."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order some art supplies",
+      "task_params": {
+        "category": "watercolor paper pad",
+        "budget": 15,
+        "sort_by": "price_asc",
+        "product_id": "prod_canson_xl_01",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "watercolor paper pad",
+            "budget": 15,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_canson_xl_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_canson_xl_01",
+            "type": "product",
+            "attributes": {
+              "name": "Canson XL Watercolor Paper Pad 9x12",
+              "price": 11.99,
+              "category": "watercolor paper pad",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_strathmore_02",
+            "type": "product",
+            "attributes": {
+              "name": "Strathmore 300 Series Watercolor Pad 9x12",
+              "price": 14.49,
+              "category": "watercolor paper pad",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_arteza_03",
+            "type": "product",
+            "attributes": {
+              "name": "Arteza Watercolor Paper Pad 10x7",
+              "price": 13.25,
+              "category": "watercolor paper pad",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_princeton_04",
+            "type": "product",
+            "attributes": {
+              "name": "Princeton Snap Brush Set Round and Flat",
+              "price": 12.99,
+              "category": "brush set",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "communication",
+      "reason_for_call": "Draft a group message",
+      "task_params": {
+        "recipient": "volunteers@caldwellseniorcenter.org",
+        "subject": "Next Month's Potluck + Art Table Idea",
+        "message_language": "en",
+        "message_points": [
+          "Write in both English and Spanish",
+          "Next month's potluck theme is tamales and toppings",
+          "Invite volunteers to bring a side dish or dessert",
+          "Art table idea is a simple watercolor postcard station",
+          "Ask who can help set up and clean up",
+          "Keep the tone warm and welcoming"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "volunteers@caldwellseniorcenter.org",
+            "subject": "Next Month's Potluck + Art Table Idea",
+            "language": "en",
+            "body": "<authored from message_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_volunteer_01",
+            "type": "message",
+            "attributes": {
+              "sender": "maria.garcia@caldwellseniorcenter.org",
+              "subject": "Volunteer sign-up sheet for this month's lunch",
+              "body": "Hi everyone, please review the sign-up sheet and let me know if you can help with setup, serving, or cleanup. Thanks for all you do.",
+              "thread_id": "thr_volunteer_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-04T10:15:00"
+            }
+          },
+          {
+            "id": "msg_art_01",
+            "type": "message",
+            "attributes": {
+              "sender": "ana.lopez@caldwellseniorcenter.org",
+              "subject": "Craft corner supplies update",
+              "body": "We still have watercolor paper, brushes, and a few table covers left from the last activity. Let me know if you want me to bring them out.",
+              "thread_id": "thr_art_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-03T14:40:00"
+            }
+          },
+          {
+            "id": "msg_old_01",
+            "type": "message",
+            "attributes": {
+              "sender": "volunteers@caldwellseniorcenter.org",
+              "subject": "Reminder: cultural activity ideas",
+              "body": "Please send ideas for future cultural and art activities for the center. Bilingual activities are especially welcome.",
+              "thread_id": "thr_ideas_01",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-04-11T09:00:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Caldwell",
+        "sort_by": "distance",
+        "provider_id": "svc_shearhaven_01",
+        "date_time": "2025-02-13T18:30:00",
+        "update_scope": "critical"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Caldwell",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_shearhaven_01",
+            "date_time": "2025-02-13T18:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_shearhaven_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Shear Haven Studio",
+              "service_type": "haircut",
+              "location": "Caldwell",
+              "rating": 4.6,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_mapletrim_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Maple Trim Salon",
+              "service_type": "haircut",
+              "location": "Caldwell",
+              "rating": 4.8,
+              "distance_km": 4.7
+            }
+          },
+          {
+            "id": "svc_eveningchair_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Evening Chair Hair Co.",
+              "service_type": "haircut",
+              "location": "Caldwell",
+              "rating": 4.4,
+              "distance_km": 3.5
+            }
+          },
+          {
+            "id": "svc_nailnest_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Nail Nest",
+              "service_type": "manicure",
+              "location": "Caldwell",
+              "rating": 4.5,
+              "distance_km": 1.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files",
+      "task_params": {
+        "location": "Phone Uploads/Care Planning",
+        "file_type": "pdf",
+        "file_ids": [
+          "file_caremed_01",
+          "file_fallprev_02",
+          "file_skincheck_03"
+        ],
+        "scheme": "by_type",
+        "folder_id": "fld_quickref_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Phone Uploads/Care Planning",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_caremed_01",
+              "file_fallprev_02",
+              "file_skincheck_03"
+            ],
+            "scheme": "by_type"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_caremed_01",
+              "file_fallprev_02",
+              "file_skincheck_03"
+            ],
+            "folder_id": "fld_quickref_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_caremed_01",
+            "type": "file",
+            "attributes": {
+              "name": "Medication Cue Sheet - Mrs Alvarez.pdf",
+              "file_type": "pdf",
+              "location": "Phone Uploads/Care Planning",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_fallprev_02",
+            "type": "file",
+            "attributes": {
+              "name": "Fall Prevention Handout Spanish.pdf",
+              "file_type": "pdf",
+              "location": "Phone Uploads/Care Planning",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_skincheck_03",
+            "type": "file",
+            "attributes": {
+              "name": "Skin Check Notes Packet.pdf",
+              "file_type": "pdf",
+              "location": "Phone Uploads/Care Planning",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_quickref_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Quick Reference",
+              "purpose": "Frequently used care handouts and field-ready notes"
+            }
+          },
+          {
+            "id": "fld_archive_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Archive",
+              "purpose": "Older files not needed for daily use"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "scheduling",
+      "reason_for_call": "Check my calendar for a meetup.",
+      "task_params": {
+        "calendar": "personal",
+        "participants": [
+          "Maya Rios"
+        ],
+        "title": "Coffee with Maya",
+        "start_time": "2025-03-18T14:30:00-06:00",
+        "end_time": "2025-03-18T15:00:00-06:00",
+        "location": "Flying M Coffee Caldwell"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal",
+            "participants": [
+              "Maya Rios"
+            ]
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-18T14:30:00-06:00",
+            "end_time": "2025-03-18T15:00:00-06:00",
+            "participants": [
+              "Maya Rios"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Coffee with Maya",
+            "start_time": "2025-03-18T14:30:00-06:00",
+            "end_time": "2025-03-18T15:00:00-06:00",
+            "participants": [
+              "Maya Rios"
+            ],
+            "location": "Flying M Coffee Caldwell"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_splitshift_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Client visit - morning shift",
+              "start_time": "2025-03-18T08:00:00-06:00",
+              "end_time": "2025-03-18T12:00:00-06:00",
+              "participants": [
+                "Esther Hoitsma"
+              ],
+              "location": "Caldwell",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_study_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "CNA study block",
+              "start_time": "2025-03-18T13:00:00-06:00",
+              "end_time": "2025-03-18T14:00:00-06:00",
+              "participants": [
+                "Esther Hoitsma"
+              ],
+              "location": "Caldwell Public Library",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_soccer_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Caldwell United practice",
+              "start_time": "2025-03-18T18:30:00-06:00",
+              "end_time": "2025-03-18T20:00:00-06:00",
+              "participants": [
+                "Esther Hoitsma"
+              ],
+              "location": "Memorial Park",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_shift2_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Client visit - evening shift",
+              "start_time": "2025-03-18T16:00:00-06:00",
+              "end_time": "2025-03-18T20:30:00-06:00",
+              "participants": [
+                "Esther Hoitsma"
+              ],
+              "location": "Caldwell",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_coffee_05",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Coffee with Maya",
+              "start_time": "2025-03-18T14:30:00-06:00",
+              "end_time": "2025-03-18T15:00:00-06:00",
+              "participants": [
+                "Maya Rios"
+              ],
+              "location": "Flying M Coffee Caldwell",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Boise",
+        "cuisine": "Mexican",
+        "date_time": "2025-03-15T19:30:00-06:00",
+        "party_size": 5
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Boise",
+            "cuisine": "Mexican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_aguaverde_01",
+            "date_time": "2025-03-15T19:30:00-06:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_aguaverde_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Agua Verde Cantina",
+              "cuisine": "Mexican",
+              "location": "Boise",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_highmesa_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "High Mesa Grill",
+              "cuisine": "Southwestern Mexican",
+              "location": "Boise",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_basilbrick_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Basil Brick Oven",
+              "cuisine": "Italian",
+              "location": "Boise",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_riverfork_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "River Fork Kitchen",
+              "cuisine": "American",
+              "location": "Boise",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "bistro"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "communication",
+      "reason_for_call": "Draft a thank-you message",
+      "task_params": {
+        "recipient": "friendsgroup@example.com",
+        "subject": "Thanks for coming out last night!",
+        "language": "en",
+        "message_points": [
+          "thank everyone for coming out",
+          "say the dinner was really fun",
+          "mention feeling grateful for the birthday love",
+          "say it meant a lot to celebrate together",
+          "suggest getting together again soon"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "friendsgroup@example.com",
+            "subject": "Thanks for coming out last night!",
+            "body": "<authored from message_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_note_01",
+            "type": "message",
+            "attributes": {
+              "sender": "clinic.scheduler@canyonhomecare.org",
+              "subject": "Updated client visit for Thursday",
+              "body": "Hi Esther, your first visit on Thursday was moved to 8:30 AM.",
+              "thread_id": "thr_work_01",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-10T07:12:00"
+            }
+          },
+          {
+            "id": "msg_team_02",
+            "type": "message",
+            "attributes": {
+              "sender": "captain@caldwellunited.org",
+              "subject": "Saturday lineup",
+              "body": "Can you play forward again this Saturday? We kick off at 10.",
+              "thread_id": "thr_soccer_02",
+              "folder": "inbox",
+              "labels": [
+                "sports"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-10T06:48:00"
+            }
+          },
+          {
+            "id": "msg_sent_03",
+            "type": "message",
+            "attributes": {
+              "sender": "esther.personal@example.com",
+              "subject": "Potluck signup",
+              "body": "I'll bring tamales and salsa verde.",
+              "thread_id": "thr_community_03",
+              "folder": "sent",
+              "labels": [
+                "personal"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-09T18:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "travel",
+      "reason_for_call": "Compare travel options.",
+      "task_params": {
+        "origin": "Boise",
+        "destination": "Salt Lake City",
+        "passenger_count": 1,
+        "departure_date": "2025-05-16",
+        "return_date": "2025-05-18",
+        "seat_preference": "aisle",
+        "flight_offer_id": "flt_boi_slc_02"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "Boise",
+            "destination": "Salt Lake City",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_boi_slc_02",
+            "seat_preference": "aisle"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_boi_slc_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Salt Lake City",
+              "departure_date": "2025-05-16",
+              "return_date": "2025-05-18",
+              "airline": "Delta",
+              "price": 289.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_boi_slc_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Salt Lake City",
+              "departure_date": "2025-05-16",
+              "return_date": "2025-05-18",
+              "airline": "Southwest",
+              "price": 219.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_boi_slc_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Salt Lake City",
+              "departure_date": "2025-05-17",
+              "return_date": "2025-05-18",
+              "airline": "United",
+              "price": 241.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trn_boi_slc_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Salt Lake City",
+              "mode": "bus",
+              "departure_date": "2025-05-16",
+              "price": 96.0,
+              "available_seats": 12
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "location": "Bend",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "hotel_offer_id": "hot_bendriver_01"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Bend",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_bendriver_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_bendriver_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Bend River Lodge",
+              "location": "Bend",
+              "check_in_date": "2025-09-20",
+              "check_out_date": "2025-09-22",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 129.0
+            }
+          },
+          {
+            "id": "hot_downtownpines_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Downtown Pines Inn",
+              "location": "Bend",
+              "check_in_date": "2025-09-20",
+              "check_out_date": "2025-09-22",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 141.0
+            }
+          },
+          {
+            "id": "hot_oldmillstay_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Old Mill Stay",
+              "location": "Bend",
+              "check_in_date": "2025-09-20",
+              "check_out_date": "2025-09-22",
+              "available_rooms": 2,
+              "max_guests_per_room": 4,
+              "price_per_night": 158.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "recipient": "caldwell-united-teammates@groupmail.com",
+        "subject": "Anyone want to split costs on an outdoor weekend trip later this season?",
+        "language": "en",
+        "body_points": [
+          "ask if anyone is interested in an outdoor weekend trip later this season",
+          "mention splitting gas and lodging to keep costs down",
+          "say no destination is picked yet",
+          "ask people to reply if they are interested",
+          "mention wanting to start planning soon"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "caldwell-united-teammates@groupmail.com",
+            "subject": "Anyone want to split costs on an outdoor weekend trip later this season?",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_team_01",
+            "type": "message",
+            "attributes": {
+              "sender": "marco@caldwellunited.org",
+              "subject": "Saturday carpool for away game",
+              "body": "Who can drive and who needs a ride for Saturday's match?",
+              "thread_id": "thr_team_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-17T18:42:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "scheduler@carepathhome.org",
+              "subject": "Shift update for Thursday",
+              "body": "One client visit moved to the afternoon. Please confirm.",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-03-17T14:05:00"
+            }
+          },
+          {
+            "id": "msg_friend_03",
+            "type": "message",
+            "attributes": {
+              "sender": "lena.perez@example.com",
+              "subject": "Gallery opening photos",
+              "body": "Sending you the photos from last night's opening.",
+              "thread_id": "thr_friend_03",
+              "folder": "archive",
+              "labels": [
+                "personal"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-16T21:11:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "lunch bag",
+        "budget": 30,
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "lunch bag",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_frostbite_01",
+              "prod_dayguard_02",
+              "prod_shiftkeeper_03",
+              "prod_bentozip_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_shiftkeeper_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_frostbite_01",
+            "type": "product",
+            "attributes": {
+              "name": "FrostBite Compact Lunch Bag",
+              "price": 18.99,
+              "category": "lunch bag",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_dayguard_02",
+            "type": "product",
+            "attributes": {
+              "name": "DayGuard Insulated Lunch Bag",
+              "price": 24.5,
+              "category": "lunch bag",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_shiftkeeper_03",
+            "type": "product",
+            "attributes": {
+              "name": "ShiftKeeper Leak-Resistant Lunch Bag",
+              "price": 29.99,
+              "category": "lunch bag",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_bentozip_04",
+            "type": "product",
+            "attributes": {
+              "name": "BentoZip Soft Cooler Lunch Bag",
+              "price": 16.49,
+              "category": "lunch bag",
+              "rating": 4.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "workspace",
+      "reason_for_call": "Organize some image files",
+      "task_params": {
+        "location": "Watercolor References",
+        "file_type": "image",
+        "file_ids": [
+          "fil_canyonbend_01",
+          "fil_canyonbend_02",
+          "fil_snakeriver_03"
+        ],
+        "scheme": "by_project",
+        "folder_id": "fld_landscape_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Watercolor References",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_canyonbend_01",
+              "fil_canyonbend_02",
+              "fil_snakeriver_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_canyonbend_01",
+              "fil_canyonbend_02",
+              "fil_snakeriver_03"
+            ],
+            "folder_id": "fld_landscape_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_canyonbend_01",
+            "type": "file",
+            "attributes": {
+              "name": "canyon_bend_dawn_ref.jpg",
+              "file_type": "image",
+              "location": "Watercolor References",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_canyonbend_02",
+            "type": "file",
+            "attributes": {
+              "name": "canyon_bend_wash_study.png",
+              "file_type": "image",
+              "location": "Watercolor References",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_snakeriver_03",
+            "type": "file",
+            "attributes": {
+              "name": "snake_river_canyon_photo_ref.jpeg",
+              "file_type": "image",
+              "location": "Watercolor References",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_redcliffs_04",
+            "type": "file",
+            "attributes": {
+              "name": "red_cliffs_evening_thumbnail.jpg",
+              "file_type": "image",
+              "location": "Watercolor References",
+              "owner": "Esther Hoitsma",
+              "labels": [
+                "rough-selects"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_landscape_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Landscape Projects",
+              "purpose": "Grouped watercolor landscape project files"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "communication",
+      "reason_for_call": "Draft a work message.",
+      "task_params": {
+        "recipient": "maria.gonzalez@silvercreekcare.org",
+        "subject": "Availability for extra shifts",
+        "language": "en",
+        "body_points": [
+          "say she hopes Maria is doing well",
+          "mention she wanted to ask about picking up extra shifts",
+          "say she is available this week if anything opens up",
+          "mention she can help with evening or weekend coverage",
+          "keep the tone polite and professional",
+          "avoid sounding desperate",
+          "ask Maria to let her know if there is a need"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "maria.gonzalez@silvercreekcare.org",
+            "subject": "Availability for extra shifts",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_shift_01",
+            "type": "message",
+            "attributes": {
+              "sender": "staffing@silvercreekcare.org",
+              "subject": "Open weekend coverage request",
+              "body": "We are looking for coverage for a client visit on Saturday afternoon. Please reply if available.",
+              "thread_id": "thr_shift_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-25T09:14:00"
+            }
+          },
+          {
+            "id": "msg_team_02",
+            "type": "message",
+            "attributes": {
+              "sender": "maria.gonzalez@silvercreekcare.org",
+              "subject": "Timesheet reminder",
+              "body": "Please submit your timesheet by noon Friday.",
+              "thread_id": "thr_team_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-24T16:02:00"
+            }
+          },
+          {
+            "id": "msg_family_03",
+            "type": "message",
+            "attributes": {
+              "sender": "sofia.hoitsma@gmail.com",
+              "subject": "Dinner on Sunday?",
+              "body": "Are you free to come by this Sunday evening?",
+              "thread_id": "thr_family_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-24T18:45:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Rockies",
+          "solo",
+          "hiking"
+        ],
+        "region": "Canadian Rockies",
+        "traveler_count": 1,
+        "duration_days": 4,
+        "destination_ids": [
+          "dest_banff_01",
+          "dest_jasper_02",
+          "dest_canmore_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Rockies",
+              "solo",
+              "hiking",
+              "Canadian Rockies"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_banff_01",
+              "dest_jasper_02",
+              "dest_canmore_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_banff_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Banff",
+              "region": "Canadian Rockies",
+              "tags": [
+                "Rockies",
+                "solo",
+                "hiking",
+                "lakes",
+                "mountain town"
+              ]
+            }
+          },
+          {
+            "id": "dest_jasper_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Jasper",
+              "region": "Canadian Rockies",
+              "tags": [
+                "Rockies",
+                "solo",
+                "hiking",
+                "wildlife",
+                "scenic drives"
+              ]
+            }
+          },
+          {
+            "id": "dest_canmore_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Canmore",
+              "region": "Canadian Rockies",
+              "tags": [
+                "Rockies",
+                "solo",
+                "hiking",
+                "trail access",
+                "small town"
+              ]
+            }
+          },
+          {
+            "id": "dest_revelstoke_04",
+            "type": "destination",
+            "attributes": {
+              "name": "Revelstoke",
+              "region": "British Columbia Rockies",
+              "tags": [
+                "Rockies",
+                "hiking",
+                "mountain town",
+                "forests"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "reference_doc_type": "template",
+        "location": "Trips",
+        "doc_type": "note",
+        "title": "Hiking Weekend Packing Checklist",
+        "content_points": [
+          "phone charger and watch charger",
+          "blister pads and moleskin",
+          "small first aid basics",
+          "water bottles or hydration pack",
+          "trail snacks",
+          "extra socks",
+          "light rain layer",
+          "headlamp",
+          "sunblock and lip balm",
+          "ID and trail pass"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Trips",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Hiking Weekend Packing Checklist",
+            "location": "Trips",
+            "content_brief": "<authored from content_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Weekend Road Trip Packing Template",
+              "doc_type": "template",
+              "location": "Trips",
+              "content_brief": "Reusable checklist template with sections for clothing, chargers, food, safety, and paperwork."
+            }
+          },
+          {
+            "id": "doc_template_02",
+            "type": "document",
+            "attributes": {
+              "title": "Camping Overnight Gear Template",
+              "doc_type": "template",
+              "location": "Trips",
+              "content_brief": "Packing template organized by shelter, layers, lighting, food, hydration, and emergency items."
+            }
+          },
+          {
+            "id": "doc_note_01",
+            "type": "document",
+            "attributes": {
+              "title": "Soccer Tournament Snack List",
+              "doc_type": "note",
+              "location": "Personal",
+              "content_brief": "Quick list of drinks, fruit, and recovery snacks for team travel."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "trail socks",
+        "budget": 20,
+        "quantity": 2,
+        "product_ids": [
+          "prod_trailsock_01",
+          "prod_trailsock_02",
+          "prod_trailsock_03"
+        ]
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "trail socks",
+            "budget": 20,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_trailsock_01",
+              "prod_trailsock_02",
+              "prod_trailsock_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_trailsock_02",
+            "quantity": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_trailsock_01",
+            "type": "product",
+            "attributes": {
+              "name": "SummitDry Trail Socks 2-Pack",
+              "price": 14.99,
+              "category": "trail socks",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_trailsock_02",
+            "type": "product",
+            "attributes": {
+              "name": "Ridgeline Merino Trail Socks",
+              "price": 18.5,
+              "category": "trail socks",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_trailsock_03",
+            "type": "product",
+            "attributes": {
+              "name": "CreekStep Cushion Trail Socks",
+              "price": 12.0,
+              "category": "trail socks",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_hikeess_04",
+            "type": "product",
+            "attributes": {
+              "name": "Pine Loop Mini First Aid Kit",
+              "price": 16.75,
+              "category": "small hiking essential",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a study session.",
+      "task_params": {
+        "title": "Library study session",
+        "start_time": "2025-03-31T17:30:00-06:00",
+        "end_time": "2025-03-31T19:00:00-06:00",
+        "participants": [
+          "Marisol Vega"
+        ],
+        "location": "Boise Public Library"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-31T17:30:00-06:00",
+            "end_time": "2025-03-31T19:00:00-06:00",
+            "participants": [
+              "Marisol Vega"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Library study session",
+            "start_time": "2025-03-31T17:30:00-06:00",
+            "end_time": "2025-03-31T19:00:00-06:00",
+            "participants": [
+              "Marisol Vega"
+            ],
+            "location": "Boise Public Library"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_shift_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Evening client shift",
+              "start_time": "2025-03-31T14:00:00-06:00",
+              "end_time": "2025-03-31T17:00:00-06:00",
+              "participants": [],
+              "location": "Caldwell",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga class",
+              "start_time": "2025-03-31T19:30:00-06:00",
+              "end_time": "2025-03-31T20:30:00-06:00",
+              "participants": [],
+              "location": "Caldwell Rec Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_team_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Soccer team chat",
+              "start_time": "2025-04-01T18:00:00-06:00",
+              "end_time": "2025-04-01T18:45:00-06:00",
+              "participants": [
+                "Caldwell United"
+              ],
+              "location": "Phone call",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_workshop_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Library study session",
+              "start_time": "2025-03-31T17:30:00-06:00",
+              "end_time": "2025-03-31T19:00:00-06:00",
+              "participants": [
+                "Marisol Vega"
+              ],
+              "location": "Boise Public Library",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a restaurant.",
+      "task_params": {
+        "location": "Nampa",
+        "cuisine": "Mexican",
+        "date_time": "2025-05-25T18:30:00",
+        "party_size": 5,
+        "restaurant_id": "rst_fiesta_01"
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Nampa",
+            "cuisine": "Mexican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_fiesta_01",
+            "date_time": "2025-05-25T18:30:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_fiesta_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Fiesta Guadalajara",
+              "cuisine": "Mexican",
+              "location": "Nampa",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_agave_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Agave Azul",
+              "cuisine": "Mexican",
+              "location": "Nampa",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "family style"
+            }
+          },
+          {
+            "id": "rst_brick_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Brick 29 Bistro",
+              "cuisine": "American",
+              "location": "Nampa",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_casa_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa Mexico",
+              "cuisine": "Mexican",
+              "location": "Caldwell",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a family reminder",
+      "task_params": {
+        "sender": "Tía Lupita",
+        "folder": "inbox",
+        "message_id": "msg_tialupita_01",
+        "thread_id": "thr_fammeal_01",
+        "subject": "Re: Sunday family meal",
+        "language": "en",
+        "reply_points": [
+          "friendly reminder in English and Spanish",
+          "meal is at Grandma Rosa's house",
+          "start time is 3:00 PM",
+          "please bring the dish you signed up for",
+          "text the group if running late",
+          "looking forward to seeing everyone"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Tía Lupita",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_fammeal_01",
+            "subject": "Re: Sunday family meal",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_tialupita_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Tía Lupita",
+              "subject": "Re: Sunday family meal",
+              "body": "Hi family, just checking that everyone saw the plan for our meal this Sunday. We should send one clear reminder in the thread so nobody misses the time or place.",
+              "thread_id": "thr_fammeal_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:18:00"
+            }
+          },
+          {
+            "id": "msg_coworker_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marina",
+              "subject": "Shift swap question",
+              "body": "Can you cover the first hour for me on Thursday?",
+              "thread_id": "thr_shift_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T08:05:00"
+            }
+          },
+          {
+            "id": "msg_soccer_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Coach Devin",
+              "subject": "Practice moved",
+              "body": "Practice is starting 30 minutes later tonight.",
+              "thread_id": "thr_soccer_12",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T07:42:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "travel",
+      "reason_for_call": "Find trip transportation.",
+      "task_params": {
+        "origin": "Boise",
+        "destination": "Bend",
+        "passenger_count": 4,
+        "departure_date": "2025-09-12",
+        "transport_offer_id": "trn_busbend_01"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Boise",
+            "destination": "Bend",
+            "passenger_count": 4,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trn_busbend_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trn_busbend_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Bend",
+              "mode": "bus",
+              "departure_date": "2025-09-12",
+              "price": 79.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "trn_vanbend_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Bend",
+              "mode": "car_transfer",
+              "departure_date": "2025-09-12",
+              "price": 286.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "trn_busbend_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Bend",
+              "mode": "bus",
+              "departure_date": "2025-09-13",
+              "price": 72.0,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "trn_trainbend_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boise",
+              "destination": "Bend",
+              "mode": "train",
+              "departure_date": "2025-09-12",
+              "price": 101.0,
+              "available_seats": 16
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "commerce",
+      "reason_for_call": "Review my subscriptions.",
+      "task_params": {
+        "focus": "all",
+        "subscription_id": "sub_streamflix_01",
+        "new_plan": "basic"
+      },
+      "expected_tools": [
+        "review_recurring_charges",
+        "change_subscription_plan"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "review_recurring_charges",
+          "arguments": {
+            "focus": "all"
+          }
+        },
+        {
+          "tool": "change_subscription_plan",
+          "arguments": {
+            "subscription_id": "sub_streamflix_01",
+            "new_plan": "basic"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_streamflix_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "StreamFlix",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 18.99
+            }
+          },
+          {
+            "id": "sub_soundwave_02",
+            "type": "subscription",
+            "attributes": {
+              "name": "SoundWave Music",
+              "plan": "student",
+              "status": "active",
+              "price_per_period": 5.99
+            }
+          },
+          {
+            "id": "sub_fitpath_03",
+            "type": "subscription",
+            "attributes": {
+              "name": "FitPath",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 14.99
+            }
+          },
+          {
+            "id": "sub_cloudnest_04",
+            "type": "subscription",
+            "attributes": {
+              "name": "CloudNest Storage",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 2.99
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Marilyn Peters",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for checking in and for her support",
+          "say work as a home health aide has been teaching me a lot",
+          "say I am still planning to pursue CNA certification soon",
+          "be honest that balancing work, savings, and school planning is taking time",
+          "keep the tone upbeat and grateful",
+          "mention I still feel committed to nursing"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Marilyn Peters",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_marilyn_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_marilyn_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marilyn Peters",
+              "subject": "Checking in on your nursing plans",
+              "body": "Hi Esther, I was thinking about you and wanted to check in. How are your nursing plans coming along? I always admired your drive, and I’d love to hear how things are going whenever you have a minute.",
+              "thread_id": "thr_marilyn_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-31T18:42:00"
+            }
+          },
+          {
+            "id": "msg_elena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Ruiz",
+              "subject": "Potluck signup for Saturday",
+              "body": "Can you bring your tamales again? Everybody loved them last time.",
+              "thread_id": "thr_elena_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-31T12:10:00"
+            }
+          },
+          {
+            "id": "msg_bills_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Treasure Valley Power",
+              "subject": "Your April statement is ready",
+              "body": "Your new monthly statement is now available in your account portal.",
+              "thread_id": "thr_bills_01",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-30T09:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a chore block",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Meal prep and laundry",
+        "start_time": "2025-04-11T18:30:00-06:00",
+        "end_time": "2025-04-11T21:00:00-06:00",
+        "location": "Home"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-04-11T18:30:00-06:00",
+            "end_time": "2025-04-11T21:00:00-06:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Meal prep and laundry",
+            "start_time": "2025-04-11T18:30:00-06:00",
+            "end_time": "2025-04-11T21:00:00-06:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_shift_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning client visit",
+              "start_time": "2025-04-11T08:00:00-06:00",
+              "end_time": "2025-04-11T12:00:00-06:00",
+              "participants": [],
+              "location": "Caldwell",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_class_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "CNA study group",
+              "start_time": "2025-04-11T13:30:00-06:00",
+              "end_time": "2025-04-11T15:00:00-06:00",
+              "participants": [],
+              "location": "Library",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_game_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Soccer practice",
+              "start_time": "2025-04-12T10:00:00-06:00",
+              "end_time": "2025-04-12T11:30:00-06:00",
+              "participants": [],
+              "location": "Caldwell YMCA Fields",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Meal prep and laundry",
+              "start_time": "2025-04-11T18:30:00-06:00",
+              "end_time": "2025-04-11T21:00:00-06:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s38",
+      "session_type": "learning",
+      "day_offset": 38,
+      "domain": "reservation",
+      "reason_for_call": "Book a dental appointment.",
+      "task_params": {
+        "service_type": "dental cleaning",
+        "location": "Caldwell",
+        "date_time": "2025-03-18T11:30:00-06:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "dental cleaning",
+            "location": "Caldwell",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_caldwell_smiles_01",
+            "date_time": "2025-03-18T11:30:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_caldwell_smiles_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Caldwell Smiles Dental",
+              "service_type": "dental cleaning",
+              "location": "Caldwell",
+              "rating": 4.7,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_treasure_valley_dental_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Treasure Valley Family Dental",
+              "service_type": "dental cleaning",
+              "location": "Caldwell",
+              "rating": 4.5,
+              "distance_km": 3.8
+            }
+          },
+          {
+            "id": "svc_bright_path_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Bright Path Dental Care",
+              "service_type": "dental cleaning",
+              "location": "Nampa",
+              "rating": 4.8,
+              "distance_km": 11.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s40",
+      "session_type": "learning",
+      "day_offset": 40,
+      "domain": "communication",
+      "reason_for_call": "Send a thank-you note",
+      "task_params": {
+        "sender": "Maya Ortiz",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for organizing the workshop",
+          "say the session left me energized",
+          "mention I loved the mixed-media watercolor exercises",
+          "say I appreciated how welcoming the group felt",
+          "say I’d like to join another workshop soon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Ortiz",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Ortiz",
+              "subject": "Thanks for joining Saturday's community art workshop",
+              "body": "Hi Esther, thank you for bringing such great energy to the community art workshop. I loved seeing your watercolor layers develop during the mixed-media exercise. If you'd like, I can send over details about the next session.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T18:42:00"
+            }
+          },
+          {
+            "id": "msg_clinic_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Caldwell Family Home Care",
+              "subject": "Updated shift assignment for Tuesday",
+              "body": "Esther, your afternoon client visit has been moved to 3:30 PM. Please confirm receipt.",
+              "thread_id": "thr_work_07",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-09T15:10:00"
+            }
+          },
+          {
+            "id": "msg_gallery_03",
+            "type": "message",
+            "attributes": {
+              "sender": "River City Gallery",
+              "subject": "Opening reception reminder",
+              "body": "Reminder: the mixed-media opening reception is this Friday at 6 PM.",
+              "thread_id": "thr_gallery_03",
+              "folder": "inbox",
+              "labels": [
+                "arts"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-08T11:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "esther_hoitsma_s41",
+      "session_type": "learning",
+      "day_offset": 41,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "car charger",
+        "budget": 30,
+        "sort_by": "rating",
+        "product_id": "prod_charger_01",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "car charger",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_charger_01",
+              "prod_charger_02",
+              "prod_charger_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_charger_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_charger_01",
+            "type": "product",
+            "attributes": {
+              "name": "Anker PowerDrive 2 USB Car Charger",
+              "price": 19.99,
+              "category": "car charger",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_charger_02",
+            "type": "product",
+            "attributes": {
+              "name": "Belkin Dual USB-C Car Charger 42W",
+              "price": 24.95,
+              "category": "car charger",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_charger_03",
+            "type": "product",
+            "attributes": {
+              "name": "Scosche Fast Charge USB-C Car Charger",
+              "price": 15.49,
+              "category": "car charger",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_mount_01",
+            "type": "product",
+            "attributes": {
+              "name": "iOttie Easy One Touch Dashboard Mount",
+              "price": 26.99,
+              "category": "phone mount",
+              "rating": 4.5
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one jar of mild salsa for a snack spread, keep it under $8, and just pick one for me.",
+      "gold_value": "prod_molcajete_mild_verde_01",
+      "session_id": "esther_hoitsma_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "esther_hoitsma_commerce_01",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_commerce_01",
+        "rule_text": "When ordering ingredients or kitchen supplies, Esther prefers products that reflect locally sourced Pacific Northwest or traditional Mexican cooking over generic substitutes.",
+        "canonical_answer": "For cooking purchases, I go for ingredients that feel either traditionally Mexican or distinctly local to the Northwest."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_molcajete_mild_verde_01",
+            "type": "product",
+            "attributes": {
+              "name": "Molcajete Mild Salsa Verde",
+              "price": 7.49,
+              "category": "salsa",
+              "rating": 4.2,
+              "cuisine_style": "traditional Mexican",
+              "heat_level": "mild",
+              "review_count": 91
+            }
+          },
+          {
+            "id": "prod_abuela_roja_fire_01",
+            "type": "product",
+            "attributes": {
+              "name": "Abuela Roja Fire Salsa",
+              "price": 6.99,
+              "category": "salsa",
+              "rating": 4.6,
+              "cuisine_style": "traditional Mexican",
+              "heat_level": "hot",
+              "review_count": 438,
+              "units_sold_last_30_days": 220
+            }
+          },
+          {
+            "id": "prod_raincoast_huckleberry_verde_01",
+            "type": "product",
+            "attributes": {
+              "name": "Rain Coast Huckleberry Salsa Verde",
+              "price": 7.79,
+              "category": "salsa",
+              "rating": 4.7,
+              "origin_region": "Pacific Northwest",
+              "locally_sourced": true,
+              "heat_level": "medium",
+              "review_count": 205,
+              "units_sold_last_30_days": 164
+            }
+          },
+          {
+            "id": "prod_freshfield_mild_chunky_01",
+            "type": "product",
+            "attributes": {
+              "name": "FreshField Mild Chunky Salsa",
+              "price": 4.29,
+              "category": "salsa",
+              "rating": 4.9,
+              "cuisine_style": "generic",
+              "heat_level": "mild",
+              "review_count": 3240,
+              "units_sold_last_30_days": 1910
+            }
+          },
+          {
+            "id": "prod_sunbasket_restaurant_style_01",
+            "type": "product",
+            "attributes": {
+              "name": "SunBasket Restaurant Style Salsa",
+              "price": 3.99,
+              "category": "salsa",
+              "rating": 4.8,
+              "cuisine_style": "generic",
+              "heat_level": "mild",
+              "review_count": 2784,
+              "units_sold_last_30_days": 1685
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_molcajete_mild_verde_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the paint marker set from my recent order—the one that arrived wasn't the one I meant to buy.",
+      "gold_value": "exchange",
+      "session_id": "esther_hoitsma_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "esther_hoitsma_commerce_02",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_commerce_02",
+        "rule_text": "When something she bought is wrong but still useful to her plans, Esther prefers an exchange rather than a refund.",
+        "canonical_answer": "If an item is the wrong version but I still need it, I’d rather exchange it than just get my money back."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_acrylic_marker_set_01",
+            "type": "product",
+            "attributes": {
+              "name": "Acrylic Paint Marker Set",
+              "price": 16.99,
+              "category": "art_supplies",
+              "rating": 4.6,
+              "brand": "ColorTrail",
+              "order_id": "ord_7142_art",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-12"
+            }
+          },
+          {
+            "id": "prod_ceramic_palette_01",
+            "type": "product",
+            "attributes": {
+              "name": "Ceramic Mixing Palette",
+              "price": 12.5,
+              "category": "art_supplies",
+              "rating": 4.8,
+              "brand": "Studio Harbor",
+              "order_id": "ord_7128_art",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-10"
+            }
+          },
+          {
+            "id": "prod_yuzu_marinade_01",
+            "type": "product",
+            "attributes": {
+              "name": "Yuzu Sesame Marinade",
+              "price": 9.75,
+              "category": "specialty_grocery",
+              "rating": 4.7,
+              "brand": "Citrus Lane",
+              "order_id": "ord_7099_food",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-08"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm trying to free up a little room in my monthly budget for a trip. Please bring the cost of my CloudKeep subscription down a notch, but don't shut it off since I still need access to the files in there.",
+      "gold_value": "basic",
+      "session_id": "esther_hoitsma_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "esther_hoitsma_commerce_03",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_commerce_03",
+        "rule_text": "When she needs to trim recurring costs without giving a service up entirely, Esther prefers switching to the basic plan.",
+        "canonical_answer": "If I’m trying to save money but still keep a service, I move it down to the basic plan."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_cloudkeep_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "CloudKeep",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 17.99,
+              "storage_used_gb": 420,
+              "synced_devices": 5,
+              "shared_folders": 12
+            }
+          },
+          {
+            "id": "sub_focusflow_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "FocusFlow",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 9.99,
+              "projects_tracked": 18,
+              "team_members": 3
+            }
+          },
+          {
+            "id": "sub_recipebox_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "RecipeBox",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 4.99,
+              "saved_recipes": 146,
+              "meal_plans_per_month": 8
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "change_subscription_plan",
+              "arguments": {
+                "new_plan": "basic"
+              },
+              "compare_args": [
+                "new_plan"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Ana Morales at Ridgeview Clinic about the Spanish discharge instructions wording check. Tell her I can revise the medication paragraph, ask her to attach the latest English source version so I match the current packet, and mention that I'll keep the wording clear and plain for patients.",
+      "gold_value": null,
+      "session_id": "esther_hoitsma_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "esther_hoitsma_communication_01",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_communication_01",
+        "rule_text": "For messages that represent her professionally, Esther prefers a draft-first workflow instead of sending immediately.",
+        "canonical_answer": "I always want professional messages drafted first so I can review the wording before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_ana_discharge_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Ana Morales <ana.morales@ridgeviewclinic.org>",
+              "subject": "Spanish discharge instructions wording check",
+              "body": "Hi Esther, we're updating the discharge packet for an upcoming patient rollout and need a quick review of the Spanish instructions. Could you send back a revised paragraph for the medication section and let me know if there are any wording changes you recommend for clarity?",
+              "thread_id": "thr_ana_discharge_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T10:14"
+            }
+          },
+          {
+            "id": "msg_devon_lunch_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Devon Lee <devon.lee@personalmail.com>",
+              "subject": "Lunch after errands?",
+              "body": "Hey Esther, are you around this afternoon and want to grab lunch near the market? No rush if you're busy.",
+              "thread_id": "thr_devon_lunch_05",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-08T11:02"
+            }
+          },
+          {
+            "id": "msg_portal_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@medscribeportal.com",
+              "subject": "April subscription invoice available",
+              "body": "Your monthly MedScribe Portal invoice is ready to view in the billing center.",
+              "thread_id": "thr_portal_invoice_27",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-08T07:41"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please update the priority on the inbox message from Elena Morales with the subject line \"Quick Thursday note\" to normal.",
+      "gold_value": "high",
+      "session_id": "esther_hoitsma_communication_02_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "esther_hoitsma_communication_02",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_communication_02",
+        "rule_text": "Messages tied to patient care, scheduling, or family coordination should be marked high priority for Esther.",
+        "canonical_answer": "Anything related to care coordination or family communication should be marked high priority for me."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elena_quick_thursday_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Morales",
+              "subject": "Quick Thursday note",
+              "body": "Can you take Dad to his therapy visit on Thursday instead of me? If that works, I'll let Ana and Luis know and update the family ride plan so everyone has the same schedule.",
+              "thread_id": "thr_elena_quick_thursday_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-15T09:22:00"
+            }
+          },
+          {
+            "id": "msg_elena_soup_recipe_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Morales",
+              "subject": "Soup recipe you asked for",
+              "body": "Here are the lentil soup steps and the spice amounts I used last weekend in case you want to make it this week.",
+              "thread_id": "thr_elena_soup_recipe_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-14T18:07:00"
+            }
+          },
+          {
+            "id": "msg_elena_budget_notes_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Morales",
+              "subject": "Budget notes for May",
+              "body": "I put the grocery and utility estimates in one place so we can compare them later.",
+              "thread_id": "thr_elena_budget_notes_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2026-04-15T08:11:00"
+            }
+          },
+          {
+            "id": "msg_jordan_expense_sheet_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Hsu",
+              "subject": "Updated expense worksheet",
+              "body": "I cleaned up the totals tab and fixed the formula in the reimbursement column.",
+              "thread_id": "thr_jordan_expense_sheet_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-15T10:03:00"
+            }
+          },
+          {
+            "id": "msg_rivercity_arts_news_01",
+            "type": "message",
+            "attributes": {
+              "sender": "River City Arts",
+              "subject": "This month's gallery highlights",
+              "body": "We've posted a short roundup of the new installations, artist talks, and member perks for April.",
+              "thread_id": "thr_rivercity_arts_news_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-13T16:41:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_message_priority",
+              "arguments": {
+                "priority": "high"
+              },
+              "compare_args": [
+                "priority"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Seattle for two people on 2026-10-10 at 7:00pm — just pick a place and reserve it.",
+      "gold_value": "rst_comal_cedar_01",
+      "session_id": "esther_hoitsma_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "esther_hoitsma_reservation_02",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_reservation_02",
+        "rule_text": "For dining plans, Esther prefers restaurants with strong Mexican or fusion flavors suitable for sharing over generic American options.",
+        "canonical_answer": "When I’m choosing a place to eat, I usually go for Mexican or fusion spots that work well for shared meals."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_comal_cedar_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Comal & Cedar",
+              "cuisine": "Mexican fusion",
+              "location": "Wallingford, Seattle",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "family-style shared plates"
+            }
+          },
+          {
+            "id": "rst_union_grill_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Union Street Grill",
+              "cuisine": "American",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "classic dining room"
+            }
+          },
+          {
+            "id": "rst_harbor_tavern_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harborline Tavern",
+              "cuisine": "American",
+              "location": "Belltown, Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "casual booths"
+            }
+          },
+          {
+            "id": "rst_mesa_counter_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mesa Verde Express",
+              "cuisine": "Mexican",
+              "location": "Capitol Hill, Seattle",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "counter-service, single-serve plates"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_comal_cedar_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me an elder care consultation in Denver for 2026-09-14 at 10:00am. Just pick a provider and set it up.",
+      "gold_value": "svc_elder_puente_01",
+      "session_id": "esther_hoitsma_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "esther_hoitsma_reservation_03",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_reservation_03",
+        "rule_text": "When booking a service appointment, Esther prefers a bilingual or culturally sensitive provider when one is available.",
+        "canonical_answer": "If I’m booking a service, I prefer someone bilingual or culturally aware whenever I can get that."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_elder_capitol_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Capitol Hill Senior Support",
+              "service_type": "elder care consultation",
+              "location": "Denver",
+              "rating": 4.9,
+              "distance_km": 0.3,
+              "years_in_business": 18
+            }
+          },
+          {
+            "id": "svc_elder_frontrange_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Front Range Elder Advisory",
+              "service_type": "elder care consultation",
+              "location": "Denver",
+              "rating": 4.8,
+              "distance_km": 0.7,
+              "appointment_modes": [
+                "in_person",
+                "virtual"
+              ]
+            }
+          },
+          {
+            "id": "svc_elder_cherry_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Cherry Creek Care Planning",
+              "service_type": "elder care consultation",
+              "location": "Denver",
+              "rating": 4.7,
+              "distance_km": 1.2,
+              "years_in_business": 12
+            }
+          },
+          {
+            "id": "svc_elder_puente_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Puente Vida Elder Care Guidance",
+              "service_type": "elder care consultation",
+              "location": "Denver",
+              "rating": 4.6,
+              "distance_km": 3.8,
+              "languages_spoken": [
+                "English",
+                "Spanish"
+              ],
+              "care_approach": [
+                "culturally sensitive intake",
+                "family-centered care planning"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_elder_puente_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Could you update my Kumo Counter reservation in Capitol Hill? The evening got pushed later, so 8:15 would work better than 7:30, and the group is five instead of three. Only change one part of the booking for now—whichever seems like the better adjustment.",
+      "gold_value": "party_size",
+      "session_id": "esther_hoitsma_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "esther_hoitsma_reservation_04",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_reservation_04",
+        "rule_text": "When restaurant plans shift, Esther prefers adjusting the reservation by party size rather than changing the whole time slot first.",
+        "canonical_answer": "If dinner plans change, I usually want to fix the headcount before I move the reservation time."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rest_kumo_counter_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Kumo Counter",
+              "cuisine": "Japanese",
+              "location": "Capitol Hill",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "counter seating",
+              "reservation_id": "res_kumo_counter_731",
+              "date_time": "2026-05-22T19:30:00",
+              "party_size": 3
+            }
+          },
+          {
+            "id": "rest_cedar_table_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cedar Table",
+              "cuisine": "Mediterranean",
+              "location": "Capitol Hill",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "table service",
+              "reservation_id": "res_cedar_table_204",
+              "date_time": "2026-05-24T20:00:00",
+              "party_size": 4
+            }
+          },
+          {
+            "id": "rest_lantern_room_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Lantern Room",
+              "cuisine": "Japanese",
+              "location": "Capitol Hill",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "dining room"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "modify_restaurant_reservation",
+              "arguments": {
+                "field": "party_size"
+              },
+              "compare_args": [
+                "field"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't replied to the Caldwell United fall league mixer at Brookside Field on 2026-09-12 from 3:00 to 4:30pm. See what else I have then and send the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "esther_hoitsma_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "esther_hoitsma_scheduling_01",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_scheduling_01",
+        "rule_text": "When an invitation overlaps with work coverage or an unresolved commitment, Esther prefers to respond tentatively rather than accepting or declining right away.",
+        "canonical_answer": "When my schedule is still in flux, I usually mark invites as tentative until I know I can fully commit."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_caldwell_mixer_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Caldwell United Fall League Mixer",
+              "start_time": "2026-09-12T15:00:00-04:00",
+              "end_time": "2026-09-12T16:30:00-04:00",
+              "participants": [
+                "events@caldwellunited.org",
+                "esther.hoitsma@example.com"
+              ],
+              "location": "Brookside Field Clubhouse",
+              "calendar": "invites",
+              "status": "invited",
+              "organizer": "Caldwell United Co-ed Recreational Soccer League"
+            }
+          },
+          {
+            "id": "evt_work_client_schedule_coverage_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Client schedule coverage for Dana's desk",
+              "start_time": "2026-09-12T14:30:00-04:00",
+              "end_time": "2026-09-12T17:00:00-04:00",
+              "participants": [
+                "esther.hoitsma@example.com",
+                "dana.reyes@northshorept.com"
+              ],
+              "location": "Northshore PT front office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_maya_20260912",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Maya",
+              "start_time": "2026-09-12T19:00:00-04:00",
+              "end_time": "2026-09-12T20:30:00-04:00",
+              "participants": [
+                "esther.hoitsma@example.com",
+                "maya.bennett@example.com"
+              ],
+              "location": "Juniper Table",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The details in our Eastview senior center potluck thread are finally settled: 2026-09-18 from 18:00 to 20:00 at Eastview Senior Center Lounge, with liam.wu@eastview.org, sara.nolan@eastview.org, and priya.desai@eastview.org involved. Keep this on my radar.",
+      "gold_value": null,
+      "session_id": "esther_hoitsma_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "esther_hoitsma_scheduling_02",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_scheduling_02",
+        "rule_text": "For group plans like potlucks, volunteer events, or teammate meetups, Esther prefers creating a shared calendar event rather than a private reminder.",
+        "canonical_answer": "If other people are involved, I want it on the calendar as a real shared event, not just a personal reminder."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_eastview_potluck_thread_01",
+            "type": "event",
+            "attributes": {
+              "title": "Eastview senior center potluck thread",
+              "start_time": "2026-09-18T18:00:00",
+              "end_time": "2026-09-18T20:00:00",
+              "participants": [],
+              "location": "Eastview Senior Center Lounge",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "group_chat"
+            }
+          },
+          {
+            "id": "evt_eastview_teammate_meetup_thread_02",
+            "type": "event",
+            "attributes": {
+              "title": "Eastview teammate meetup thread",
+              "start_time": "2026-09-24T17:30:00",
+              "end_time": "2026-09-24T19:00:00",
+              "participants": [],
+              "location": "Eastview Cafe Annex",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "group_chat"
+            }
+          },
+          {
+            "id": "evt_screening_shift_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Blood pressure screening shift",
+              "start_time": "2026-09-16T10:00:00",
+              "end_time": "2026-09-16T12:00:00",
+              "participants": [
+                "maria.gomez@eastview.org"
+              ],
+              "location": "Eastview Senior Center Room 4",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book travel from Boston, MA to Washington, DC for 6 adults. Pick one option from what's available and take care of it.",
+      "gold_value": "trp_bos_wdc_grouprail_01",
+      "session_id": "esther_hoitsma_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "esther_hoitsma_travel_03",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_travel_03",
+        "rule_text": "For regional group travel, Esther prefers shared ground transport over air travel when it helps the group stay together and save money.",
+        "canonical_answer": "On shorter regional trips with other people, I prefer shared ground travel so we can keep costs down and travel together."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trp_bos_wdc_grouprail_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 516,
+              "available_seats": 6,
+              "operator": "Northeast Corridor Rail",
+              "travel_time_hours": 6.6,
+              "group_block_seating": true,
+              "assigned_car": "5"
+            }
+          },
+          {
+            "id": "trp_bos_wdc_expressrail_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 488,
+              "available_seats": 6,
+              "operator": "Capitol Express Rail",
+              "travel_time_hours": 5.9,
+              "group_block_seating": false,
+              "seat_distribution": "2 seats in car 3, 2 seats in car 7, 2 seats in car 8"
+            }
+          },
+          {
+            "id": "trp_bos_wdc_splittransfer_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "mode": "car_transfer",
+              "departure_date": "2026-09-18",
+              "price": 468,
+              "available_seats": 6,
+              "operator": "Metro Door-to-Door",
+              "travel_time_hours": 6.9,
+              "vehicle_count": 2,
+              "vehicle_setup": "2 separate SUVs with 3 passengers each",
+              "door_to_door": true
+            }
+          },
+          {
+            "id": "flt_bos_wdc_shuttle_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "departure_date": "2026-09-18",
+              "airline": "Northeast Shuttle",
+              "price": 584,
+              "available_seats": 6,
+              "travel_time_hours": 1.5,
+              "nonstop": true,
+              "airport_pair": "BOS-DCA"
+            }
+          },
+          {
+            "id": "flt_bos_wdc_capitol_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "departure_date": "2026-09-18",
+              "airline": "CapitolJet",
+              "price": 642,
+              "available_seats": 8,
+              "travel_time_hours": 1.4,
+              "nonstop": true,
+              "airport_pair": "BOS-DCA"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {
+                "transport_offer_id": "trp_bos_wdc_grouprail_01"
+              },
+              "compare_args": [
+                "transport_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book one of these Boston hotel options for two teammates for April 17 to April 19. Keep it in Fenway or Back Bay, and make sure the room has a private bathroom.",
+      "gold_value": "htl_boston_backbay_twinshare_01",
+      "session_id": "esther_hoitsma_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "esther_hoitsma_travel_04",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_travel_04",
+        "rule_text": "When booking lodging for group trips, Esther prefers hotel offers that support roommate-style cost sharing rather than private single-occupancy options.",
+        "canonical_answer": "If I’m traveling with a group, I prefer lodging that lets us split the room and the cost."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_boston_backbay_twinshare_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Back Bay Twinshare Inn",
+              "location": "Back Bay, Boston",
+              "check_in_date": "2026-04-17",
+              "check_out_date": "2026-04-19",
+              "available_rooms": 8,
+              "max_guests_per_room": 2,
+              "price_per_night": 268,
+              "rating": 4.4,
+              "review_count": 412,
+              "room_count_included": 1,
+              "occupancy_mode": "shared room",
+              "bed_layout": "2 twin beds",
+              "bathroom_type": "private bathroom",
+              "walking_time_to_fenway_min": 10,
+              "property_style": "independent hotel"
+            }
+          },
+          {
+            "id": "htl_boston_fenway_suites_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Fenway Suites Hotel",
+              "location": "Fenway, Boston",
+              "check_in_date": "2026-04-17",
+              "check_out_date": "2026-04-19",
+              "available_rooms": 19,
+              "max_guests_per_room": 2,
+              "price_per_night": 295,
+              "rating": 4.9,
+              "review_count": 2874,
+              "room_count_included": 1,
+              "occupancy_mode": "private room",
+              "bed_layout": "2 queen beds",
+              "bathroom_type": "private bathroom",
+              "walking_time_to_fenway_min": 4,
+              "property_style": "major chain"
+            }
+          },
+          {
+            "id": "htl_boston_beacon_standard_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Beacon Standard Hotel",
+              "location": "Back Bay, Boston",
+              "check_in_date": "2026-04-17",
+              "check_out_date": "2026-04-19",
+              "available_rooms": 27,
+              "max_guests_per_room": 2,
+              "price_per_night": 289,
+              "rating": 4.8,
+              "review_count": 2210,
+              "room_count_included": 1,
+              "occupancy_mode": "private room",
+              "bed_layout": "1 queen bed",
+              "bathroom_type": "private bathroom",
+              "walking_time_to_fenway_min": 6,
+              "property_style": "national chain"
+            }
+          },
+          {
+            "id": "htl_boston_lansdowne_bunk_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Lansdowne Bunk Lodge",
+              "location": "Fenway, Boston",
+              "check_in_date": "2026-04-17",
+              "check_out_date": "2026-04-19",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 189,
+              "rating": 4.6,
+              "review_count": 487,
+              "room_count_included": 1,
+              "occupancy_mode": "shared room",
+              "bed_layout": "2 twin beds",
+              "bathroom_type": "shared hallway bathroom",
+              "walking_time_to_fenway_min": 5,
+              "property_style": "budget lodge"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_boston_backbay_twinshare_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book the cheapest available flight from Portland to San Diego for one traveler using the usual traveler details and payment method on file.",
+      "gold_value": "window",
+      "session_id": "esther_hoitsma_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "esther_hoitsma_travel_05",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_travel_05",
+        "rule_text": "When she does fly, Esther prefers a window seat for the landscape views.",
+        "canonical_answer": "If I’m on a plane, I want a window seat because I love seeing the landscape."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_pdx_sandiego_redwood_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "Redwood Air",
+              "price": 148.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_pdx_sandiego_baylink_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "BayLink",
+              "price": 161.0,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "flt_pdx_sandiego_cascade_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "Cascade Air",
+              "price": 184.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_pdx_phoenix_redwood_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Phoenix",
+              "departure_date": "2026-08-14",
+              "airline": "Redwood Air",
+              "price": 126.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_sea_sandiego_horizon_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle",
+              "destination": "San Diego",
+              "departure_date": "2026-08-14",
+              "airline": "Horizon West",
+              "price": 139.0,
+              "available_seats": 7
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please clean up the work files sitting in /Work/Shared/Client Ops Inbox. It's a mix of spreadsheets, PDFs, and docs from the shared client ops drop, and I just need them organized so they're easier to scan.",
+      "gold_value": "by_date",
+      "session_id": "esther_hoitsma_workspace_03_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "esther_hoitsma_workspace_03",
+      "rule_ref": {
+        "rule_id": "esther_hoitsma_workspace_03",
+        "rule_text": "When organizing work-related files, Esther prefers classifying them by date rather than by project or owner.",
+        "canonical_answer": "For my work files, I usually organize them by date so the timeline stays clear."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_clientops_northwind_budget_01",
+            "type": "file",
+            "attributes": {
+              "name": "Northwind renewal budget.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false,
+              "project": "Northwind Renewal",
+              "modified_date": "2026-03-04",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_clientops_northwind_summary_01",
+            "type": "file",
+            "attributes": {
+              "name": "Northwind kickoff summary.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Leah Park",
+              "labels": [],
+              "archived": false,
+              "project": "Northwind Renewal",
+              "modified_date": "2026-04-18",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_clientops_harbor_notes_01",
+            "type": "file",
+            "attributes": {
+              "name": "Harbor migration notes.docx",
+              "file_type": "docx",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Migration",
+              "modified_date": "2026-02-27",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_clientops_harbor_costs_01",
+            "type": "file",
+            "attributes": {
+              "name": "Harbor vendor costs.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Rami Cole",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Migration",
+              "modified_date": "2026-04-02",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_clientops_maple_packet_01",
+            "type": "file",
+            "attributes": {
+              "name": "Maple onboarding packet.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Esther Hoitsma",
+              "labels": [],
+              "archived": false,
+              "project": "Maple Onboarding",
+              "modified_date": "2026-03-21",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_clientops_maple_checklist_01",
+            "type": "file",
+            "attributes": {
+              "name": "Maple site checklist.docx",
+              "file_type": "docx",
+              "location": "/Work/Shared/Client Ops Inbox",
+              "owner": "Leah Park",
+              "labels": [],
+              "archived": false,
+              "project": "Maple Onboarding",
+              "modified_date": "2026-05-06",
+              "priority": "medium"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_date"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.7857142857142857,
+    "actual_signal_overlap_rules": [
+      "esther_hoitsma_commerce_01",
+      "esther_hoitsma_commerce_03",
+      "esther_hoitsma_communication_01",
+      "esther_hoitsma_communication_02",
+      "esther_hoitsma_reservation_02",
+      "esther_hoitsma_reservation_03",
+      "esther_hoitsma_scheduling_02",
+      "esther_hoitsma_travel_03",
+      "esther_hoitsma_travel_04",
+      "esther_hoitsma_travel_05",
+      "esther_hoitsma_workspace_03"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.7857142857142857,
+    "teachable_rule_count": 11,
+    "zero_signal_rule_count": 3,
+    "signal_pool_size_dedup": 25,
+    "noise_pool_size": 18,
+    "K": 28,
+    "seed": 0,
+    "selected_rules": [
+      "esther_hoitsma_commerce_01",
+      "esther_hoitsma_commerce_03",
+      "esther_hoitsma_communication_01",
+      "esther_hoitsma_communication_02",
+      "esther_hoitsma_reservation_02",
+      "esther_hoitsma_reservation_03",
+      "esther_hoitsma_scheduling_02",
+      "esther_hoitsma_travel_03",
+      "esther_hoitsma_travel_04",
+      "esther_hoitsma_travel_05",
+      "esther_hoitsma_workspace_03"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "esther_hoitsma_commerce_01",
+      "esther_hoitsma_commerce_02",
+      "esther_hoitsma_commerce_03",
+      "esther_hoitsma_communication_01",
+      "esther_hoitsma_communication_02",
+      "esther_hoitsma_reservation_02",
+      "esther_hoitsma_reservation_03",
+      "esther_hoitsma_reservation_04",
+      "esther_hoitsma_scheduling_01",
+      "esther_hoitsma_scheduling_02",
+      "esther_hoitsma_travel_03",
+      "esther_hoitsma_travel_04",
+      "esther_hoitsma_travel_05",
+      "esther_hoitsma_workspace_03"
+    ],
+    "signal_count": 25,
+    "noise_count": 3,
+    "trajectory_length": 28
+  }
+}

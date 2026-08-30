@@ -1,0 +1,1246 @@
+status: review_release
+description: |
+  Stage 0 tool ontology for the ATR benchmark. Defines the executable
+  action set and each tool's parameter space. Rule semantics live in
+  Stage 1 (natural-language rules tagged with eval_type); concrete gold
+  traces are instantiated in Stage 3.
+
+  String parameters follow four roles — symbolic identifiers (*_id /
+  *_ids / target_tool), closed values expressed as enum[...] types,
+  open retrieval filters on search/list tools, and evaluator-blind
+  free text needed to complete a task. Generic `modify_*.new_value`
+  remains free text; rule gold lands on the typed `field` slot or on
+  a structured dedicated tool. Sessions expose the whole domain tool
+  surface — there is no episode-level schema narrowing.
+design_principles:
+- Each tool represents one atomic action, not a workflow.
+- Tool parameters must be natural — they should exist in this tool regardless of
+  whether any ATR rule needs them. Parameters invented solely to carry a rule
+  value are forbidden.
+- param_value rules may land on structured params — natural enums, booleans,
+  bounded ints, and *_id / *_ids params discovered from tool returns
+  (search / list / track). Open search/list strings are retrieval aids,
+  and purely free-text params (body, subject, title, content_brief,
+  content_delta, list_name, entry_payload, …) are never the differentiator.
+- Abstract user rules become concrete at data-generation time via concretization
+  — gold specifies compliant object ids in the payoff's env, not a synthetic
+  decision enum in the tool schema.
+- Identity fields the env auto-fills from persona (shipping_address,
+  payment_method, contact_info, traveler_info, guest_info) are declared
+  required:false — agents may pass an explicit override, but omission is
+  accepted and the env uses the persona default. These fields never
+  differentiate a rule.
+- Confirmation-gated actions are modeled via a dedicated
+  `get_user_confirmation(target_tool, target_params)` base tool —
+  inherited by every toolkit (see `base_tools:` section). Rules of the
+  form "first ask me before doing X" are evaluated as tool_chain
+  [get_user_confirmation(target_tool='X', target_params=P) → X(P)] in
+  the same session. The evaluator performs paired matching on both the
+  tool name AND a selective match of target_params against the
+  subsequent X call — only safe-typed fields (*_id / *_ids / enum /
+  boolean) are compared; agent may add optional params later, but
+  flipping a confirmed id / enum / bool invalidates the chain. Free-text
+  / datetime fields don't participate in the match (would be too brittle
+  under paraphrase).
+- Search / compare / list tools return the record's core decision fields
+  plus its `attributes` dict verbatim (uniform surface policy).
+  Rule-relevant flags (sugar_free, climate_fit, seating_style, …) become
+  visible iff data-gen places them on the reference — visibility is a
+  data-authoring decision, not a per-tool hand-pick. Tools must not hide
+  reference attributes by hand.
+- Every *_id / target_id parameter — across every domain, and including
+  the proactive/tracking tools (track_order, track_reservation_updates,
+  track_trip_updates, track_event_updates, set_reminder,
+  find_alternative_slots, update_tracker, …) — must reference an object
+  already in the session DB (either pre-loaded from local_env.references
+  or produced by a prior tool return in the same session). The runtime
+  looks the id up and raises "Not found" on miss; the env surfaces this
+  as a structured error. Schema-layer narrowing of id slots is
+  intentionally absent (see `id_discovery_convention`), so the
+  method-body check is the only line of defense against agents
+  fabricating ids to skip prerequisite search/list/track calls.
+required_fields:
+- name
+- description
+- domain_tags
+- parameters
+check_type_coverage:
+  # Maps each of the four Rule.check_types to the ontology feature it relies on.
+  param_id: Execute tool carries an `*_id` / `*_ids` parameter referencing
+    candidate-pool objects. Gold direction is encoded on reference attributes
+    at test-session authoring time (1 gold + N decoy); env enforces id
+    existence via method-body "Not found" (see `id_discovery_convention`).
+    Example — book_restaurant.restaurant_id, place_order.product_id.
+  param_enum: |-
+    Execute tool carries a fixed enum-typed parameter. Gold is a
+    specific enum value. Per-domain examples —
+      commerce       — change_subscription_plan.new_plan;
+                       return_order.resolution_type;
+                       review_recurring_charges.focus
+      reservation    — book_event_ticket.ticket_type;
+                       modify_*.field;
+                       track_reservation_updates.update_scope
+      travel         — book_flight.seat_preference;
+                       replan_trip.replacement_type;
+                       track_trip_updates.update_scope
+      communication  — set_message_priority.priority;
+                       draft_message.language / send_message.language
+      scheduling     — respond_to_event_invite.response;
+                       set_reminder.cadence;
+                       modify_event.field;
+                       track_event_updates.update_scope
+      workspace      — classify_files.scheme;
+                       update_tracker.update_action;
+                       create_document.doc_type
+  tool_identity: |-
+    Two or more tools in a domain target the same goal; gold is which tool
+    was called. Per-domain examples —
+      commerce       : pause_subscription / change_subscription_plan / cancel_subscription
+      reservation    : book_* (restaurant / event / service_provider); modify_* vs cancel_*
+      travel         : book_flight vs book_ground_transport; plan_trip vs shortlist_destinations
+      communication  : draft_message vs send_message vs send_draft;
+                       archive_messages vs set_message_priority vs label_messages
+      scheduling     : create_event vs set_reminder;
+                       reschedule_event vs cancel_event vs find_alternative_slots vs respond_to_event_invite
+      workspace      : archive_files vs delete_files vs move_files;
+                       create_document vs update_tracker
+  confirm: Rule requires a `get_user_confirmation` call before a mutate
+    (destructive / irreversible) tool. Gold is the single confirmation
+    call; `action_step.param` carries the inner mutate tool name (not a
+    parameter on get_user_confirmation). A confirm rule may also pin an
+    inner-param preference, which surfaces as the test-session gold_value.
+    Example — get_user_confirmation before delete_files / cancel_subscription.
+string_parameter_policy:
+  description: Current ATR sessions expose the whole domain tool surface.
+    String parameters are governed by role conventions rather than
+    episode-level schema narrowing.
+  identifier_strings: Parameters named *_id or *_ids are object identifiers,
+    and symbolic references such as target_tool identify a tool by name.
+    Object ids are not schema-enumerated, because ids must be discovered
+    from tool returns. Identifier strings may appear in compare_args.
+  closed_value_strings: Closed value spaces must use enum[...] rather
+    than string. They may appear in compare_args.
+  filter_strings: String parameters on search/list tools are retrieval
+    filters. They may guide the path to candidate objects but should not
+    appear in compare_args.
+  free_text_strings: Natural text fields on write/planning tools, such as
+    items, body, subject, title, contact_info, traveler_info, guest_info,
+    payment_method, content_brief, content_delta, list_name, replanning_goal,
+    and payload fields, are task-completion fields. They are evaluator-blind.
+  generic_modify_new_value: Generic modify_* tools may keep new_value as
+    a task-execution string, but rule gold must not land on new_value. If
+    a modified value needs evaluation, expose that value as a typed param
+    or enum on a dedicated/structured tool.
+id_discovery_convention:
+  scope: All *_id params and their array[*_id] counterparts (product_id,
+    product_ids, order_id, restaurant_id, reservation_id, event_id,
+    booking_id, message_ids, file_ids, tracker_id, entry_id, …).
+  mechanism: NOT schema-narrowed. Narrowing id slots to enum would leak
+    the full id set to the agent and let it skip search_* / list_* /
+    track_* calls that rules sometimes depend on — breaks tool_chain
+    and proactive_call evaluation.
+  how_agents_learn_ids: through tool returns — search / list / track
+    surface concrete ids, and the agent copies those ids into subsequent
+    calls.
+  runtime_enforcement: method bodies look the id up in the DB and raise
+    "Not found" for unknown ids; ATREnv wraps that as an error response.
+    No schema-layer narrowing.
+  data_construction_contract: >-
+    Each reference id follows a type-distinguishing prefix (prod_*, ord_*,
+    sub_*, rst_*, rsv_*, evt_*, bkg_*, prv_*, apt_*, flt_*, hot_*, gnd_*,
+    trp_*, msg_*, dft_*, fld_*, lbl_*, fil_*, doc_*, trk_*, ent_*, ...)
+    so a well-formed id can only plausibly belong to one slot. An agent
+    that misplaces an id is making a type error, not a value-domain error.
+  note: >-
+    Rule gold lands on execute-tool *_id slots by default, since id
+    concretization gives sharper evaluator semantics (matches over a
+    closed pool). Open-string values are never rule gold; if a rule's
+    natural landing is a bounded categorical choice, the tool param
+    should be a fixed enum (see change_subscription_plan.new_plan for
+    the pattern).
+domains:
+  commerce:
+    description: Shopping, purchasing, subscriptions, and order management.
+    tools:
+    - name: search_products
+      description: Search product candidates for purchase.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: category
+        type: string
+        required: false
+      - name: budget
+        type: number
+        required: false
+      - name: sort_by
+        type: enum[relevance|price_asc|price_desc|rating]
+        required: false
+    - name: compare_products
+      description: Compare and rank a given set of product candidates.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: product_ids
+        type: array[string]
+        required: true
+    - name: build_shopping_list
+      description: Create or update a shopping list from selected items.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: items
+        type: array[string]
+        required: true
+      - name: list_name
+        type: string
+        required: false
+    - name: place_order
+      description: Submit an order for a selected product.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: product_id
+        type: string
+        required: true
+      - name: quantity
+        type: integer
+        required: true
+      - name: shipping_address
+        type: string
+        required: false
+      - name: payment_method
+        type: string
+        required: false
+    - name: modify_order
+      description: Modify an existing order before fulfillment is finalized.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: order_id
+        type: string
+        required: true
+      - name: field
+        type: enum[quantity|shipping_address]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: cancel_order
+      description: Cancel an existing order.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: order_id
+        type: string
+        required: true
+    - name: track_order
+      description: Check shipping or fulfillment status for an order.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: order_id
+        type: string
+        required: true
+      - name: update_scope
+        type: enum[critical|all|schedule_change]
+        required: false
+    - name: return_order
+      description: Initiate a return or exchange workflow for an existing order.
+      domain_tags:
+      - commerce
+      parameters:
+      - name: order_id
+        type: string
+        required: true
+      - name: resolution_type
+        type: enum[refund|exchange|store_credit]
+        required: false
+    - name: review_recurring_charges
+      description: Inspect recurring charges, price changes, or unusual cost updates.
+      domain_tags:
+      - commerce
+      - billing
+      parameters:
+      - name: focus
+        type: enum[price_change|usage|tier|all]
+        required: false
+    - name: pause_subscription
+      description: Pause a recurring subscription or service.
+      domain_tags:
+      - commerce
+      - subscription
+      parameters:
+      - name: subscription_id
+        type: string
+        required: true
+      - name: pause_until
+        type: date
+        required: false
+    - name: resume_subscription
+      description: Resume a paused subscription or service.
+      domain_tags:
+      - commerce
+      - subscription
+      parameters:
+      - name: subscription_id
+        type: string
+        required: true
+    - name: change_subscription_plan
+      description: Change the plan or tier of a subscription. `new_plan` is
+        a fixed four-tier enum covering the standard SaaS progression;
+        "upgrade"/"downgrade" rules land on this enum value.
+      domain_tags:
+      - commerce
+      - subscription
+      parameters:
+      - name: subscription_id
+        type: string
+        required: true
+      - name: new_plan
+        type: enum[basic|pro|premium|enterprise]
+        required: true
+    - name: cancel_subscription
+      description: Cancel a recurring subscription or service.
+      domain_tags:
+      - commerce
+      - subscription
+      parameters:
+      - name: subscription_id
+        type: string
+        required: true
+  reservation:
+    description: Reservations and appointment booking for restaurants, events, and
+      local services.
+    tools:
+    - name: search_restaurants
+      description: Search restaurant candidates that can be reserved. Inspect
+        each returned restaurant's available slots / capacity to pick one
+        for the user's date_time and party_size at booking time.
+      domain_tags:
+      - reservation
+      - restaurant
+      parameters:
+      - name: location
+        type: string
+        required: true
+      - name: cuisine
+        type: string
+        required: false
+      - name: sort_by
+        type: enum[relevance|rating|price_asc|price_desc]
+        required: false
+    - name: book_restaurant
+      description: Book a reservation at a selected restaurant.
+      domain_tags:
+      - reservation
+      - restaurant
+      parameters:
+      - name: restaurant_id
+        type: string
+        required: true
+      - name: date_time
+        type: datetime
+        required: true
+      - name: party_size
+        type: integer
+        required: true
+      - name: contact_info
+        type: string
+        required: false
+    - name: modify_restaurant_reservation
+      description: Modify an existing restaurant reservation.
+      domain_tags:
+      - reservation
+      - restaurant
+      parameters:
+      - name: reservation_id
+        type: string
+        required: true
+      - name: field
+        type: enum[date_time|party_size|contact_info]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: cancel_restaurant_reservation
+      description: Cancel an existing restaurant reservation.
+      domain_tags:
+      - reservation
+      - restaurant
+      parameters:
+      - name: reservation_id
+        type: string
+        required: true
+    - name: search_events
+      description: Search local events or ticketed activities.
+      domain_tags:
+      - reservation
+      - event
+      parameters:
+      - name: location
+        type: string
+        required: false
+      - name: event_tags
+        type: array[string]
+        required: false
+    - name: book_event_ticket
+      description: Purchase or reserve tickets for a selected event.
+      domain_tags:
+      - reservation
+      - event
+      parameters:
+      - name: event_id
+        type: string
+        required: true
+      - name: ticket_type
+        type: enum[general_admission|senior|vip|child]
+        required: true
+      - name: ticket_count
+        type: integer
+        required: true
+      - name: contact_info
+        type: string
+        required: false
+    - name: cancel_event_ticket
+      description: Cancel an existing event ticket booking.
+      domain_tags:
+      - reservation
+      - event
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+    - name: modify_event_ticket
+      description: Modify an existing event ticket booking when the provider allows
+        it.
+      domain_tags:
+      - reservation
+      - event
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+      - name: field
+        type: enum[ticket_type|ticket_count|contact_info]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: search_service_providers
+      description: Search local service providers that can be booked by appointment.
+        Inspect each provider's available slots at booking time.
+      domain_tags:
+      - reservation
+      - local_service
+      parameters:
+      - name: service_type
+        type: string
+        required: true
+      - name: location
+        type: string
+        required: true
+      - name: sort_by
+        type: enum[relevance|distance|rating]
+        required: false
+    - name: book_service_appointment
+      description: Book an appointment with a selected local service provider.
+      domain_tags:
+      - reservation
+      - local_service
+      parameters:
+      - name: provider_id
+        type: string
+        required: true
+      - name: date_time
+        type: datetime
+        required: true
+      - name: contact_info
+        type: string
+        required: false
+    - name: modify_service_appointment
+      description: Modify an existing local service appointment.
+      domain_tags:
+      - reservation
+      - local_service
+      parameters:
+      - name: appointment_id
+        type: string
+        required: true
+      - name: field
+        type: enum[date_time|contact_info]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: cancel_service_appointment
+      description: Cancel an existing local service appointment.
+      domain_tags:
+      - reservation
+      - local_service
+      parameters:
+      - name: appointment_id
+        type: string
+        required: true
+    - name: track_reservation_updates
+      description: Track updates on an existing restaurant reservation, event
+        booking, or service appointment — surfaces venue changes, schedule
+        shifts, and cancellations. Shape guard (runtime-enforced) —
+        exactly one of reservation_id / booking_id / appointment_id must
+        be provided.
+      domain_tags:
+      - reservation
+      - tracking
+      parameters:
+      - name: reservation_id
+        type: string
+        required: false
+      - name: booking_id
+        type: string
+        required: false
+      - name: appointment_id
+        type: string
+        required: false
+      - name: update_scope
+        type: enum[critical|all|schedule_change]
+        required: false
+  travel:
+    description: Travel planning, booking, and trip recovery.
+    tools:
+    - name: search_destinations
+      description: Search destination candidates or route anchors for a trip idea.
+        Filter via destination_constraints (matched substring across name,
+        location, and tag fields).
+      domain_tags:
+      - travel
+      - planning
+      parameters:
+      - name: destination_constraints
+        type: array[string]
+        required: false
+    - name: plan_trip
+      description: Build a draft itinerary or trip plan. When the agent wants to
+        commit to specific stops, pass their ids via `selected_stop_ids` —
+        that's the id-level decision hook for trip-stop selection rules.
+      domain_tags:
+      - travel
+      - planning
+      parameters:
+      - name: destination
+        type: string
+        required: true
+      - name: duration_days
+        type: integer
+        required: false
+      - name: traveler_count
+        type: integer
+        required: false
+      - name: selected_stop_ids
+        type: array[string]
+        required: false
+      - name: include_daily_breakdown
+        type: boolean
+        required: false
+      - name: include_stopovers
+        type: boolean
+        required: false
+      - name: include_budget_summary
+        type: boolean
+        required: false
+    - name: shortlist_destinations
+      description: Finalize a short list of recommended destinations for the
+        user. This is the id-level decision hook for destination-recommendation
+        rules — land rule gold here, not on search_destinations filters.
+      domain_tags:
+      - travel
+      - planning
+      parameters:
+      - name: destination_ids
+        type: array[string]
+        required: true
+    - name: search_trip_stops
+      description: Search stops, route anchors, or points of interest for a trip.
+        destination is matched by substring against each stop's name and
+        location; stop_tags filters by tag intersection.
+      domain_tags:
+      - travel
+      - planning
+      parameters:
+      - name: destination
+        type: string
+        required: true
+      - name: stop_tags
+        type: array[string]
+        required: false
+    - name: search_flights
+      description: Search flight candidates. Inspect each returned offer's
+        `departure_date` / `return_date` to pick the right one.
+      domain_tags:
+      - travel
+      - flight
+      parameters:
+      - name: origin
+        type: string
+        required: true
+      - name: destination
+        type: string
+        required: true
+      - name: passenger_count
+        type: integer
+        required: true
+      - name: sort_by
+        type: enum[relevance|price_asc|price_desc]
+        required: false
+    - name: search_hotels
+      description: Search hotel or lodging candidates. Inspect each returned
+        offer's `check_in_date` / `check_out_date` to pick the right one.
+      domain_tags:
+      - travel
+      - hotel
+      parameters:
+      - name: location
+        type: string
+        required: true
+      - name: guest_count
+        type: integer
+        required: true
+      - name: room_count
+        type: integer
+        required: true
+      - name: sort_by
+        type: enum[relevance|price_asc|price_desc]
+        required: false
+    - name: search_ground_transport
+      description: Search train, bus, or car-transfer candidates for a trip.
+        Inspect each returned offer's `departure_date` to pick the right one.
+      domain_tags:
+      - travel
+      - ground_transport
+      parameters:
+      - name: origin
+        type: string
+        required: true
+      - name: destination
+        type: string
+        required: true
+      - name: passenger_count
+        type: integer
+        required: true
+      - name: sort_by
+        type: enum[relevance|price_asc|price_desc]
+        required: false
+    - name: book_flight
+      description: Book a selected flight offer.
+      domain_tags:
+      - travel
+      - flight
+      parameters:
+      - name: flight_offer_id
+        type: string
+        required: true
+      - name: traveler_info
+        type: string
+        required: false
+      - name: seat_preference
+        type: enum[window|aisle|middle]
+        required: false
+      - name: payment_method
+        type: string
+        required: false
+    - name: book_hotel
+      description: Book a selected hotel offer. The chosen hotel_offer_id
+        encodes the offer's room count from search_hotels.
+      domain_tags:
+      - travel
+      - hotel
+      parameters:
+      - name: hotel_offer_id
+        type: string
+        required: true
+      - name: guest_info
+        type: string
+        required: false
+      - name: payment_method
+        type: string
+        required: false
+    - name: book_ground_transport
+      description: Book a selected train, bus, or car-transfer offer.
+      domain_tags:
+      - travel
+      - ground_transport
+      parameters:
+      - name: transport_offer_id
+        type: string
+        required: true
+      - name: traveler_info
+        type: string
+        required: false
+      - name: payment_method
+        type: string
+        required: false
+    - name: modify_flight_booking
+      description: Modify an existing flight booking.
+      domain_tags:
+      - travel
+      - flight
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+      - name: field
+        type: enum[seat_preference|traveler_info]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: modify_hotel_booking
+      description: Modify an existing hotel booking.
+      domain_tags:
+      - travel
+      - hotel
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+      - name: field
+        type: enum[room_count|guest_info]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: cancel_flight_booking
+      description: Cancel an existing flight booking.
+      domain_tags:
+      - travel
+      - flight
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+    - name: cancel_hotel_booking
+      description: Cancel an existing hotel booking.
+      domain_tags:
+      - travel
+      - hotel
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+    - name: cancel_ground_transport_booking
+      description: Cancel an existing train, bus, or car-transfer booking.
+      domain_tags:
+      - travel
+      - ground_transport
+      parameters:
+      - name: booking_id
+        type: string
+        required: true
+    - name: track_trip_updates
+      description: Track important updates for an itinerary, route, or booked
+        trip component. Shape guard (runtime-enforced) — exactly one of trip_id
+        / booking_id must be provided. The update_scope enum includes
+        price_change (itineraries have prices); other domains' track_* tools
+        only offer schedule_change.
+      domain_tags:
+      - travel
+      - tracking
+      parameters:
+      - name: trip_id
+        type: string
+        required: false
+      - name: booking_id
+        type: string
+        required: false
+      - name: update_scope
+        type: enum[critical|all|price_change|schedule_change]
+        required: false
+    - name: replan_trip
+      description: Adjust a trip plan after disruption. When the agent wants to
+        commit to specific replacement stops, pass their ids via
+        `selected_alternative_stop_ids` — mirrors plan_trip.selected_stop_ids
+        and is the id-level decision hook for "same-theme replacement" style
+        rules (e.g. "when a stop falls through, pick another in the same
+        nature/culture theme instead of any high-rated substitute").
+      domain_tags:
+      - travel
+      - replanning
+      parameters:
+      - name: trip_id
+        type: string
+        required: true
+      - name: disrupted_item_id
+        type: string
+        required: false
+      - name: replanning_goal
+        type: string
+        required: true
+      - name: selected_alternative_stop_ids
+        type: array[string]
+        required: false
+      - name: replacement_type
+        type: enum[swap_single_stop|swap_all_stops]
+        required: false
+  communication:
+    description: Email and message search, prioritization, drafting, and sending.
+    tools:
+    - name: search_messages
+      description: Search email or message threads. The `folder` filter targets
+        email system folders (inbox/archive/sent/drafts), distinct from the
+        user-defined folders listed by `list_message_folders` (whose folder_id
+        slot is consumed by archive_messages). Inspect each returned message's
+        `timestamp` to pick which one matches a time description.
+      domain_tags:
+      - communication
+      parameters:
+      - name: sender
+        type: string
+        required: false
+      - name: folder
+        type: enum[inbox|archive|sent|drafts]
+        required: false
+    - name: set_message_priority
+      description: Mark one or more messages with a priority level.
+      domain_tags:
+      - communication
+      parameters:
+      - name: message_ids
+        type: array[string]
+        required: true
+      - name: priority
+        type: enum[high|medium|low|normal]
+        required: true
+    - name: archive_messages
+      description: Archive one or more messages out of the active queue, optionally
+        moving them to a specific folder (by id discovered via list_message_folders).
+      domain_tags:
+      - communication
+      parameters:
+      - name: message_ids
+        type: array[string]
+        required: true
+      - name: folder_id
+        type: string
+        required: false
+    - name: list_labels
+      description: List session-scoped labels (label_id + name + topic). Required
+        before calling label_messages — that tool's label_ids must come from here.
+      domain_tags:
+      - communication
+      parameters: []
+    - name: list_message_folders
+      description: List session-scoped email folders (folder_id + name +
+        purpose). Required before passing folder_id to archive_messages.
+        Distinct from email system folders (inbox/archive/sent/drafts)
+        targeted by search_messages.folder.
+      domain_tags:
+      - communication
+      parameters: []
+    - name: draft_message
+      description: Draft a new message or a reply to an existing thread. Shape
+        guard (runtime-enforced) — at least one of recipient / thread_id must
+        be provided.
+      domain_tags:
+      - communication
+      parameters:
+      - name: recipient
+        type: string
+        required: false
+      - name: subject
+        type: string
+        required: false
+      - name: body
+        type: string
+        required: true
+      - name: thread_id
+        type: string
+        required: false
+      - name: language
+        type: enum[en|zh]
+        required: false
+    - name: send_message
+      description: Send a new message or a reply to an existing thread. Shape
+        guard (runtime-enforced) — at least one of recipient / thread_id must
+        be provided — no address-less sends.
+      domain_tags:
+      - communication
+      parameters:
+      - name: recipient
+        type: string
+        required: false
+      - name: subject
+        type: string
+        required: false
+      - name: body
+        type: string
+        required: true
+      - name: thread_id
+        type: string
+        required: false
+      - name: language
+        type: enum[en|zh]
+        required: false
+    - name: label_messages
+      description: Apply one or more labels (referenced by id) to message threads.
+        label_ids must come from list_labels — call that first to discover
+        the session's valid label_id values.
+      domain_tags:
+      - communication
+      parameters:
+      - name: message_ids
+        type: array[string]
+        required: true
+      - name: label_ids
+        type: array[string]
+        required: true
+    - name: send_draft
+      description: Send a previously created draft, closing the draft → review →
+        send workflow. Use this (not send_message) when the agent should first
+        draft, let the user review, then send.
+      domain_tags:
+      - communication
+      parameters:
+      - name: draft_id
+        type: string
+        required: true
+  scheduling:
+    description: Calendar lookup, coordination, conflict handling, and reminders.
+    tools:
+    - name: list_events
+      description: List calendar events. Inspect each returned event's
+        `start_time` / `end_time` to pick which one matches a time
+        description.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: calendar
+        type: enum[primary|work|personal|invites]
+        required: false
+      - name: participants
+        type: array[string]
+        required: false
+    - name: check_conflicts
+      description: Check whether a proposed schedule conflicts with existing events.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: start_time
+        type: datetime
+        required: true
+      - name: end_time
+        type: datetime
+        required: true
+      - name: participants
+        type: array[string]
+        required: false
+    - name: create_event
+      description: Create a new shared calendar event with explicit start/end
+        times and optional participants. This creates a first-class calendar
+        item visible to participants. For a private self-reminder attached to
+        an existing item, use `set_reminder` instead.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: title
+        type: string
+        required: true
+      - name: start_time
+        type: datetime
+        required: true
+      - name: end_time
+        type: datetime
+        required: true
+      - name: participants
+        type: array[string]
+        required: false
+      - name: location
+        type: string
+        required: false
+    - name: reschedule_event
+      description: Reschedule an existing calendar event (time-only change).
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: event_id
+        type: string
+        required: true
+      - name: new_start_time
+        type: datetime
+        required: true
+      - name: new_end_time
+        type: datetime
+        required: true
+    - name: modify_event
+      description: Modify a calendar event's non-time fields (title, location,
+        participants). Use reschedule_event for time changes.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: event_id
+        type: string
+        required: true
+      - name: field
+        type: enum[title|location|participants]
+        required: true
+      - name: new_value
+        type: string
+        required: true
+    - name: respond_to_event_invite
+      description: Accept, decline, or tentatively respond to an event invitation.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: event_id
+        type: string
+        required: true
+      - name: response
+        type: enum[accept|decline|tentative]
+        required: true
+    - name: cancel_event
+      description: Cancel an existing calendar event.
+      domain_tags:
+      - scheduling
+      parameters:
+      - name: event_id
+        type: string
+        required: true
+    - name: set_reminder
+      description: Attach a private self-reminder to an existing scheduling-domain
+        event or activity identified by `target_id`. This does not create a
+        calendar event visible to others — for a shared calendar item, use
+        `create_event`. `cadence` controls how often the reminder fires.
+      domain_tags:
+      - scheduling
+      - reminder
+      parameters:
+      - name: target_id
+        type: string
+        required: true
+      - name: remind_at
+        type: datetime
+        required: false
+      - name: cadence
+        type: enum[once|daily|weekly|monthly|before_event]
+        required: false
+    - name: track_event_updates
+      description: Track changes to an event or activity and surface important updates.
+      domain_tags:
+      - scheduling
+      - tracking
+      parameters:
+      - name: target_id
+        type: string
+        required: true
+      - name: update_scope
+        type: enum[critical|all|schedule_change]
+        required: false
+    - name: find_alternative_slots
+      description: Find nearby alternative times or substitute instances for an affected
+        activity.
+      domain_tags:
+      - scheduling
+      - fallback
+      parameters:
+      - name: target_id
+        type: string
+        required: true
+  workspace:
+    description: File organization, document updates, and lightweight tracker maintenance.
+    tools:
+    - name: list_files
+      description: List files or directory contents. Without `location`,
+        returns the full session file pool; pass a substring to narrow.
+      domain_tags:
+      - workspace
+      - files
+      parameters:
+      - name: location
+        type: string
+        required: false
+      - name: file_type
+        type: enum[pdf|docx|xlsx|image|txt|csv]
+        required: false
+    - name: search_documents
+      description: Search one-shot documents (notes, spreadsheets, reports).
+        Does NOT include trackers — use list_trackers for ongoing logs /
+        checklists / improvement records.
+      domain_tags:
+      - workspace
+      - document
+      parameters:
+      - name: location
+        type: string
+        required: false
+      - name: doc_type
+        type: enum[note|memo|spreadsheet|report|template]
+        required: false
+    - name: classify_files
+      description: Assign labels or categories to a set of files.
+      domain_tags:
+      - workspace
+      - files
+      parameters:
+      - name: file_ids
+        type: array[string]
+        required: true
+      - name: scheme
+        type: enum[by_project|by_type|by_date|by_owner|by_priority]
+        required: true
+    - name: move_files
+      description: Move one or more files to a destination folder (referenced
+        by folder_id). The session env preseeds a folder pool.
+      domain_tags:
+      - workspace
+      - files
+      parameters:
+      - name: file_ids
+        type: array[string]
+        required: true
+      - name: folder_id
+        type: string
+        required: true
+    - name: archive_files
+      description: Archive one or more files into a destination folder (referenced
+        by folder_id discovered via list_file_folders).
+      domain_tags:
+      - workspace
+      - files
+      parameters:
+      - name: file_ids
+        type: array[string]
+        required: true
+      - name: folder_id
+        type: string
+        required: true
+    - name: list_trackers
+      description: List session-scoped trackers (tracker_id + title + entry summary).
+        Required before calling update_tracker — that tool's tracker_id must
+        come from here. Trackers are ongoing logs / checklists / improvement
+        records, distinct from one-shot documents.
+      domain_tags:
+      - workspace
+      - tracker
+      parameters: []
+    - name: list_file_folders
+      description: List session-scoped destination folders (folder_id + name +
+        purpose). Required before passing folder_id to move_files / archive_files.
+      domain_tags:
+      - workspace
+      - files
+      parameters: []
+    - name: delete_files
+      description: Delete one or more files.
+      domain_tags:
+      - workspace
+      - files
+      parameters:
+      - name: file_ids
+        type: array[string]
+        required: true
+    - name: create_document
+      description: Create a NEW document, spreadsheet, note, or template.
+        Use this for brand-new structured documents. For appending entries
+        to an existing tracker/log, use `update_tracker` instead. Folders
+        are NOT documents — to organize files into folders, use
+        list_file_folders + move_files; never call create_document(doc_type=...)
+        with a folder-like value.
+      domain_tags:
+      - workspace
+      - document
+      parameters:
+      - name: doc_type
+        type: enum[note|memo|spreadsheet|report|template]
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: location
+        type: string
+        required: true
+      - name: content_brief
+        type: string
+        required: false
+    - name: update_document
+      description: Update an existing document, spreadsheet, or note.
+      domain_tags:
+      - workspace
+      - document
+      parameters:
+      - name: document_id
+        type: string
+        required: true
+      - name: content_delta
+        type: string
+        required: true
+    - name: update_tracker
+      description: Maintain entries in an EXISTING tracker, log, or checklist.
+        Requires `tracker_id` discovered via list_trackers — this tool cannot
+        create new trackers. For brand-new structured documents (spreadsheets,
+        notes, templates), use `create_document` with doc_type='spreadsheet'
+        or 'note' instead. For update_status, record_next_action, and
+        close_entry, entry_id must refer to an existing tracker entry; for
+        create_entry, omit entry_id and let the environment generate it.
+      domain_tags:
+      - workspace
+      - tracker
+      parameters:
+      - name: tracker_id
+        type: string
+        required: true
+      - name: entry_id
+        type: string
+        required: false
+      - name: update_action
+        type: enum[create_entry|update_status|record_next_action|close_entry]
+        required: true
+      - name: entry_payload
+        type: string
+        required: false
+base_tools:
+  description: |
+    Tools inherited by every domain toolkit (defined on ATRToolKitBase)
+    and auto-injected into every session's allowed_tools via
+    ATREnv._BASE_TOOLS. Orthogonal to the domain tool set — they provide
+    agent-side primitives that any session may legitimately need without
+    being part of the domain action space. Confirmation chains
+    (get_user_confirmation → destructive_X) are first-class chain rules,
+    so a missing or mismatched confirmation step yields tool_found=false
+    on that step, just like any chain-step miss.
+
+    Runtime always unions these tools into the allowed tool set. Regular
+    tasks therefore do not need to list them in local_env.tools; confirm-rule
+    test sessions may list get_user_confirmation explicitly because it is the
+    gold action being scored. In either case the agent sees the base tool in
+    env.get_openai_schemas().
+  tools:
+  - name: get_user_confirmation
+    description: >-
+      Obtain user confirmation before executing a destructive or
+      hard-to-reverse action (cancel_*, delete_*, archive_*, send_*,
+      modify_* on placed items, etc.). Confirmation is a first-class
+      tool call rather than a self-reported boolean so the trajectory
+      records an auditable turn of agent→user→agent before the
+      destructive call. Evaluators check that every destructive write
+      X(args) is preceded by
+      get_user_confirmation(target_tool='X', target_params=<match>) in
+      the same session — the params echo binds the confirmed intent to
+      the real call. Evaluator-side selectivity: when comparing
+      target_params against the subsequent X call, only safe-typed
+      fields (*_id / *_ids / enum / boolean) participate in the match
+      — free-text content (body, subject, title, content_brief, …) and
+      datetime fields are ignored, so confirmation chains stay robust
+      to natural-language paraphrase. A failed confirmation chain
+      (target_tool / safe-typed target_params don't echo the eventual
+      call) makes that step's tool_found read as false. The default base
+      implementation returns confirmed=true; a user-simulator-backed
+      runtime overrides via toolkit._confirmation_policy.
+    domain_tags:
+    - base
+    tags:
+    - confirmation
+    parameters:
+    - name: target_tool
+      type: string
+      required: true
+    - name: target_params
+      type: object
+      required: false

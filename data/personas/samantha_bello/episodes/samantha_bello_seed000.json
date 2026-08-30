@@ -1,0 +1,5784 @@
+{
+  "episode_id": "samantha_bello_seed000",
+  "persona_id": "samantha_bello",
+  "raw_persona": {
+    "persona_id": "samantha_bello",
+    "nemotron_uuid": "6979fd22f26b492c87360389e058edae",
+    "narrative": "name: Samantha Bello\nage: 46\nsex: Female\nmarital_status: divorced\neducation_level: high_school\noccupation: financial_manager\nhobbies_and_interests: Watercolour painting, Surfing, Yoga and meditation, Photography, Reading historical fiction, Cooking fusion Puerto Rican dishes, Attending art exhibitions and workshops, Volunteering for financial‑literacy initiatives, Walking the beach at sunrise, Gardening (herb balcony garden)\nskills_and_expertise: Financial analysis, Budgeting and forecasting, Cash‑flow management, Regulatory compliance (Puerto Rico and US), Excel (advanced), Power BI, QuickBooks, SAP ERP, Risk assessment and mitigation, Cost‑reduction and vendor negotiation, Team leadership and staff development, Bilingual communication (Spanish/English), Strategic planning, ESG reporting, Data visualization\ncomplementary_info: Samantha Bello was raised in Rincon on Puerto Rico’s western coast, within the municipality of Añasco, in a family with Spanish colonial, Taíno, and African Caribbean ancestry. Spanish was spoken at home, and she became fluent in English through school and work. She keeps close ties with extended family and remains active in local celebrations shaped by the island’s cultural rhythm, including the Fiestas Patronales de la Virgen del Carmen, the Rincon International Film Festival, and bomba-plena music traditions; the aftermath of Hurricane Maria became a lasting reference point for community mutual support, environmental stewardship, and self-reliance. Her daily and weekly routines often center on dawn surfing, including with the Rincon Surf Association, weekly yoga classes at the community center, beach-volleyball tournaments in season, and beach walks at sunrise. She follows Bayamón FC and creates watercolor seascapes, abstract canvases, and photo essays of local festivals, drawing on the influence of Rincon street murals, Joaquín Sorolla, Los Pleneros de la 21, and Bomba Estéreo. She often cooks traditional dishes such as mofongo and arroz con gandules with additions like Thai basil, Greek feta, and Japanese miso, and also makes citrus-marinated snapper ceviche. Her travel pattern favors spontaneous weekend trips that mix surf, culture, and food, especially to Vieques and Cartagena, while Bali and Barcelona remain longer-term destinations she hopes to visit. Professionally, she works in a flexible hybrid rhythm and has over twenty years of experience, including leading an SAP ERP migration, using Excel tools such as Power Query and VBA, mentoring junior staff, conducting bilingual cross-functional meetings, and handling Puerto Rico Treasury Department compliance. Long-term, she plans to pursue the CFP designation, launch a boutique consulting practice for small coastal businesses in Rincon, seek a CFO role in regional tourism or hospitality, and build a financial-literacy program for women and young adults that uses storytelling and visual art.",
+    "general_domain": "financial_manager",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Samantha Bello",
+    "demographics": {
+      "age": 46,
+      "sex": "Female",
+      "marital_status": "divorced",
+      "education_level": "high_school",
+      "occupation": "financial_manager",
+      "city": "Rincon",
+      "state": "PR",
+      "zipcode": "677",
+      "country": "USA"
+    },
+    "persona_summary": "Samantha Bello is a creatively curious finance leader who balances artful spontaneity with anxiety‑driven perfectionism, often surfing at dawn to reset before diving into vividly visualized spreadsheets, yet habitually misplaces their keys in a sea‑salt scented tote.",
+    "professional_persona": "Samantha Bello is a senior finance manager whose two decades of expertise in budgeting, SAP ERP migrations, and ESG reporting allow them to lead bilingual teams with a curious, improvisational flair, turning dense spreadsheets into vivid visual narratives while thriving in a flexible hybrid work arrangement that accommodates their love for spontaneous sunrise surf sessions.",
+    "sports_persona": "Samantha Bello catches sunrise waves with the Rincon Surf Association, attends weekly yoga classes at the community center, and avidly follows Bayamón FC in the island’s top soccer league, while also joining seasonal beach‑volleyball tournaments that satisfy their need for both competition and coastal camaraderie.",
+    "arts_persona": "Samantha Bello channels their love for vibrant street murals into watercolor seascapes and abstract canvases, curates photo essays of local festivals, and draws creative energy from artists such as Joaquín Sorolla, the Bomba‑Plena ensemble Los Pleneros de la 21, and the Colombian band Bomba Estéreo, weaving these influences into a uniquely eclectic visual language.",
+    "travel_persona": "Samantha Bello prefers spontaneous weekend getaways that blend surf, culture, and cuisine, often retreating to the nearby island of Vieques or the historic streets of Cartagena after a quick plan, while dreaming of a wellness retreat in Bali and a heritage tour of Barcelona, balancing modest travel budgets with an insatiable curiosity for global artistic immersion.",
+    "culinary_persona": "Samantha Bello experiments in the kitchen with traditional mofongo and arroz con gandules, adding global twists like Thai basil, Greek feta, and Japanese miso, and frequently prepares citrus‑marinated snapper ceviche, showcasing an intermediate‑to‑advanced culinary skill set that mirrors both heritage flavors and wanderlust‑inspired creativity.",
+    "cultural_background": "Samantha was raised in Rincon, a small surf town on Puerto Rico’s western coast within the municipality of Añasco. Her family lineage reflects a blend of Spanish colonial, Taíno, and African Caribbean ancestry, and she grew up speaking Spanish at home while becoming fluent in English through school and professional settings. The island’s cultural rhythm—marked by festivals such as the Fiestas Patronales de la Virgen del Carmen, the Rincon International Film Festival, and lively bomba‑plena music—has shaped her sense of community and artistic appreciation. The collective resilience displayed after Hurricane Maria reinforced her values of mutual support, environmental stewardship, and self‑reliance. She maintains close ties with extended family, participates in local celebrations, and cherishes the ocean as both a livelihood and a source of personal renewal. These cultural threads inform her professional ethos, her artistic hobbies, and her commitment to giving back to the Rincon community.",
+    "skills_and_expertise": "Samantha has developed a well‑rounded set of financial management competencies through more than twenty years of on‑the‑job experience. She is proficient in financial analysis, budgeting, cash‑flow forecasting, and creating management reports that meet both local Puerto Rico tax requirements and U.S. federal standards. She routinely uses Microsoft Excel (including Power Query and VBA), Power BI, and QuickBooks, and has overseen a migration to an SAP‑based ERP system for her department. Her expertise includes internal controls, risk assessment, cost‑reduction initiatives, vendor negotiations, and compliance with regulatory frameworks such as the Puerto Rico Treasury Department (Departamento de Hacienda) guidelines. As a team leader, she mentors junior staff, conducts performance reviews, and facilitates cross‑functional meetings in both Spanish and English to bridge cultural and linguistic gaps. She also integrates emerging ideas like ESG reporting and data‑visualization storytelling into the finance function, reflecting her curiosity for new approaches.",
+    "skills_and_expertise_list": [
+      "Financial analysis",
+      "Budgeting and forecasting",
+      "Cash‑flow management",
+      "Regulatory compliance (Puerto Rico and US)",
+      "Excel (advanced), Power BI, QuickBooks, SAP ERP",
+      "Risk assessment and mitigation",
+      "Cost‑reduction and vendor negotiation",
+      "Team leadership and staff development",
+      "Bilingual communication (Spanish/English)",
+      "Strategic planning",
+      "ESG reporting",
+      "Data visualization"
+    ],
+    "hobbies_and_interests": "Samantha’s free time revolves around artistic and nature‑based pursuits that satisfy her curiosity and help regulate her emotions. She paints watercolour seascapes and abstract pieces inspired by the vibrant street art of Rincon, often attending local workshops to learn new techniques. Surfing at sunrise provides a meditative escape from work stress, while yoga and guided meditation sessions at the community center support her mental‑health routine. She enjoys photography, focusing on coastal landscapes, historic architecture, and candid moments at festivals. Reading historical fiction—particularly stories set in Puerto Rico and the wider Caribbean—feeds her love of new ideas. Cooking is another outlet: she experiments with traditional dishes like mofongo and arroz con gandules, adding global twists she discovers during travels. Volunteering for a community financial‑literacy project lets her combine her professional knowledge with her artistic flair, creating visual tools that simplify complex concepts.",
+    "hobbies_and_interests_list": [
+      "Watercolour painting",
+      "Surfing",
+      "Yoga and meditation",
+      "Photography",
+      "Reading historical fiction",
+      "Cooking fusion Puerto Rican dishes",
+      "Attending art exhibitions and workshops",
+      "Volunteering for financial‑literacy initiatives",
+      "Walking the beach at sunrise",
+      "Gardening (herb balcony garden)"
+    ],
+    "career_goals_and_ambitions": "Samantha aims to deepen her professional credentials by completing the Certified Financial Planner (CFP) designation, which she sees as a pathway to launch a boutique financial‑consulting practice serving small coastal businesses in Rincon. She also aspires to become Chief Financial Officer of a regional tourism or hospitality group, where she can embed sustainable finance practices and champion community‑focused investments. In parallel, she plans to design a financial‑literacy program that blends storytelling and visual art to make budgeting concepts accessible to women and young adults in her neighborhood. A personal ambition is to secure a flexible, hybrid work arrangement that allows her to balance demanding projects with the self‑care routines she relies on to manage her anxiety."
+  },
+  "rules": [
+    {
+      "rule_text": "When she is preparing for a cooking project, Samantha prefers collecting ingredients into a shopping list first rather than placing an order immediately.",
+      "canonical_answer": "When I’m planning a dish, I like to build a shopping list first before ordering anything.",
+      "counterfactual_default": "Place an order for ingredients right away.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "experiments in the kitchen with traditional mofongo and arroz con gandules"
+        },
+        {
+          "type": "direct",
+          "content": "frequently prepares citrus‑marinated snapper ceviche"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "build_shopping_list",
+        "param": null
+      },
+      "rule_id": "samantha_bello_commerce_01"
+    },
+    {
+      "rule_text": "When ordering food or garden items, Samantha prefers products that support Puerto Rican cooking with global twists, especially fresh herbs and distinctive ingredients, over plain generic staples.",
+      "canonical_answer": "If I’m ordering ingredients or herb items, I go for things that let me cook Puerto Rican dishes with a global twist.",
+      "counterfactual_default": "Choose the most standard or generic pantry items.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "adding global twists like Thai basil, Greek feta, and Japanese miso"
+        },
+        {
+          "type": "direct",
+          "content": "Gardening (herb balcony garden)"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "samantha_bello_commerce_02"
+    },
+    {
+      "rule_text": "When an ordered item is wrong but still useful in the right version, Samantha prefers an exchange rather than a refund.",
+      "canonical_answer": "If the item is useful but not the right version, I’d rather exchange it than just get a refund.",
+      "counterfactual_default": "Request a refund instead of a replacement.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often attending local workshops to learn new techniques"
+        },
+        {
+          "type": "direct",
+          "content": "experiments in the kitchen"
+        },
+        {
+          "type": "inferred",
+          "content": "Because she actively uses creative and culinary materials, receiving the correct version matters more than simply reversing the purchase."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "samantha_bello_commerce_03"
+    },
+    {
+      "rule_text": "When she is preparing an outgoing message that represents her professionally or in community work, Samantha prefers it to be drafted for review rather than sent immediately.",
+      "canonical_answer": "I like important work or community messages drafted first so I can review the tone before they go out.",
+      "counterfactual_default": "Send the message directly once the content is available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "anxiety‑driven perfectionism"
+        },
+        {
+          "type": "direct",
+          "content": "facilitates cross‑functional meetings in both Spanish and English to bridge cultural and linguistic gaps"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "samantha_bello_communication_01"
+    },
+    {
+      "rule_text": "When booking a restaurant, Samantha prefers places that blend Puerto Rican flavors with global influences rather than purely standard fare.",
+      "canonical_answer": "For dining out, I usually choose places that mix Puerto Rican cooking with interesting global twists.",
+      "counterfactual_default": "Pick a generic restaurant without regard to fusion or local flavor.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "adding global twists like Thai basil, Greek feta, and Japanese miso"
+        },
+        {
+          "type": "direct",
+          "content": "Cooking fusion Puerto Rican dishes"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "samantha_bello_reservation_01"
+    },
+    {
+      "rule_text": "When choosing among events to attend, Samantha prefers local culture-rich options such as festivals, film, or soccer over generic entertainment picks.",
+      "canonical_answer": "If I’m picking an event, I prefer something rooted in local culture, art, or Puerto Rican sports.",
+      "counterfactual_default": "Select the most generic or mainstream entertainment option available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "avidly follows Bayamón FC"
+        },
+        {
+          "type": "direct",
+          "content": "Rincon International Film Festival"
+        },
+        {
+          "type": "direct",
+          "content": "curates photo essays of local festivals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "samantha_bello_reservation_03"
+    },
+    {
+      "rule_text": "When booking a wellness-oriented appointment, Samantha prefers community-centered yoga or meditation providers over luxury spa-style providers.",
+      "canonical_answer": "For wellness appointments, I prefer community yoga or meditation providers over fancy spa options.",
+      "counterfactual_default": "Choose a premium spa or the most upscale provider.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly yoga classes at the community center"
+        },
+        {
+          "type": "direct",
+          "content": "guided meditation sessions at the community center support her mental‑health routine"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "samantha_bello_reservation_04"
+    },
+    {
+      "rule_text": "When an invitation lands on a schedule that may shift around hybrid work or sunrise self-care routines, Samantha prefers to reply tentatively instead of accepting or declining outright.",
+      "canonical_answer": "If an invite might conflict with my hybrid schedule or dawn routines, I usually mark it tentative first.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "thriving in a flexible hybrid work arrangement that accommodates their love for spontaneous sunrise surf sessions"
+        },
+        {
+          "type": "direct",
+          "content": "weekly yoga classes at the community center"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "samantha_bello_scheduling_01"
+    },
+    {
+      "rule_text": "For recurring self-care or volunteer commitments, Samantha prefers putting a real calendar block on the schedule rather than only setting a private reminder.",
+      "canonical_answer": "For yoga, volunteering, and other regular commitments, I prefer a real calendar event so the time is actually blocked.",
+      "counterfactual_default": "Set only a reminder without creating a calendar event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly yoga classes at the community center"
+        },
+        {
+          "type": "direct",
+          "content": "Volunteering for a community financial‑literacy project"
+        },
+        {
+          "type": "direct",
+          "content": "A personal ambition is to secure a flexible, hybrid work arrangement that allows her to balance demanding projects with the self‑care routines she relies on"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "samantha_bello_scheduling_02"
+    },
+    {
+      "rule_text": "When selecting stops for a new trip, Samantha prefers an itinerary that combines surf, culture, and cuisine rather than focusing on only one theme.",
+      "canonical_answer": "I like trip stops that give me some mix of surf, culture, and good food rather than just one of those.",
+      "counterfactual_default": "Pick stops based on a single theme such as sightseeing alone or the top-rated attractions only.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers spontaneous weekend getaways that blend surf, culture, and cuisine"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "samantha_bello_travel_02"
+    },
+    {
+      "rule_text": "When a trip is disrupted, Samantha prefers replacement stops that preserve the original surf-culture-cuisine mix rather than swapping in any generic high-rated alternative.",
+      "canonical_answer": "If a trip gets disrupted, I want replacement stops that keep the same surf, culture, and food vibe.",
+      "counterfactual_default": "Replace the disrupted stop with any convenient or highly rated alternative.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers spontaneous weekend getaways that blend surf, culture, and cuisine"
+        },
+        {
+          "type": "direct",
+          "content": "balancing modest travel budgets with an insatiable curiosity for global artistic immersion"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "samantha_bello_travel_03"
+    },
+    {
+      "rule_text": "When booking flights, Samantha prefers a window seat.",
+      "canonical_answer": "I always prefer a window seat when I fly.",
+      "counterfactual_default": "Choose an aisle seat for convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "coastal landscapes"
+        },
+        {
+          "type": "direct",
+          "content": "vibrant street murals into watercolor seascapes and abstract canvases"
+        },
+        {
+          "type": "inferred",
+          "content": "Her visual-art and landscape-photography interests make scenic views during travel unusually valuable to her."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "samantha_bello_travel_04"
+    },
+    {
+      "rule_text": "When booking lodging, Samantha prefers modest-budget hotels with local character over more expensive generic luxury options.",
+      "canonical_answer": "For hotels, I prefer something budget-conscious and locally characterful rather than luxury for its own sake.",
+      "counterfactual_default": "Choose a more upscale or generic premium hotel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing modest travel budgets with an insatiable curiosity for global artistic immersion"
+        },
+        {
+          "type": "direct",
+          "content": "historic streets of Cartagena"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "samantha_bello_travel_05"
+    },
+    {
+      "rule_text": "When organizing work files, Samantha prefers them to be classified by project rather than by generic type or date.",
+      "canonical_answer": "I organize work files by project first, especially for things like ESG, SAP, and budgeting work.",
+      "counterfactual_default": "Classify files by type or by date.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "SAP ERP migrations, and ESG reporting"
+        },
+        {
+          "type": "direct",
+          "content": "Budgeting and forecasting"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "samantha_bello_workspace_01"
+    },
+    {
+      "rule_text": "When she is cleaning up photo or art files, Samantha prefers deleting obvious blurry duplicates outright rather than archiving them.",
+      "canonical_answer": "For bad duplicate shots or unusable art-file clutter, I delete them instead of saving them somewhere.",
+      "counterfactual_default": "Archive the files or leave them stored.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "curates photo essays of local festivals"
+        },
+        {
+          "type": "direct",
+          "content": "She enjoys photography, focusing on coastal landscapes, historic architecture, and candid moments at festivals."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "delete_files",
+        "param": null
+      },
+      "rule_id": "samantha_bello_workspace_04"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "samantha_bello_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and draft a reply",
+      "task_params": {
+        "sender": "Elena Torres",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "confirm she will bring the updated cash flow bridge",
+          "say variance notes for operating expenses are ready",
+          "mention final capex numbers will be sent within 30 minutes",
+          "keep tone concise and professional"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Elena Torres",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_elena_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Torres",
+              "subject": "Need updated numbers before leadership check-in",
+              "body": "Hi Samantha, can you confirm whether you have the revised cash flow bridge and the latest variance notes ready for this morning? If capex changed again, I need that too before we walk in.",
+              "thread_id": "thr_elena_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00-04:00"
+            }
+          },
+          {
+            "id": "msg_vendor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Caribe Office Supply",
+              "subject": "Invoice copy attached",
+              "body": "Sharing the PDF copy of last month's office supply invoice for your records.",
+              "thread_id": "thr_vendor_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00-04:00"
+            }
+          },
+          {
+            "id": "msg_hr_01",
+            "type": "message",
+            "attributes": {
+              "sender": "HR Updates",
+              "subject": "Open enrollment reminder",
+              "body": "This is a reminder that benefits enrollment closes next week.",
+              "thread_id": "thr_hr_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T05:55:00-04:00"
+            }
+          },
+          {
+            "id": "msg_team_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marco Ruiz",
+              "subject": "Draft dashboard screenshots",
+              "body": "Attaching the latest dashboard screenshots for review whenever you have time.",
+              "thread_id": "thr_marco_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:02:00-04:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "scheduling",
+      "reason_for_call": "Block time on my calendar.",
+      "task_params": {
+        "calendar": "primary",
+        "title": "Quarter-end budget review",
+        "start_time": "2025-02-14T13:00:00-04:00",
+        "end_time": "2025-02-14T15:30:00-04:00",
+        "location": "Home office"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "primary"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-14T13:00:00-04:00",
+            "end_time": "2025-02-14T15:30:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Quarter-end budget review",
+            "start_time": "2025-02-14T13:00:00-04:00",
+            "end_time": "2025-02-14T15:30:00-04:00",
+            "location": "Home office"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_surf_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dawn surf session",
+              "start_time": "2025-02-12T06:15:00-04:00",
+              "end_time": "2025-02-12T07:30:00-04:00",
+              "participants": [],
+              "location": "Rincon Beach",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_sync_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Finance team sync",
+              "start_time": "2025-02-13T09:00:00-04:00",
+              "end_time": "2025-02-13T10:00:00-04:00",
+              "participants": [
+                "maria@company.com",
+                "jlee@company.com"
+              ],
+              "location": "Zoom",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_vendor_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Vendor contract review",
+              "start_time": "2025-02-13T14:30:00-04:00",
+              "end_time": "2025-02-13T15:30:00-04:00",
+              "participants": [
+                "procurement@company.com"
+              ],
+              "location": "Conference Room B",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quarter-end budget review",
+              "start_time": "2025-02-14T13:00:00-04:00",
+              "end_time": "2025-02-14T15:30:00-04:00",
+              "participants": [],
+              "location": "Home office",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Organize some work files",
+      "task_params": {
+        "location": "SAP Reporting Project",
+        "scheme": "by_type",
+        "destination_folder_name": "SAP Reporting Organized"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "SAP Reporting Project"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_sap_01",
+              "file_sap_02",
+              "file_sap_03",
+              "file_sap_04"
+            ],
+            "scheme": "by_type"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_sap_01",
+              "file_sap_02",
+              "file_sap_03",
+              "file_sap_04"
+            ],
+            "folder_id": "fld_sap_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_sap_01",
+            "type": "file",
+            "attributes": {
+              "name": "SAP_AR_export_Q2.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance/SAP Reporting Project/Loose Exports",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_sap_02",
+            "type": "file",
+            "attributes": {
+              "name": "SAP_AP_export_Q2.csv",
+              "file_type": "csv",
+              "location": "Shared Drive/Finance/SAP Reporting Project/Loose Exports",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_sap_03",
+            "type": "file",
+            "attributes": {
+              "name": "SAP_reporting_workshop_notes.txt",
+              "file_type": "txt",
+              "location": "Shared Drive/Finance/SAP Reporting Project/Loose Exports",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_sap_04",
+            "type": "file",
+            "attributes": {
+              "name": "reconciliation_open_items.xlsx",
+              "file_type": "xlsx",
+              "location": "Shared Drive/Finance/SAP Reporting Project/Loose Exports",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_sap_01",
+            "type": "folder",
+            "attributes": {
+              "name": "SAP Reporting Organized",
+              "purpose": "Clean destination for sorted SAP reporting exports and notes"
+            }
+          },
+          {
+            "id": "fld_fin_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Finance Archive",
+              "purpose": "Long-term archive for completed finance work"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "key finder",
+        "budget": 30,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "key finder",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_tidelock_01",
+              "prod_sandtrail_02",
+              "prod_breakwater_03",
+              "prod_palmhook_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_breakwater_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_tidelock_01",
+            "type": "product",
+            "attributes": {
+              "name": "TideLock Rugged Key Finder Clip",
+              "price": 24.99,
+              "category": "key finder",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_sandtrail_02",
+            "type": "product",
+            "attributes": {
+              "name": "SandTrail Waterproof Key Finder Tag",
+              "price": 19.5,
+              "category": "key finder",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_breakwater_03",
+            "type": "product",
+            "attributes": {
+              "name": "Breakwater Heavy-Duty Key Finder Beacon",
+              "price": 29.0,
+              "category": "key finder",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_palmhook_04",
+            "type": "product",
+            "attributes": {
+              "name": "PalmHook Compact Key Finder",
+              "price": 14.99,
+              "category": "key finder",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "communication",
+      "reason_for_call": "Draft a team message",
+      "task_params": {
+        "recipient": "volunteer-team@rinconfinlit.org",
+        "subject": "Restarting Our Financial-Literacy Sessions / Reinicio de nuestras sesiones de educación financiera",
+        "language": "en",
+        "message_points": [
+          "Open with a warm thank-you to the volunteer team",
+          "Say the neighborhood financial-literacy sessions are restarting this month",
+          "Mention the first session is on May 28 at 6:30 PM",
+          "Location: Centro Comunitario de Rincon",
+          "Ask volunteers to reply if they can help that evening",
+          "Mention support is especially needed for setup and bilingual facilitation",
+          "Keep the tone encouraging and community-focused",
+          "Include both English and Spanish in the same message",
+          "Sign from Samantha"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "volunteer-team@rinconfinlit.org",
+            "subject": "Restarting Our Financial-Literacy Sessions / Reinicio de nuestras sesiones de educación financiera",
+            "body": "<authored from message_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_vol_01",
+            "type": "message",
+            "attributes": {
+              "sender": "marisol.cruz@rinconfinlit.org",
+              "subject": "Spring volunteer check-in",
+              "body": "Hi Samantha, a few of us are ready to help again whenever the community sessions restart. Let me know what dates you have in mind.",
+              "thread_id": "thr_vol_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-03T10:18:00"
+            }
+          },
+          {
+            "id": "msg_vol_02",
+            "type": "message",
+            "attributes": {
+              "sender": "samantha.bello@example.com",
+              "subject": "Thank you for helping at the budgeting workshop",
+              "body": "Team, thank you again for showing up for our last neighborhood budgeting workshop. Your support made the visuals and bilingual explanations much easier for everyone.",
+              "thread_id": "thr_vol_02",
+              "folder": "sent",
+              "labels": [
+                "community"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-14T19:42:00"
+            }
+          },
+          {
+            "id": "msg_vol_03",
+            "type": "message",
+            "attributes": {
+              "sender": "luis.rodriguez@rinconfinlit.org",
+              "subject": "Community center room availability",
+              "body": "The Centro Comunitario de Rincon is open most Wednesday evenings this month if you want to restart the financial-literacy sessions soon.",
+              "thread_id": "thr_vol_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-05-02T08:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a planning call",
+      "task_params": {
+        "title": "Volunteer Group Planning Call",
+        "start_time": "2025-03-21T18:30:00-04:00",
+        "end_time": "2025-03-21T19:15:00-04:00",
+        "participants": [
+          "volunteer-group@rinconliteracy.org",
+          "mariela@rinconliteracy.org",
+          "david@rinconliteracy.org"
+        ],
+        "location": "Zoom"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-21T18:30:00-04:00",
+            "end_time": "2025-03-21T19:15:00-04:00",
+            "participants": [
+              "volunteer-group@rinconliteracy.org",
+              "mariela@rinconliteracy.org",
+              "david@rinconliteracy.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Volunteer Group Planning Call",
+            "start_time": "2025-03-21T18:30:00-04:00",
+            "end_time": "2025-03-21T19:15:00-04:00",
+            "participants": [
+              "volunteer-group@rinconliteracy.org",
+              "mariela@rinconliteracy.org",
+              "david@rinconliteracy.org"
+            ],
+            "location": "Zoom"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_yoga_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Center Yoga",
+              "start_time": "2025-03-20T18:00:00-04:00",
+              "end_time": "2025-03-20T19:00:00-04:00",
+              "participants": [],
+              "location": "Rincon Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_deadline_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "ESG Budget Review Deadline Block",
+              "start_time": "2025-03-19T19:00:00-04:00",
+              "end_time": "2025-03-19T20:30:00-04:00",
+              "participants": [
+                "finance-team@coastalholdings.com"
+              ],
+              "location": "Home Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_1on1_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Volunteer Group Planning Call",
+              "start_time": "2025-03-21T18:30:00-04:00",
+              "end_time": "2025-03-21T19:15:00-04:00",
+              "participants": [
+                "ana@coastalholdings.com"
+              ],
+              "location": "Teams",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Lucia",
+              "start_time": "2025-03-21T20:00:00-04:00",
+              "end_time": "2025-03-21T21:30:00-04:00",
+              "participants": [
+                "lucia@gmail.com"
+              ],
+              "location": "Casa Verde",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "reservation",
+      "reason_for_call": "Book an activity.",
+      "task_params": {
+        "location": "Rincon",
+        "event_tags": [
+          "watercolor",
+          "workshop"
+        ],
+        "ticket_count": 1,
+        "ticket_type": "general_admission"
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Rincon",
+            "event_tags": [
+              "watercolor",
+              "workshop"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_palette_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_palette_01",
+            "type": "event",
+            "attributes": {
+              "name": "Sea Glass Watercolor Workshop",
+              "location": "Rincon",
+              "date_time": "2025-03-15T14:00:00-04:00",
+              "price": 38.0,
+              "event_tags": [
+                "watercolor",
+                "workshop",
+                "art"
+              ]
+            }
+          },
+          {
+            "id": "evt_ceramic_02",
+            "type": "event",
+            "attributes": {
+              "name": "Sunset Clay Handbuilding Session",
+              "location": "Rincon",
+              "date_time": "2025-03-15T16:30:00-04:00",
+              "price": 42.0,
+              "event_tags": [
+                "ceramics",
+                "workshop",
+                "art"
+              ]
+            }
+          },
+          {
+            "id": "evt_market_03",
+            "type": "event",
+            "attributes": {
+              "name": "Plaza Makers Market",
+              "location": "Rincon",
+              "date_time": "2025-03-16T11:00:00-04:00",
+              "price": 0.0,
+              "event_tags": [
+                "market",
+                "crafts",
+                "community"
+              ]
+            }
+          },
+          {
+            "id": "evt_paint_04",
+            "type": "event",
+            "attributes": {
+              "name": "Coastal Sketch and Wash Class",
+              "location": "Aguada",
+              "date_time": "2025-03-15T13:00:00-04:00",
+              "price": 35.0,
+              "event_tags": [
+                "watercolor",
+                "class",
+                "art"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "watercolor travel set",
+        "budget": 40,
+        "sort_by": "rating",
+        "product_id": "prod_sakura_01",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "watercolor travel set",
+            "budget": 40,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_sakura_01",
+              "prod_arttool_02",
+              "prod_winsor_03",
+              "prod_koi_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_sakura_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_sakura_01",
+            "type": "product",
+            "attributes": {
+              "name": "Sakura Pocket Field Watercolor Travel Set",
+              "price": 27.99,
+              "category": "watercolor travel set",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_arttool_02",
+            "type": "product",
+            "attributes": {
+              "name": "ArtTool Mini Watercolor Travel Set with Water Brush",
+              "price": 21.5,
+              "category": "watercolor travel set",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_winsor_03",
+            "type": "product",
+            "attributes": {
+              "name": "Winsor & Newton Cotman Sketchers Pocket Box",
+              "price": 39.0,
+              "category": "watercolor travel set",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_koi_04",
+            "type": "product",
+            "attributes": {
+              "name": "Koi Compact Watercolor Travel Set",
+              "price": 33.25,
+              "category": "watercolor travel set",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "communication",
+      "reason_for_call": "Draft a follow-up message",
+      "task_params": {
+        "sender": "Daniel Perez",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "Polite follow-up on the outstanding figures",
+          "Mention the board packet is being finalized",
+          "Ask him to send the numbers today if possible",
+          "Offer help if he is waiting on anything"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Daniel Perez",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_board_07",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_board_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Perez",
+              "subject": "Re: Board packet figures",
+              "body": "I am still cleaning up the final figures for the board packet. I should have them over soon.",
+              "thread_id": "thr_board_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T09:18:00-04:00"
+            }
+          },
+          {
+            "id": "msg_ops_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Vega",
+              "subject": "Updated vendor payment schedule",
+              "body": "Attached is the revised payment timing for the March vendors.",
+              "thread_id": "thr_ops_14",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-12T08:02:00-04:00"
+            }
+          },
+          {
+            "id": "msg_hr_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Cruz",
+              "subject": "Draft review complete",
+              "body": "I reviewed the policy draft and left a few comments in the document.",
+              "thread_id": "thr_hr_03",
+              "folder": "archive",
+              "labels": [
+                "hr"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-10T15:41:00-04:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "beach",
+          "food",
+          "art"
+        ],
+        "destination": "Vieques",
+        "duration_days": 3,
+        "traveler_count": 1,
+        "stop_tags": [
+          "beach",
+          "food",
+          "art"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "beach",
+              "food",
+              "art"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_vieques_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Vieques",
+            "stop_tags": [
+              "beach",
+              "food",
+              "art"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Vieques",
+            "duration_days": 3,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stp_sunbay_01",
+              "stp_tinbox_02",
+              "stp_galeria_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_vieques_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Vieques",
+              "region": "Puerto Rico",
+              "tags": [
+                "beach",
+                "food",
+                "art",
+                "budget",
+                "island"
+              ]
+            }
+          },
+          {
+            "id": "dst_ponce_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Ponce",
+              "region": "Puerto Rico",
+              "tags": [
+                "art",
+                "food",
+                "historic",
+                "city",
+                "budget"
+              ]
+            }
+          },
+          {
+            "id": "dst_culebra_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Culebra",
+              "region": "Puerto Rico",
+              "tags": [
+                "beach",
+                "snorkeling",
+                "nature",
+                "island"
+              ]
+            }
+          },
+          {
+            "id": "stp_sunbay_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sun Bay Beach",
+              "location": "Vieques",
+              "tags": [
+                "beach",
+                "relax",
+                "swim"
+              ]
+            }
+          },
+          {
+            "id": "stp_tinbox_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Tin Box",
+              "location": "Vieques",
+              "tags": [
+                "food",
+                "local",
+                "casual"
+              ]
+            }
+          },
+          {
+            "id": "stp_galeria_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Vieques Art Gallery",
+              "location": "Vieques",
+              "tags": [
+                "art",
+                "gallery",
+                "local"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "origin": "BQN",
+        "destination": "Cartagena",
+        "passenger_count": 1,
+        "departure_date": "2025-03-21",
+        "return_date": "2025-03-24",
+        "sort_by": "price_asc",
+        "seat_preference": "window"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "BQN",
+            "destination": "Cartagena",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_cartagena_01",
+            "seat_preference": "window"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_cartagena_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "BQN",
+              "destination": "Cartagena",
+              "departure_date": "2025-03-21",
+              "return_date": "2025-03-24",
+              "airline": "Caribe Air",
+              "price": 289.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_cartagena_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "BQN",
+              "destination": "Cartagena",
+              "departure_date": "2025-03-22",
+              "return_date": "2025-03-24",
+              "airline": "Tropical Wings",
+              "price": 245.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_cartagena_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "BQN",
+              "destination": "Cartagena",
+              "departure_date": "2025-03-21",
+              "return_date": "2025-03-23",
+              "airline": "IslaJet",
+              "price": 259.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_cartagena_04",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "BQN",
+              "destination": "Cartagena",
+              "departure_date": "2025-03-21",
+              "return_date": "2025-03-24",
+              "airline": "Atlántico Air",
+              "price": 332.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Centro Cartagena",
+        "guest_count": 1,
+        "room_count": 1,
+        "check_in_date": "2025-08-14",
+        "check_out_date": "2025-08-17"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Centro Cartagena",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "relevance"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_muralla_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_muralla_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hotel Boutique Muralla Marina",
+              "location": "Centro Cartagena",
+              "check_in_date": "2025-08-14",
+              "check_out_date": "2025-08-17",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 142.0
+            }
+          },
+          {
+            "id": "hot_casona_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Casona del Puerto",
+              "location": "Centro Cartagena",
+              "check_in_date": "2025-08-14",
+              "check_out_date": "2025-08-17",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 158.0
+            }
+          },
+          {
+            "id": "hot_bocagrande_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Torre Bahía Suites",
+              "location": "Bocagrande Cartagena",
+              "check_in_date": "2025-08-14",
+              "check_out_date": "2025-08-17",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 121.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Vieques",
+        "cuisine": "Caribbean",
+        "sort_by": "rating",
+        "date_time": "2025-03-22T19:30:00-04:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Vieques",
+            "cuisine": "Caribbean",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_coqui_01",
+            "date_time": "2025-03-22T19:30:00-04:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_coqui_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Coquí Brasa",
+              "cuisine": "Caribbean",
+              "location": "Vieques",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "open-air patio"
+            }
+          },
+          {
+            "id": "rst_malecon_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Malecón Mesa",
+              "cuisine": "Seafood Caribbean",
+              "location": "Vieques",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "waterfront terrace"
+            }
+          },
+          {
+            "id": "rst_fuego_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Fuego Verde",
+              "cuisine": "Latin Fusion",
+              "location": "Vieques",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "garden dining room"
+            }
+          },
+          {
+            "id": "rst_isla_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Isla Nostra",
+              "cuisine": "Italian",
+              "location": "Vieques",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "casual indoor dining"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "workspace",
+      "reason_for_call": "Organize some photo files",
+      "task_params": {
+        "location": "Rincon Patronales 2024",
+        "file_type": "image",
+        "scheme": "by_project",
+        "keep_file_ids": [
+          "fil_parade_01",
+          "fil_dancers_02"
+        ],
+        "archive_file_ids": [
+          "fil_stage_03",
+          "fil_crowd_04"
+        ],
+        "move_folder_id": "fld_picks_01",
+        "archive_folder_id": "fld_archive_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Rincon Patronales 2024",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_parade_01",
+              "fil_dancers_02",
+              "fil_stage_03",
+              "fil_crowd_04"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_parade_01",
+              "fil_dancers_02"
+            ],
+            "folder_id": "fld_picks_01"
+          }
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "fil_stage_03",
+              "fil_crowd_04"
+            ],
+            "folder_id": "fld_archive_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_parade_01",
+            "type": "file",
+            "attributes": {
+              "name": "parade-banner-sunset.jpg",
+              "file_type": "image",
+              "location": "Photos/Rincon Patronales 2024/raw",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_dancers_02",
+            "type": "file",
+            "attributes": {
+              "name": "bomba-dancers-plaza.jpg",
+              "file_type": "image",
+              "location": "Photos/Rincon Patronales 2024/raw",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_stage_03",
+            "type": "file",
+            "attributes": {
+              "name": "main-stage-blurry.jpg",
+              "file_type": "image",
+              "location": "Photos/Rincon Patronales 2024/raw",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_crowd_04",
+            "type": "file",
+            "attributes": {
+              "name": "crowd-wide-duplicate.jpg",
+              "file_type": "image",
+              "location": "Photos/Rincon Patronales 2024/raw",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_picks_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Community Presentation Picks",
+              "purpose": "Shortlist of visuals to reuse in future slides"
+            }
+          },
+          {
+            "id": "fld_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Festival Archive",
+              "purpose": "Long-term storage for extra event photos"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "commerce",
+      "reason_for_call": "Compare some products",
+      "task_params": {
+        "category": "headphones",
+        "budget": 320,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_sony_01",
+          "prod_bose_02",
+          "prod_jabra_03"
+        ],
+        "list_name": "Work audio options"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "headphones",
+            "budget": 320,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_sony_01",
+              "prod_bose_02",
+              "prod_jabra_03"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "prod_sony_01",
+              "prod_bose_02",
+              "prod_jabra_03"
+            ],
+            "list_name": "Work audio options"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_sony_01",
+            "type": "product",
+            "attributes": {
+              "name": "Sony WH-1000XM5 Noise Canceling Headphones",
+              "price": 299.99,
+              "category": "headphones",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_bose_02",
+            "type": "product",
+            "attributes": {
+              "name": "Bose QuietComfort Ultra Headphones",
+              "price": 319.0,
+              "category": "headphones",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_jabra_03",
+            "type": "product",
+            "attributes": {
+              "name": "Jabra Elite 85h Wireless Headphones",
+              "price": 249.99,
+              "category": "headphones",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_anker_04",
+            "type": "product",
+            "attributes": {
+              "name": "Soundcore Space One Headphones",
+              "price": 99.99,
+              "category": "headphones",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "Mayagüez",
+        "event_tags": [
+          "arts",
+          "evening"
+        ],
+        "event_id": "evt_sunsetstage_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 1
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Mayagüez",
+            "event_tags": [
+              "arts",
+              "evening"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_sunsetstage_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_sunsetstage_01",
+            "type": "event",
+            "attributes": {
+              "name": "Sunset Stage Sessions: Plena & Jazz",
+              "location": "Mayagüez",
+              "date_time": "2025-05-14T19:30:00-04:00",
+              "price": 28.0,
+              "event_tags": [
+                "arts",
+                "evening",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_blackbox_02",
+            "type": "event",
+            "attributes": {
+              "name": "Black Box Theater: Midweek Monologues",
+              "location": "Mayagüez",
+              "date_time": "2025-05-14T20:00:00-04:00",
+              "price": 22.0,
+              "event_tags": [
+                "arts",
+                "theater",
+                "evening"
+              ]
+            }
+          },
+          {
+            "id": "evt_gallerywalk_03",
+            "type": "event",
+            "attributes": {
+              "name": "Noche de Galería Walkthrough",
+              "location": "Mayagüez",
+              "date_time": "2025-05-15T18:30:00-04:00",
+              "price": 18.0,
+              "event_tags": [
+                "arts",
+                "gallery",
+                "evening"
+              ]
+            }
+          },
+          {
+            "id": "evt_beachfilm_04",
+            "type": "event",
+            "attributes": {
+              "name": "Beachfront Indie Film Night",
+              "location": "Rincón",
+              "date_time": "2025-05-14T19:00:00-04:00",
+              "price": 16.0,
+              "event_tags": [
+                "film",
+                "outdoor",
+                "evening"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a quick meeting",
+      "task_params": {
+        "calendar": "work",
+        "title": "Mentoring Chat with Mateo",
+        "start_time": "2025-03-19T15:00:00-04:00",
+        "end_time": "2025-03-19T15:30:00-04:00",
+        "participants": [
+          "mateo.cruz@seabreezeholdings.com"
+        ],
+        "location": "Zoom"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-19T15:00:00-04:00",
+            "end_time": "2025-03-19T15:30:00-04:00",
+            "participants": [
+              "mateo.cruz@seabreezeholdings.com"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Mentoring Chat with Mateo",
+            "start_time": "2025-03-19T15:00:00-04:00",
+            "end_time": "2025-03-19T15:30:00-04:00",
+            "participants": [
+              "mateo.cruz@seabreezeholdings.com"
+            ],
+            "location": "Zoom"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_budget_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Q2 Budget Review",
+              "start_time": "2025-03-17T09:00:00-04:00",
+              "end_time": "2025-03-17T10:30:00-04:00",
+              "participants": [
+                "finance-team@seabreezeholdings.com",
+                "luis.ortega@seabreezeholdings.com"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_erp_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mentoring Chat with Mateo",
+              "start_time": "2025-03-19T15:00:00-04:00",
+              "end_time": "2025-03-19T15:30:00-04:00",
+              "participants": [
+                "it-project@seabreezeholdings.com",
+                "ana.rivera@seabreezeholdings.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_vendor_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Vendor Terms Negotiation",
+              "start_time": "2025-03-20T11:00:00-04:00",
+              "end_time": "2025-03-20T12:00:00-04:00",
+              "participants": [
+                "procurement@seabreezeholdings.com",
+                "marisol.vega@atlanticpaper.com"
+              ],
+              "location": "Conference Room A",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_esg_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "ESG Metrics Working Session",
+              "start_time": "2025-03-21T10:00:00-04:00",
+              "end_time": "2025-03-21T11:30:00-04:00",
+              "participants": [
+                "esg-team@seabreezeholdings.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "communication",
+      "reason_for_call": "Draft a status update.",
+      "task_params": {
+        "sender": "Daniel Reeves",
+        "folder": "inbox",
+        "language": "en",
+        "subject": "Budget status update",
+        "reply_points": [
+          "FY26 budget model is updated through the latest department inputs",
+          "Three departments still have open assumptions on hiring and vendor costs",
+          "Procurement savings estimate is under review with operations",
+          "Cash-flow scenarios are built, but final recommendation is not locked",
+          "I will circulate a cleaner consolidated view by Friday afternoon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Daniel Reeves",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_budget_01",
+            "subject": "Budget status update",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_budget_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Reeves",
+              "subject": "Need a budget status update",
+              "body": "Can you send me a short leadership-ready update on where the budgeting work stands? I want something concise that I can share upward.",
+              "thread_id": "thr_budget_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-26T09:18:00-04:00"
+            }
+          },
+          {
+            "id": "msg_ap_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lucia Morales",
+              "subject": "AP cleanup items",
+              "body": "Sharing the outstanding invoice list before tomorrow.",
+              "thread_id": "thr_ap_01",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-26T08:02:00-04:00"
+            }
+          },
+          {
+            "id": "msg_hr_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Kevin Patel",
+              "subject": "Revised hiring timeline",
+              "body": "Please see the latest headcount timing assumptions.",
+              "thread_id": "thr_hr_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-25T16:41:00-04:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "commerce",
+      "reason_for_call": "Order a gift online",
+      "task_params": {
+        "category": "book",
+        "budget": 30,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "book",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_borinquen_01",
+              "prod_sanjuan_02",
+              "prod_taino_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_borinquen_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_borinquen_01",
+            "type": "product",
+            "attributes": {
+              "name": "Borinquen Through the Centuries",
+              "price": 24.99,
+              "category": "book",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_sanjuan_02",
+            "type": "product",
+            "attributes": {
+              "name": "San Juan and the Story of Puerto Rico",
+              "price": 27.5,
+              "category": "book",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_caribbean_03",
+            "type": "product",
+            "attributes": {
+              "name": "A Short History of the Caribbean Islands",
+              "price": 21.0,
+              "category": "book",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_taino_04",
+            "type": "product",
+            "attributes": {
+              "name": "Taíno Roots of Puerto Rico",
+              "price": 18.99,
+              "category": "book",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "travel",
+      "reason_for_call": "Plan a trip.",
+      "task_params": {
+        "destination_constraints": [
+          "wellness",
+          "culture",
+          "island"
+        ],
+        "destination": "Bali",
+        "duration_days": 10,
+        "traveler_count": 1,
+        "stop_tags": [
+          "wellness",
+          "culture"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "wellness",
+              "culture",
+              "island"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_bali_01",
+              "dest_ubud_02"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Bali",
+            "stop_tags": [
+              "wellness",
+              "culture"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Bali",
+            "duration_days": 10,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stop_tirta_01",
+              "stop_yoga_02",
+              "stop_penglipuran_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_bali_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Bali",
+              "region": "Indonesia",
+              "tags": [
+                "wellness",
+                "culture",
+                "island",
+                "retreat",
+                "beaches"
+              ]
+            }
+          },
+          {
+            "id": "dest_ubud_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Ubud",
+              "region": "Bali, Indonesia",
+              "tags": [
+                "wellness",
+                "culture",
+                "rice terraces",
+                "temples",
+                "yoga"
+              ]
+            }
+          },
+          {
+            "id": "dest_chiangmai_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Chiang Mai",
+              "region": "Thailand",
+              "tags": [
+                "wellness",
+                "culture",
+                "mountains",
+                "temples",
+                "crafts"
+              ]
+            }
+          },
+          {
+            "id": "stop_tirta_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Tirta Empul Temple",
+              "location": "Bali",
+              "tags": [
+                "culture",
+                "temple",
+                "ritual",
+                "wellness"
+              ]
+            }
+          },
+          {
+            "id": "stop_yoga_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Ubud Yoga Barn",
+              "location": "Bali",
+              "tags": [
+                "wellness",
+                "yoga",
+                "retreat"
+              ]
+            }
+          },
+          {
+            "id": "stop_penglipuran_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Penglipuran Village",
+              "location": "Bali",
+              "tags": [
+                "culture",
+                "heritage",
+                "walking"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "salon",
+        "location": "Rincon",
+        "sort_by": "rating",
+        "date_time": "2025-02-20T16:30:00-04:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "salon",
+            "location": "Rincon",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_brisa_01",
+            "date_time": "2025-02-20T16:30:00-04:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_brisa_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Brisa Salon Studio",
+              "service_type": "salon",
+              "location": "Rincon",
+              "rating": 4.9,
+              "distance_km": 1.8
+            }
+          },
+          {
+            "id": "svc_ola_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Ola Beauty Room",
+              "service_type": "salon",
+              "location": "Rincon",
+              "rating": 4.7,
+              "distance_km": 1.2
+            }
+          },
+          {
+            "id": "svc_maria_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Maria's Hair Loft",
+              "service_type": "salon",
+              "location": "Aguada",
+              "rating": 4.8,
+              "distance_km": 9.6
+            }
+          },
+          {
+            "id": "svc_coral_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Coral Glow Spa",
+              "service_type": "spa",
+              "location": "Rincon",
+              "rating": 4.8,
+              "distance_km": 2.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meetup.",
+      "task_params": {
+        "title": "Brunch with Elena",
+        "start_time": "2025-03-23T08:30:00-04:00",
+        "end_time": "2025-03-23T10:00:00-04:00",
+        "participants": [
+          "elena.bello@example.com"
+        ],
+        "location": "The English Rose, Rincon"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-23T08:30:00-04:00",
+            "end_time": "2025-03-23T10:00:00-04:00",
+            "participants": [
+              "elena.bello@example.com"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Brunch with Elena",
+            "start_time": "2025-03-23T08:30:00-04:00",
+            "end_time": "2025-03-23T10:00:00-04:00",
+            "participants": [
+              "elena.bello@example.com"
+            ],
+            "location": "The English Rose, Rincon"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_primary_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Brunch with Elena",
+              "start_time": "2025-03-23T08:30:00-04:00",
+              "end_time": "2025-03-23T10:00:00-04:00",
+              "participants": [
+                "elena.bello@example.com"
+              ],
+              "location": "The English Rose, Rincon",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_primary_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Review Prep",
+              "start_time": "2025-03-23T11:30:00-04:00",
+              "end_time": "2025-03-23T12:30:00-04:00",
+              "participants": [],
+              "location": "Home Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_primary_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Call with Mom",
+              "start_time": "2025-03-22T17:00:00-04:00",
+              "end_time": "2025-03-22T17:30:00-04:00",
+              "participants": [
+                "maria.bello@example.com"
+              ],
+              "location": "",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_primary_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Gallery Walk",
+              "start_time": "2025-03-23T15:00:00-04:00",
+              "end_time": "2025-03-23T16:30:00-04:00",
+              "participants": [
+                "lucia.ortiz@example.com"
+              ],
+              "location": "Plaza de Rincon",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a reminder email",
+      "task_params": {
+        "sender": "Samantha Bello",
+        "folder": "sent",
+        "thread_id": "thr_budget_07",
+        "language": "en",
+        "reminder_points": [
+          "friendly reminder about the budgeting workshop",
+          "encourage people to bring their questions",
+          "say nerves are normal and they do not need to arrive fully prepared",
+          "mention the session is a space to learn together",
+          "keep the tone warm and reassuring"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Samantha Bello",
+            "folder": "sent"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_budget_07",
+            "language": "en",
+            "body": "<authored from reminder_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_invite_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Samantha Bello",
+              "subject": "Budgeting Workshop Invite",
+              "body": "Hi everyone, you're invited to our community budgeting workshop next Thursday evening. We'll cover simple tools for tracking expenses and planning ahead.",
+              "thread_id": "thr_budget_07",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T14:12:00"
+            }
+          },
+          {
+            "id": "msg_vendor_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Samantha Bello",
+              "subject": "Updated invoice review",
+              "body": "Please see the revised numbers before tomorrow's finance check-in.",
+              "thread_id": "thr_finance_13",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-01T09:05:00"
+            }
+          },
+          {
+            "id": "msg_reply_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Alicia Rivera",
+              "subject": "Re: Budgeting Workshop Invite",
+              "body": "Thanks for organizing this. I may be a little nervous because budgeting is new to me.",
+              "thread_id": "thr_budget_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-02T08:47:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "office supplies",
+        "budget": 25,
+        "sort_by": "rating",
+        "product_id": "prod_markers_01",
+        "quantity": 2
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "office supplies",
+            "budget": 25,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_markers_01",
+              "prod_flags_02",
+              "prod_pens_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_markers_01",
+            "quantity": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_markers_01",
+            "type": "product",
+            "attributes": {
+              "name": "BrightTone Washable Marker Set - 24 Colors",
+              "price": 18.99,
+              "category": "office supplies",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_flags_02",
+            "type": "product",
+            "attributes": {
+              "name": "ColorTab Sticky Page Flags Variety Pack",
+              "price": 9.49,
+              "category": "office supplies",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_notes_03",
+            "type": "product",
+            "attributes": {
+              "name": "Neon Breeze Sticky Notes Cube Set",
+              "price": 12.99,
+              "category": "office supplies",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_pens_04",
+            "type": "product",
+            "attributes": {
+              "name": "SoftGel Fineliner Pen Pack - Assorted Colors",
+              "price": 22.5,
+              "category": "office supplies",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Rincon",
+        "cuisine": "Puerto Rican",
+        "date_time": "2025-02-05T19:30:00-04:00",
+        "party_size": 5
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Rincon",
+            "cuisine": "Puerto Rican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_casa_01",
+            "date_time": "2025-02-05T19:30:00-04:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_casa_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa Isla Bistro",
+              "cuisine": "Puerto Rican",
+              "location": "Rincon",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual indoor-outdoor"
+            }
+          },
+          {
+            "id": "rst_faro_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "El Faro Grill",
+              "cuisine": "Seafood",
+              "location": "Rincon",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "open-air patio"
+            }
+          },
+          {
+            "id": "rst_plaza_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Plaza Verde Kitchen",
+              "cuisine": "Puerto Rican",
+              "location": "Rincon",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "casual dining room"
+            }
+          },
+          {
+            "id": "rst_ola_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Ola Brava Tapas",
+              "cuisine": "Spanish",
+              "location": "Rincon",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "small plates lounge"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "scheduling",
+      "reason_for_call": "Add something to my calendar.",
+      "task_params": {
+        "title": "CFP study plan review",
+        "start_time": "2025-05-19T19:00:00-04:00",
+        "end_time": "2025-05-19T19:45:00-04:00",
+        "location": "Home office"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-05-19T19:00:00-04:00",
+            "end_time": "2025-05-19T19:45:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "CFP study plan review",
+            "start_time": "2025-05-19T19:00:00-04:00",
+            "end_time": "2025-05-19T19:45:00-04:00",
+            "location": "Home office"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_budget_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget variance review",
+              "start_time": "2025-05-19T09:00:00-04:00",
+              "end_time": "2025-05-19T10:00:00-04:00",
+              "participants": [
+                "finance-team@company.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "CFP study plan review",
+              "start_time": "2025-05-19T19:00:00-04:00",
+              "end_time": "2025-05-19T19:45:00-04:00",
+              "participants": [],
+              "location": "Home office",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_report_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "ESG reporting check-in",
+              "start_time": "2025-05-20T11:00:00-04:00",
+              "end_time": "2025-05-20T11:30:00-04:00",
+              "participants": [
+                "ops-lead@company.com",
+                "sustainability@company.com"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dentist_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dental cleaning",
+              "start_time": "2025-05-21T08:30:00-04:00",
+              "end_time": "2025-05-21T09:30:00-04:00",
+              "participants": [],
+              "location": "Clinica Dental Oeste",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s42",
+      "session_type": "learning",
+      "day_offset": 42,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "Rincón",
+        "event_tags": [
+          "film",
+          "festival"
+        ],
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Rincón",
+            "event_tags": [
+              "film",
+              "festival"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_rinconfilm_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_rinconfilm_01",
+            "type": "event",
+            "attributes": {
+              "name": "Rincón International Film Festival: Opening Night Shorts",
+              "location": "Rincón",
+              "date_time": "2025-05-23T19:30:00-04:00",
+              "price": 18.0,
+              "event_tags": [
+                "film",
+                "festival",
+                "shorts",
+                "indie"
+              ]
+            }
+          },
+          {
+            "id": "evt_domesdoc_02",
+            "type": "event",
+            "attributes": {
+              "name": "Cinema by the Coast: Caribbean Documentary Showcase",
+              "location": "Rincón",
+              "date_time": "2025-05-24T18:00:00-04:00",
+              "price": 15.0,
+              "event_tags": [
+                "film",
+                "documentary",
+                "cultural"
+              ]
+            }
+          },
+          {
+            "id": "evt_plazaarte_03",
+            "type": "event",
+            "attributes": {
+              "name": "Plaza Arte Nocturno: Mural Walk and Live Music",
+              "location": "Rincón",
+              "date_time": "2025-05-23T20:00:00-04:00",
+              "price": 12.0,
+              "event_tags": [
+                "art",
+                "music",
+                "cultural",
+                "walking"
+              ]
+            }
+          },
+          {
+            "id": "evt_mayaindie_04",
+            "type": "event",
+            "attributes": {
+              "name": "Mayagüez Indie Screenings: New Voices Program",
+              "location": "Mayagüez",
+              "date_time": "2025-05-23T19:00:00-04:00",
+              "price": 16.0,
+              "event_tags": [
+                "film",
+                "festival",
+                "indie"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s43",
+      "session_type": "learning",
+      "day_offset": 43,
+      "domain": "commerce",
+      "reason_for_call": "Order a home item.",
+      "task_params": {
+        "category": "balcony herb planter",
+        "budget": 45,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "balcony herb planter",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_planter_01",
+              "prod_planter_02",
+              "prod_planter_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_planter_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_planter_01",
+            "type": "product",
+            "attributes": {
+              "name": "VerdeRail Self-Watering Balcony Herb Planter",
+              "price": 42.0,
+              "category": "balcony herb planter",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_planter_02",
+            "type": "product",
+            "attributes": {
+              "name": "CasaBloom Compact Balcony Herb Planter Box",
+              "price": 34.5,
+              "category": "balcony herb planter",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_planter_03",
+            "type": "product",
+            "attributes": {
+              "name": "SunLedge Tiered Balcony Herb Planter",
+              "price": 44.99,
+              "category": "balcony herb planter",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_pot_04",
+            "type": "product",
+            "attributes": {
+              "name": "TerraNest Ceramic Window Pot Set",
+              "price": 29.99,
+              "category": "window planter",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s44",
+      "session_type": "learning",
+      "day_offset": 44,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a calendar block",
+      "task_params": {
+        "title": "Budgeting and Life Admin",
+        "start_time": "2025-03-16T09:30:00-04:00",
+        "end_time": "2025-03-16T12:30:00-04:00",
+        "location": "Home",
+        "calendar": "personal"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-16T09:30:00-04:00",
+            "end_time": "2025-03-16T12:30:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Budgeting and Life Admin",
+            "start_time": "2025-03-16T09:30:00-04:00",
+            "end_time": "2025-03-16T12:30:00-04:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_surf_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Sunrise Surf",
+              "start_time": "2025-03-16T06:30:00-04:00",
+              "end_time": "2025-03-16T08:00:00-04:00",
+              "participants": [],
+              "location": "Rincon Beach",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budgeting and Life Admin",
+              "start_time": "2025-03-16T09:30:00-04:00",
+              "end_time": "2025-03-16T12:30:00-04:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_call_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Check-in with Mom",
+              "start_time": "2025-03-16T13:00:00-04:00",
+              "end_time": "2025-03-16T13:30:00-04:00",
+              "participants": [
+                "mom@example.com"
+              ],
+              "location": "Phone",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_report_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quarterly Report Cleanup",
+              "start_time": "2025-03-15T08:30:00-04:00",
+              "end_time": "2025-03-15T10:30:00-04:00",
+              "participants": [],
+              "location": "Home Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "samantha_bello_s46",
+      "session_type": "learning",
+      "day_offset": 46,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "sender": "Marisol Bello",
+        "folder": "inbox",
+        "language": "en",
+        "availability_points": [
+          "Monday evening after 6:30 PM",
+          "Wednesday evening after 7:00 PM",
+          "Friday evening after 6:00 PM",
+          "Sunday evening after 5:00 PM"
+        ],
+        "boundary_points": [
+          "Tuesday and Thursday are not open",
+          "Saturday is already booked",
+          "ask everyone to pick one of the free evenings",
+          "say plans may not work if decided last minute"
+        ],
+        "tone_keywords": [
+          "gentle",
+          "warm",
+          "clear",
+          "bilingual English and Spanish"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Marisol Bello",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_family_01",
+            "language": "en",
+            "body": "<authored from availability_points, boundary_points, tone_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_family_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marisol Bello",
+              "subject": "Family dinner next week?",
+              "body": "Can everybody please send me which nights work next week? The plans keep changing and I want to lock something in.",
+              "thread_id": "thr_family_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-17T18:42:00"
+            }
+          },
+          {
+            "id": "msg_family_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Luis Bello",
+              "subject": "Re: Family dinner next week?",
+              "body": "I can maybe do Wednesday or Sunday, but let me know what Samantha says first.",
+              "thread_id": "thr_family_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-17T19:08:00"
+            }
+          },
+          {
+            "id": "msg_work_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nadia Cruz",
+              "subject": "Q2 variance file",
+              "body": "Please review the revised variance tabs before tomorrow morning.",
+              "thread_id": "thr_work_09",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-03-17T21:15:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "I'm planning snapper ceviche and I'm out of limes, red onion, cilantro, and aji dulce peppers. Go ahead and get what I need for it.",
+      "gold_value": null,
+      "session_id": "samantha_bello_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "samantha_bello_commerce_01",
+      "rule_ref": {
+        "rule_id": "samantha_bello_commerce_01",
+        "rule_text": "When she is preparing for a cooking project, Samantha prefers collecting ingredients into a shopping list first rather than placing an order immediately.",
+        "canonical_answer": "When I’m planning a dish, I like to build a shopping list first before ordering anything."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_ceviche_prep_box_01",
+            "type": "product",
+            "attributes": {
+              "name": "Citrus Snapper Ceviche Prep Box",
+              "price": 17.49,
+              "category": "seafood_cooking",
+              "rating": 4.9,
+              "stock_status": "in_stock",
+              "review_count": 2940,
+              "contents": "key limes, red onion, fresh cilantro, aji dulce peppers"
+            }
+          },
+          {
+            "id": "prod_key_limes_01",
+            "type": "product",
+            "attributes": {
+              "name": "Key Limes, 1 lb Bag",
+              "price": 3.49,
+              "category": "seafood_cooking",
+              "rating": 4.7,
+              "stock_status": "in_stock",
+              "review_count": 640,
+              "form": "fresh citrus",
+              "origin": "Florida"
+            }
+          },
+          {
+            "id": "prod_red_onion_01",
+            "type": "product",
+            "attributes": {
+              "name": "Red Onion, 2-Count",
+              "price": 2.29,
+              "category": "seafood_cooking",
+              "rating": 4.6,
+              "stock_status": "in_stock",
+              "review_count": 390,
+              "form": "fresh produce"
+            }
+          },
+          {
+            "id": "prod_cilantro_01",
+            "type": "product",
+            "attributes": {
+              "name": "Fresh Cilantro Bunch",
+              "price": 1.89,
+              "category": "seafood_cooking",
+              "rating": 4.8,
+              "stock_status": "in_stock",
+              "review_count": 710,
+              "form": "fresh herb",
+              "origin": "California"
+            }
+          },
+          {
+            "id": "prod_aji_dulce_01",
+            "type": "product",
+            "attributes": {
+              "name": "Aji Dulce Peppers, 8 oz Pack",
+              "price": 4.29,
+              "category": "seafood_cooking",
+              "rating": 4.7,
+              "stock_status": "in_stock",
+              "review_count": 280,
+              "form": "fresh peppers",
+              "origin": "Puerto Rico"
+            }
+          },
+          {
+            "id": "prod_lime_juice_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cold-Pressed Lime Juice Bottle",
+              "price": 4.99,
+              "category": "seafood_cooking",
+              "rating": 4.9,
+              "stock_status": "in_stock",
+              "review_count": 1820,
+              "form": "bottled juice",
+              "size": "12 fl oz"
+            }
+          },
+          {
+            "id": "prod_cilantro_dried_01",
+            "type": "product",
+            "attributes": {
+              "name": "Freeze-Dried Cilantro Jar",
+              "price": 5.49,
+              "category": "seafood_cooking",
+              "rating": 4.9,
+              "stock_status": "in_stock",
+              "review_count": 2100,
+              "form": "dried herb",
+              "size": "1.7 oz"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "build_shopping_list",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please order one herb plant I can cook with, under $10. Pick whichever seems best.",
+      "gold_value": "prod_thai_culantro_duo_01",
+      "session_id": "samantha_bello_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "samantha_bello_commerce_02",
+      "rule_ref": {
+        "rule_id": "samantha_bello_commerce_02",
+        "rule_text": "When ordering food or garden items, Samantha prefers products that support Puerto Rican cooking with global twists, especially fresh herbs and distinctive ingredients, over plain generic staples.",
+        "canonical_answer": "If I’m ordering ingredients or herb items, I go for things that let me cook Puerto Rican dishes with a global twist."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_thai_culantro_duo_01",
+            "type": "product",
+            "attributes": {
+              "name": "Thai Basil & Culantro Duo Herb Planter",
+              "price": 9.79,
+              "category": "herb_plants",
+              "rating": 4.2,
+              "variety_mix": "thai basil, culantro",
+              "container_size": "6-inch planter",
+              "reviews_count": 61,
+              "units_sold_last_30_days": 37
+            }
+          },
+          {
+            "id": "prod_genovese_basil_01",
+            "type": "product",
+            "attributes": {
+              "name": "Genovese Basil Starter Plant",
+              "price": 6.49,
+              "category": "herb_plants",
+              "rating": 4.9,
+              "variety_mix": "sweet basil",
+              "container_size": "4-inch pot",
+              "reviews_count": 1540,
+              "units_sold_last_30_days": 640
+            }
+          },
+          {
+            "id": "prod_culantro_starter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Culantro Starter Herb Plant",
+              "price": 5.99,
+              "category": "herb_plants",
+              "rating": 4.7,
+              "variety_mix": "culantro",
+              "container_size": "4-inch pot",
+              "reviews_count": 402,
+              "units_sold_last_30_days": 210
+            }
+          },
+          {
+            "id": "prod_curly_parsley_01",
+            "type": "product",
+            "attributes": {
+              "name": "Curly Parsley Windowbox Plant",
+              "price": 4.99,
+              "category": "herb_plants",
+              "rating": 4.8,
+              "variety_mix": "parsley",
+              "container_size": "4-inch pot",
+              "reviews_count": 980,
+              "units_sold_last_30_days": 420
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_thai_culantro_duo_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the pastry mat from my recent order—the wrong version showed up.",
+      "gold_value": "exchange",
+      "session_id": "samantha_bello_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "samantha_bello_commerce_03",
+      "rule_ref": {
+        "rule_id": "samantha_bello_commerce_03",
+        "rule_text": "When an ordered item is wrong but still useful in the right version, Samantha prefers an exchange rather than a refund.",
+        "canonical_answer": "If the item is useful but not the right version, I’d rather exchange it than just get a refund."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_pastry_mat_01",
+            "type": "product",
+            "attributes": {
+              "name": "Silicone Pastry Mat - Quarter Sheet",
+              "price": 18.5,
+              "category": "baking_supplies",
+              "rating": 4.6,
+              "brand": "Oven Grove",
+              "variant": "quarter-sheet",
+              "order_id": "ord_9321_bake",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-16"
+            }
+          },
+          {
+            "id": "prod_palette_knife_01",
+            "type": "product",
+            "attributes": {
+              "name": "Offset Palette Knife Set",
+              "price": 14.0,
+              "category": "art_tools",
+              "rating": 4.8,
+              "brand": "StudioNorth",
+              "order_id": "ord_9288_art",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-13"
+            }
+          },
+          {
+            "id": "prod_tart_weights_01",
+            "type": "product",
+            "attributes": {
+              "name": "Ceramic Tart Weights",
+              "price": 16.0,
+              "category": "baking_supplies",
+              "rating": 4.9,
+              "brand": "Golden Crust",
+              "order_id": "ord_9254_bake",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-10"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Ortiz at South Harbor Community Alliance about the multilingual tenant-rights workshop. Tell her I can join the planning call on 2026-09-15 at 18:30, ask her to share the latest flyer text and interpreter headcount, and let her know I can bring the sign-in sheets and feedback forms.",
+      "gold_value": null,
+      "session_id": "samantha_bello_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "samantha_bello_communication_01",
+      "rule_ref": {
+        "rule_id": "samantha_bello_communication_01",
+        "rule_text": "When she is preparing an outgoing message that represents her professionally or in community work, Samantha prefers it to be drafted for review rather than sent immediately.",
+        "canonical_answer": "I like important work or community messages drafted first so I can review the tone before they go out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_workshop_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Ortiz <lena.ortiz@southharboralliance.org>",
+              "subject": "Planning call for multilingual tenant-rights workshop",
+              "body": "Hi Samantha, we're finalizing the South Harbor Community Alliance tenant-rights workshop for the neighborhood centers. Could you join the planning call and let me know how many interpreters we should budget for? If you have sign-in sheets or feedback forms you can bring, that would help. We also need the latest flyer text before we print anything.",
+              "thread_id": "thr_lena_workshop_17",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-09-03T10:14:00"
+            }
+          },
+          {
+            "id": "msg_billing_cowork_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Billing Desk <billing@harborcowork.com>",
+              "subject": "September workspace invoice available",
+              "body": "Your monthly workspace invoice is now available in the member portal.",
+              "thread_id": "thr_billing_cowork_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-09-03T08:02:00"
+            }
+          },
+          {
+            "id": "msg_erin_dinner_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Erin Wallace <erin.wallace@gmail.com>",
+              "subject": "Dinner this weekend?",
+              "body": "Hey Samantha, are you free to grab dinner this weekend? No worries if you're booked up.",
+              "thread_id": "thr_erin_dinner_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-09-02T19:41:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Wynwood, Miami for 3 people on 2026-09-12 at 7:30pm — just pick a place and reserve it.",
+      "gold_value": "rst_sazon_atlas_01",
+      "session_id": "samantha_bello_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "samantha_bello_reservation_01",
+      "rule_ref": {
+        "rule_id": "samantha_bello_reservation_01",
+        "rule_text": "When booking a restaurant, Samantha prefers places that blend Puerto Rican flavors with global influences rather than purely standard fare.",
+        "canonical_answer": "For dining out, I usually choose places that mix Puerto Rican cooking with interesting global twists."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_sazon_atlas_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sazon Atlas Kitchen",
+              "cuisine": "Puerto Rican fusion",
+              "location": "Wynwood, Miami",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_casa_borinquen_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa Borinquen",
+              "cuisine": "Puerto Rican",
+              "location": "Wynwood, Miami",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_orchid_market_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Orchid Market Table",
+              "cuisine": "Asian fusion",
+              "location": "Wynwood, Miami",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "small plates"
+            }
+          },
+          {
+            "id": "rst_palm_line_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Palm Line Grill",
+              "cuisine": "American",
+              "location": "Wynwood, Miami",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_verde_mesa_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Verde Mesa",
+              "cuisine": "Mediterranean fusion",
+              "location": "Wynwood, Miami",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "shared plates"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_sazon_atlas_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book two tickets for me and a friend to an event in Bayamon, Puerto Rico; keep it under $30 per person and just pick whatever seems best.",
+      "gold_value": "evt_bayamon_fc_01",
+      "session_id": "samantha_bello_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "samantha_bello_reservation_03",
+      "rule_ref": {
+        "rule_id": "samantha_bello_reservation_03",
+        "rule_text": "When choosing among events to attend, Samantha prefers local culture-rich options such as festivals, film, or soccer over generic entertainment picks.",
+        "canonical_answer": "If I’m picking an event, I prefer something rooted in local culture, art, or Puerto Rican sports."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_bayamon_fc_01",
+            "type": "event",
+            "attributes": {
+              "name": "Bayamon FC Home Match",
+              "location": "Bayamon, Puerto Rico",
+              "date_time": "2026-08-15T19:00:00",
+              "price": 28,
+              "event_tags": [
+                "soccer",
+                "local_sports",
+                "puerto_rican_league"
+              ]
+            }
+          },
+          {
+            "id": "evt_pr_film_night_01",
+            "type": "event",
+            "attributes": {
+              "name": "Puerto Rican Film Night at Plaza del Sol",
+              "location": "Bayamon, Puerto Rico",
+              "date_time": "2026-08-15T19:30:00",
+              "price": 34,
+              "event_tags": [
+                "film",
+                "puerto_rican_cinema",
+                "screening"
+              ]
+            }
+          },
+          {
+            "id": "evt_fiestas_pueblo_01",
+            "type": "event",
+            "attributes": {
+              "name": "Fiestas del Pueblo Evening Stage",
+              "location": "Bayamon, Puerto Rico",
+              "date_time": "2026-08-15T18:00:00",
+              "price": 36,
+              "event_tags": [
+                "festival",
+                "local_culture",
+                "community_event"
+              ]
+            }
+          },
+          {
+            "id": "evt_island_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "Island Pop Arena Live",
+              "location": "Bayamon, Puerto Rico",
+              "date_time": "2026-08-15T20:00:00",
+              "price": 26,
+              "event_tags": [
+                "pop_concert",
+                "arena_show",
+                "chart_hits"
+              ]
+            }
+          },
+          {
+            "id": "evt_laughs_tour_01",
+            "type": "event",
+            "attributes": {
+              "name": "Friday Laughs Stand-Up Tour",
+              "location": "Bayamon, Puerto Rico",
+              "date_time": "2026-08-15T21:00:00",
+              "price": 19,
+              "event_tags": [
+                "stand_up_comedy",
+                "touring_show",
+                "nightlife"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_bayamon_fc_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in downtown Seattle for 2026-08-14 at 6:00pm — just pick one and book it.",
+      "gold_value": "svc_wellness_harbor_community_01",
+      "session_id": "samantha_bello_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "samantha_bello_reservation_04",
+      "rule_ref": {
+        "rule_id": "samantha_bello_reservation_04",
+        "rule_text": "When booking a wellness-oriented appointment, Samantha prefers community-centered yoga or meditation providers over luxury spa-style providers.",
+        "canonical_answer": "For wellness appointments, I prefer community yoga or meditation providers over fancy spa options."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_wellness_harbor_community_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Harbor Community Center Yoga Collective",
+              "service_type": "yoga wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 1.8
+            }
+          },
+          {
+            "id": "svc_wellness_stillpoint_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Stillpoint Private Meditation Lounge",
+              "service_type": "meditation wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.3
+            }
+          },
+          {
+            "id": "svc_wellness_velvet_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Velvet Cedar Spa Retreat",
+              "service_type": "spa wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "svc_wellness_aurelia_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Aurelia Boutique Yoga Atelier",
+              "service_type": "yoga wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "distance_km": 0.4
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_wellness_harbor_community_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't replied to the Harbor House breakfast invite on 2026-06-12. See what I already have that morning and send back the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "samantha_bello_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "samantha_bello_scheduling_01",
+      "rule_ref": {
+        "rule_id": "samantha_bello_scheduling_01",
+        "rule_text": "When an invitation lands on a schedule that may shift around hybrid work or sunrise self-care routines, Samantha prefers to reply tentatively instead of accepting or declining outright.",
+        "canonical_answer": "If an invite might conflict with my hybrid schedule or dawn routines, I usually mark it tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_harbor_house_breakfast_20260612",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Westside Founder Breakfast",
+              "start_time": "2026-06-12T07:30:00-07:00",
+              "end_time": "2026-06-12T08:30:00-07:00",
+              "participants": [
+                "events@harborhouse.co",
+                "samantha.bello@example.com",
+                "amy.lin@pacificlabs.com"
+              ],
+              "location": "Harbor House, Santa Monica",
+              "calendar": "invites",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_sunrise_surf_20260612",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Sunrise surf and stretch",
+              "start_time": "2026-06-12T06:15:00-07:00",
+              "end_time": "2026-06-12T08:00:00-07:00",
+              "participants": [],
+              "location": "Ocean Park Beach",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_hybrid_standup_20260612",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Hybrid design standup",
+              "start_time": "2026-06-12T09:15:00-07:00",
+              "end_time": "2026-06-12T10:00:00-07:00",
+              "participants": [
+                "samantha.bello@example.com",
+                "design-team@example.com"
+              ],
+              "location": "Culver City Studio",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I’m signed up for the Riverbend financial-literacy drop-in at Riverbend Library Room A on 2026-09-12 from 10:00 to 12:00 through the volunteer portal, and it’s part of the volunteer work I usually do on Saturdays. Make sure I don’t forget it.",
+      "gold_value": null,
+      "session_id": "samantha_bello_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "samantha_bello_scheduling_02",
+      "rule_ref": {
+        "rule_id": "samantha_bello_scheduling_02",
+        "rule_text": "For recurring self-care or volunteer commitments, Samantha prefers putting a real calendar block on the schedule rather than only setting a private reminder.",
+        "canonical_answer": "For yoga, volunteering, and other regular commitments, I prefer a real calendar event so the time is actually blocked."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "act_riverbend_finlit_01",
+            "type": "event",
+            "attributes": {
+              "title": "Riverbend financial-literacy drop-in",
+              "start_time": "2026-09-12T10:00:00",
+              "end_time": "2026-09-12T12:00:00",
+              "participants": [
+                "ana.perez@riverbendfdn.org",
+                "marcus.long@riverbendfdn.org"
+              ],
+              "location": "Riverbend Library Room A",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "volunteer_portal"
+            }
+          },
+          {
+            "id": "act_oakgrove_sorting_02",
+            "type": "event",
+            "attributes": {
+              "title": "Oak Grove pantry sorting shift",
+              "start_time": "2026-09-13T09:00:00",
+              "end_time": "2026-09-13T11:00:00",
+              "participants": [
+                "volunteerdesk@oakgrovepantry.org"
+              ],
+              "location": "Oak Grove Pantry Warehouse",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "volunteer_portal"
+            }
+          },
+          {
+            "id": "act_lakeside_vinyasa_03",
+            "type": "event",
+            "attributes": {
+              "title": "Lakeside Center vinyasa class",
+              "start_time": "2026-09-15T18:30:00",
+              "end_time": "2026-09-15T19:30:00",
+              "participants": [
+                "frontdesk@lakesidecenter.org"
+              ],
+              "location": "Lakeside Wellness Center Studio 2",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "studio_app"
+            }
+          },
+          {
+            "id": "evt_team_sync_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Team sync",
+              "start_time": "2026-09-12T13:00:00",
+              "end_time": "2026-09-12T13:30:00",
+              "participants": [
+                "ops@company.com"
+              ],
+              "location": "Zoom",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm starting from scratch on a 2-day solo trip to San Sebastian. From the candidate stops below, pick one place to build the itinerary around and go ahead with that choice.",
+      "gold_value": [
+        "stop_sansebastian_gros_zurriola_01"
+      ],
+      "session_id": "samantha_bello_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "samantha_bello_travel_02",
+      "rule_ref": {
+        "rule_id": "samantha_bello_travel_02",
+        "rule_text": "When selecting stops for a new trip, Samantha prefers an itinerary that combines surf, culture, and cuisine rather than focusing on only one theme.",
+        "canonical_answer": "I like trip stops that give me some mix of surf, culture, and good food rather than just one of those."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_sansebastian_gros_zurriola_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Gros and Zurriola",
+              "stop_type": "district",
+              "location": "San Sebastian, Spain",
+              "tags": [
+                "surf",
+                "beach",
+                "pintxos",
+                "cafes",
+                "arts_scene",
+                "walkable"
+              ],
+              "rating": 4.6,
+              "review_count": 684
+            }
+          },
+          {
+            "id": "stop_sansebastian_parte_vieja_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Parte Vieja",
+              "stop_type": "historic_district",
+              "location": "San Sebastian, Spain",
+              "tags": [
+                "historic_quarter",
+                "architecture",
+                "pintxos",
+                "plazas",
+                "churches",
+                "nightlife"
+              ],
+              "rating": 4.9,
+              "review_count": 13840
+            }
+          },
+          {
+            "id": "stop_sansebastian_zurriola_beach_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Zurriola Beach",
+              "stop_type": "beach",
+              "location": "San Sebastian, Spain",
+              "tags": [
+                "surf",
+                "beach",
+                "boardwalk",
+                "sunrise",
+                "skatepark"
+              ],
+              "rating": 4.8,
+              "review_count": 7215
+            }
+          },
+          {
+            "id": "stop_sansebastian_san_telmo_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "San Telmo Museum",
+              "stop_type": "museum",
+              "location": "San Sebastian, Spain",
+              "tags": [
+                "museum",
+                "basque_history",
+                "exhibitions",
+                "cloister",
+                "indoor"
+              ],
+              "rating": 4.8,
+              "review_count": 3172
+            }
+          },
+          {
+            "id": "stop_sansebastian_la_concha_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "La Concha Promenade",
+              "stop_type": "waterfront",
+              "location": "San Sebastian, Spain",
+              "tags": [
+                "beach",
+                "scenic",
+                "bay_view",
+                "landmark",
+                "promenade"
+              ],
+              "rating": 4.9,
+              "review_count": 16504
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_sansebastian_gros_zurriola_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip SCZ-8824 in Santa Cruz fell through. Please swap in a single daytime replacement that fits in about 1–2 hours and doesn't add much extra driving from the current route.",
+      "gold_value": [
+        "stop_pleasure_point_41st_01"
+      ],
+      "session_id": "samantha_bello_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "samantha_bello_travel_03",
+      "rule_ref": {
+        "rule_id": "samantha_bello_travel_03",
+        "rule_text": "When a trip is disrupted, Samantha prefers replacement stops that preserve the original surf-culture-cuisine mix rather than swapping in any generic high-rated alternative.",
+        "canonical_answer": "If a trip gets disrupted, I want replacement stops that keep the same surf, culture, and food vibe."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_pleasure_point_41st_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Pleasure Point Bluffs & 41st Avenue Walk",
+              "location": "Pleasure Point, Santa Cruz, California",
+              "tags": [
+                "surf",
+                "murals",
+                "cafes",
+                "tacos",
+                "local_shops",
+                "daytime"
+              ],
+              "trip_id": "SCZ-8824",
+              "rating": 4.6,
+              "review_count": 342,
+              "detour_minutes_from_route": 12,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_cowell_wharf_loop_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Cowell Beach & Wharf Loop",
+              "location": "Santa Cruz, California",
+              "tags": [
+                "beach",
+                "surf_views",
+                "seafood",
+                "arcade",
+                "daytime"
+              ],
+              "trip_id": "SCZ-8824",
+              "rating": 4.8,
+              "review_count": 4180,
+              "detour_minutes_from_route": 5,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_downtown_murals_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Downtown Santa Cruz Murals & Market",
+              "location": "Downtown Santa Cruz, California",
+              "tags": [
+                "murals",
+                "galleries",
+                "cafes",
+                "food_hall",
+                "daytime"
+              ],
+              "trip_id": "SCZ-8824",
+              "rating": 4.7,
+              "review_count": 1014,
+              "detour_minutes_from_route": 6,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_west_cliff_lighthouse_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "West Cliff Lighthouse Loop",
+              "location": "West Cliff, Santa Cruz, California",
+              "tags": [
+                "surf_views",
+                "lighthouse",
+                "scenic",
+                "daytime"
+              ],
+              "trip_id": "SCZ-8824",
+              "rating": 4.9,
+              "review_count": 2635,
+              "detour_minutes_from_route": 4,
+              "visit_duration_hours": 1.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_pleasure_point_41st_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Chicago to Minneapolis for just me from the available options. It’s a quick in-and-out trip and I’m only bringing a backpack, so use my usual traveler details and card on file once you find the best match.",
+      "gold_value": "window",
+      "session_id": "samantha_bello_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "samantha_bello_travel_04",
+      "rule_ref": {
+        "rule_id": "samantha_bello_travel_04",
+        "rule_text": "When booking flights, Samantha prefers a window seat.",
+        "canonical_answer": "I always prefer a window seat when I fly."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_ord_msp_lakefront_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Minneapolis",
+              "departure_date": "2026-07-22",
+              "airline": "Lakefront Air",
+              "price": 118,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "flt_ord_msp_prairiejet_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Minneapolis",
+              "departure_date": "2026-07-22",
+              "airline": "PrairieJet",
+              "price": 154,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_ord_det_midwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Detroit",
+              "departure_date": "2026-07-22",
+              "airline": "Midwest Connect",
+              "price": 101,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "flt_mke_msp_northstar_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Milwaukee",
+              "destination": "Minneapolis",
+              "departure_date": "2026-07-22",
+              "airline": "Northstar",
+              "price": 109,
+              "available_seats": 7
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a hotel in Cartagena for 2 adults and 1 room for check-in on 2026-08-14 and check-out on 2026-08-17. Choose one of the available options and complete the booking.",
+      "gold_value": "htl_cartagena_casa_san_diego_01",
+      "session_id": "samantha_bello_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "samantha_bello_travel_05",
+      "rule_ref": {
+        "rule_id": "samantha_bello_travel_05",
+        "rule_text": "When booking lodging, Samantha prefers modest-budget hotels with local character over more expensive generic luxury options.",
+        "canonical_answer": "For hotels, I prefer something budget-conscious and locally characterful rather than luxury for its own sake."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_cartagena_grand_marina_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Grand Marina Cartagena",
+              "location": "Cartagena, Colombia",
+              "check_in_date": "2026-08-14",
+              "check_out_date": "2026-08-17",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 389,
+              "rating": 4.9,
+              "review_count": 3560,
+              "neighborhood": "Bocagrande, Cartagena",
+              "property_style": "international chain",
+              "building_type": "high-rise resort hotel",
+              "spa": true,
+              "pool": true
+            }
+          },
+          {
+            "id": "htl_cartagena_harbor_plaza_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Harbor Plaza Suites Cartagena",
+              "location": "Cartagena, Colombia",
+              "check_in_date": "2026-08-14",
+              "check_out_date": "2026-08-17",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 289,
+              "rating": 4.8,
+              "review_count": 2215,
+              "neighborhood": "Manga, Cartagena",
+              "property_style": "business hotel",
+              "building_type": "modern tower hotel",
+              "harbor_view": true,
+              "breakfast_included": true
+            }
+          },
+          {
+            "id": "htl_cartagena_casa_san_diego_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Casa San Diego Hotel",
+              "location": "Cartagena, Colombia",
+              "check_in_date": "2026-08-14",
+              "check_out_date": "2026-08-17",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 219,
+              "rating": 4.4,
+              "review_count": 241,
+              "neighborhood": "San Diego, Cartagena Walled City",
+              "property_style": "independent hotel",
+              "building_type": "restored colonial townhouse",
+              "interior_courtyard": true,
+              "walk_time_to_plaza_min": 5
+            }
+          },
+          {
+            "id": "htl_cartagena_patio_del_reloj_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Patio del Reloj Boutique Hotel",
+              "location": "Cartagena, Colombia",
+              "check_in_date": "2026-08-14",
+              "check_out_date": "2026-08-17",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 339,
+              "rating": 4.8,
+              "review_count": 1184,
+              "neighborhood": "Centro, Cartagena Walled City",
+              "property_style": "boutique hotel",
+              "building_type": "colonial courtyard house",
+              "rooftop_pool": true,
+              "restaurant": true
+            }
+          },
+          {
+            "id": "htl_cartagena_bayline_express_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Bayline Express Cartagena",
+              "location": "Cartagena, Colombia",
+              "check_in_date": "2026-08-14",
+              "check_out_date": "2026-08-17",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 189,
+              "rating": 4.7,
+              "review_count": 1940,
+              "neighborhood": "Bocagrande, Cartagena",
+              "property_style": "chain hotel",
+              "building_type": "mid-rise business hotel",
+              "distance_to_beach_min": 4,
+              "free_cancellation": true
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_cartagena_casa_san_diego_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy the files sitting in /Finance/Working — it's a mix of PDFs, spreadsheets, and docs, and I just need them organized so they're easier to scan.",
+      "gold_value": "by_project",
+      "session_id": "samantha_bello_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "samantha_bello_workspace_01",
+      "rule_ref": {
+        "rule_id": "samantha_bello_workspace_01",
+        "rule_text": "When organizing work files, Samantha prefers them to be classified by project rather than by generic type or date.",
+        "canonical_answer": "I organize work files by project first, especially for things like ESG, SAP, and budgeting work."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_working_metrics_01",
+            "type": "file",
+            "attributes": {
+              "name": "metrics_snapshot.xlsx",
+              "file_type": "xlsx",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "ESG Reporting",
+              "modified_date": "2026-04-09",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_working_brief_01",
+            "type": "file",
+            "attributes": {
+              "name": "quarterly_brief.pdf",
+              "file_type": "pdf",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "ESG Reporting",
+              "modified_date": "2026-04-12",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_working_cutover_01",
+            "type": "file",
+            "attributes": {
+              "name": "cutover_notes.docx",
+              "file_type": "docx",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "SAP Migration",
+              "modified_date": "2026-05-03",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_working_mapping_01",
+            "type": "file",
+            "attributes": {
+              "name": "mapping_sheet.xlsx",
+              "file_type": "xlsx",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "SAP Migration",
+              "modified_date": "2026-05-05",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_working_assumptions_01",
+            "type": "file",
+            "attributes": {
+              "name": "forecast_assumptions.docx",
+              "file_type": "docx",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "FY27 Budget",
+              "modified_date": "2026-06-14",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_working_rollup_01",
+            "type": "file",
+            "attributes": {
+              "name": "department_rollup.pdf",
+              "file_type": "pdf",
+              "location": "/Finance/Working",
+              "owner": "Samantha Bello",
+              "labels": [],
+              "archived": false,
+              "project": "FY27 Budget",
+              "modified_date": "2026-06-18",
+              "priority": "medium"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy up the Seabright festival image batch in /media/photos/seabright_festival. I still want the usable set handy for the essay, but the boardwalk lantern run and the bandstand portrait run each have a couple of blurry repeat frames mixed in with the keepers, so make that folder easier to review.",
+      "gold_value": null,
+      "session_id": "samantha_bello_workspace_04_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "samantha_bello_workspace_04",
+      "rule_ref": {
+        "rule_id": "samantha_bello_workspace_04",
+        "rule_text": "When she is cleaning up photo or art files, Samantha prefers deleting obvious blurry duplicates outright rather than archiving them.",
+        "canonical_answer": "For bad duplicate shots or unusable art-file clutter, I delete them instead of saving them somewhere."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_seabright_boardwalk_lanterns_017_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright boardwalk lanterns 017.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "boardwalk",
+                "lanterns"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T19:42:11",
+              "focus_score": 0.92,
+              "variant_group": "boardwalk_lanterns_017"
+            }
+          },
+          {
+            "id": "fil_seabright_boardwalk_lanterns_017_alt1_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright boardwalk lanterns 017 alt 1.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "boardwalk",
+                "lanterns"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T19:42:12",
+              "focus_score": 0.31,
+              "variant_group": "boardwalk_lanterns_017"
+            }
+          },
+          {
+            "id": "fil_seabright_boardwalk_lanterns_017_alt2_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright boardwalk lanterns 017 alt 2.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "boardwalk",
+                "lanterns"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T19:42:13",
+              "focus_score": 0.27,
+              "variant_group": "boardwalk_lanterns_017"
+            }
+          },
+          {
+            "id": "fil_seabright_bandstand_portrait_044_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright bandstand portrait 044.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "bandstand",
+                "portrait"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T20:08:44",
+              "focus_score": 0.89,
+              "variant_group": "bandstand_portrait_044"
+            }
+          },
+          {
+            "id": "fil_seabright_bandstand_portrait_044_alt1_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright bandstand portrait 044 alt 1.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "bandstand",
+                "portrait"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T20:08:45",
+              "focus_score": 0.34,
+              "variant_group": "bandstand_portrait_044"
+            }
+          },
+          {
+            "id": "fil_seabright_bandstand_portrait_044_alt2_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright bandstand portrait 044 alt 2.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "bandstand",
+                "portrait"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T20:08:46",
+              "focus_score": 0.29,
+              "variant_group": "bandstand_portrait_044"
+            }
+          },
+          {
+            "id": "fil_seabright_confetti_crowd_061_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright confetti crowd 061.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "crowd",
+                "confetti"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T20:21:03",
+              "focus_score": 0.9,
+              "variant_group": "confetti_crowd_061"
+            }
+          },
+          {
+            "id": "fil_seabright_ferris_wheel_072_01",
+            "type": "file",
+            "attributes": {
+              "name": "Seabright ferris wheel 072.jpg",
+              "file_type": "image",
+              "location": "/media/photos/seabright_festival",
+              "owner": "Samantha Bello",
+              "labels": [
+                "festival",
+                "seabright",
+                "ferris_wheel",
+                "night"
+              ],
+              "archived": false,
+              "captured_at": "2026-08-14T20:37:18",
+              "focus_score": 0.94,
+              "variant_group": "ferris_wheel_072"
+            }
+          },
+          {
+            "id": "fld_festival_outtakes_hold_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Festival Outtakes Hold",
+              "purpose": "Temporary holding folder for alternate or near-duplicate festival frames kept off the main selects."
+            }
+          },
+          {
+            "id": "fld_long_term_photo_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Long-Term Photo Archive",
+              "purpose": "Storage for older or unused coastal and festival image sets."
+            }
+          },
+          {
+            "id": "fld_archived_essay_materials_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Essay Materials",
+              "purpose": "Archive folder for completed photo-essay support files and extra visuals."
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "delete_files",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.7333333333333333,
+    "actual_signal_overlap_rules": [
+      "samantha_bello_commerce_01",
+      "samantha_bello_commerce_02",
+      "samantha_bello_communication_01",
+      "samantha_bello_reservation_01",
+      "samantha_bello_reservation_03",
+      "samantha_bello_reservation_04",
+      "samantha_bello_scheduling_02",
+      "samantha_bello_travel_02",
+      "samantha_bello_travel_04",
+      "samantha_bello_travel_05",
+      "samantha_bello_workspace_01"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.7333333333333333,
+    "teachable_rule_count": 11,
+    "zero_signal_rule_count": 4,
+    "signal_pool_size_dedup": 30,
+    "noise_pool_size": 16,
+    "K": 30,
+    "seed": 0,
+    "selected_rules": [
+      "samantha_bello_commerce_01",
+      "samantha_bello_commerce_02",
+      "samantha_bello_communication_01",
+      "samantha_bello_reservation_01",
+      "samantha_bello_reservation_03",
+      "samantha_bello_reservation_04",
+      "samantha_bello_scheduling_02",
+      "samantha_bello_travel_02",
+      "samantha_bello_travel_04",
+      "samantha_bello_travel_05",
+      "samantha_bello_workspace_01"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "samantha_bello_commerce_01",
+      "samantha_bello_commerce_02",
+      "samantha_bello_commerce_03",
+      "samantha_bello_communication_01",
+      "samantha_bello_reservation_01",
+      "samantha_bello_reservation_03",
+      "samantha_bello_reservation_04",
+      "samantha_bello_scheduling_01",
+      "samantha_bello_scheduling_02",
+      "samantha_bello_travel_02",
+      "samantha_bello_travel_03",
+      "samantha_bello_travel_04",
+      "samantha_bello_travel_05",
+      "samantha_bello_workspace_01",
+      "samantha_bello_workspace_04"
+    ],
+    "signal_count": 30,
+    "noise_count": 0,
+    "trajectory_length": 30
+  }
+}

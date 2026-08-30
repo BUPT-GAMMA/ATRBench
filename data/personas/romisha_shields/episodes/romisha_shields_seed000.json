@@ -1,0 +1,5363 @@
+{
+  "episode_id": "romisha_shields_seed000",
+  "persona_id": "romisha_shields",
+  "raw_persona": {
+    "persona_id": "romisha_shields",
+    "nemotron_uuid": "81a43547d89345bc95a631d1ba8f5e9f",
+    "narrative": "name: Romisha Shields\nage: 72\nsex: Female\nmarital_status: married_present\neducation_level: high_school\noccupation: not_in_workforce\nhobbies_and_interests: Cooking soul food and experimenting with recipes, Gardening (vegetables, herbs, flowers), Church involvement (choir, Bible study, outreach), Storytelling circles and oral history sharing, Reading biographies and local history, Genealogy research, Quilting, crochet, knitting, Playing bridge and card games, Attending local festivals, gospel concerts, classic movie screenings, Chair yoga / low‑impact exercise\nskills_and_expertise: Southern soul food cooking, Community event coordination, Storytelling and oral history preservation, Gardening, Household budgeting and finance management, Mentorship and informal counseling, Quilting and crochet, Church volunteer work (usher/choir assistance)\ncomplementary_info: Romisha Shields is a retired community organizer from Anniston’s African-American community whose life has been shaped by growing up during segregation and the civil-rights era in the Deep South. She is especially rooted in her Baptist church, where she helps with church socials, family reunions, fundraisers, ushering, choir assistance, and hopes to start a weekly seniors’ storytelling circle. Her routines include a weekly chair-yoga class at the community center, a senior walking group at the local park, bridge games with her sister and other church members, weekend festivals, gospel concerts, and classic film screenings. She often listens to Mavis Staples and Kirk Franklin, quotes Maya Angelou in storytelling sessions, and collects films such as Casablanca and Gone with the Wind. In the kitchen she is known for smoked catfish, collard greens with smoked turkey, candied yams, sweet potato pie with cayenne, and cornbread experiments using heirloom tomatoes and rosemary; she also grows tomatoes, greens, and herbs. Long-term projects include compiling a family-recipe cookbook through the local senior center to raise money for youth programs, recording oral histories for the Calhoun County historical society, and possibly seeking a seat on the city’s community advisory board to represent older Black residents. Her travel pattern favors relaxed road trips with historical stops, including Savannah’s historic district, the National Museum of American History in Washington, D.C., and the Blue Ridge Mountains, while she also hopes to visit civil-rights sites in Montgomery and take a Gulf Coast cruise. She follows the Birmingham Barons and Alabama Crimson Tide on game days.",
+    "general_domain": "not_in_workforce",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Romisha Shields",
+    "demographics": {
+      "age": 72,
+      "sex": "Female",
+      "marital_status": "married_present",
+      "education_level": "high_school",
+      "occupation": "not_in_workforce",
+      "city": "Anniston",
+      "state": "AL",
+      "zipcode": "36201",
+      "country": "USA"
+    },
+    "persona_summary": "Romisha Shields is a talkative, community‑centered soul‑food maestro who balances curiosity with a carefree, sometimes disorganized approach to budgeting, health, and event planning, often worrying about details yet thriving on the buzz of church socials and storytelling circles.",
+    "professional_persona": "Romisha Shields is a retired community organizer and seasoned soul-food cook who channels their boundless sociability and flexible, sometimes disorganized planning style into orchestrating church socials, family reunions, and neighborhood fundraisers, while using their innate curiosity to weave fresh twists into traditional recipes and their storytelling talent to mentor younger neighbors, all while staying competitive about securing the spotlight in any event.",
+    "sports_persona": "Romisha Shields enjoys low‑impact fitness, attending a weekly chair‑yoga class at the community center and participating in a senior walking group that meets at the local park, while also cheering on the Birmingham Barons minor‑league baseball team and the Alabama Crimson Tide football team on game days; they occasionally join a casual bridge tournament which they consider a mental sport, and their competitive streak shows up when they proudly wear their favorite team’s cap.",
+    "arts_persona": "Romisha Shields immerses themselves in gospel music, frequently listening to Mavis Staples and Kirk Franklin, attending live performances at the local church’s annual gospel concert, and collecting classic films like Casablanca and Gone with the Wind; their creative outlets include quilting intricate patterns inspired by historic Southern motifs and crocheting shawls while humming the verses of beloved hymns, and they often quote lines from Maya Angelou’s poetry during storytelling sessions.",
+    "travel_persona": "Romisha Shields prefers road‑trip itineraries that blend historical sightseeing with relaxed pacing, having visited Savannah’s historic district, the National Museum of American History in Washington, D.C., and a weekend getaway to the Blue Ridge Mountains; they dream of a leisurely cruise along the Gulf Coast and a pilgrimage to civil‑rights historic sites in Montgomery, but budget constraints and a need for accessible accommodations shape their travel choices.",
+    "culinary_persona": "Romisha Shields dazzles friends with soul‑food staples like smoked catfish, candied yams seasoned with brown sugar and nutmeg, collard greens slow‑cooked with smoked turkey, and a signature sweet potato pie topped with a dash of cayenne, while experimenting with heirloom tomatoes and fresh rosemary in a modern twist on cornbread; their kitchen skill is seasoned to expert level, yet they can’t resist ordering take‑out fried chicken on lazy afternoons, and they treat every potluck as a performance, meticulously plating dishes despite occasional forgetfulness about side dishes.",
+    "cultural_background": "Romisha grew up as part of the African‑American community in Anniston, Alabama, during the turbulent era of segregation and the civil‑rights movement. Her family’s roots in the Deep South have instilled in her a deep reverence for the church, which has long served as a pillar of social support, spiritual guidance, and cultural expression. She embraces the rich culinary traditions of Southern soul food, passing down recipes for collard greens, fried chicken, and cornbread that are flavored by generations of family memory. Music, especially gospel, blues, and classic R&B, has shaped her social gatherings and personal identity. Oral storytelling, a hallmark of African‑American heritage in the region, is a daily practice for her, preserving family anecdotes and community histories. Romisha’s cultural background also includes a strong sense of resilience, community solidarity, and mutual aid, which are reflected in her active volunteerism, mentorship of younger neighbors, and commitment to preserving local Black history. She values the intergenerational bonds that tie her family and community together, and she sees herself as a steward of that legacy.",
+    "skills_and_expertise": "Romisha has cultivated a diverse set of practical and interpersonal skills that reflect both her curiosity and her down-to-earth approach to life. She is an accomplished Southern soul‑food cook, able to blend traditional recipes with occasional new twists, and she often shares her dishes at church potlucks and neighborhood gatherings. Over the years she has become a natural community organizer, coordinating family reunions, church socials, and fundraising events with a flexible, people‑focused style. Her gift for storytelling enables her to preserve family histories and local anecdotes, a talent she uses in informal mentorship of younger neighbors. Romisha also tends a modest vegetable garden, applying practical knowledge of seasonal planting while experimenting with heirloom varieties. She is adept at managing household budgets, paying bills, and stretching limited resources, a skill she occasionally advises others on. In addition, she enjoys quilting and crochet, creating handmade gifts, and frequently volunteers as an usher and choir assistant at her Baptist church, where her sociable nature makes her a central figure.",
+    "skills_and_expertise_list": [
+      "Southern soul food cooking",
+      "Community event coordination",
+      "Storytelling and oral history preservation",
+      "Gardening",
+      "Household budgeting and finance management",
+      "Mentorship and informal counseling",
+      "Quilting and crochet",
+      "Church volunteer work (usher/choir assistance)"
+    ],
+    "hobbies_and_interests": "Romisha’s free time is filled with activities that satisfy her sociable spirit and love of tradition. She delights in cooking and experimenting with soul‑food recipes, often inviting friends over for potluck meals. Gardening provides her with both relaxation and a sense of practicality as she tends tomatoes, greens, and fragrant herbs. She is an active member of her Baptist church, participating in the choir, Bible study, and community outreach events. Storytelling circles and senior meet‑ups give her a platform to share anecdotes and listen to others. Romisha enjoys reading biographies of civil‑rights leaders and historical accounts of Alabama, as well as tracing her family genealogy using online archives. Creative outlets such as quilting, crochet, and knitting keep her hands busy, and she loves playing bridge with her sister and other church members. On weekends she attends local festivals, gospel concerts, and classic movie screenings at the community center, and she occasionally joins a chair‑yoga class to stay flexible.",
+    "hobbies_and_interests_list": [
+      "Cooking soul food and experimenting with recipes",
+      "Gardening (vegetables, herbs, flowers)",
+      "Church involvement (choir, Bible study, outreach)",
+      "Storytelling circles and oral history sharing",
+      "Reading biographies and local history",
+      "Genealogy research",
+      "Quilting, crochet, knitting",
+      "Playing bridge and card games",
+      "Attending local festivals, gospel concerts, classic movie screenings",
+      "Chair yoga / low‑impact exercise"
+    ],
+    "career_goals_and_ambitions": "Although Romisha is retired from formal employment, she remains driven by a desire to make a lasting contribution to her community. Her primary ambition is to compile a family‑recipe cookbook that combines traditional soul‑food dishes with the few new twists she has discovered, and to publish it through the local senior center as a fundraiser for youth programs. She also hopes to document the oral histories of longtime Anniston residents, creating a small audio archive for the Calhoun County historical society. Romisha is interested in establishing a weekly seniors’ storytelling circle at her church, where she can mentor younger neighbors and foster intergenerational connections. In a more competitive vein, she is considering running for a seat on the city’s community advisory board to influence local decision‑making and ensure that the voices of older African‑American residents are heard. Finally, she aspires to maintain her health through low‑impact exercise and mindfulness practices so she can continue to be a vibrant, supportive presence for her family and friends."
+  },
+  "rules": [
+    {
+      "rule_text": "For cooking or garden purchases, she prefers heirloom and fresh-herb options over plainer generic alternatives.",
+      "canonical_answer": "When I buy ingredients or garden items, I go for heirloom produce and fresh herbs when I can.",
+      "counterfactual_default": "Pick a generic or standard product without favoring heirloom or herb-forward options.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "experimenting with heirloom tomatoes and fresh rosemary in a modern twist on cornbread"
+        },
+        {
+          "type": "direct",
+          "content": "Gardening (vegetables, herbs, flowers)"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "romisha_shields_commerce_02"
+    },
+    {
+      "rule_text": "When a purchased item is wrong for her cooking, quilting, or event work, she prefers an exchange over a refund.",
+      "canonical_answer": "If something I bought isn’t right, I’d rather swap it for the right thing than just get my money back.",
+      "counterfactual_default": "Choose a refund as the standard return outcome.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Quilting and crochet"
+        },
+        {
+          "type": "direct",
+          "content": "an accomplished Southern soul-food cook"
+        },
+        {
+          "type": "inferred",
+          "content": "Because she actively uses supplies for cooking, crafts, and community events, replacing an unusable item keeps her plans moving better than simply reversing the purchase."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "romisha_shields_commerce_04"
+    },
+    {
+      "rule_text": "For church, outreach, fundraiser, or mentoring messages, she prefers drafting first rather than sending immediately.",
+      "canonical_answer": "For community messages, I like to see the wording in a draft before anything goes out.",
+      "counterfactual_default": "Send the message directly once the content is available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "storytelling talent to mentor younger neighbors"
+        },
+        {
+          "type": "direct",
+          "content": "active volunteerism, mentorship of younger neighbors"
+        },
+        {
+          "type": "direct",
+          "content": "while staying competitive about securing the spotlight in any event"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "romisha_shields_communication_01"
+    },
+    {
+      "rule_text": "Messages connected to youth programs, church outreach, or local history work should be marked high priority for her.",
+      "canonical_answer": "If a message is about church outreach, youth programs, or history work, I want it marked high priority.",
+      "counterfactual_default": "Leave those messages at normal priority unless something urgent is explicitly stated.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "publish it through the local senior center as a fundraiser for youth programs"
+        },
+        {
+          "type": "direct",
+          "content": "creating a small audio archive for the Calhoun County historical society"
+        },
+        {
+          "type": "direct",
+          "content": "community outreach events"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_message_priority",
+        "param": "priority"
+      },
+      "rule_id": "romisha_shields_communication_03"
+    },
+    {
+      "rule_text": "For eating out with family or community groups, she prefers Southern or soul-food restaurants over trendier generic options.",
+      "canonical_answer": "When I go out to eat with my people, I like a good Southern or soul-food place.",
+      "counterfactual_default": "Pick a broadly popular restaurant without any Southern or soul-food bias.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Romisha Shields is a talkative, community-centered soul-food maestro"
+        },
+        {
+          "type": "direct",
+          "content": "soul-food staples like smoked catfish, candied yams, collard greens slow-cooked with smoked turkey"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "romisha_shields_reservation_01"
+    },
+    {
+      "rule_text": "For leisure outings, she prefers tickets to gospel performances or classic-film screenings over more generic entertainment choices.",
+      "canonical_answer": "For a fun outing, I’d pick a gospel concert or a classic movie before most anything else.",
+      "counterfactual_default": "Choose whichever event is most generally popular or convenient.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "attending live performances at the local church’s annual gospel concert"
+        },
+        {
+          "type": "direct",
+          "content": "collecting classic films like Casablanca and Gone with the Wind"
+        },
+        {
+          "type": "direct",
+          "content": "attends local festivals, gospel concerts, and classic movie screenings at the community center"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "romisha_shields_reservation_03"
+    },
+    {
+      "rule_text": "When booking a local wellness or fitness appointment, she prefers low-impact options such as chair yoga over strenuous services.",
+      "canonical_answer": "For exercise or wellness, I stick with low-impact things like chair yoga.",
+      "counterfactual_default": "Pick any convenient provider without preferring low-impact services.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "enjoys low-impact fitness, attending a weekly chair-yoga class at the community center"
+        },
+        {
+          "type": "direct",
+          "content": "maintain her health through low-impact exercise"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "romisha_shields_reservation_04"
+    },
+    {
+      "rule_text": "When an invitation conflicts with something unresolved or she is not ready to commit, she prefers responding tentatively instead of accepting or declining outright.",
+      "canonical_answer": "If I’m not sure I can make it, I’d rather answer maybe than yes or no.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "flexible, sometimes disorganized planning style"
+        },
+        {
+          "type": "direct",
+          "content": "often worrying about details yet thriving on the buzz of church socials"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "romisha_shields_scheduling_02"
+    },
+    {
+      "rule_text": "When planning a trip, she prefers historical and civil-rights-related stops over generic sightseeing picks.",
+      "canonical_answer": "When I travel, I want the stops to teach me something about history, especially civil-rights history.",
+      "counterfactual_default": "Fill the itinerary with broadly popular attractions regardless of historical theme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers road-trip itineraries that blend historical sightseeing with relaxed pacing"
+        },
+        {
+          "type": "direct",
+          "content": "they dream of a pilgrimage to civil-rights historic sites in Montgomery"
+        },
+        {
+          "type": "direct",
+          "content": "reading biographies of civil-rights leaders and historical accounts of Alabama"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "romisha_shields_travel_01"
+    },
+    {
+      "rule_text": "For long-distance travel, she prefers ground transportation over flying.",
+      "canonical_answer": "I’d rather go by road or rail than fly when I can.",
+      "counterfactual_default": "Check and book flights first for longer trips.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers road-trip itineraries that blend historical sightseeing with relaxed pacing"
+        },
+        {
+          "type": "direct",
+          "content": "a weekend getaway to the Blue Ridge Mountains"
+        },
+        {
+          "type": "direct",
+          "content": "they dream of a leisurely cruise along the Gulf Coast"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "romisha_shields_travel_02"
+    },
+    {
+      "rule_text": "If she does fly, she prefers an aisle seat rather than a window or middle seat.",
+      "canonical_answer": "When I have to fly, I want an aisle seat.",
+      "counterfactual_default": "Leave seat preference unspecified or default to a window seat.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Age: 72"
+        },
+        {
+          "type": "direct",
+          "content": "a need for accessible accommodations shape their travel choices"
+        },
+        {
+          "type": "inferred",
+          "content": "Her age and accessibility-minded travel habits make easier entry and exit more important than scenic seating."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "romisha_shields_travel_04"
+    },
+    {
+      "rule_text": "If a planned trip is disrupted, she prefers replacement stops that keep the same historical or cultural theme instead of swapping in any unrelated top-rated alternative.",
+      "canonical_answer": "If part of my trip falls through, I still want the replacement stop to fit the history and culture I went for in the first place.",
+      "counterfactual_default": "Replace the disrupted stop with any convenient or highly rated alternative.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers road-trip itineraries that blend historical sightseeing with relaxed pacing"
+        },
+        {
+          "type": "direct",
+          "content": "commitment to preserving local Black history"
+        },
+        {
+          "type": "direct",
+          "content": "they dream of a pilgrimage to civil-rights historic sites in Montgomery"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "romisha_shields_travel_05"
+    },
+    {
+      "rule_text": "When organizing files for her projects, she prefers grouping them by project rather than by type, date, owner, or priority.",
+      "canonical_answer": "I keep things sorted by project, like the cookbook or a church event, more than by file type.",
+      "counterfactual_default": "Organize the files by type or date as a generic scheme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "compile a family-recipe cookbook"
+        },
+        {
+          "type": "direct",
+          "content": "creating a small audio archive for the Calhoun County historical society"
+        },
+        {
+          "type": "direct",
+          "content": "coordinating family reunions, church socials, and fundraising events"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "romisha_shields_workspace_01"
+    },
+    {
+      "rule_text": "She prefers moving cookbook, oral-history, and event files into dedicated project folders instead of leaving them scattered where they were created.",
+      "canonical_answer": "I want my cookbook, history, and event papers moved into their own folders so I can find them later.",
+      "counterfactual_default": "Leave the files in their current mixed locations.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "carefree, sometimes disorganized approach to budgeting, health, and event planning"
+        },
+        {
+          "type": "direct",
+          "content": "compile a family-recipe cookbook"
+        },
+        {
+          "type": "direct",
+          "content": "document the oral histories of longtime Anniston residents"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "move_files",
+        "param": "folder_id"
+      },
+      "rule_id": "romisha_shields_workspace_02"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "romisha_shields_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my messages",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "New Hope Baptist Church",
+        "priority": "high",
+        "archive_message_ids": [
+          "msg_family_02",
+          "msg_promo_03"
+        ],
+        "urgent_message_ids": [
+          "msg_church_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "New Hope Baptist Church"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_church_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_family_02",
+              "msg_promo_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_church_01",
+            "type": "message",
+            "attributes": {
+              "sender": "New Hope Baptist Church",
+              "subject": "Choir breakfast moved to fellowship hall",
+              "body": "Good morning choir helpers, the breakfast setup has been moved to the fellowship hall. Please confirm if you can still bring serving trays by 8:30.",
+              "thread_id": "thr_church_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00"
+            }
+          },
+          {
+            "id": "msg_family_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Denise Shields",
+              "subject": "Bridge photos from last night",
+              "body": "Morning Mama, sending those bridge photos when I get a minute. No rush, just wanted to tell you we had fun.",
+              "thread_id": "thr_family_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:05:00"
+            }
+          },
+          {
+            "id": "msg_promo_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Calhoun Senior Center",
+              "subject": "Weekly activities flyer",
+              "body": "Here is this week's flyer with chair yoga, movie hour, and line dance updates.",
+              "thread_id": "thr_promo_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Start a new note.",
+      "task_params": {
+        "doc_type": "note",
+        "title": "Family Cookbook - Cornbread Ideas",
+        "location": "Cookbook Drafts",
+        "content_brief": "Starter note for family cookbook cornbread section",
+        "recipe_points": [
+          "heirloom tomatoes folded into the batter",
+          "fresh rosemary for a modern twist",
+          "keep the soul-food cornbread base",
+          "test balance between savory and sweet",
+          "note texture ideas for a family version"
+        ]
+      },
+      "expected_tools": [
+        "create_document",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Family Cookbook - Cornbread Ideas",
+            "location": "Cookbook Drafts",
+            "content_brief": "Starter note for family cookbook cornbread section"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_cookbook_01",
+            "content_delta": "<authored from recipe_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_cookbook_01",
+            "type": "document",
+            "attributes": {
+              "title": "Family Cookbook - Pie Notes",
+              "doc_type": "note",
+              "location": "Cookbook Drafts",
+              "content_brief": "Rough notes for sweet potato pie stories and variations"
+            }
+          },
+          {
+            "id": "doc_cookbook_02",
+            "type": "document",
+            "attributes": {
+              "title": "Church Supper Menu Ideas",
+              "doc_type": "note",
+              "location": "Kitchen Notes",
+              "content_brief": "Dish ideas for the next fellowship meal"
+            }
+          },
+          {
+            "id": "fold_cookbook_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Cookbook Drafts",
+              "purpose": "Working drafts and notes for the family cookbook"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order some home supplies.",
+      "task_params": {
+        "category": "pantry organization",
+        "budget": 35,
+        "sort_by": "price_asc",
+        "product_ids": [
+          "prod_labelset_01",
+          "prod_binset_02"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "pantry organization",
+            "budget": 35,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_labelset_01",
+              "prod_binset_02"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Clear Pantry Organization Label Set",
+              "Stackable Spice Shelf Container Set"
+            ],
+            "list_name": "Pantry organization"
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_binset_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_labelset_01",
+            "type": "product",
+            "attributes": {
+              "name": "Clear Pantry Organization Label Set",
+              "price": 8.99,
+              "category": "pantry organization",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_binset_02",
+            "type": "product",
+            "attributes": {
+              "name": "Stackable Spice Shelf Container Set",
+              "price": 24.99,
+              "category": "pantry organization",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_turntable_03",
+            "type": "product",
+            "attributes": {
+              "name": "Lazy Susan Spice Organizer Tray",
+              "price": 18.5,
+              "category": "pantry organization",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_jarset_04",
+            "type": "product",
+            "attributes": {
+              "name": "Glass Spice Jar and Label Bundle",
+              "price": 32.0,
+              "category": "pantry organization",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "reservation",
+      "reason_for_call": "Book a salon appointment.",
+      "task_params": {
+        "service_type": "hair salon",
+        "location": "Anniston",
+        "sort_by": "rating",
+        "date_time": "2025-03-07T10:30:00-06:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "hair salon",
+            "location": "Anniston",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "sp_golden_shear_01",
+            "date_time": "2025-03-07T10:30:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "sp_golden_shear_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Golden Shear Beauty Salon",
+              "service_type": "hair salon",
+              "location": "Anniston",
+              "rating": 4.8,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "sp_magnolia_styles_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Magnolia Styles Studio",
+              "service_type": "hair salon",
+              "location": "Anniston",
+              "rating": 4.6,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "sp_silver_threads_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Silver Threads Beauty Shop",
+              "service_type": "hair salon",
+              "location": "Oxford",
+              "rating": 4.9,
+              "distance_km": 8.7
+            }
+          },
+          {
+            "id": "sp_lakeside_nails_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Lakeside Nails & Spa",
+              "service_type": "nail salon",
+              "location": "Anniston",
+              "rating": 4.7,
+              "distance_km": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message.",
+      "task_params": {
+        "sender": "Dana Brooks",
+        "folder": "inbox",
+        "priority": "high",
+        "reply_points": [
+          "thank her for asking and for thinking of me",
+          "say I can help with the dessert table",
+          "offer to bring sweet potato pie and brownies",
+          "ask what time setup starts",
+          "ask how many desserts they still need"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Dana Brooks",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_dana_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_dana_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_dana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Brooks",
+              "subject": "Can you help with the youth fundraiser dessert table?",
+              "body": "Hi Romisha, I’m pulling together the dessert table for the youth fundraiser and thought of you right away. Would you be able to help out? If so, let me know what you might bring. Thank you!",
+              "thread_id": "thr_dana_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-05T09:18:00"
+            }
+          },
+          {
+            "id": "msg_church_02",
+            "type": "message",
+            "attributes": {
+              "sender": "New Hope Baptist Church",
+              "subject": "Choir robe pickup reminder",
+              "body": "Friendly reminder that choir robe pickup is Thursday in the fellowship hall.",
+              "thread_id": "thr_church_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-05T07:40:00"
+            }
+          },
+          {
+            "id": "msg_garden_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Calhoun Garden Club",
+              "subject": "Spring seedlings swap",
+              "body": "We are meeting Saturday for the spring seedlings swap if you'd like to join.",
+              "thread_id": "thr_garden_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-04T16:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "location": "Kitchen Cleanup",
+        "doc_type": "note",
+        "title": "Recipe Notes Master List",
+        "content_points": [
+          "sweet potato pie with cayenne",
+          "collard greens with smoked turkey",
+          "cornbread with heirloom tomatoes and rosemary",
+          "candied yams with brown sugar and nutmeg"
+        ],
+        "file_ids": [
+          "file_recipe_01",
+          "file_recipe_02",
+          "file_recipe_03"
+        ],
+        "folder_id": "fld_recipe_01"
+      },
+      "expected_tools": [
+        "create_document",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Recipe Notes Master List",
+            "location": "Kitchen Cleanup",
+            "content_brief": "<authored from content_points>"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_recipe_01",
+              "file_recipe_02",
+              "file_recipe_03"
+            ],
+            "folder_id": "fld_recipe_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_recipe_01",
+            "type": "file",
+            "attributes": {
+              "name": "sweet-potato-pie-card.jpg",
+              "file_type": "image",
+              "location": "Kitchen Cleanup",
+              "owner": "Romisha",
+              "labels": [
+                "recipe",
+                "loose note"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_recipe_02",
+            "type": "file",
+            "attributes": {
+              "name": "greens-stovetop-notes.txt",
+              "file_type": "txt",
+              "location": "Kitchen Cleanup",
+              "owner": "Romisha",
+              "labels": [
+                "recipe",
+                "loose note"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_recipe_03",
+            "type": "file",
+            "attributes": {
+              "name": "cornbread-variation-scratchpad.jpg",
+              "file_type": "image",
+              "location": "Kitchen Cleanup",
+              "owner": "Romisha",
+              "labels": [
+                "recipe",
+                "loose note"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_recipe_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Saved Recipes",
+              "purpose": "Keeps collected recipe materials together"
+            }
+          },
+          {
+            "id": "fld_home_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Household Paperwork",
+              "purpose": "Bills, forms, and home records"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "Anniston",
+        "event_tags": [
+          "gospel",
+          "music"
+        ],
+        "date_time": "2025-05-18T16:00:00",
+        "ticket_type": "senior",
+        "ticket_count": 2,
+        "event_id": "evt_joyful_01"
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Anniston",
+            "event_tags": [
+              "gospel",
+              "music"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_joyful_01",
+            "ticket_type": "senior",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_joyful_01",
+            "type": "event",
+            "attributes": {
+              "name": "Joyful Voices Gospel Showcase",
+              "location": "Anniston",
+              "date_time": "2025-05-18T16:00:00",
+              "price": 18.0,
+              "event_tags": [
+                "gospel",
+                "music",
+                "choir"
+              ]
+            }
+          },
+          {
+            "id": "evt_river_02",
+            "type": "event",
+            "attributes": {
+              "name": "River City Spring Gospel Night",
+              "location": "Gadsden",
+              "date_time": "2025-05-18T19:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "gospel",
+                "music",
+                "live"
+              ]
+            }
+          },
+          {
+            "id": "evt_classic_03",
+            "type": "event",
+            "attributes": {
+              "name": "Classic Soul Revue at Noble Hall",
+              "location": "Anniston",
+              "date_time": "2025-05-18T20:00:00",
+              "price": 25.0,
+              "event_tags": [
+                "soul",
+                "music",
+                "live"
+              ]
+            }
+          },
+          {
+            "id": "evt_choir_04",
+            "type": "event",
+            "attributes": {
+              "name": "Sunday Evening Community Choir Program",
+              "location": "Oxford",
+              "date_time": "2025-05-18T17:30:00",
+              "price": 15.0,
+              "event_tags": [
+                "choir",
+                "gospel",
+                "community"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox",
+      "task_params": {
+        "folder": "inbox",
+        "archive_sender": "Anniston Community Bulletin",
+        "highlight_sender": "New Hope Baptist Church Outreach",
+        "priority": "high",
+        "label_ids": [
+          "lbl_outreach_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "archive_messages",
+        "set_message_priority",
+        "label_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Anniston Community Bulletin"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_bulletin_01",
+              "msg_bulletin_02"
+            ]
+          }
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "New Hope Baptist Church Outreach"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_outreach_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_outreach_01"
+            ],
+            "label_ids": [
+              "lbl_outreach_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_bulletin_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Anniston Community Bulletin",
+              "subject": "July sidewalk repair announcement",
+              "body": "City crews will begin sidewalk repair on Noble Street next Monday. Please expect brief lane closures.",
+              "thread_id": "thr_bulletin_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-07-10T11:15:00"
+            }
+          },
+          {
+            "id": "msg_bulletin_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Anniston Community Bulletin",
+              "subject": "Library hours update and parking notice",
+              "body": "The downtown library will extend Saturday hours this month. Overflow parking is available behind the annex.",
+              "thread_id": "thr_bulletin_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-07-08T09:40:00"
+            }
+          },
+          {
+            "id": "msg_outreach_01",
+            "type": "message",
+            "attributes": {
+              "sender": "New Hope Baptist Church Outreach",
+              "subject": "Volunteer sign-up for neighborhood food outreach",
+              "body": "We are gathering volunteers for Saturday's neighborhood food outreach. Please review the table setup and delivery needs.",
+              "thread_id": "thr_outreach_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-07-10T12:05:00"
+            }
+          },
+          {
+            "id": "msg_family_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Laverne Shields",
+              "subject": "Bridge night photos",
+              "body": "I finally sent those bridge night pictures. Let me know which ones you want printed.",
+              "thread_id": "thr_family_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-07-10T10:20:00"
+            }
+          },
+          {
+            "id": "lbl_outreach_01",
+            "type": "label",
+            "attributes": {
+              "name": "Outreach",
+              "topic": "church outreach"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "communication",
+      "reason_for_call": "Write an invitation message",
+      "task_params": {
+        "recipient": "youngneighbors@maplecourt.org",
+        "subject": "Join Our Oral-History Circle Next Month",
+        "language": "en",
+        "body_points": [
+          "invite a few younger neighbors to join the oral-history circle next month",
+          "say their voices and questions would mean a lot",
+          "mention elders will share stories about local family and community history",
+          "keep the tone gracious and welcoming",
+          "ask them to reply if they are interested"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "youngneighbors@maplecourt.org",
+            "subject": "Join Our Oral-History Circle Next Month",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_circle_01",
+            "type": "message",
+            "attributes": {
+              "sender": "churchoffice@newhopebaptist.org",
+              "subject": "Choir rehearsal reminder",
+              "body": "Just a reminder that choir rehearsal is Thursday at 6 PM in the fellowship hall.",
+              "thread_id": "thr_church_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T09:15:00"
+            }
+          },
+          {
+            "id": "msg_history_02",
+            "type": "message",
+            "attributes": {
+              "sender": "calhounhistory@county.org",
+              "subject": "Archive volunteer signup",
+              "body": "We are looking for volunteers to help preserve community stories and family records.",
+              "thread_id": "thr_history_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-10T14:40:00"
+            }
+          },
+          {
+            "id": "msg_neighbor_03",
+            "type": "message",
+            "attributes": {
+              "sender": "gardenclub@maplecourt.org",
+              "subject": "Spring planting day",
+              "body": "Neighbors are welcome to join the courtyard planting day next Saturday morning.",
+              "thread_id": "thr_garden_03",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-08T16:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination": "Montgomery",
+        "duration_days": 3,
+        "traveler_count": 2,
+        "destination_constraints": [
+          "Montgomery",
+          "civil rights",
+          "relaxed"
+        ],
+        "stop_tags": [
+          "civil rights",
+          "history"
+        ],
+        "selected_stop_ids": [
+          "stop_legacy_01",
+          "stop_dexter_02",
+          "stop_memorial_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Montgomery",
+              "civil rights",
+              "relaxed"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_montgomery_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Montgomery",
+            "stop_tags": [
+              "civil rights",
+              "history"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Montgomery",
+            "duration_days": 3,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stop_legacy_01",
+              "stop_dexter_02",
+              "stop_memorial_03"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": true,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_montgomery_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Montgomery",
+              "region": "Alabama",
+              "tags": [
+                "civil rights",
+                "history",
+                "relaxed",
+                "road trip"
+              ]
+            }
+          },
+          {
+            "id": "dest_birmingham_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Birmingham",
+              "region": "Alabama",
+              "tags": [
+                "civil rights",
+                "history",
+                "city"
+              ]
+            }
+          },
+          {
+            "id": "stop_legacy_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "The Legacy Museum",
+              "location": "Montgomery",
+              "tags": [
+                "civil rights",
+                "history",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "stop_dexter_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Dexter Avenue King Memorial Baptist Church",
+              "location": "Montgomery",
+              "tags": [
+                "civil rights",
+                "history",
+                "church"
+              ]
+            }
+          },
+          {
+            "id": "stop_memorial_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "National Memorial for Peace and Justice",
+              "location": "Montgomery",
+              "tags": [
+                "civil rights",
+                "history",
+                "memorial"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "reservation",
+      "reason_for_call": "Book a restaurant reservation.",
+      "task_params": {
+        "location": "Anniston",
+        "cuisine": "Southern",
+        "date_time": "2025-03-30T12:30:00",
+        "party_size": 4
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Anniston",
+            "cuisine": "Southern",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_magnolia_01",
+            "date_time": "2025-03-30T12:30:00",
+            "party_size": 4
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_magnolia_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Magnolia Table",
+              "cuisine": "Southern",
+              "location": "Anniston",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_iron_skillet_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Iron Skillet Grill",
+              "cuisine": "American",
+              "location": "Anniston",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "booth seating"
+            }
+          },
+          {
+            "id": "rst_sweet_tea_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sweet Tea Porch",
+              "cuisine": "Southern",
+              "location": "Oxford",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_golden_fork_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Golden Fork Cafe",
+              "cuisine": "Southern",
+              "location": "Anniston",
+              "rating": 4.4,
+              "price_range": "$",
+              "seating_style": "counter and table seating"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "commerce",
+      "reason_for_call": "Order some garden supplies",
+      "task_params": {
+        "category": "seeds",
+        "budget": 20,
+        "sort_by": "rating",
+        "product_id": "prod_tomato_01",
+        "quantity": 2
+      },
+      "expected_tools": [
+        "search_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "seeds",
+            "budget": 20,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_tomato_01",
+            "quantity": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_tomato_01",
+            "type": "product",
+            "attributes": {
+              "name": "Brandywine Heirloom Tomato Seeds",
+              "price": 4.99,
+              "category": "seeds",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_tomato_02",
+            "type": "product",
+            "attributes": {
+              "name": "Cherokee Purple Tomato Seeds",
+              "price": 5.49,
+              "category": "seeds",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_tomato_03",
+            "type": "product",
+            "attributes": {
+              "name": "San Marzano Tomato Seeds",
+              "price": 3.79,
+              "category": "seeds",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_tools_04",
+            "type": "product",
+            "attributes": {
+              "name": "Hand Trowel",
+              "price": 8.99,
+              "category": "garden tools",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply.",
+      "task_params": {
+        "sender": "Anniston Neighborhood Coalition",
+        "folder": "inbox",
+        "subject": "Community Advisory Board Follow-Up",
+        "priority": "high",
+        "reply_points": [
+          "thank them for reaching out",
+          "say I am interested in serving on the board",
+          "mention I care about older residents being heard",
+          "ask about the next meeting date and application steps",
+          "keep the tone warm and thoughtful"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Anniston Neighborhood Coalition",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_board_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_board_01",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_board_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Anniston Neighborhood Coalition",
+              "subject": "Community Advisory Board Follow-Up",
+              "body": "Hello Ms. Shields, thank you again for speaking during last week's neighborhood session. We're following up to see whether you would be interested in serving on the Community Advisory Board. If so, please reply and we can share next steps and the date of our next meeting.",
+              "thread_id": "thr_board_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-19T15:42:00"
+            }
+          },
+          {
+            "id": "msg_church_02",
+            "type": "message",
+            "attributes": {
+              "sender": "New Hope Baptist Church",
+              "subject": "Choir Supper Headcount",
+              "body": "Please let us know how many guests you'll bring for the choir supper on Saturday.",
+              "thread_id": "thr_church_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-19T10:05:00"
+            }
+          },
+          {
+            "id": "msg_garden_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Calhoun Garden Club",
+              "subject": "Seed Swap Reminder",
+              "body": "Just a reminder that the seed swap starts at 9 a.m. this Sunday at the extension office.",
+              "thread_id": "thr_garden_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-18T08:30:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "destination_constraints": [
+          "drivable",
+          "historical",
+          "accessible"
+        ],
+        "destination_ids": [
+          "dest_montgomery_01",
+          "dest_tuscumbia_02"
+        ],
+        "destination": "Montgomery",
+        "duration_days": 3,
+        "traveler_count": 2,
+        "selected_stop_ids": [
+          "stop_mgm_legacy_01",
+          "stop_mgm_dexter_02",
+          "stop_mgm_riverwalk_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "drivable",
+              "historical",
+              "accessible"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_montgomery_01",
+              "dest_tuscumbia_02"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Montgomery",
+            "stop_tags": [
+              "historical",
+              "accessible"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Montgomery",
+            "duration_days": 3,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stop_mgm_legacy_01",
+              "stop_mgm_dexter_02",
+              "stop_mgm_riverwalk_03"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": false,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_montgomery_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Montgomery",
+              "region": "Alabama",
+              "tags": [
+                "drivable",
+                "historical",
+                "accessible",
+                "civil rights",
+                "weekend"
+              ]
+            }
+          },
+          {
+            "id": "dest_tuscumbia_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Tuscumbia",
+              "region": "Alabama",
+              "tags": [
+                "drivable",
+                "historical",
+                "accessible",
+                "small town",
+                "weekend"
+              ]
+            }
+          },
+          {
+            "id": "dest_natchez_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Natchez",
+              "region": "Mississippi",
+              "tags": [
+                "drivable",
+                "historical",
+                "river town",
+                "weekend"
+              ]
+            }
+          },
+          {
+            "id": "stop_mgm_legacy_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "The Legacy Museum",
+              "location": "Montgomery",
+              "tags": [
+                "historical",
+                "museum",
+                "accessible",
+                "civil rights"
+              ]
+            }
+          },
+          {
+            "id": "stop_mgm_dexter_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Dexter Avenue King Memorial Baptist Church",
+              "location": "Montgomery",
+              "tags": [
+                "historical",
+                "church",
+                "civil rights",
+                "accessible"
+              ]
+            }
+          },
+          {
+            "id": "stop_mgm_riverwalk_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Riverfront Park Walk",
+              "location": "Montgomery",
+              "tags": [
+                "historical",
+                "accessible",
+                "relaxed",
+                "scenic"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "reservation",
+      "reason_for_call": "Book a wellness appointment.",
+      "task_params": {
+        "service_type": "chair massage",
+        "location": "Anniston",
+        "date_time": "2025-02-18T11:00:00",
+        "sort_by": "distance"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "chair massage",
+            "location": "Anniston",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_gentlehands_01",
+            "date_time": "2025-02-18T11:00:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_gentlehands_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Gentle Hands Wellness",
+              "service_type": "chair massage",
+              "location": "Anniston",
+              "rating": 4.7,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_reliefpoint_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Relief Point Studio",
+              "service_type": "chair massage",
+              "location": "Anniston",
+              "rating": 4.5,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_calmcorner_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Calm Corner Bodywork",
+              "service_type": "massage therapy",
+              "location": "Oxford",
+              "rating": 4.8,
+              "distance_km": 9.6
+            }
+          },
+          {
+            "id": "svc_serenityseat_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Serenity Seat Spa",
+              "service_type": "chair massage",
+              "location": "Anniston",
+              "rating": 4.3,
+              "distance_km": 4.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "communication",
+      "reason_for_call": "Draft a thank-you note",
+      "task_params": {
+        "sender": "Angela Brooks",
+        "folder": "inbox",
+        "reply_thread_id": "thr_choir_01",
+        "subject": "Re: Sunday music selections",
+        "reply_points": [
+          "thank her for including my song suggestion",
+          "say I am looking forward to Sunday service",
+          "mention the choir always lifts my spirit",
+          "keep the tone cheerful and warm"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Angela Brooks",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_choir_01",
+            "subject": "Re: Sunday music selections",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_choir_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Angela Brooks",
+              "subject": "Re: Sunday music selections",
+              "body": "Good afternoon, Romisha — I wanted to let you know we added your suggestion, 'His Eye Is on the Sparrow,' to this Sunday's music lineup. Thank you for sharing it with us. See you at rehearsal.",
+              "thread_id": "thr_choir_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-23T14:10:00"
+            }
+          },
+          {
+            "id": "msg_choir_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Deacon Miller",
+              "subject": "Potluck headcount",
+              "body": "Can you let me know how many pans we should set out for the fellowship hall lunch?",
+              "thread_id": "thr_potluck_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-23T09:05:00"
+            }
+          },
+          {
+            "id": "msg_choir_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Angela Brooks",
+              "subject": "Choir robe pickup reminder",
+              "body": "Just a reminder that robe pickup is available Friday afternoon in the music room.",
+              "thread_id": "thr_choir_00",
+              "folder": "archive",
+              "labels": [
+                "church"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-20T11:30:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "photo album",
+        "budget": 30,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_album_01",
+          "prod_album_02",
+          "prod_album_03"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "photo album",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_album_01",
+              "prod_album_02",
+              "prod_album_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_album_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_album_01",
+            "type": "product",
+            "attributes": {
+              "name": "Heritage Keepsake Photo Album",
+              "price": 24.99,
+              "category": "photo album",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_album_02",
+            "type": "product",
+            "attributes": {
+              "name": "Grand Memories Scrapbook Album",
+              "price": 29.5,
+              "category": "photo album",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_album_03",
+            "type": "product",
+            "attributes": {
+              "name": "Family Archive Leatherette Photo Album",
+              "price": 27.99,
+              "category": "photo album",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_album_04",
+            "type": "product",
+            "attributes": {
+              "name": "Compact Snapshot Photo Album",
+              "price": 18.49,
+              "category": "photo album",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "workspace",
+      "reason_for_call": "Sort some craft files",
+      "task_params": {
+        "location": "Craft Files",
+        "file_ids": [
+          "file_babyquilt_01",
+          "file_yarnlist_02",
+          "file_giftideas_03"
+        ],
+        "scheme": "by_type",
+        "patterns_folder_id": "fld_patterns_01",
+        "supplies_folder_id": "fld_supplies_02",
+        "gifts_folder_id": "fld_gifts_03"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Craft Files"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_babyquilt_01",
+              "file_yarnlist_02",
+              "file_giftideas_03"
+            ],
+            "scheme": "by_type"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_babyquilt_01"
+            ],
+            "folder_id": "fld_patterns_01"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_yarnlist_02"
+            ],
+            "folder_id": "fld_supplies_02"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_giftideas_03"
+            ],
+            "folder_id": "fld_gifts_03"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_babyquilt_01",
+            "type": "file",
+            "attributes": {
+              "name": "Baby Quilt Star Pattern.pdf",
+              "file_type": "pdf",
+              "location": "Craft Files",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_yarnlist_02",
+            "type": "file",
+            "attributes": {
+              "name": "Blue Shawl Yarn List.xlsx",
+              "file_type": "xlsx",
+              "location": "Craft Files",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_giftideas_03",
+            "type": "file",
+            "attributes": {
+              "name": "Holiday Gift Crochet Ideas.docx",
+              "file_type": "docx",
+              "location": "Craft Files",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_patterns_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Patterns",
+              "purpose": "Finished and in-progress pattern files"
+            }
+          },
+          {
+            "id": "fld_supplies_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Supply Lists",
+              "purpose": "Material lists and shopping sheets"
+            }
+          },
+          {
+            "id": "fld_gifts_03",
+            "type": "folder",
+            "attributes": {
+              "name": "Gift Ideas",
+              "purpose": "Idea notes for handmade presents"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book an outing.",
+      "task_params": {
+        "location": "Anniston",
+        "event_tags": [
+          "classic film",
+          "community center"
+        ],
+        "event_id": "evt_centerfilm_01",
+        "ticket_type": "senior",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Anniston",
+            "event_tags": [
+              "classic film",
+              "community center"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_centerfilm_01",
+            "ticket_type": "senior",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_centerfilm_01",
+            "type": "event",
+            "attributes": {
+              "name": "Casablanca Screening at Carver Community Center",
+              "location": "Anniston",
+              "date_time": "2025-03-29T19:00:00",
+              "price": 8.0,
+              "event_tags": [
+                "classic film",
+                "community center",
+                "movie",
+                "senior-friendly"
+              ]
+            }
+          },
+          {
+            "id": "evt_gospel_02",
+            "type": "event",
+            "attributes": {
+              "name": "Saturday Gospel Showcase",
+              "location": "Anniston",
+              "date_time": "2025-03-29T18:30:00",
+              "price": 12.0,
+              "event_tags": [
+                "music",
+                "community center",
+                "gospel"
+              ]
+            }
+          },
+          {
+            "id": "evt_centerfilm_03",
+            "type": "event",
+            "attributes": {
+              "name": "Golden Age Matinee: Singin' in the Rain",
+              "location": "Oxford",
+              "date_time": "2025-03-30T14:00:00",
+              "price": 10.0,
+              "event_tags": [
+                "classic film",
+                "movie",
+                "matinee"
+              ]
+            }
+          },
+          {
+            "id": "evt_history_04",
+            "type": "event",
+            "attributes": {
+              "name": "Local History Story Circle",
+              "location": "Anniston",
+              "date_time": "2025-03-29T15:00:00",
+              "price": 0.0,
+              "event_tags": [
+                "community",
+                "history",
+                "talk"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "travel",
+      "reason_for_call": "Check travel options",
+      "task_params": {
+        "origin": "Anniston",
+        "destination": "Montgomery",
+        "passenger_count": 2,
+        "departure_date": "2025-10-18",
+        "destination_constraints": [
+          "Montgomery",
+          "civil rights"
+        ],
+        "destination_ids": [
+          "dest_montgomery_01"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Montgomery",
+              "civil rights"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_montgomery_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Anniston",
+            "destination": "Montgomery",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_montgomery_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Montgomery Civil Rights Landmarks",
+              "region": "Montgomery, Alabama",
+              "tags": [
+                "civil rights",
+                "history",
+                "accessible"
+              ]
+            }
+          },
+          {
+            "id": "dest_birmingham_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Birmingham Historic District",
+              "region": "Birmingham, Alabama",
+              "tags": [
+                "history",
+                "museums",
+                "civil rights"
+              ]
+            }
+          },
+          {
+            "id": "trn_mgm_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Anniston",
+              "destination": "Montgomery",
+              "mode": "train",
+              "departure_date": "2025-10-18",
+              "price": 64.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "bus_mgm_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Anniston",
+              "destination": "Montgomery",
+              "mode": "bus",
+              "departure_date": "2025-10-18",
+              "price": 42.0,
+              "available_seats": 18
+            }
+          },
+          {
+            "id": "car_mgm_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Anniston",
+              "destination": "Montgomery",
+              "mode": "car_transfer",
+              "departure_date": "2025-10-18",
+              "price": 138.0,
+              "available_seats": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "scheduling",
+      "reason_for_call": "Reschedule something on my calendar.",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Reunion Planning Call",
+        "start_time": "2025-02-14T18:00:00-06:00",
+        "end_time": "2025-02-14T19:00:00-06:00",
+        "new_start_time": "2025-02-15T10:00:00-06:00",
+        "new_end_time": "2025-02-15T11:00:00-06:00"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "reschedule_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-15T10:00:00-06:00",
+            "end_time": "2025-02-15T11:00:00-06:00"
+          }
+        },
+        {
+          "tool": "reschedule_event",
+          "arguments": {
+            "event_id": "evt_reunion_01",
+            "new_start_time": "2025-02-15T10:00:00-06:00",
+            "new_end_time": "2025-02-15T11:00:00-06:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_reunion_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Reunion Planning Call",
+              "start_time": "2025-02-14T18:00:00-06:00",
+              "end_time": "2025-02-14T19:00:00-06:00",
+              "participants": [
+                "Laverne Shields",
+                "Darius Shields",
+                "Monica Carter",
+                "Tina Brooks"
+              ],
+              "location": "Phone call",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_choir_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Choir Rehearsal",
+              "start_time": "2025-02-14T19:30:00-06:00",
+              "end_time": "2025-02-14T21:00:00-06:00",
+              "participants": [],
+              "location": "New Hope Baptist Church",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_bridge_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Bridge Club at Senior Center",
+              "start_time": "2025-02-15T13:00:00-06:00",
+              "end_time": "2025-02-15T15:00:00-06:00",
+              "participants": [
+                "Hazel Turner",
+                "Jean Holloway"
+              ],
+              "location": "Anniston Senior Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_grocery_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Grocery Pickup",
+              "start_time": "2025-02-15T11:30:00-06:00",
+              "end_time": "2025-02-15T12:00:00-06:00",
+              "participants": [],
+              "location": "Fresh Value",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "casserole carrier",
+        "budget": 35,
+        "sort_by": "rating",
+        "product_id": "prod_casserole_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "casserole carrier",
+            "budget": 35,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_casserole_01",
+              "prod_casserole_02",
+              "prod_casserole_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_casserole_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_casserole_01",
+            "type": "product",
+            "attributes": {
+              "name": "Insulated Casserole Carrier with Handles",
+              "price": 24.99,
+              "category": "casserole carrier",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_casserole_02",
+            "type": "product",
+            "attributes": {
+              "name": "Deluxe Double-Dish Casserole Carrier",
+              "price": 32.5,
+              "category": "casserole carrier",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_casserole_03",
+            "type": "product",
+            "attributes": {
+              "name": "Quilted Thermal Casserole Carrier",
+              "price": 18.75,
+              "category": "casserole carrier",
+              "rating": 4.1
+            }
+          },
+          {
+            "id": "prod_bakeware_04",
+            "type": "product",
+            "attributes": {
+              "name": "Glass Baking Dish Set",
+              "price": 29.99,
+              "category": "bakeware",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "communication",
+      "reason_for_call": "Send a reminder message",
+      "task_params": {
+        "folder": "sent",
+        "sender": "Romisha Shields",
+        "thread_id": "thr_recipe_01",
+        "language": "en",
+        "reply_points": [
+          "friendly follow-up about sharing a family recipe",
+          "say I'm pulling the cookbook together",
+          "ask them to send theirs when they get a chance",
+          "say even a rough version is fine",
+          "thank them warmly"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Romisha Shields",
+            "folder": "sent"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_recipe_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_recipe_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Romisha Shields",
+              "subject": "Family recipe collection",
+              "body": "Hi everybody, I'm gathering recipes for the family cookbook. If you have one you'd like included, please send it my way.",
+              "thread_id": "thr_recipe_01",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-02T10:14:00"
+            }
+          },
+          {
+            "id": "msg_recipe_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Alicia Shields",
+              "subject": "Re: Family recipe collection",
+              "body": "I might send my peach cobbler recipe once I find my notes.",
+              "thread_id": "thr_recipe_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T08:22:00"
+            }
+          },
+          {
+            "id": "msg_recipe_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Darnell Shields",
+              "subject": "Re: Family recipe collection",
+              "body": "I may have Grandpa's barbecue sauce recipe written down somewhere. I'll look for it.",
+              "thread_id": "thr_recipe_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T12:41:00"
+            }
+          },
+          {
+            "id": "msg_other_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Church Outreach Committee",
+              "subject": "Volunteer sign-up sheet",
+              "body": "Please review the updated usher schedule for next month.",
+              "thread_id": "thr_church_09",
+              "folder": "inbox",
+              "labels": [
+                "church"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-04T09:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "reservation",
+      "reason_for_call": "Help me with a dinner reservation.",
+      "task_params": {
+        "location": "Anniston",
+        "cuisine": "Southern",
+        "date_time": "2025-03-14T18:30:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Anniston",
+            "cuisine": "Southern",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_magnolia_01",
+            "date_time": "2025-03-14T18:30:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_magnolia_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Magnolia Supper House",
+              "cuisine": "Southern",
+              "location": "Anniston",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_peppervine_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Pepper Vine Kitchen",
+              "cuisine": "Southern",
+              "location": "Anniston",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "booth seating"
+            }
+          },
+          {
+            "id": "rst_bella_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bella Roma",
+              "cuisine": "Italian",
+              "location": "Anniston",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "formal dining"
+            }
+          },
+          {
+            "id": "rst_lakegrill_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Lakeview Grill",
+              "cuisine": "American",
+              "location": "Oxford",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "patio seating"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s39",
+      "session_type": "learning",
+      "day_offset": 39,
+      "domain": "commerce",
+      "reason_for_call": "Order an item online",
+      "task_params": {
+        "category": "walking shoes",
+        "budget": 85,
+        "sort_by": "rating",
+        "product_id": "prod_strideease_02",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "walking shoes",
+            "budget": 85,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_strideease_02",
+              "prod_softstep_03",
+              "prod_parkmile_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_strideease_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_strideease_02",
+            "type": "product",
+            "attributes": {
+              "name": "StrideEase Women's Walking Shoes",
+              "price": 79.99,
+              "category": "walking shoes",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_softstep_03",
+            "type": "product",
+            "attributes": {
+              "name": "SoftStep Cushion Walking Shoes",
+              "price": 69.5,
+              "category": "walking shoes",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_parkmile_04",
+            "type": "product",
+            "attributes": {
+              "name": "ParkMile Comfort Walking Shoes",
+              "price": 84.0,
+              "category": "walking shoes",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_gardenclog_05",
+            "type": "product",
+            "attributes": {
+              "name": "Garden Clog Slip-Ons",
+              "price": 39.99,
+              "category": "garden shoes",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s40",
+      "session_type": "learning",
+      "day_offset": 40,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Gulf Coast",
+          "relaxing",
+          "waterfront"
+        ],
+        "destination_ids": [
+          "dest_fairhope_01",
+          "dest_ocean_springs_02"
+        ],
+        "destination": "Fairhope",
+        "duration_days": 4,
+        "traveler_count": 2,
+        "stop_tags": [
+          "scenic",
+          "historic",
+          "waterfront"
+        ],
+        "selected_stop_ids": [
+          "stop_municipal_pier_01",
+          "stop_tolstoy_park_02",
+          "stop_downtown_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Gulf Coast",
+              "relaxing",
+              "waterfront"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_fairhope_01",
+              "dest_ocean_springs_02"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Fairhope",
+            "stop_tags": [
+              "scenic",
+              "historic",
+              "waterfront"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Fairhope",
+            "duration_days": 4,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stop_municipal_pier_01",
+              "stop_tolstoy_park_02",
+              "stop_downtown_03"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": false,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_fairhope_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Fairhope",
+              "region": "Alabama Gulf Coast",
+              "tags": [
+                "Gulf Coast",
+                "relaxing",
+                "waterfront",
+                "small town",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "dest_ocean_springs_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Ocean Springs",
+              "region": "Mississippi Gulf Coast",
+              "tags": [
+                "Gulf Coast",
+                "relaxing",
+                "waterfront",
+                "arts",
+                "walkable"
+              ]
+            }
+          },
+          {
+            "id": "dest_gulf_shores_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Gulf Shores",
+              "region": "Alabama Gulf Coast",
+              "tags": [
+                "Gulf Coast",
+                "beach",
+                "family",
+                "waterfront"
+              ]
+            }
+          },
+          {
+            "id": "stop_municipal_pier_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Fairhope Municipal Pier",
+              "location": "Fairhope",
+              "tags": [
+                "scenic",
+                "waterfront",
+                "relaxing"
+              ]
+            }
+          },
+          {
+            "id": "stop_tolstoy_park_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Tolstoy Park",
+              "location": "Fairhope",
+              "tags": [
+                "historic",
+                "quiet",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "stop_downtown_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Downtown Fairhope",
+              "location": "Fairhope",
+              "tags": [
+                "historic",
+                "waterfront",
+                "walkable"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s41",
+      "session_type": "learning",
+      "day_offset": 41,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "recipient": "info@calhounhistory.org",
+        "subject": "Question about organizing residents' stories",
+        "story_collection_topic": "longtime residents' stories",
+        "organization_question_points": [
+          "ask how they would like stories organized",
+          "ask whether themes, neighborhoods, or time periods work best",
+          "ask if they want audio recordings, written notes, or both",
+          "mention I am gathering stories from longtime residents",
+          "say I want to format everything in a way that helps their archive"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "info@calhounhistory.org",
+            "subject": "Question about organizing residents' stories",
+            "body": "<authored from story_collection_topic, organization_question_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_history_01",
+            "type": "message",
+            "attributes": {
+              "sender": "events@annistonlibrary.org",
+              "subject": "Community oral history night next month",
+              "body": "We would love to see local residents bring family photos and short memories to share at the library event.",
+              "thread_id": "thr_library_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T10:14:00"
+            }
+          },
+          {
+            "id": "msg_church_02",
+            "type": "message",
+            "attributes": {
+              "sender": "sisterhood@newhopebaptist.org",
+              "subject": "Potluck signup reminder",
+              "body": "Just a reminder to add your dish to the fellowship hall signup sheet before Wednesday afternoon.",
+              "thread_id": "thr_church_02",
+              "folder": "inbox",
+              "labels": [
+                "community"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-10T08:05:00"
+            }
+          },
+          {
+            "id": "msg_genealogy_03",
+            "type": "message",
+            "attributes": {
+              "sender": "newsletter@southernrootsarchive.org",
+              "subject": "Preserving family stories and local records",
+              "body": "This month's newsletter covers ways to label interview notes, save audio files, and prepare community memories for small archives.",
+              "thread_id": "thr_archive_03",
+              "folder": "archive",
+              "labels": [
+                "history"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-01-28T16:42:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "romisha_shields_s42",
+      "session_type": "learning",
+      "day_offset": 42,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "Anniston",
+        "event_tags": [
+          "festival",
+          "gospel"
+        ],
+        "event_id": "evt_anniston_gospel_01",
+        "ticket_type": "senior",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Anniston",
+            "event_tags": [
+              "festival",
+              "gospel"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_anniston_gospel_01",
+            "ticket_type": "senior",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_anniston_gospel_01",
+            "type": "event",
+            "attributes": {
+              "name": "Anniston Gospel Food & Arts Festival",
+              "location": "Anniston",
+              "date_time": "2025-08-16T11:00:00-05:00",
+              "price": 18.0,
+              "event_tags": [
+                "festival",
+                "gospel",
+                "food",
+                "arts"
+              ]
+            }
+          },
+          {
+            "id": "evt_anniston_craft_02",
+            "type": "event",
+            "attributes": {
+              "name": "Downtown Anniston Summer Craft Fair",
+              "location": "Anniston",
+              "date_time": "2025-08-16T10:00:00-05:00",
+              "price": 12.0,
+              "event_tags": [
+                "festival",
+                "crafts",
+                "family"
+              ]
+            }
+          },
+          {
+            "id": "evt_oxford_music_03",
+            "type": "event",
+            "attributes": {
+              "name": "Oxford Park Evening Music Fair",
+              "location": "Oxford",
+              "date_time": "2025-08-16T18:30:00-05:00",
+              "price": 20.0,
+              "event_tags": [
+                "fair",
+                "music",
+                "outdoor"
+              ]
+            }
+          },
+          {
+            "id": "evt_anniston_history_04",
+            "type": "event",
+            "attributes": {
+              "name": "Anniston Heritage Street Festival",
+              "location": "Anniston",
+              "date_time": "2025-08-17T13:00:00-05:00",
+              "price": 15.0,
+              "event_tags": [
+                "festival",
+                "history",
+                "community"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one packet of tomato seeds for a small patio planter by the back steps. Keep it under $6, and make sure the plant won't get too tall for a container.",
+      "gold_value": "prod_silvery_fir_tree_01",
+      "session_id": "romisha_shields_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "romisha_shields_commerce_02",
+      "rule_ref": {
+        "rule_id": "romisha_shields_commerce_02",
+        "rule_text": "For cooking or garden purchases, she prefers heirloom and fresh-herb options over plainer generic alternatives.",
+        "canonical_answer": "When I buy ingredients or garden items, I go for heirloom produce and fresh herbs when I can."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_silvery_fir_tree_01",
+            "type": "product",
+            "attributes": {
+              "name": "Silvery Fir Tree Heirloom Tomato Seeds",
+              "price": 5.49,
+              "category": "tomato_seeds",
+              "rating": 4.4,
+              "seed_type": "heirloom",
+              "growth_habit": "determinate",
+              "mature_height_in": 30,
+              "container_friendly": true,
+              "review_count": 87
+            }
+          },
+          {
+            "id": "prod_cherokee_purple_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cherokee Purple Heirloom Tomato Seeds",
+              "price": 5.79,
+              "category": "tomato_seeds",
+              "rating": 4.7,
+              "seed_type": "heirloom",
+              "growth_habit": "indeterminate",
+              "mature_height_in": 72,
+              "container_friendly": false,
+              "review_count": 640
+            }
+          },
+          {
+            "id": "prod_patio_hybrid_01",
+            "type": "product",
+            "attributes": {
+              "name": "Patio Hybrid Tomato Seeds",
+              "price": 3.29,
+              "category": "tomato_seeds",
+              "rating": 4.9,
+              "seed_type": "hybrid",
+              "growth_habit": "determinate",
+              "mature_height_in": 24,
+              "container_friendly": true,
+              "review_count": 1540
+            }
+          },
+          {
+            "id": "prod_roma_vf_bush_01",
+            "type": "product",
+            "attributes": {
+              "name": "Roma VF Bush Tomato Seeds",
+              "price": 2.99,
+              "category": "tomato_seeds",
+              "rating": 4.8,
+              "seed_type": "standard",
+              "growth_habit": "determinate",
+              "mature_height_in": 28,
+              "container_friendly": true,
+              "review_count": 980
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_silvery_fir_tree_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the quilting ruler set from my recent order. It isn't right for my quilting work.",
+      "gold_value": "exchange",
+      "session_id": "romisha_shields_commerce_04_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "romisha_shields_commerce_04",
+      "rule_ref": {
+        "rule_id": "romisha_shields_commerce_04",
+        "rule_text": "When a purchased item is wrong for her cooking, quilting, or event work, she prefers an exchange over a refund.",
+        "canonical_answer": "If something I bought isn’t right, I’d rather swap it for the right thing than just get my money back."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_quiltline_ruler_01",
+            "type": "product",
+            "attributes": {
+              "name": "Acrylic Quilting Ruler Set",
+              "price": 19.99,
+              "category": "quilting_tools",
+              "rating": 4.5,
+              "brand": "QuiltLine",
+              "order_id": "ord_5912_quilt",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-10"
+            }
+          },
+          {
+            "id": "prod_riverbend_sheetpan_01",
+            "type": "product",
+            "attributes": {
+              "name": "Heavy-Gauge Half Sheet Pan",
+              "price": 24,
+              "category": "bakeware",
+              "rating": 4.8,
+              "brand": "Riverbend Kitchen",
+              "order_id": "ord_5871_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-08"
+            }
+          },
+          {
+            "id": "prod_gatherwell_clipset_01",
+            "type": "product",
+            "attributes": {
+              "name": "Banquet Tablecloth Clip Set",
+              "price": 13.5,
+              "category": "event_supplies",
+              "rating": 4.7,
+              "brand": "GatherWell",
+              "order_id": "ord_5844_event",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-06"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Pastor Lila Gomez at New Hope Church about the youth mentoring signup table. Tell her I can cover the 10:00 to 12:00 slot, ask her to send the volunteer roster and the latest flyer text, and let her know I'll bring the name badges from last season.",
+      "gold_value": null,
+      "session_id": "romisha_shields_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "romisha_shields_communication_01",
+      "rule_ref": {
+        "rule_id": "romisha_shields_communication_01",
+        "rule_text": "For church, outreach, fundraiser, or mentoring messages, she prefers drafting first rather than sending immediately.",
+        "canonical_answer": "For community messages, I like to see the wording in a draft before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lila_mentoring_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Pastor Lila Gomez <lila.gomez@newhopechurch.org>",
+              "subject": "Youth mentoring signup table help",
+              "body": "Hi Romisha, we're setting up the signup table for the youth mentoring program in the church lobby and I hoped you might be able to cover one of the late-morning shifts. If you're open to it, I can send over the volunteer roster and the latest flyer copy so everything matches. We still have the name badges from last season if that makes things easier.",
+              "thread_id": "thr_lila_mentoring_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-18T09:14"
+            }
+          },
+          {
+            "id": "msg_devon_pantry_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Deacon Devon Reed <devon.reed@harvestchurch.org>",
+              "subject": "Food pantry volunteer count",
+              "body": "Hello Romisha, could you let me know whether you'll be at the pantry intake table this month? I'm finalizing the volunteer count and box labels for the church pantry team.",
+              "thread_id": "thr_devon_pantry_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-18T08:31"
+            }
+          },
+          {
+            "id": "msg_billing_portal_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Billing Portal <no-reply@streamlinecrm.com>",
+              "subject": "Your monthly subscription invoice is ready",
+              "body": "Your April subscription invoice is now available in the account billing portal.",
+              "thread_id": "thr_billing_portal_44",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-18T07:02"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please update the priority for the message from Calhoun County Historical Society about courthouse audio archive volunteer planning in my inbox to low.",
+      "gold_value": "high",
+      "session_id": "romisha_shields_communication_03_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "romisha_shields_communication_03",
+      "rule_ref": {
+        "rule_id": "romisha_shields_communication_03",
+        "rule_text": "Messages connected to youth programs, church outreach, or local history work should be marked high priority for her.",
+        "canonical_answer": "If a message is about church outreach, youth programs, or history work, I want it marked high priority."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_calhoun_history_archive_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Calhoun County Historical Society",
+              "subject": "Courthouse audio archive volunteer planning",
+              "body": "I'm putting together a recorder checkout list and a sign-up sheet for neighbors helping with the courthouse oral-history archive. I also attached a draft set of interview prompts for the local history volunteers.",
+              "thread_id": "thr_calhoun_history_archive_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-14T10:18:00"
+            }
+          },
+          {
+            "id": "msg_rina_contract_redlines_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Rina Patel",
+              "subject": "Client contract redlines before 4 PM",
+              "body": "Please review the remaining indemnity edits before the 4 PM client call so we can send the clean version today.",
+              "thread_id": "thr_rina_contract_redlines_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-14T09:02:00"
+            }
+          },
+          {
+            "id": "msg_riverfront_run_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Riverfront Running Group",
+              "subject": "Saturday route update and coffee stop",
+              "body": "The group voted to shift the turn-around point to the lake trail and meet afterward at Harbor Bean.",
+              "thread_id": "thr_riverfront_run_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-13T18:41:00"
+            }
+          },
+          {
+            "id": "msg_civic_theater_ushers_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Civic Theater Volunteers",
+              "subject": "Usher sign-up sheet for Friday performance",
+              "body": "Here is the latest seating map and the volunteer sign-up sheet for the lobby table.",
+              "thread_id": "thr_civic_theater_ushers_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-14T11:07:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_message_priority",
+              "arguments": {
+                "priority": "high"
+              },
+              "compare_args": [
+                "priority"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Seattle for nine people from my neighborhood association on 2026-09-19 at 7:00pm — just pick a place and make the reservation.",
+      "gold_value": "rst_cedar_grove_kitchen_01",
+      "session_id": "romisha_shields_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "romisha_shields_reservation_01",
+      "rule_ref": {
+        "rule_id": "romisha_shields_reservation_01",
+        "rule_text": "For eating out with family or community groups, she prefers Southern or soul-food restaurants over trendier generic options.",
+        "canonical_answer": "When I go out to eat with my people, I like a good Southern or soul-food place."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_cedar_grove_kitchen_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cedar Grove Kitchen",
+              "cuisine": "Southern",
+              "location": "Seattle",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual dining room"
+            }
+          },
+          {
+            "id": "rst_harborline_kitchen_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harborline Kitchen",
+              "cuisine": "Contemporary American",
+              "location": "Seattle",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "rooftop dining"
+            }
+          },
+          {
+            "id": "rst_via_roma_social_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Via Roma Social",
+              "cuisine": "Italian",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "large dining room"
+            }
+          },
+          {
+            "id": "rst_saffron_market_bistro_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Saffron Market Bistro",
+              "cuisine": "Mediterranean",
+              "location": "Seattle",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "patio and main dining room"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_cedar_grove_kitchen_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in Seattle and want two tickets for a fun night out; keep it under $30 per person, pick something for me, and book it.",
+      "gold_value": "evt_beacon_classic_01",
+      "session_id": "romisha_shields_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "romisha_shields_reservation_03",
+      "rule_ref": {
+        "rule_id": "romisha_shields_reservation_03",
+        "rule_text": "For leisure outings, she prefers tickets to gospel performances or classic-film screenings over more generic entertainment choices.",
+        "canonical_answer": "For a fun outing, I’d pick a gospel concert or a classic movie before most anything else."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_beacon_classic_01",
+            "type": "event",
+            "attributes": {
+              "name": "Beacon Classic Film Night: Casablanca",
+              "location": "Columbia City, Seattle",
+              "date_time": "2026-09-18T19:30:00",
+              "price": 29,
+              "event_tags": [
+                "classic_film",
+                "film_screening",
+                "community_center"
+              ],
+              "rating": 4.3,
+              "review_count": 61
+            }
+          },
+          {
+            "id": "evt_laughs_headliner_01",
+            "type": "event",
+            "attributes": {
+              "name": "Seattle Laughs Live Headliner Showcase",
+              "location": "Downtown Seattle",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 24,
+              "event_tags": [
+                "comedy_show",
+                "live_entertainment",
+                "headliner"
+              ],
+              "rating": 4.9,
+              "review_count": 2130
+            }
+          },
+          {
+            "id": "evt_pop_singalong_01",
+            "type": "event",
+            "attributes": {
+              "name": "Neon Avenue Pop Hits Singalong",
+              "location": "Capitol Hill, Seattle",
+              "date_time": "2026-09-18T20:30:00",
+              "price": 22,
+              "event_tags": [
+                "live_music",
+                "singalong",
+                "pop_covers"
+              ],
+              "rating": 4.8,
+              "review_count": 1675
+            }
+          },
+          {
+            "id": "evt_variety_center_01",
+            "type": "event",
+            "attributes": {
+              "name": "Seattle Center Late Night Variety Spectacular",
+              "location": "Seattle Center, Seattle",
+              "date_time": "2026-09-18T19:45:00",
+              "price": 20,
+              "event_tags": [
+                "variety_show",
+                "live_entertainment",
+                "festival_favorite"
+              ],
+              "rating": 4.7,
+              "review_count": 980
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_beacon_classic_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a fitness appointment in downtown Seattle for 2026-09-15 at 6:00pm and just pick one for me.",
+      "gold_value": "svc_fit_harbor_chair_01",
+      "session_id": "romisha_shields_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "romisha_shields_reservation_04",
+      "rule_ref": {
+        "rule_id": "romisha_shields_reservation_04",
+        "rule_text": "When booking a local wellness or fitness appointment, she prefers low-impact options such as chair yoga over strenuous services.",
+        "canonical_answer": "For exercise or wellness, I stick with low-impact things like chair yoga."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_fit_harbor_chair_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Harbor Chair Yoga Studio",
+              "service_type": "fitness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 1.7
+            }
+          },
+          {
+            "id": "svc_fit_corerise_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "CoreRise Power Yoga",
+              "service_type": "fitness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "svc_fit_heatwave_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Heatwave Vinyasa Loft",
+              "service_type": "fitness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_fit_pedalhouse_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "PedalHouse Spin Lab",
+              "service_type": "fitness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_fit_harbor_chair_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't replied to the Harvest Supper invite at New Hope Fellowship Hall on 2026-09-18 from 6:30 to 8:30pm. Check whether it overlaps with what I already have and send back the response so they're not waiting on me.",
+      "gold_value": "tentative",
+      "session_id": "romisha_shields_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "romisha_shields_scheduling_02",
+      "rule_ref": {
+        "rule_id": "romisha_shields_scheduling_02",
+        "rule_text": "When an invitation conflicts with something unresolved or she is not ready to commit, she prefers responding tentatively instead of accepting or declining outright.",
+        "canonical_answer": "If I’m not sure I can make it, I’d rather answer maybe than yes or no."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_harvest_supper_newhope_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Harvest Supper and Fellowship Night",
+              "start_time": "2026-09-18T18:30:00-04:00",
+              "end_time": "2026-09-18T20:30:00-04:00",
+              "participants": [
+                "events@newhopefellowship.org",
+                "romisha.shields@example.com"
+              ],
+              "location": "New Hope Fellowship Hall",
+              "calendar": "invites",
+              "status": "needs_response",
+              "organizer": "New Hope Fellowship Events Committee",
+              "attendee_count": 85,
+              "rsvp_deadline": "2026-09-16T17:00:00-04:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_hvac_visit_window_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "HVAC repair visit window — final time not confirmed",
+              "start_time": "2026-09-18T18:00:00-04:00",
+              "end_time": "2026-09-18T20:00:00-04:00",
+              "participants": [
+                "romisha.shields@example.com",
+                "dispatch@northstarhvac.com"
+              ],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_bookclub_call_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Book club check-in call",
+              "start_time": "2026-09-18T21:00:00-04:00",
+              "end_time": "2026-09-18T21:30:00-04:00",
+              "participants": [
+                "romisha.shields@example.com",
+                "naomi.reed@example.com"
+              ],
+              "location": "Phone",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm planning a first-time 2-day solo stop in Montgomery, Alabama. From the candidate places below, choose one stop to anchor the visit and build the itinerary around it.",
+      "gold_value": [
+        "stop_montgomery_freedom_rides_01"
+      ],
+      "session_id": "romisha_shields_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "romisha_shields_travel_01",
+      "rule_ref": {
+        "rule_id": "romisha_shields_travel_01",
+        "rule_text": "When planning a trip, she prefers historical and civil-rights-related stops over generic sightseeing picks.",
+        "canonical_answer": "When I travel, I want the stops to teach me something about history, especially civil-rights history."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_montgomery_freedom_rides_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Freedom Rides Museum",
+              "location": "Montgomery, Alabama",
+              "tags": [
+                "history",
+                "civil_rights",
+                "museum",
+                "downtown",
+                "education"
+              ],
+              "rating": 4.6,
+              "review_count": 438,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_montgomery_state_capitol_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Alabama State Capitol",
+              "location": "Montgomery, Alabama",
+              "tags": [
+                "history",
+                "landmark",
+                "government",
+                "viewpoint",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 1920,
+              "visit_duration_hours": 1.0
+            }
+          },
+          {
+            "id": "stop_montgomery_old_alabama_town_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Old Alabama Town",
+              "location": "Montgomery, Alabama",
+              "tags": [
+                "history",
+                "preserved_buildings",
+                "living_history",
+                "walking",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 1284,
+              "visit_duration_hours": 2.0
+            }
+          },
+          {
+            "id": "stop_montgomery_riverfront_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Montgomery Riverfront Park",
+              "location": "Montgomery, Alabama",
+              "tags": [
+                "riverfront",
+                "park",
+                "scenic",
+                "popular",
+                "family_friendly"
+              ],
+              "rating": 4.9,
+              "review_count": 4217,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_montgomery_whitewater_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Montgomery Whitewater",
+              "location": "Montgomery, Alabama",
+              "tags": [
+                "outdoors",
+                "adventure",
+                "entertainment",
+                "new",
+                "popular"
+              ],
+              "rating": 4.9,
+              "review_count": 3562,
+              "visit_duration_hours": 3.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_montgomery_freedom_rides_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book my one-way trip for 2026-10-07 from Seattle, WA to Los Angeles, CA for one passenger. I only need this leg handled, so look at the available options and take care of it.",
+      "gold_value": null,
+      "session_id": "romisha_shields_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "romisha_shields_travel_02",
+      "rule_ref": {
+        "rule_id": "romisha_shields_travel_02",
+        "rule_text": "For long-distance travel, she prefers ground transportation over flying.",
+        "canonical_answer": "I’d rather go by road or rail than fly when I can."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_sea_lax_20261007_ak_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-10-07",
+              "airline": "Alaska Airlines",
+              "price": 128,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_sea_lax_20261007_dl_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-10-07",
+              "airline": "Delta Air Lines",
+              "price": 143,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_sea_lax_20261007_ua_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-10-07",
+              "airline": "United Airlines",
+              "price": 151,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "trp_sea_lax_20261007_train_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "mode": "train",
+              "departure_date": "2026-10-07",
+              "price": 224,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "trp_sea_lax_20261007_bus_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "mode": "bus",
+              "departure_date": "2026-10-07",
+              "price": 196,
+              "available_seats": 9
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Raleigh to St. Louis for just me from the available options, and use the traveler profile and payment method already on file.",
+      "gold_value": "aisle",
+      "session_id": "romisha_shields_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "romisha_shields_travel_04",
+      "rule_ref": {
+        "rule_id": "romisha_shields_travel_04",
+        "rule_text": "If she does fly, she prefers an aisle seat rather than a window or middle seat.",
+        "canonical_answer": "When I have to fly, I want an aisle seat."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_raleigh_stl_riverjet_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Raleigh",
+              "destination": "St. Louis",
+              "departure_date": "2026-08-22",
+              "airline": "RiverJet",
+              "price": 184,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_raleigh_stl_midland_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Raleigh",
+              "destination": "St. Louis",
+              "departure_date": "2026-08-22",
+              "airline": "Midland Air",
+              "price": 213,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_raleigh_stl_bluecrest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Raleigh",
+              "destination": "St. Louis",
+              "departure_date": "2026-08-22",
+              "airline": "Bluecrest",
+              "price": 246,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_raleigh_kansascity_sunroute_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Raleigh",
+              "destination": "Kansas City",
+              "departure_date": "2026-08-22",
+              "airline": "SunRoute",
+              "price": 171,
+              "available_seats": 5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "aisle"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "A stop on trip T-6157 in downtown Montgomery is no longer available. Please swap in one replacement for a daytime visit that fits in about 60–90 minutes and does not add much extra driving from the current route.",
+      "gold_value": [
+        "stop_montgomery_rosa_parks_01"
+      ],
+      "session_id": "romisha_shields_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "romisha_shields_travel_05",
+      "rule_ref": {
+        "rule_id": "romisha_shields_travel_05",
+        "rule_text": "If a planned trip is disrupted, she prefers replacement stops that keep the same historical or cultural theme instead of swapping in any unrelated top-rated alternative.",
+        "canonical_answer": "If part of my trip falls through, I still want the replacement stop to fit the history and culture I went for in the first place."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_montgomery_legacy_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Legacy Museum",
+              "location": "Downtown Montgomery, Alabama",
+              "tags": [
+                "museum",
+                "daytime"
+              ],
+              "theme_focus": "civil rights and Black history",
+              "trip_id": "T-6157",
+              "availability_status": "unavailable",
+              "closure_reason": "private event closure",
+              "visit_duration_hours": 1.5,
+              "detour_minutes_from_current_route": 6
+            }
+          },
+          {
+            "id": "stop_montgomery_rosa_parks_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Rosa Parks Museum",
+              "location": "Downtown Montgomery, Alabama",
+              "tags": [
+                "museum",
+                "daytime"
+              ],
+              "theme_focus": "civil rights and Black history",
+              "rating": 4.6,
+              "review_count": 412,
+              "visit_duration_hours": 1.25,
+              "detour_minutes_from_current_route": 10
+            }
+          },
+          {
+            "id": "stop_montgomery_hank_williams_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Hank Williams Museum",
+              "location": "Downtown Montgomery, Alabama",
+              "tags": [
+                "museum",
+                "music",
+                "daytime",
+                "popular"
+              ],
+              "theme_focus": "music history",
+              "rating": 4.9,
+              "review_count": 1840,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 4
+            }
+          },
+          {
+            "id": "stop_montgomery_state_capitol_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Alabama State Capitol",
+              "location": "Downtown Montgomery, Alabama",
+              "tags": [
+                "history",
+                "architecture",
+                "daytime",
+                "popular"
+              ],
+              "theme_focus": "state government and architecture",
+              "rating": 4.9,
+              "review_count": 2060,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 5
+            }
+          },
+          {
+            "id": "stop_montgomery_riverfront_park_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Riverfront Park",
+              "location": "Downtown Montgomery, Alabama",
+              "tags": [
+                "park",
+                "riverfront",
+                "daytime",
+                "popular"
+              ],
+              "theme_focus": "outdoor riverfront stop",
+              "rating": 4.8,
+              "review_count": 3210,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 3
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_montgomery_rosa_parks_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy the files sitting in /Shared/Dropzone — it's a mix of PDFs, spreadsheets, docs, and scans that have piled up over the last few months, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "romisha_shields_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "romisha_shields_workspace_01",
+      "rule_ref": {
+        "rule_id": "romisha_shields_workspace_01",
+        "rule_text": "When organizing files for her projects, she prefers grouping them by project rather than by type, date, owner, or priority.",
+        "canonical_answer": "I keep things sorted by project, like the cookbook or a church event, more than by file type."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_drop_intro_notes_01",
+            "type": "file",
+            "attributes": {
+              "name": "intro_notes.docx",
+              "file_type": "docx",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Family Recipe Cookbook",
+              "modified_date": "2026-05-02",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_drop_cover_scan_01",
+            "type": "file",
+            "attributes": {
+              "name": "cover_scan.image",
+              "file_type": "image",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Family Recipe Cookbook",
+              "modified_date": "2026-03-29",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_drop_inventory_sheet_01",
+            "type": "file",
+            "attributes": {
+              "name": "inventory_sheet.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Calhoun County Audio Archive",
+              "modified_date": "2026-04-11",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_drop_release_packet_01",
+            "type": "file",
+            "attributes": {
+              "name": "release_packet.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Calhoun County Audio Archive",
+              "modified_date": "2026-06-03",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_drop_table_assignments_01",
+            "type": "file",
+            "attributes": {
+              "name": "table_assignments.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Spring Church Social",
+              "modified_date": "2026-04-25",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_drop_handout_flyer_01",
+            "type": "file",
+            "attributes": {
+              "name": "handout_flyer.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Spring Church Social",
+              "modified_date": "2026-06-14",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_drop_weekend_outline_01",
+            "type": "file",
+            "attributes": {
+              "name": "weekend_outline.docx",
+              "file_type": "docx",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Family Reunion",
+              "modified_date": "2026-05-18",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_drop_badge_mockup_01",
+            "type": "file",
+            "attributes": {
+              "name": "badge_mockup.image",
+              "file_type": "image",
+              "location": "/Shared/Dropzone",
+              "owner": "Romisha Shields",
+              "labels": [],
+              "archived": false,
+              "project": "Family Reunion",
+              "modified_date": "2026-03-30",
+              "priority": "low"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "A few Anniston interview files are still scattered across Desktop, Downloads, and Documents. Please put them all into one folder so they're easier to find later.",
+      "gold_value": "folder_anniston_voices_project_01",
+      "session_id": "romisha_shields_workspace_02_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "romisha_shields_workspace_02",
+      "rule_ref": {
+        "rule_id": "romisha_shields_workspace_02",
+        "rule_text": "She prefers moving cookbook, oral-history, and event files into dedicated project folders instead of leaving them scattered where they were created.",
+        "canonical_answer": "I want my cookbook, history, and event papers moved into their own folders so I can find them later."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_anniston_barbershop_transcript_01",
+            "type": "file",
+            "attributes": {
+              "name": "Anniston Barber Shop interview transcript.docx",
+              "file_type": "docx",
+              "location": "Desktop",
+              "labels": [
+                "anniston",
+                "interview",
+                "transcript"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_anniston_deacon_notes_01",
+            "type": "file",
+            "attributes": {
+              "name": "Anniston church deacon interview notes.txt",
+              "file_type": "txt",
+              "location": "Downloads",
+              "labels": [
+                "anniston",
+                "interview",
+                "notes"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_anniston_mainstreet_summary_01",
+            "type": "file",
+            "attributes": {
+              "name": "Anniston Main Street resident audio summary.docx",
+              "file_type": "docx",
+              "location": "Documents",
+              "labels": [
+                "anniston",
+                "resident",
+                "history"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "folder_anniston_voices_project_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Anniston Voices Project",
+              "purpose": "project folder for resident oral-history interviews, transcripts, and planning materials"
+            }
+          },
+          {
+            "id": "folder_anniston_interview_drafts_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Anniston Interview Drafts",
+              "purpose": "temporary holding area for active transcripts, notes, and recordings"
+            }
+          },
+          {
+            "id": "folder_local_history_transcripts_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Local History Transcripts",
+              "purpose": "completed interview transcripts grouped by file type"
+            }
+          },
+          {
+            "id": "folder_desktop_working_files_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Desktop Working Files",
+              "purpose": "general workspace folder for items still being sorted"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "move_files",
+              "arguments": {
+                "folder_id": "folder_anniston_voices_project_01"
+              },
+              "compare_args": [
+                "folder_id"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.6428571428571429,
+    "actual_signal_overlap_rules": [
+      "romisha_shields_commerce_02",
+      "romisha_shields_communication_01",
+      "romisha_shields_communication_03",
+      "romisha_shields_reservation_01",
+      "romisha_shields_reservation_03",
+      "romisha_shields_reservation_04",
+      "romisha_shields_travel_01",
+      "romisha_shields_workspace_01",
+      "romisha_shields_workspace_02"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.6428571428571429,
+    "teachable_rule_count": 9,
+    "zero_signal_rule_count": 5,
+    "signal_pool_size_dedup": 25,
+    "noise_pool_size": 19,
+    "K": 28,
+    "seed": 0,
+    "selected_rules": [
+      "romisha_shields_commerce_02",
+      "romisha_shields_communication_01",
+      "romisha_shields_communication_03",
+      "romisha_shields_reservation_01",
+      "romisha_shields_reservation_03",
+      "romisha_shields_reservation_04",
+      "romisha_shields_travel_01",
+      "romisha_shields_workspace_01",
+      "romisha_shields_workspace_02"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "romisha_shields_commerce_02",
+      "romisha_shields_commerce_04",
+      "romisha_shields_communication_01",
+      "romisha_shields_communication_03",
+      "romisha_shields_reservation_01",
+      "romisha_shields_reservation_03",
+      "romisha_shields_reservation_04",
+      "romisha_shields_scheduling_02",
+      "romisha_shields_travel_01",
+      "romisha_shields_travel_02",
+      "romisha_shields_travel_04",
+      "romisha_shields_travel_05",
+      "romisha_shields_workspace_01",
+      "romisha_shields_workspace_02"
+    ],
+    "signal_count": 25,
+    "noise_count": 3,
+    "trajectory_length": 28
+  }
+}

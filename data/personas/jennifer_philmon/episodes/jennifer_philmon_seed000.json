@@ -1,0 +1,4522 @@
+{
+  "episode_id": "jennifer_philmon_seed000",
+  "persona_id": "jennifer_philmon",
+  "raw_persona": {
+    "persona_id": "jennifer_philmon",
+    "nemotron_uuid": "7623ff59644444c2836a5a312250b9fa",
+    "narrative": "name: Jennifer Philmon\nage: 28\nsex: Female\nmarital_status: never_married\neducation_level: associates\noccupation: stationary_engineer_or_boiler_operator\nhobbies_and_interests: Watercolor painting and abstract digital illustration, Reading speculative fiction, philosophy, and science nonfiction, Solving mechanical puzzles and cryptic crosswords, Building and tinkering with scale model steam engines, Nature photography focusing on industrial and rural landscapes, Calligraphy and handwritten journaling, Experimental one‑pot cooking\nskills_and_expertise: Boiler operation and maintenance, Stationary engine troubleshooting, Preventive maintenance planning, Industrial safety compliance (OSHA, NFPA, EPA), Energy efficiency optimization, SCADA and PLC basic programming, Blueprint and P&ID interpretation, MIG/TIG welding, Hydraulic and pneumatic system repair, Process documentation and record-keeping, Analytical problem solving, Project coordination for plant shutdowns, Team training and mentoring, Inventory and parts management\ncomplementary_info: Jennifer Philmon grew up in Warrenton in Missouri’s agricultural region and comes from a German-Irish Midwestern background shaped by county fairs, church potlucks, practical trades, and local community-college vocational culture. She works at a regional power plant and is pursuing National Board of Boiler Operators certification, with plans to earn a bachelor’s in Mechanical Engineering and eventually move from Senior Boiler Operator toward Plant Engineer, Shift Supervisor, and Facilities Manager roles. Her routine includes jogging the Missouri River trail twice a week, attending a women’s weight-lifting group at the community center, following the St. Louis Cardinals and St. Louis Blues, and occasionally volunteering with the local historical society and farmers’ market. In the arts, she gravitates toward abstract and surreal industrial motifs, drawing inspiration from Wassily Kandinsky, James Turrell, Sigur Rós, and Max Richter. Her travel pattern favors carefully budgeted road trips to steam-heritage sites such as the Henry Ford Museum in Michigan and Steamtown in Pennsylvania, often paired with family-run B&B stays in scenic Missouri towns. Her recurring cooking repertoire includes one-pot dishes like beef bourguignon with smoked paprika and root vegetables, cabbage and smoked-sausage stew, and steel-cut oat porridge with berries. She keeps detailed handwritten journals with calligraphy and regularly catalogs both technical readings and creative work.",
+    "general_domain": "stationary_engineer_or_boiler_operator",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Jennifer Philmon",
+    "demographics": {
+      "age": 28,
+      "sex": "Female",
+      "marital_status": "never_married",
+      "education_level": "associates",
+      "occupation": "stationary_engineer_or_boiler_operator",
+      "city": "Warrenton",
+      "state": "MO",
+      "zipcode": "63383",
+      "country": "USA"
+    },
+    "persona_summary": "Jennifer Philmon, a disciplined 28‑year‑old boiler operator with a vivid imaginative streak, fuses Midwestern work ethic, competitive ambition, and a secret passion for abstract art and one‑pot cooking while meticulously budgeting and cataloguing every pressure reading and watercolor palette.",
+    "professional_persona": "Jennifer Philmon, a 28‑year‑old industrial technician at a regional power plant, leverages her associate’s degree in Industrial Technology and expert knowledge of stationary boilers, turbines, and PLC control loops to lead precise shutdowns, mentor junior operators, and drive data‑driven efficiency projects, all while pursuing National Board of Boiler Operators certification and a future bachelor’s in Mechanical Engineering, with a competitive edge that reflects her disciplined, high‑standard mindset.",
+    "sports_persona": "Jennifer Philmon follows the St. Louis Cardinals and St. Louis Blues, jogs the Missouri River trail twice a week, and participates in a small‑town women’s weight‑lifting group at the community center, treating fitness as a disciplined routine that mirrors her precision as a boiler operator.",
+    "arts_persona": "Jennifer Philmon channels her vivid imagination into watercolor and digital illustrations that echo the abstract compositions of Wassily Kandinsky and the luminous spaces of James Turrell, while unwinding to the atmospheric sounds of Sigur Rós and the introspective piano works of Max Richter, making the arts a personal sanctuary that balances her technical career.",
+    "travel_persona": "Jennifer Philmon prefers meticulously planned road trips that combine visits to historic steam‑engine museums such as the Henry Ford Museum in Michigan and Steamtown in Pennsylvania with stays at family‑run B&Bs in scenic Missouri towns, allowing her competitive curiosity to explore industrial heritage while staying within a modest travel budget.",
+    "culinary_persona": "Jennifer Philmon’s culinary experiments revolve around one‑pot dishes such as a simmered beef bourguignon seasoned with smoked paprika and root vegetables, a hearty cabbage and smoked‑sausage stew, and a quick steel‑cut oat porridge topped with fresh berries, showcasing her love for efficient, hearty meals that echo the precision of her industrial work.",
+    "cultural_background": "Jennifer grew up in Warrenton, a small town in the heart of Missouri's agricultural region, where community values of hard work, self‑reliance, and modesty are deeply ingrained. Her family heritage reflects a blend of German and Irish ancestry common to many Midwestern families, and she was raised with traditions such as county‑fair gatherings, church potlucks, and a respect for practical trades. Attending the local community college, she earned an associate's degree in Industrial Technology, reinforcing the region's emphasis on hands‑on vocational education. The local culture, with its mix of conservative sensibilities and appreciation for craftsmanship, shaped Jennifer's disciplined and competitive demeanor while also nurturing her fascination with novelty and abstract art. Though she prefers solitude and small‑group interactions, she remains connected to her community through occasional volunteer work at the local historical society and the farmers' market, embodying the balanced blend of individualism and communal responsibility characteristic of the Midwestern ethos.",
+    "skills_and_expertise": "Jennifer's technical expertise centers on the operation, maintenance, and troubleshooting of stationary engines and industrial boiler systems. She is proficient at performing start‑up and shutdown procedures, monitoring combustion parameters, diagnosing pressure and temperature irregularities, and executing preventive maintenance on turbines, pumps, and heat exchangers. Her knowledge extends to safety compliance, including OSHA regulations, NFPA codes, and EPA emissions standards, and she routinely prepares detailed shift logs and safety documentation. She is skilled in reading and interpreting complex schematics, blueprints, and P&ID drawings, and can perform basic welding (MIG/TIG) and hydraulic/pneumatic repairs. On the automation side, Jennifer can calibrate analog and digital instrumentation, adjust PID control loops, and program simple ladder logic for PLCs within a SCADA environment. Her strong organizational habits enable meticulous inventory control and audit preparation, while her analytical mindset allows her to devise creative efficiency improvements and data‑driven maintenance strategies. Additionally, she has experience leading small teams during scheduled plant shutdowns and mentoring new operators, demonstrating decisive leadership and a competitive drive for high performance.",
+    "skills_and_expertise_list": [
+      "Boiler operation and maintenance",
+      "Stationary engine troubleshooting",
+      "Preventive maintenance planning",
+      "Industrial safety compliance (OSHA, NFPA, EPA)",
+      "Energy efficiency optimization",
+      "SCADA and PLC basic programming",
+      "Blueprint and P&ID interpretation",
+      "MIG/TIG welding",
+      "Hydraulic and pneumatic system repair",
+      "Process documentation and record-keeping",
+      "Analytical problem solving",
+      "Project coordination for plant shutdowns",
+      "Team training and mentoring",
+      "Inventory and parts management"
+    ],
+    "hobbies_and_interests": "Jennifer channels her imaginative side into creative pursuits that contrast with the technical rigor of her work. She practices watercolor painting and digital illustration, often exploring abstract and surreal themes inspired by industrial textures and steam motifs. An avid reader, she devours speculative fiction, philosophical essays, and science nonfiction, finding new ideas that challenge conventional thinking. She enjoys solving mechanical puzzles, cryptic crosswords, and building scale model steam engines, activities that satisfy her love of novelty and intricate problem solving. In her spare time, she captures the rural landscape of Warren County through nature photography, with a particular focus on the interplay of light on metal structures. Jennifer also keeps a handwritten journal where she experiments with calligraphy and records reflections, and she occasionally experiments with one‑pot cooking, treating the kitchen as a miniature boiler.",
+    "hobbies_and_interests_list": [
+      "Watercolor painting and abstract digital illustration",
+      "Reading speculative fiction, philosophy, and science nonfiction",
+      "Solving mechanical puzzles and cryptic crosswords",
+      "Building and tinkering with scale model steam engines",
+      "Nature photography focusing on industrial and rural landscapes",
+      "Calligraphy and handwritten journaling",
+      "Experimental one‑pot cooking"
+    ],
+    "career_goals_and_ambitions": "A core career ambition for Jennifer is to attain Senior Boiler Operator status along with National Board of Boiler Operators certification within the next three years. She plans to leverage her associate's degree in Industrial Technology as a foundation to pursue a bachelor's degree in Mechanical Engineering, positioning herself for a transition to a Plant Engineer role. In the medium term, she aims to spearhead energy‑efficiency projects that reduce the plant's carbon footprint and integrate predictive maintenance technologies using IoT sensors and data analytics. Her long‑term vision includes advancing to a Shift Supervisor position, then to Facilities Manager, overseeing multiple sites and driving operational excellence across the company's industrial portfolio. Throughout her trajectory, Jennifer remains focused on setting and exceeding high performance standards, seeking competitive recognition, and contributing innovative solutions to the field of industrial steam power."
+  },
+  "rules": [
+    {
+      "rule_text": "When organizing ingredients for cooking, she prefers building a shopping list first instead of placing grocery-style orders immediately.",
+      "canonical_answer": "For cooking supplies, I like to build a list first rather than ordering on the spot.",
+      "counterfactual_default": "A typical assistant would jump straight to ordering items once it knows what is needed.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "meticulously budgeting"
+        },
+        {
+          "type": "direct",
+          "content": "experimental one‑pot cooking"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "build_shopping_list",
+        "param": null
+      },
+      "rule_id": "jennifer_philmon_commerce_01"
+    },
+    {
+      "rule_text": "When ordering food-related items, she favors ingredients suited to hearty one-pot meals over specialty single-use items.",
+      "canonical_answer": "If I'm ordering ingredients, I prefer basics that fit hearty one-pot cooking.",
+      "counterfactual_default": "A typical assistant would choose trendier or more specialized items if they seem interesting.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Jennifer Philmon’s culinary experiments revolve around one‑pot dishes"
+        },
+        {
+          "type": "direct",
+          "content": "showcasing her love for efficient, hearty meals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "jennifer_philmon_commerce_02"
+    },
+    {
+      "rule_text": "For software or services that support learning or technical work, she prefers a professional mid-tier plan over bare-bones access.",
+      "canonical_answer": "For tools that help my work or learning, I prefer a pro-level plan over the most basic tier.",
+      "counterfactual_default": "A typical assistant would keep her on the cheapest basic plan unless told otherwise.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "pursuing National Board of Boiler Operators certification and a future bachelor’s in Mechanical Engineering"
+        },
+        {
+          "type": "direct",
+          "content": "drive data‑driven efficiency projects"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "change_subscription_plan",
+        "param": "new_plan"
+      },
+      "rule_id": "jennifer_philmon_commerce_04"
+    },
+    {
+      "rule_text": "When writing messages that matter, she prefers to draft them for review instead of sending immediately.",
+      "canonical_answer": "For important messages, I want a draft first instead of sending it right away.",
+      "counterfactual_default": "A typical assistant would send the composed message directly once it has the content.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "keeps a handwritten journal where she experiments with calligraphy and records reflections"
+        },
+        {
+          "type": "direct",
+          "content": "routinely prepares detailed shift logs and safety documentation"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "jennifer_philmon_communication_01"
+    },
+    {
+      "rule_text": "When choosing restaurants while traveling, she leans toward hearty, practical places that fit a modest budget rather than upscale dining.",
+      "canonical_answer": "When I eat out on trips, I prefer hearty budget-friendly places over fancy restaurants.",
+      "counterfactual_default": "A typical assistant would prioritize top-rated or trendier restaurants in the area.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "staying within a modest travel budget"
+        },
+        {
+          "type": "direct",
+          "content": "one‑pot dishes such as a simmered beef bourguignon ... a hearty cabbage and smoked‑sausage stew"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "jennifer_philmon_reservation_01"
+    },
+    {
+      "rule_text": "For local tickets, she prefers hockey or baseball events tied to her St. Louis teams over unrelated entertainment.",
+      "canonical_answer": "If I'm getting event tickets, I'd rather go to Cardinals or Blues-related events than other kinds of entertainment.",
+      "counterfactual_default": "A typical assistant would choose whichever event is most popular or most immediately convenient.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Jennifer Philmon follows the St. Louis Cardinals and St. Louis Blues"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "jennifer_philmon_reservation_02"
+    },
+    {
+      "rule_text": "When booking service appointments connected to hobbies or upkeep, she prefers practical craftsmanship-oriented providers over trendy boutique services.",
+      "canonical_answer": "For appointments, I prefer practical skilled providers over trendy boutique services.",
+      "counterfactual_default": "A typical assistant would often pick the most fashionable or highly marketed provider.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "appreciation for craftsmanship"
+        },
+        {
+          "type": "direct",
+          "content": "respect for practical trades"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "jennifer_philmon_reservation_04"
+    },
+    {
+      "rule_text": "When a calendar invite conflicts with unresolved work or training obligations, she prefers to respond tentatively rather than accepting or declining outright.",
+      "canonical_answer": "If an invite overlaps with work or training uncertainty, I usually answer tentative first.",
+      "counterfactual_default": "A typical assistant would pick accept or decline immediately based on surface availability.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "lead precise shutdowns"
+        },
+        {
+          "type": "direct",
+          "content": "pursuing National Board of Boiler Operators certification"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "jennifer_philmon_scheduling_01"
+    },
+    {
+      "rule_text": "When planning personal travel, she prefers a road-trip style itinerary built around ground transportation rather than flying.",
+      "canonical_answer": "For my trips, I prefer to go by road or rail instead of booking flights.",
+      "counterfactual_default": "A typical assistant would check flight options first for intercity travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Jennifer Philmon prefers meticulously planned road trips"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "jennifer_philmon_travel_01"
+    },
+    {
+      "rule_text": "When choosing places to include on a leisure trip, she favors historic steam-engine and industrial-heritage stops over generic tourist attractions.",
+      "canonical_answer": "When I travel for fun, I like stops tied to steam engines and industrial history more than standard tourist spots.",
+      "counterfactual_default": "A typical assistant would pick broadly popular or highly rated attractions without emphasizing industrial heritage.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "combine visits to historic steam‑engine museums such as the Henry Ford Museum in Michigan and Steamtown in Pennsylvania"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "jennifer_philmon_travel_02"
+    },
+    {
+      "rule_text": "When a trip stop falls through, she prefers replacement stops that keep the same industrial-history theme rather than any convenient substitute.",
+      "canonical_answer": "If a planned stop breaks, I want another industrial or steam-history stop in its place.",
+      "counterfactual_default": "A typical assistant would swap in any nearby popular alternative to keep the itinerary full.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "competitive curiosity to explore industrial heritage"
+        },
+        {
+          "type": "direct",
+          "content": "historic steam‑engine museums"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "jennifer_philmon_travel_03"
+    },
+    {
+      "rule_text": "When booking lodging on trips, she prefers family-run bed-and-breakfast style stays over standard chain hotels.",
+      "canonical_answer": "For travel lodging, I prefer family-run B&Bs instead of generic chain hotels.",
+      "counterfactual_default": "A typical assistant would choose a mainstream hotel based mostly on convenience or brand familiarity.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "stays at family‑run B&Bs in scenic Missouri towns"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "jennifer_philmon_travel_04"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "jennifer_philmon_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply to one message.",
+      "task_params": {
+        "folder": "inbox",
+        "target_sender": "Marta Reeves",
+        "priority": "high",
+        "archive_message_ids": [
+          "msg_ops_02",
+          "msg_ops_03"
+        ],
+        "reply_thread_id": "thr_ops_771",
+        "reply_points": [
+          "Acknowledge the note and thank her for flagging it",
+          "Say I can send the updated readings by 9 AM",
+          "Mention I already have the overnight pressure log",
+          "Keep the tone calm and straightforward"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "archive_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Marta Reeves"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_ops_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_ops_02",
+              "msg_ops_03"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_ops_771",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marta Reeves",
+              "subject": "Need updated boiler readings before handoff",
+              "body": "Can you send me the updated boiler pressure and temperature readings before the morning handoff? I need them for the daily operations summary.",
+              "thread_id": "thr_ops_771",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T04:18:00"
+            }
+          },
+          {
+            "id": "msg_ops_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Safety Bulletin",
+              "subject": "Monthly PPE reminder",
+              "body": "Please review the updated PPE poster in the break room before the end of the month.",
+              "thread_id": "thr_ops_772",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T01:12:00"
+            }
+          },
+          {
+            "id": "msg_ops_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Plant Updates",
+              "subject": "Cafeteria vendor schedule",
+              "body": "The cafeteria vendor will arrive later than usual today. Breakfast service starts at 7:30.",
+              "thread_id": "thr_ops_773",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T02:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Organize some work files",
+      "task_params": {
+        "location": "Downloads",
+        "file_type": "image",
+        "file_ids": [
+          "file_boiler_01",
+          "file_boiler_02",
+          "file_boiler_03"
+        ],
+        "scheme": "by_project",
+        "folder_id": "fld_efficiency_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Downloads",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_boiler_01",
+              "file_boiler_02",
+              "file_boiler_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_boiler_01",
+              "file_boiler_02",
+              "file_boiler_03"
+            ],
+            "folder_id": "fld_efficiency_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_boiler_01",
+            "type": "file",
+            "attributes": {
+              "name": "boiler-efficiency-burner-panel.jpg",
+              "file_type": "image",
+              "location": "Downloads",
+              "owner": "Jennifer Philmon",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_boiler_02",
+            "type": "file",
+            "attributes": {
+              "name": "steam-trap-losses-screenshot.png",
+              "file_type": "image",
+              "location": "Downloads",
+              "owner": "Jennifer Philmon",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_boiler_03",
+            "type": "file",
+            "attributes": {
+              "name": "economizer-trend-notes-photo.jpg",
+              "file_type": "image",
+              "location": "Downloads",
+              "owner": "Jennifer Philmon",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_misc_04",
+            "type": "file",
+            "attributes": {
+              "name": "grocery-list.txt",
+              "file_type": "txt",
+              "location": "Downloads",
+              "owner": "Jennifer Philmon",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_efficiency_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Boiler Efficiency Project",
+              "purpose": "Project folder for combustion and heat-rate improvement materials"
+            }
+          },
+          {
+            "id": "fld_archive_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Old Shift Files Archive",
+              "purpose": "Archive for outdated operating files and screenshots"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "watercolor brushes",
+        "budget": 15,
+        "sort_by": "price_asc",
+        "quantity": 1,
+        "list_name": "Art Box Replacements"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "watercolor brushes",
+            "budget": 15,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_brushset_01",
+              "prod_brushset_02",
+              "prod_brushset_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_brushset_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_brushset_01",
+            "type": "product",
+            "attributes": {
+              "name": "Student Watercolor Brushes Set of 10",
+              "price": 8.99,
+              "category": "watercolor brushes",
+              "rating": 4.1
+            }
+          },
+          {
+            "id": "prod_brushset_02",
+            "type": "product",
+            "attributes": {
+              "name": "Taklon Watercolor Brushes Set of 7",
+              "price": 12.49,
+              "category": "watercolor brushes",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_brushset_03",
+            "type": "product",
+            "attributes": {
+              "name": "Round and Flat Watercolor Brushes Set of 6",
+              "price": 14.99,
+              "category": "watercolor brushes",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_brushset_04",
+            "type": "product",
+            "attributes": {
+              "name": "Professional Watercolor Mop Brush Set",
+              "price": 22.5,
+              "category": "watercolor brushes",
+              "rating": 4.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "reservation",
+      "reason_for_call": "Book a car appointment.",
+      "task_params": {
+        "service_type": "oil change",
+        "location": "Warrenton",
+        "date_time": "2025-02-24T09:00:00",
+        "sort_by": "distance"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "oil change",
+            "location": "Warrenton",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_warrenton_auto_01",
+            "date_time": "2025-02-24T09:00:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_warrenton_auto_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Warrenton Auto Care",
+              "service_type": "oil change",
+              "location": "Warrenton",
+              "rating": 4.6,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_quicklube_truesdale_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Quick Lube Truesdale",
+              "service_type": "oil change",
+              "location": "Truesdale",
+              "rating": 4.3,
+              "distance_km": 8.4
+            }
+          },
+          {
+            "id": "svc_warrenton_tire_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Warrenton Tire & Service",
+              "service_type": "tire rotation",
+              "location": "Warrenton",
+              "rating": 4.7,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "svc_jonesburg_garage_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Jonesburg Garage",
+              "service_type": "oil change",
+              "location": "Jonesburg",
+              "rating": 4.5,
+              "distance_km": 17.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "commerce",
+      "reason_for_call": "Build a grocery list",
+      "task_params": {
+        "category": "grocery",
+        "budget": 45,
+        "product_ids": [
+          "prod_oats_01",
+          "prod_eggs_02",
+          "prod_potatoes_03",
+          "prod_cabbage_04",
+          "prod_sausage_05",
+          "prod_beans_06"
+        ],
+        "items": [
+          "Old-fashioned oats",
+          "Large eggs",
+          "Russet potatoes",
+          "Green cabbage",
+          "Smoked sausage",
+          "Black beans"
+        ],
+        "list_name": "Weeknight meals"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "grocery",
+            "budget": 45,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_oats_01",
+              "prod_eggs_02",
+              "prod_potatoes_03",
+              "prod_cabbage_04",
+              "prod_sausage_05",
+              "prod_beans_06"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Old-fashioned oats",
+              "Large eggs",
+              "Russet potatoes",
+              "Green cabbage",
+              "Smoked sausage",
+              "Black beans"
+            ],
+            "list_name": "Weeknight meals"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_oats_01",
+            "type": "product",
+            "attributes": {
+              "name": "Old-fashioned oats",
+              "price": 3.49,
+              "category": "grocery",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_eggs_02",
+            "type": "product",
+            "attributes": {
+              "name": "Large eggs",
+              "price": 4.29,
+              "category": "grocery",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_potatoes_03",
+            "type": "product",
+            "attributes": {
+              "name": "Russet potatoes",
+              "price": 5.99,
+              "category": "grocery",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_cabbage_04",
+            "type": "product",
+            "attributes": {
+              "name": "Green cabbage",
+              "price": 2.19,
+              "category": "grocery",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_sausage_05",
+            "type": "product",
+            "attributes": {
+              "name": "Smoked sausage",
+              "price": 6.79,
+              "category": "grocery",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_beans_06",
+            "type": "product",
+            "attributes": {
+              "name": "Black beans",
+              "price": 1.39,
+              "category": "grocery",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "workspace",
+      "reason_for_call": "Update a spreadsheet",
+      "task_params": {
+        "location": "Home",
+        "doc_type": "spreadsheet",
+        "title": "Meal Planning Grid",
+        "stew_keywords": [
+          "lentil stew",
+          "cabbage sausage stew",
+          "bean and potato stew"
+        ],
+        "budget_keywords": [
+          "low-cost",
+          "pantry staples",
+          "freezer-friendly"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Home",
+            "doc_type": "spreadsheet"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_meal_01",
+            "content_delta": "<authored from stew_keywords, budget_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_meal_01",
+            "type": "document",
+            "attributes": {
+              "title": "Meal Planning Grid",
+              "doc_type": "spreadsheet",
+              "location": "Home",
+              "content_brief": "Weekly meal-planning spreadsheet with columns for dish ideas, ingredients, estimated cost, and notes."
+            }
+          },
+          {
+            "id": "doc_meal_02",
+            "type": "document",
+            "attributes": {
+              "title": "Pantry Inventory",
+              "doc_type": "spreadsheet",
+              "location": "Home",
+              "content_brief": "Household pantry tracker with dried beans, lentils, potatoes, cabbage, broth, and spices."
+            }
+          },
+          {
+            "id": "doc_note_03",
+            "type": "document",
+            "attributes": {
+              "title": "One-Pot Dinner Notes",
+              "doc_type": "note",
+              "location": "Home",
+              "content_brief": "Scratch notes about easy soups, stews, and batch-cooking ideas."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "communication",
+      "reason_for_call": "Draft a volunteer note.",
+      "task_params": {
+        "recipient": "volunteers@warrencountyhistory.org",
+        "subject": "Volunteer help for this Saturday's event",
+        "language": "en",
+        "body_points": [
+          "say I saw the upcoming event notice",
+          "offer to help if volunteers are still needed",
+          "mention I am available Saturday morning or afternoon",
+          "ask what tasks still need coverage",
+          "keep the tone polite and community-minded",
+          "sign as Jennifer"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "volunteers@warrencountyhistory.org",
+            "subject": "Volunteer help for this Saturday's event",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_history_01",
+            "type": "message",
+            "attributes": {
+              "sender": "newsletter@warrencountyhistory.org",
+              "subject": "Upcoming community demonstrations at the historical society",
+              "body": "Join us this Saturday for community demonstrations and museum activities. If you are interested in helping, feel free to reach out to our volunteer team at volunteers@warrencountyhistory.org.",
+              "thread_id": "thr_history_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-10T09:12:00"
+            }
+          },
+          {
+            "id": "msg_market_02",
+            "type": "message",
+            "attributes": {
+              "sender": "hello@warrentonfarmersmarket.org",
+              "subject": "Vendor map update",
+              "body": "The vendor map for next week has been updated.",
+              "thread_id": "thr_market_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-09T15:40:00"
+            }
+          },
+          {
+            "id": "msg_friend_03",
+            "type": "message",
+            "attributes": {
+              "sender": "mara.holt@example.com",
+              "subject": "Photos from the trail",
+              "body": "Sending over the trail photos from Tuesday.",
+              "thread_id": "thr_friend_03",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-05-08T19:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "St. Louis",
+        "event_tags": [
+          "art",
+          "museum"
+        ],
+        "event_id": "evt_citymuseum_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 1
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "St. Louis",
+            "event_tags": [
+              "art",
+              "museum"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_citymuseum_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_citymuseum_01",
+            "type": "event",
+            "attributes": {
+              "name": "City Museum After Hours: Found Object Gallery Walk",
+              "location": "St. Louis",
+              "date_time": "2025-05-22T19:00:00-05:00",
+              "price": 18.0,
+              "event_tags": [
+                "art",
+                "museum",
+                "gallery",
+                "quiet"
+              ]
+            }
+          },
+          {
+            "id": "evt_pulitzer_02",
+            "type": "event",
+            "attributes": {
+              "name": "Pulitzer Arts Foundation Evening Exhibition",
+              "location": "St. Louis",
+              "date_time": "2025-05-22T18:30:00-05:00",
+              "price": 22.0,
+              "event_tags": [
+                "art",
+                "gallery",
+                "exhibition"
+              ]
+            }
+          },
+          {
+            "id": "evt_lambert_03",
+            "type": "event",
+            "attributes": {
+              "name": "Foundry Art Centre Quiet Night Tour",
+              "location": "St. Charles",
+              "date_time": "2025-05-22T19:30:00-05:00",
+              "price": 15.0,
+              "event_tags": [
+                "art",
+                "museum",
+                "tour"
+              ]
+            }
+          },
+          {
+            "id": "evt_mocastl_04",
+            "type": "event",
+            "attributes": {
+              "name": "Contemporary Art Talk and Viewing",
+              "location": "St. Louis",
+              "date_time": "2025-05-23T19:00:00-05:00",
+              "price": 20.0,
+              "event_tags": [
+                "art",
+                "museum",
+                "talk"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Missouri",
+          "steam",
+          "historic"
+        ],
+        "destination_ids": [
+          "dst_hannibal_01"
+        ],
+        "destination": "Hannibal",
+        "stop_tags": [
+          "steam",
+          "museum",
+          "historic"
+        ],
+        "selected_stop_ids": [
+          "stp_marktwain_01",
+          "stp_bigriver_02",
+          "stp_rockcliffe_03"
+        ],
+        "duration_days": 3,
+        "traveler_count": 1
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Missouri",
+              "steam",
+              "historic"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_hannibal_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Hannibal",
+            "stop_tags": [
+              "steam",
+              "museum",
+              "historic"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Hannibal",
+            "duration_days": 3,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stp_marktwain_01",
+              "stp_bigriver_02",
+              "stp_rockcliffe_03"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": true,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_hannibal_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Hannibal",
+              "region": "Missouri",
+              "tags": [
+                "steam",
+                "historic",
+                "river town",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "dst_stjames_02",
+            "type": "destination",
+            "attributes": {
+              "name": "St. James",
+              "region": "Missouri",
+              "tags": [
+                "historic",
+                "small town",
+                "route stop"
+              ]
+            }
+          },
+          {
+            "id": "stp_marktwain_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Mark Twain Riverboat",
+              "location": "Hannibal, Missouri",
+              "tags": [
+                "steam",
+                "historic",
+                "riverboat",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "stp_bigriver_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Big River Train Town Museum",
+              "location": "Hannibal, Missouri",
+              "tags": [
+                "steam",
+                "museum",
+                "historic",
+                "rail"
+              ]
+            }
+          },
+          {
+            "id": "stp_rockcliffe_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Rockcliffe Mansion",
+              "location": "Hannibal, Missouri",
+              "tags": [
+                "historic",
+                "museum",
+                "small town"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "commerce",
+      "reason_for_call": "Compare some gear",
+      "task_params": {
+        "category": "travel cooler",
+        "budget": 40,
+        "sort_by": "price_asc",
+        "product_ids": [
+          "prod_chillcube_01",
+          "prod_roadmate_02",
+          "prod_packnest_03"
+        ],
+        "list_name": "Road Trip Supplies"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "travel cooler",
+            "budget": 40,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_chillcube_01",
+              "prod_roadmate_02",
+              "prod_packnest_03"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "prod_roadmate_02"
+            ],
+            "list_name": "Road Trip Supplies"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_chillcube_01",
+            "type": "product",
+            "attributes": {
+              "name": "ChillCube Mini Travel Cooler",
+              "price": 24.99,
+              "category": "travel cooler",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_roadmate_02",
+            "type": "product",
+            "attributes": {
+              "name": "RoadMate Compact Travel Cooler",
+              "price": 34.5,
+              "category": "travel cooler",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_packnest_03",
+            "type": "product",
+            "attributes": {
+              "name": "PackNest Soft Travel Cooler",
+              "price": 39.99,
+              "category": "travel cooler",
+              "rating": 4.1
+            }
+          },
+          {
+            "id": "prod_trunktidy_04",
+            "type": "product",
+            "attributes": {
+              "name": "TrunkTidy Car Organizer",
+              "price": 18.99,
+              "category": "car organizer",
+              "rating": 4.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "workspace",
+      "reason_for_call": "Update my study tracker",
+      "task_params": {
+        "tracker_title": "Boiler Operator Certification Study Tracker",
+        "update_action": "create_entry",
+        "session_date": "2025-02-17",
+        "entry_payload_points": [
+          "Reviewed steam tables and saturation relationships",
+          "Worked 35 practice questions",
+          "Missed valve trim and feedwater calculations",
+          "Need to revisit blowdown rate formulas",
+          "Confidence level: moderate"
+        ]
+      },
+      "expected_tools": [
+        "list_trackers",
+        "update_tracker"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_trackers",
+          "arguments": {}
+        },
+        {
+          "tool": "update_tracker",
+          "arguments": {
+            "tracker_id": "trk_cert_01",
+            "update_action": "create_entry",
+            "entry_payload": "<authored from session_date, entry_payload_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "trk_cert_01",
+            "type": "tracker",
+            "attributes": {
+              "title": "Boiler Operator Certification Study Tracker"
+            }
+          },
+          {
+            "id": "trk_maint_02",
+            "type": "tracker",
+            "attributes": {
+              "title": "Preventive Maintenance Improvement Log"
+            }
+          },
+          {
+            "id": "trk_training_03",
+            "type": "tracker",
+            "attributes": {
+              "title": "Operator Cross-Training Checklist"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination": "Dearborn",
+        "location": "Dearborn",
+        "stop_tags": [
+          "museum",
+          "industrial"
+        ],
+        "traveler_count": 1,
+        "guest_count": 1,
+        "room_count": 1
+      },
+      "expected_tools": [
+        "search_destinations",
+        "search_trip_stops",
+        "plan_trip",
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "museum",
+              "industrial"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Dearborn",
+            "stop_tags": [
+              "museum",
+              "industrial"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Dearborn",
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stp_henryford_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Dearborn",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_redroof_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_dearborn_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Dearborn",
+              "region": "Michigan",
+              "tags": [
+                "museum",
+                "industrial",
+                "history"
+              ]
+            }
+          },
+          {
+            "id": "dst_toledo_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Toledo",
+              "region": "Ohio",
+              "tags": [
+                "museum",
+                "art",
+                "riverfront"
+              ]
+            }
+          },
+          {
+            "id": "stp_henryford_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "The Henry Ford Museum of American Innovation",
+              "location": "Dearborn",
+              "tags": [
+                "museum",
+                "industrial",
+                "history"
+              ]
+            }
+          },
+          {
+            "id": "stp_fairlane_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Fair Lane Estate",
+              "location": "Dearborn",
+              "tags": [
+                "museum",
+                "history",
+                "estate"
+              ]
+            }
+          },
+          {
+            "id": "hot_hampton_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hampton Inn by Hilton Detroit Dearborn",
+              "location": "Dearborn",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 142.0
+            }
+          },
+          {
+            "id": "hot_redroof_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Red Roof Inn Detroit - Dearborn",
+              "location": "Dearborn",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 96.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "reservation",
+      "reason_for_call": "Book a dinner reservation.",
+      "task_params": {
+        "location": "St. Charles",
+        "cuisine": "American",
+        "date_time": "2025-03-15T18:30:00",
+        "party_size": 5,
+        "seating_style": "casual"
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "St. Charles",
+            "cuisine": "American",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_hickory_01",
+            "date_time": "2025-03-15T18:30:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_hickory_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Hickory Bend Grill",
+              "cuisine": "American",
+              "location": "St. Charles",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_mainstreet_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Main Street Kitchen",
+              "cuisine": "American",
+              "location": "St. Charles",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_lunavita_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Luna Vita",
+              "cuisine": "Italian",
+              "location": "St. Charles",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "formal"
+            }
+          },
+          {
+            "id": "rst_riverstone_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Riverstone Smokehouse",
+              "cuisine": "American",
+              "location": "St. Peters",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "communication",
+      "reason_for_call": "Draft a thank-you message",
+      "task_params": {
+        "sender": "Aunt Carla",
+        "folder": "inbox",
+        "thread_id": "thr_family_07",
+        "subject": "So good seeing you all",
+        "language": "en",
+        "reply_points": [
+          "thank her for hosting dinner",
+          "say the evening was really nice",
+          "mention the homemade cake was great",
+          "say it was good catching up with everyone",
+          "offer to help next time"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Aunt Carla",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_family_07",
+            "subject": "So good seeing you all",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_family_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Aunt Carla",
+              "subject": "So good seeing you all",
+              "body": "Thanks for coming by last night. It meant a lot to have everyone around the table again. Glad you could make it home safe.",
+              "thread_id": "thr_family_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-22T08:14:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "M. Reece",
+              "subject": "Shift log follow-up",
+              "body": "Can you send the pressure variance notes when you get a chance?",
+              "thread_id": "thr_work_12",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-22T07:02:00"
+            }
+          },
+          {
+            "id": "msg_friend_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Leah",
+              "subject": "Trail run later?",
+              "body": "Thinking about a short run this afternoon if the weather holds.",
+              "thread_id": "thr_friend_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-22T09:01:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "watercolor paints",
+        "budget": 30,
+        "quantity": 1,
+        "sort_by": "rating"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "watercolor paints",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_wcp_01",
+              "prod_wcp_02",
+              "prod_wcp_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_wcp_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_wcp_01",
+            "type": "product",
+            "attributes": {
+              "name": "Holbein Artists' Watercolor 5 ml Set of 12",
+              "price": 29.99,
+              "category": "watercolor paints",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_wcp_02",
+            "type": "product",
+            "attributes": {
+              "name": "Winsor & Newton Cotman Watercolor Tube Set, 12 colors",
+              "price": 18.49,
+              "category": "watercolor paints",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_wcp_03",
+            "type": "product",
+            "attributes": {
+              "name": "Daniel Smith Extra Fine Watercolors Essentials Intro Set",
+              "price": 34.95,
+              "category": "watercolor paints",
+              "rating": 4.9
+            }
+          },
+          {
+            "id": "prod_wcp_04",
+            "type": "product",
+            "attributes": {
+              "name": "M. Graham Watercolor Paint Basic 5-Color Set",
+              "price": 27.5,
+              "category": "watercolor paints",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "workspace",
+      "reason_for_call": "Update a work memo.",
+      "task_params": {
+        "location": "Energy Projects",
+        "doc_type": "memo",
+        "document_title": "Boiler Blowdown Heat Recovery Memo",
+        "clarification_points": [
+          "replace rough savings estimate with monthly gas and water figures",
+          "state current blowdown loss before proposed recovery step",
+          "add payback explanation in plain language",
+          "note assumptions behind operating-hours estimate"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Energy Projects",
+            "doc_type": "memo"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_energy_01",
+            "content_delta": "<authored from document_title, clarification_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_energy_01",
+            "type": "document",
+            "attributes": {
+              "title": "Boiler Blowdown Heat Recovery Memo",
+              "doc_type": "memo",
+              "location": "Energy Projects",
+              "content_brief": "Draft memo proposing heat recovery on boiler blowdown with rough savings estimate and brief payback note."
+            }
+          },
+          {
+            "id": "doc_energy_02",
+            "type": "document",
+            "attributes": {
+              "title": "Condensate Return Improvement Notes",
+              "doc_type": "memo",
+              "location": "Energy Projects",
+              "content_brief": "Short memo on condensate return temperature gains and maintenance considerations."
+            }
+          },
+          {
+            "id": "doc_ops_03",
+            "type": "document",
+            "attributes": {
+              "title": "Feedwater Pump Reliability Report",
+              "doc_type": "report",
+              "location": "Operations Reports",
+              "content_brief": "Quarterly reliability review for feedwater pumps and downtime causes."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "travel",
+      "reason_for_call": "Search for a flight option.",
+      "task_params": {
+        "destination_constraints": [
+          "steam",
+          "museum",
+          "Pennsylvania"
+        ],
+        "destination_ids": [
+          "dst_steamtown_01"
+        ],
+        "origin": "St. Louis",
+        "destination": "Scranton",
+        "passenger_count": 1,
+        "seat_preference": "window"
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "steam",
+              "museum",
+              "Pennsylvania"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_steamtown_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "St. Louis",
+            "destination": "Scranton",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_scranton_02",
+            "seat_preference": "window"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_steamtown_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Steamtown National Historic Site",
+              "region": "Scranton, Pennsylvania",
+              "tags": [
+                "steam",
+                "museum",
+                "rail history"
+              ]
+            }
+          },
+          {
+            "id": "dst_henryford_02",
+            "type": "destination",
+            "attributes": {
+              "name": "The Henry Ford",
+              "region": "Dearborn, Michigan",
+              "tags": [
+                "industrial history",
+                "museum",
+                "steam engines"
+              ]
+            }
+          },
+          {
+            "id": "dst_baltimore_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Baltimore and Ohio Railroad Museum",
+              "region": "Baltimore, Maryland",
+              "tags": [
+                "railroad",
+                "museum",
+                "historic locomotives"
+              ]
+            }
+          },
+          {
+            "id": "flt_scranton_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "St. Louis",
+              "destination": "Scranton",
+              "departure_date": "2025-10-10",
+              "return_date": "2025-10-13",
+              "airline": "United",
+              "price": 412.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_scranton_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "St. Louis",
+              "destination": "Scranton",
+              "departure_date": "2025-10-17",
+              "return_date": "2025-10-20",
+              "airline": "American",
+              "price": 389.0,
+              "available_seats": 2
+            }
+          },
+          {
+            "id": "flt_dearborn_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "St. Louis",
+              "destination": "Detroit",
+              "departure_date": "2025-10-11",
+              "return_date": "2025-10-14",
+              "airline": "Delta",
+              "price": 241.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Warren County Historical Society",
+        "folder": "inbox",
+        "thread_id": "thr_hist_01",
+        "language": "en",
+        "reply_points": [
+          "thank them for getting back to me",
+          "I can cover the Saturday afternoon volunteer window",
+          "I cannot do the Friday evening slot",
+          "ask them to confirm if Saturday afternoon still needs coverage"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Warren County Historical Society",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_hist_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_hist_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Warren County Historical Society",
+              "subject": "Volunteer coverage windows for next month",
+              "body": "Hi Jennifer, thanks for offering to help. Right now we still need coverage for Friday evening and Saturday afternoon. Let us know which one you could realistically take.",
+              "thread_id": "thr_hist_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-27T10:18:00"
+            }
+          },
+          {
+            "id": "msg_util_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Cuivre River Electric Cooperative",
+              "subject": "Usage summary available",
+              "body": "Your monthly usage summary is ready to view online.",
+              "thread_id": "thr_util_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-27T08:02:00"
+            }
+          },
+          {
+            "id": "msg_friend_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Collins",
+              "subject": "Art fair next week",
+              "body": "If you're free, we should go check out that art fair together.",
+              "thread_id": "thr_friend_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-26T19:41:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Warrenton",
+        "date_time": "2025-02-18T17:30:00",
+        "sort_by": "rating"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Warrenton",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_polishededge_03",
+            "date_time": "2025-02-18T17:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_clipjoint_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Clip Joint Salon",
+              "service_type": "haircut",
+              "location": "Warrenton",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_mainstreet_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Main Street Hair Co.",
+              "service_type": "haircut",
+              "location": "Warrenton",
+              "rating": 4.6,
+              "distance_km": 1.4
+            }
+          },
+          {
+            "id": "svc_polishededge_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Polished Edge Studio",
+              "service_type": "haircut",
+              "location": "Warrenton",
+              "rating": 4.9,
+              "distance_km": 5.3
+            }
+          },
+          {
+            "id": "svc_freshfade_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Fresh Fade & Style",
+              "service_type": "haircut",
+              "location": "Warrenton",
+              "rating": 4.4,
+              "distance_km": 3.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "commerce",
+      "reason_for_call": "Order a kitchen item.",
+      "task_params": {
+        "category": "insulated lunch container",
+        "budget": 40,
+        "quantity": 1,
+        "sort_by": "rating",
+        "product_id": "prod_thermos_01"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "insulated lunch container",
+            "budget": 40,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_thermos_01",
+              "prod_hydroflask_02",
+              "prod_stanley_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_thermos_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_thermos_01",
+            "type": "product",
+            "attributes": {
+              "name": "Thermos Stainless King Food Jar 24 oz",
+              "price": 32.99,
+              "category": "insulated lunch container",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_hydroflask_02",
+            "type": "product",
+            "attributes": {
+              "name": "Hydro Flask Insulated Food Jar 20 oz",
+              "price": 39.95,
+              "category": "insulated lunch container",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_stanley_03",
+            "type": "product",
+            "attributes": {
+              "name": "Stanley Adventure Vacuum Food Jar 18 oz",
+              "price": 29.5,
+              "category": "insulated lunch container",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_zojirushi_04",
+            "type": "product",
+            "attributes": {
+              "name": "Zojirushi Stainless Food Jar 25 oz",
+              "price": 44.0,
+              "category": "insulated lunch container",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a work message",
+      "task_params": {
+        "recipient": "Dana Mercer",
+        "subject": "Question about development opportunities",
+        "language": "en",
+        "body_points": [
+          "ask about development opportunities on the operations side",
+          "mention interest in growing into more responsibility",
+          "reference certification or training options",
+          "keep the tone respectful and not demanding",
+          "say she would appreciate guidance when convenient"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "Dana Mercer",
+            "subject": "Question about development opportunities",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_shift_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Control Room Alerts",
+              "subject": "Night shift boiler trend summary",
+              "body": "Attached is the overnight pressure and feedwater variance summary.",
+              "thread_id": "thr_shift_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T06:18:00"
+            }
+          },
+          {
+            "id": "msg_hr_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Benefits Team",
+              "subject": "Open enrollment reminder",
+              "body": "Please review your elections before the deadline at the end of the month.",
+              "thread_id": "thr_hr_02",
+              "folder": "archive",
+              "labels": [
+                "admin"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-03T14:42:00"
+            }
+          },
+          {
+            "id": "msg_vendor_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Midwest Industrial Supply",
+              "subject": "Pump seal shipment update",
+              "body": "Your replacement seal kit is scheduled to arrive on Thursday.",
+              "thread_id": "thr_vendor_03",
+              "folder": "inbox",
+              "labels": [
+                "parts"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T09:07:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "origin": "Warrenton",
+        "destination": "Hermann",
+        "passenger_count": 1,
+        "duration_days": 2,
+        "transport_offer_id": "trans_amtrak_hermann_01",
+        "selected_stop_ids": [
+          "stop_stonehill_01",
+          "stop_downtown_01"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "search_ground_transport",
+        "search_trip_stops",
+        "plan_trip",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Hermann"
+            ]
+          }
+        },
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Warrenton",
+            "destination": "Hermann",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Hermann"
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Hermann",
+            "duration_days": 2,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stop_stonehill_01",
+              "stop_downtown_01"
+            ]
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trans_amtrak_hermann_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_hermann_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Hermann",
+              "region": "Missouri",
+              "tags": [
+                "in-state",
+                "weekend",
+                "historic",
+                "train-access"
+              ]
+            }
+          },
+          {
+            "id": "dest_jeffersoncity_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Jefferson City",
+              "region": "Missouri",
+              "tags": [
+                "in-state",
+                "weekend",
+                "riverfront",
+                "train-access"
+              ]
+            }
+          },
+          {
+            "id": "trans_amtrak_hermann_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Warrenton",
+              "destination": "Hermann",
+              "mode": "train",
+              "departure_date": "2025-09-13",
+              "price": 28.0,
+              "available_seats": 14
+            }
+          },
+          {
+            "id": "trans_shuttle_hermann_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Warrenton",
+              "destination": "Hermann",
+              "mode": "car-transfer",
+              "departure_date": "2025-09-13",
+              "price": 79.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "stop_stonehill_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Stone Hill Winery",
+              "location": "Hermann",
+              "tags": [
+                "historic",
+                "tour",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "stop_downtown_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Downtown Hermann Riverfront",
+              "location": "Hermann",
+              "tags": [
+                "walkable",
+                "riverfront",
+                "historic"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "O'Fallon",
+        "event_tags": [
+          "sports",
+          "baseball"
+        ],
+        "event_id": "evt_raptors_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 3
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "O'Fallon",
+            "event_tags": [
+              "sports",
+              "baseball"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_raptors_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 3
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_raptors_01",
+            "type": "event",
+            "attributes": {
+              "name": "O'Fallon Hoots vs. Alton River Dragons",
+              "location": "O'Fallon",
+              "date_time": "2025-08-16T19:00:00",
+              "price": 18.0,
+              "event_tags": [
+                "sports",
+                "baseball",
+                "minor league"
+              ]
+            }
+          },
+          {
+            "id": "evt_slam_02",
+            "type": "event",
+            "attributes": {
+              "name": "St. Charles Summer Slam Wrestling Night",
+              "location": "O'Fallon",
+              "date_time": "2025-08-16T20:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "sports",
+                "wrestling",
+                "live entertainment"
+              ]
+            }
+          },
+          {
+            "id": "evt_kickers_03",
+            "type": "event",
+            "attributes": {
+              "name": "O'Fallon United Indoor Soccer Showcase",
+              "location": "O'Fallon",
+              "date_time": "2025-08-17T18:30:00",
+              "price": 16.0,
+              "event_tags": [
+                "sports",
+                "soccer",
+                "family"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "jennifer_philmon_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Megan Holt",
+        "priority": "high",
+        "label_ids": [
+          "lbl_training_01"
+        ],
+        "archive_message_ids": [
+          "msg_utility_01"
+        ],
+        "reply_thread_id": "thr_megan_cert_01",
+        "reply_points": [
+          "Thanks for the reminder",
+          "I can cover the certification prep shift on Tuesday",
+          "Please send the start time and any materials to review"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "label_messages",
+        "archive_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Megan Holt"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_megan_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_megan_01"
+            ],
+            "label_ids": [
+              "lbl_training_01"
+            ]
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_utility_01"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_megan_cert_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_megan_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Megan Holt",
+              "subject": "Certification prep coverage this week",
+              "body": "Hey Jennifer, can you cover the certification prep shift on Tuesday? Let me know and I can send the details.",
+              "thread_id": "thr_megan_cert_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T18:42:00"
+            }
+          },
+          {
+            "id": "msg_utility_01",
+            "type": "message",
+            "attributes": {
+              "sender": "MidCounty Utilities",
+              "subject": "Your payment confirmation is ready",
+              "body": "Your monthly utility payment has been processed successfully. This is an automated receipt.",
+              "thread_id": "thr_utility_bill_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-16T14:08:00"
+            }
+          },
+          {
+            "id": "lbl_training_01",
+            "type": "label",
+            "attributes": {
+              "name": "Training",
+              "topic": "courses, certification, and skill-building"
+            }
+          },
+          {
+            "id": "lbl_bills_01",
+            "type": "label",
+            "attributes": {
+              "name": "Bills",
+              "topic": "payments and account notices"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "I'm making a one-pot red lentil curry and just noticed I'm out of red lentils, coconut milk, and yellow curry paste. Go ahead and take care of getting what I need.",
+      "gold_value": null,
+      "session_id": "jennifer_philmon_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "jennifer_philmon_commerce_01",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_commerce_01",
+        "rule_text": "When organizing ingredients for cooking, she prefers building a shopping list first instead of placing grocery-style orders immediately.",
+        "canonical_answer": "For cooking supplies, I like to build a list first rather than ordering on the spot."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_bundle_curry_01",
+            "type": "product",
+            "attributes": {
+              "name": "One-Pot Red Lentil Curry Pantry Kit",
+              "price": 15.49,
+              "category": "one_pot_cooking",
+              "rating": 4.9,
+              "review_count": 3510,
+              "contents": "red lentils, coconut milk, yellow curry paste"
+            }
+          },
+          {
+            "id": "prod_lentils_01",
+            "type": "product",
+            "attributes": {
+              "name": "Organic Red Lentils, 2 lb",
+              "price": 4.29,
+              "category": "one_pot_cooking",
+              "rating": 4.8,
+              "review_count": 920,
+              "form": "dry lentils"
+            }
+          },
+          {
+            "id": "prod_coconut_milk_01",
+            "type": "product",
+            "attributes": {
+              "name": "Thai Style Coconut Milk, 2-Pack",
+              "price": 5.99,
+              "category": "one_pot_cooking",
+              "rating": 4.8,
+              "review_count": 1840,
+              "form": "canned coconut milk"
+            }
+          },
+          {
+            "id": "prod_curry_paste_01",
+            "type": "product",
+            "attributes": {
+              "name": "Yellow Curry Paste Jar",
+              "price": 3.89,
+              "category": "one_pot_cooking",
+              "rating": 4.7,
+              "review_count": 760,
+              "form": "curry paste"
+            }
+          },
+          {
+            "id": "prod_mealkit_curry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Quick Red Lentil Curry Dinner Kit",
+              "price": 12.99,
+              "category": "one_pot_cooking",
+              "rating": 4.8,
+              "review_count": 2680,
+              "contents": "red lentils, coconut milk powder, curry seasoning"
+            }
+          },
+          {
+            "id": "prod_simmer_sauce_01",
+            "type": "product",
+            "attributes": {
+              "name": "Yellow Coconut Curry Simmer Sauce",
+              "price": 4.99,
+              "category": "one_pot_cooking",
+              "rating": 4.9,
+              "review_count": 2890,
+              "form": "prepared sauce"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "build_shopping_list",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please order one broth item under $8. Just pick one for me.",
+      "gold_value": "prod_classic_veg_broth_01",
+      "session_id": "jennifer_philmon_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "jennifer_philmon_commerce_02",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_commerce_02",
+        "rule_text": "When ordering food-related items, she favors ingredients suited to hearty one-pot meals over specialty single-use items.",
+        "canonical_answer": "If I'm ordering ingredients, I prefer basics that fit hearty one-pot cooking."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_classic_veg_broth_01",
+            "type": "product",
+            "attributes": {
+              "name": "Classic Vegetable Broth",
+              "price": 4.99,
+              "category": "broth",
+              "rating": 4.3,
+              "broth_style": "all-purpose",
+              "package_size_oz": 32,
+              "intended_use": "soups, stews, braises"
+            }
+          },
+          {
+            "id": "prod_shoyu_ramen_broth_01",
+            "type": "product",
+            "attributes": {
+              "name": "Shoyu Ramen Broth Concentrate",
+              "price": 4.49,
+              "category": "broth",
+              "rating": 4.9,
+              "broth_style": "ramen concentrate",
+              "package_size_oz": 16,
+              "intended_use": "ramen",
+              "review_count": 1840
+            }
+          },
+          {
+            "id": "prod_pho_beef_broth_01",
+            "type": "product",
+            "attributes": {
+              "name": "Pho Beef Broth Concentrate",
+              "price": 6.79,
+              "category": "broth",
+              "rating": 4.8,
+              "broth_style": "pho concentrate",
+              "package_size_oz": 16,
+              "intended_use": "pho",
+              "review_count": 1430
+            }
+          },
+          {
+            "id": "prod_thai_curry_broth_01",
+            "type": "product",
+            "attributes": {
+              "name": "Thai Coconut Curry Broth Base",
+              "price": 5.29,
+              "category": "broth",
+              "rating": 4.8,
+              "broth_style": "curry broth base",
+              "package_size_oz": 17,
+              "intended_use": "thai curry soup",
+              "review_count": 1260
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_classic_veg_broth_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please switch my HeatPath subscription to the lowest-cost plan that still gives solid study features for exam prep.",
+      "gold_value": "pro",
+      "session_id": "jennifer_philmon_commerce_04_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "jennifer_philmon_commerce_04",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_commerce_04",
+        "rule_text": "For software or services that support learning or technical work, she prefers a professional mid-tier plan over bare-bones access.",
+        "canonical_answer": "For tools that help my work or learning, I prefer a pro-level plan over the most basic tier."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_heatpath_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "HeatPath",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 34.99,
+              "category": "technical_certification_prep",
+              "focus_area": "boiler operator exam practice",
+              "lessons_per_week": 6,
+              "mobile_access": true
+            }
+          },
+          {
+            "id": "sub_cinewave_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "CineWave",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 16.99,
+              "category": "video_streaming",
+              "simultaneous_streams": 4
+            }
+          },
+          {
+            "id": "sub_dailybrief_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "DailyBrief",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 5.99,
+              "category": "news_digest",
+              "delivery": "daily articles"
+            }
+          },
+          {
+            "id": "sub_mealkit_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "HomeTable Kits",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 9.99,
+              "category": "meal_kits",
+              "meals_per_week": 3
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "change_subscription_plan",
+              "arguments": {
+                "new_plan": "pro"
+              },
+              "compare_args": [
+                "new_plan"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Dr. Elaine Mercer at Northbridge Academy about Lena's accommodation plan. Thank her for summarizing the classroom supports, say I agree with the quiet-testing room and weekly reading check-ins, ask whether the school counselor can also be included on future updates, and let her know I'll send the pediatrician's note separately.",
+      "gold_value": null,
+      "session_id": "jennifer_philmon_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "jennifer_philmon_communication_01",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_communication_01",
+        "rule_text": "When writing messages that matter, she prefers to draft them for review instead of sending immediately.",
+        "canonical_answer": "For important messages, I want a draft first instead of sending it right away."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elaine_lena_plan_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dr. Elaine Mercer <elaine.mercer@northbridgeacademy.org>",
+              "subject": "Lena accommodation plan and classroom supports",
+              "body": "Hello Jennifer, following our earlier conversation, I've outlined a few support options for Lena at school. The team can add access to a quiet-testing room, weekly reading check-ins with the literacy specialist, and a written update process so everyone stays aligned. Let me know which of these you agree with and whether you'd like the school counselor included on future updates. If you have a recent pediatrician note, feel free to send it along for the file.",
+              "thread_id": "thr_elaine_lena_12",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-03-18T10:14"
+            }
+          },
+          {
+            "id": "msg_northbridge_fieldday_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Northbridge Academy Office <office@northbridgeacademy.org>",
+              "subject": "Field day volunteer sign-up",
+              "body": "We're opening volunteer slots for this year's field day. If you'd like to help with snacks, setup, or cleanup, please reply by Friday.",
+              "thread_id": "thr_fieldday_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-03-18T08:22"
+            }
+          },
+          {
+            "id": "msg_marcus_dinner_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marcus Reed <marcus.reed@example.com>",
+              "subject": "Dinner next week?",
+              "body": "Hey Jennifer, checking whether you want to get dinner sometime next week if your schedule opens up.",
+              "thread_id": "thr_marcus_27",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-03-17T19:41"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in Lyon for a trip and need a dinner reservation for two on 2026-10-08 at 7:30pm. Please choose a place and book it.",
+      "gold_value": "rst_lyon_marmite_01",
+      "session_id": "jennifer_philmon_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "jennifer_philmon_reservation_01",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_reservation_01",
+        "rule_text": "When choosing restaurants while traveling, she leans toward hearty, practical places that fit a modest budget rather than upscale dining.",
+        "canonical_answer": "When I eat out on trips, I prefer hearty budget-friendly places over fancy restaurants."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_lyon_marmite_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "La Marmite des Canuts",
+              "cuisine": "Traditional Lyonnaise",
+              "location": "Lyon",
+              "rating": 4.4,
+              "price_range": "$",
+              "seating_style": "casual bistro"
+            }
+          },
+          {
+            "id": "rst_lyon_atelier_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Atelier Lumiere",
+              "cuisine": "Modern French tasting menu",
+              "location": "Lyon",
+              "rating": 4.9,
+              "price_range": "$$$$",
+              "seating_style": "chef's counter"
+            }
+          },
+          {
+            "id": "rst_lyon_belvedere_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Le Belvedere",
+              "cuisine": "Contemporary French small plates",
+              "location": "Lyon",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "rooftop dining"
+            }
+          },
+          {
+            "id": "rst_lyon_verte_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Verte Saison Cafe",
+              "cuisine": "Salads and grain bowls",
+              "location": "Lyon",
+              "rating": 4.7,
+              "price_range": "$",
+              "seating_style": "stylish cafe"
+            }
+          },
+          {
+            "id": "rst_lyon_boeuf_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Boeuf & Vin Brasserie",
+              "cuisine": "Steakhouse",
+              "location": "Lyon",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "brasserie"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_lyon_marmite_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in St. Louis and want two tickets for something local; keep it under $45 each and just pick one for me.",
+      "gold_value": "evt_cardinals_busch_01",
+      "session_id": "jennifer_philmon_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "jennifer_philmon_reservation_02",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_reservation_02",
+        "rule_text": "For local tickets, she prefers hockey or baseball events tied to her St. Louis teams over unrelated entertainment.",
+        "canonical_answer": "If I'm getting event tickets, I'd rather go to Cardinals or Blues-related events than other kinds of entertainment."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_cardinals_busch_01",
+            "type": "event",
+            "attributes": {
+              "name": "St. Louis Cardinals vs. Milwaukee Brewers",
+              "location": "Busch Stadium, St. Louis",
+              "date_time": "2026-06-19T19:15:00",
+              "price": 44,
+              "event_tags": [
+                "baseball",
+                "st_louis_cardinals",
+                "home_game"
+              ],
+              "rating": 4.4,
+              "distance_km": 6.8
+            }
+          },
+          {
+            "id": "evt_allstars_showcase_01",
+            "type": "event",
+            "attributes": {
+              "name": "Midwest Baseball All-Stars Showcase",
+              "location": "Downtown St. Louis",
+              "date_time": "2026-06-19T18:30:00",
+              "price": 26,
+              "event_tags": [
+                "baseball",
+                "exhibition",
+                "all_star"
+              ],
+              "rating": 4.9,
+              "distance_km": 0.9
+            }
+          },
+          {
+            "id": "evt_riverfront_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "Riverfront Summer Pop Concert",
+              "location": "Downtown St. Louis",
+              "date_time": "2026-06-19T20:00:00",
+              "price": 34,
+              "event_tags": [
+                "concert",
+                "live_music",
+                "pop"
+              ],
+              "rating": 4.9,
+              "distance_km": 0.7
+            }
+          },
+          {
+            "id": "evt_glacier_rivals_01",
+            "type": "event",
+            "attributes": {
+              "name": "Glacier Rivals Hockey Classic",
+              "location": "St. Charles, Greater St. Louis",
+              "date_time": "2026-06-20T19:00:00",
+              "price": 31,
+              "event_tags": [
+                "hockey",
+                "exhibition",
+                "regional_teams"
+              ],
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_cardinals_busch_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a bike service appointment in Seattle for 2026-07-14 at 10:00am — just pick a place for me.",
+      "gold_value": "svc_bike_fremont_01",
+      "session_id": "jennifer_philmon_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "jennifer_philmon_reservation_04",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_reservation_04",
+        "rule_text": "When booking service appointments connected to hobbies or upkeep, she prefers practical craftsmanship-oriented providers over trendy boutique services.",
+        "canonical_answer": "For appointments, I prefer practical skilled providers over trendy boutique services."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_bike_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Fremont Wheel & Chain Repair",
+              "service_type": "bike repair and wheel truing",
+              "location": "Seattle",
+              "rating": 4.4,
+              "distance_km": 3.6
+            }
+          },
+          {
+            "id": "svc_bike_concierge_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Seattle Bicycle Concierge",
+              "service_type": "bike detailing and pickup service",
+              "location": "Seattle",
+              "rating": 4.9,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_bike_lab_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Cadence Club Bike Lab",
+              "service_type": "performance bike fitting",
+              "location": "Seattle",
+              "rating": 4.8,
+              "distance_km": 0.7
+            }
+          },
+          {
+            "id": "svc_bike_studio_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Velvet Saddle Studio",
+              "service_type": "bike styling and tune packages",
+              "location": "Seattle",
+              "rating": 4.7,
+              "distance_km": 0.6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_bike_fremont_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Riverfront Industry Roundtable invite at Harbor Hall on 2026-09-14 from 4–6pm. Check whether it clashes with anything I already have and send the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "jennifer_philmon_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "jennifer_philmon_scheduling_01",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_scheduling_01",
+        "rule_text": "When a calendar invite conflicts with unresolved work or training obligations, she prefers to respond tentatively rather than accepting or declining outright.",
+        "canonical_answer": "If an invite overlaps with work or training uncertainty, I usually answer tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_riverfront_industry_roundtable_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Riverfront Industry Roundtable",
+              "start_time": "2026-09-14T16:00:00",
+              "end_time": "2026-09-14T18:00:00",
+              "participants": [
+                "events@riverfrontindustry.org",
+                "jennifer.philmon@example.com"
+              ],
+              "location": "Harbor Hall",
+              "calendar": "invites",
+              "status": "pending",
+              "organizer": "Riverfront Industry Association",
+              "rsvp_deadline": "2026-09-11T17:00:00"
+            }
+          },
+          {
+            "id": "evt_boiler_shutdown_contingency_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Boiler 3 shutdown contingency slot (awaiting final outage window)",
+              "start_time": "2026-09-14T15:30:00",
+              "end_time": "2026-09-14T17:30:00",
+              "participants": [
+                "jennifer.philmon@example.com",
+                "m.ortiz@northplant.com",
+                "ops-team@northplant.com"
+              ],
+              "location": "Plant Admin Building, Room 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_boiler_operators_prep_20260914",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "National Board Boiler Operators prep session (make-up TBD)",
+              "start_time": "2026-09-14T17:00:00",
+              "end_time": "2026-09-14T18:30:00",
+              "participants": [
+                "jennifer.philmon@example.com",
+                "training@stateboilerboard.org"
+              ],
+              "location": "South Campus Training Bay",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "On 2026-09-18 I'm going from Denver, CO to Salt Lake City, UT, one passenger, one-way only. Look at the available options and book it for me.",
+      "gold_value": null,
+      "session_id": "jennifer_philmon_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "jennifer_philmon_travel_01",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_travel_01",
+        "rule_text": "When planning personal travel, she prefers a road-trip style itinerary built around ground transportation rather than flying.",
+        "canonical_answer": "For my trips, I prefer to go by road or rail instead of booking flights."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_den_slc_20260918_sw_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Denver, CO",
+              "destination": "Salt Lake City, UT",
+              "departure_date": "2026-09-18",
+              "airline": "Southwest Airlines",
+              "price": 84,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_den_slc_20260918_dl_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Denver, CO",
+              "destination": "Salt Lake City, UT",
+              "departure_date": "2026-09-18",
+              "airline": "Delta Air Lines",
+              "price": 97,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_den_slc_20260918_ua_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Denver, CO",
+              "destination": "Salt Lake City, UT",
+              "departure_date": "2026-09-18",
+              "airline": "United Airlines",
+              "price": 109,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "trp_den_slc_20260918_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Denver, CO",
+              "destination": "Salt Lake City, UT",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 129,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "trp_den_slc_20260918_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Denver, CO",
+              "destination": "Salt Lake City, UT",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 156,
+              "available_seats": 4
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm spending a relaxed solo day in Sacramento. From the candidate places below, pick one daytime stop for the outing that I can do in about 2–3 hours and add it to a simple one-day plan starting in Sacramento.",
+      "gold_value": [
+        "stop_sacramento_rr_museum_01"
+      ],
+      "session_id": "jennifer_philmon_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "jennifer_philmon_travel_02",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_travel_02",
+        "rule_text": "When choosing places to include on a leisure trip, she favors historic steam-engine and industrial-heritage stops over generic tourist attractions.",
+        "canonical_answer": "When I travel for fun, I like stops tied to steam engines and industrial history more than standard tourist spots."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_sacramento_rr_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "California State Railroad Museum",
+              "location": "Old Sacramento, Sacramento, California",
+              "tags": [
+                "railroad_history",
+                "steam_engines",
+                "industrial_heritage",
+                "museum",
+                "daytime"
+              ],
+              "rating": 4.6,
+              "review_count": 2241,
+              "walk_time_from_downtown_min": 12,
+              "visit_duration_hours": 2.5
+            }
+          },
+          {
+            "id": "stop_old_sac_waterfront_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Old Sacramento Waterfront Promenade",
+              "location": "Old Sacramento, Sacramento, California",
+              "tags": [
+                "waterfront",
+                "historic_district",
+                "shopping",
+                "river_views",
+                "daytime"
+              ],
+              "rating": 4.9,
+              "review_count": 6820,
+              "walk_time_from_downtown_min": 10,
+              "visit_duration_hours": 2.0
+            }
+          },
+          {
+            "id": "stop_crocker_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Crocker Art Museum",
+              "location": "Sacramento, California",
+              "tags": [
+                "art",
+                "museum",
+                "galleries",
+                "daytime",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 3914,
+              "walk_time_from_downtown_min": 9,
+              "visit_duration_hours": 2.5
+            }
+          },
+          {
+            "id": "stop_delta_king_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Delta King Riverboat",
+              "location": "Old Sacramento, Sacramento, California",
+              "tags": [
+                "riverboat",
+                "history",
+                "waterfront",
+                "daytime",
+                "popular"
+              ],
+              "rating": 4.7,
+              "review_count": 4875,
+              "walk_time_from_downtown_min": 11,
+              "visit_duration_hours": 2.0
+            }
+          },
+          {
+            "id": "stop_doce_discovery_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Old Sacramento Living History Program",
+              "location": "Old Sacramento, Sacramento, California",
+              "tags": [
+                "historic_district",
+                "walking_tour",
+                "costumed_interpreters",
+                "daytime",
+                "family_friendly"
+              ],
+              "rating": 4.8,
+              "review_count": 1560,
+              "walk_time_from_downtown_min": 8,
+              "visit_duration_hours": 2.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_sacramento_rr_museum_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-8842 in Scranton fell through. Please swap in a single replacement for a daytime visit near Scranton that fits in about 60–90 minutes and doesn't add more than roughly 10 minutes of detour from the current route.",
+      "gold_value": [
+        "stop_scranton_iron_furnaces_01"
+      ],
+      "session_id": "jennifer_philmon_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "jennifer_philmon_travel_03",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_travel_03",
+        "rule_text": "When a trip stop falls through, she prefers replacement stops that keep the same industrial-history theme rather than any convenient substitute.",
+        "canonical_answer": "If a planned stop breaks, I want another industrial or steam-history stop in its place."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_scranton_iron_furnaces_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Scranton Iron Furnaces",
+              "trip_id": "T-8842",
+              "location": "Scranton, Pennsylvania",
+              "stop_type": "industrial_heritage_site",
+              "tags": [
+                "industrial_history",
+                "ironworks",
+                "heritage",
+                "outdoor",
+                "daytime"
+              ],
+              "rating": 4.4,
+              "review_count": 612,
+              "detour_minutes_from_route": 9,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_steamtown_nhs_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Steamtown National Historic Site",
+              "trip_id": "T-8842",
+              "location": "Scranton, Pennsylvania",
+              "stop_type": "rail_museum",
+              "tags": [
+                "industrial_history",
+                "rail_history",
+                "steam_engines",
+                "museum",
+                "daytime",
+                "popular"
+              ],
+              "rating": 4.9,
+              "review_count": 5210,
+              "detour_minutes_from_route": 18,
+              "visit_duration_hours": 2.0
+            }
+          },
+          {
+            "id": "stop_nay_aug_park_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Nay Aug Park",
+              "trip_id": "T-8842",
+              "location": "Scranton, Pennsylvania",
+              "stop_type": "city_park",
+              "tags": [
+                "park",
+                "waterfall",
+                "scenic",
+                "daytime",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 3774,
+              "detour_minutes_from_route": 4,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_electric_city_aquarium_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Electric City Aquarium",
+              "trip_id": "T-8842",
+              "location": "Scranton, Pennsylvania",
+              "stop_type": "aquarium",
+              "tags": [
+                "aquarium",
+                "indoor",
+                "family",
+                "daytime",
+                "popular"
+              ],
+              "rating": 4.7,
+              "review_count": 2196,
+              "detour_minutes_from_route": 3,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_everhart_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Everhart Museum",
+              "trip_id": "T-8842",
+              "location": "Scranton, Pennsylvania",
+              "stop_type": "museum",
+              "tags": [
+                "art",
+                "natural_history",
+                "museum",
+                "daytime"
+              ],
+              "rating": 4.8,
+              "review_count": 1483,
+              "detour_minutes_from_route": 6,
+              "visit_duration_hours": 1.25
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_scranton_iron_furnaces_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a place to stay in Asheville for 2 adults with 1 room, and keep it under $240 per night. It's just a short getaway, so please choose one of the available options and take care of it.",
+      "gold_value": "hotel_asheville_chestnut_house_01",
+      "session_id": "jennifer_philmon_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "jennifer_philmon_travel_04",
+      "rule_ref": {
+        "rule_id": "jennifer_philmon_travel_04",
+        "rule_text": "When booking lodging on trips, she prefers family-run bed-and-breakfast style stays over standard chain hotels.",
+        "canonical_answer": "For travel lodging, I prefer family-run B&Bs instead of generic chain hotels."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hotel_asheville_chestnut_house_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Chestnut House on Montford",
+              "location": "Asheville, North Carolina",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 219,
+              "property_style": "bed_and_breakfast",
+              "ownership": "family_run",
+              "rating": 4.5,
+              "review_count": 146,
+              "walk_time_to_downtown_min": 14
+            }
+          },
+          {
+            "id": "hotel_asheville_maple_terrace_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Maple Terrace Guesthouse",
+              "location": "Asheville, North Carolina",
+              "available_rooms": 1,
+              "max_guests_per_room": 2,
+              "price_per_night": 259,
+              "property_style": "bed_and_breakfast",
+              "ownership": "family_run",
+              "rating": 4.9,
+              "review_count": 402,
+              "walk_time_to_downtown_min": 8
+            }
+          },
+          {
+            "id": "hotel_asheville_hampton_plaza_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hampton Inn Asheville Plaza",
+              "location": "Asheville, North Carolina",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 209,
+              "brand_family": "Hampton by Hilton",
+              "property_style": "chain_hotel",
+              "rating": 4.8,
+              "review_count": 2318,
+              "walk_time_to_downtown_min": 3
+            }
+          },
+          {
+            "id": "hotel_asheville_courtyard_center_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Courtyard Asheville Center",
+              "location": "Asheville, North Carolina",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 189,
+              "brand_family": "Courtyard by Marriott",
+              "property_style": "chain_hotel",
+              "rating": 4.7,
+              "review_count": 1874,
+              "walk_time_to_downtown_min": 4
+            }
+          },
+          {
+            "id": "hotel_asheville_holiday_express_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Holiday Inn Express Asheville Downtown",
+              "location": "Asheville, North Carolina",
+              "available_rooms": 8,
+              "max_guests_per_room": 2,
+              "price_per_night": 199,
+              "brand_family": "Holiday Inn Express",
+              "property_style": "chain_hotel",
+              "rating": 4.8,
+              "review_count": 2641,
+              "walk_time_to_downtown_min": 5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "hotel_asheville_chestnut_house_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.75,
+    "actual_signal_overlap_rules": [
+      "jennifer_philmon_commerce_01",
+      "jennifer_philmon_commerce_02",
+      "jennifer_philmon_communication_01",
+      "jennifer_philmon_reservation_01",
+      "jennifer_philmon_reservation_02",
+      "jennifer_philmon_reservation_04",
+      "jennifer_philmon_travel_01",
+      "jennifer_philmon_travel_02",
+      "jennifer_philmon_travel_04"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.75,
+    "teachable_rule_count": 9,
+    "zero_signal_rule_count": 3,
+    "signal_pool_size_dedup": 19,
+    "noise_pool_size": 18,
+    "K": 24,
+    "seed": 0,
+    "selected_rules": [
+      "jennifer_philmon_commerce_01",
+      "jennifer_philmon_commerce_02",
+      "jennifer_philmon_communication_01",
+      "jennifer_philmon_reservation_01",
+      "jennifer_philmon_reservation_02",
+      "jennifer_philmon_reservation_04",
+      "jennifer_philmon_travel_01",
+      "jennifer_philmon_travel_02",
+      "jennifer_philmon_travel_04"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "jennifer_philmon_commerce_01",
+      "jennifer_philmon_commerce_02",
+      "jennifer_philmon_commerce_04",
+      "jennifer_philmon_communication_01",
+      "jennifer_philmon_reservation_01",
+      "jennifer_philmon_reservation_02",
+      "jennifer_philmon_reservation_04",
+      "jennifer_philmon_scheduling_01",
+      "jennifer_philmon_travel_01",
+      "jennifer_philmon_travel_02",
+      "jennifer_philmon_travel_03",
+      "jennifer_philmon_travel_04"
+    ],
+    "signal_count": 19,
+    "noise_count": 5,
+    "trajectory_length": 24
+  }
+}

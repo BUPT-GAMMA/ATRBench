@@ -1,0 +1,4388 @@
+{
+  "episode_id": "john_brown_seed000",
+  "persona_id": "john_brown",
+  "raw_persona": {
+    "persona_id": "john_brown",
+    "nemotron_uuid": "d232978a14c748f48575314506b6f415",
+    "narrative": "name: John Brown\nage: 20\nsex: Male\nmarital_status: never_married\neducation_level: some_college\noccupation: industrial_engineer_including_health_or_safety\nhobbies_and_interests: Visiting art galleries and sketching murals, Digital illustration and graphic design, Attending live jazz and hip-hop concerts, Participating in Mardi Gras brass-band events, Pickup basketball and co-ed volleyball leagues, STEM mentorship volunteer work, Minecraft world-building and indie game development, Exploring Creole and Cajun food festivals, Group escape rooms and laser tag outings, Community service at local youth center\nskills_and_expertise: Process mapping, Lean manufacturing, Time and motion study, Ergonomic risk assessment, OSHA compliance and safety audits, Minitab data analysis, Advanced Excel (pivot tables, macros), AutoCAD basics, SolidWorks basics, PLC ladder logic basics, Safety briefing facilitation, Team leadership and coordination, Design thinking for safety solutions, Creative problem solving, Effective oral and written communication\ncomplementary_info: John Brown was raised in East Baton Rouge Parish in a close-knit African-American family with deep Southern roots. Family life centered on soul food, storytelling, church attendance, and community solidarity, and he still moves through recurring local contexts such as neighborhood block parties, volunteer clean-up events, and Mardi Gras brass-band parades. Growing up near petrochemical plants shaped his awareness of the region’s link between industry, environmental risk, and community health, which informs his long-term interest in workplace safety and advocacy.\n\nHis routines blend creative work, social sports, and community involvement. He spends time in Baton Rouge street-art districts sketching murals and visiting the Baton Rouge Museum of Art, and he creates digital illustrations influenced by artists such as Basquiat and Trombone Shorty. He regularly goes to jazz nights at the LSU Rural Life Museum, downtown hip-hop shows with Kendrick Lamar in the mix, and local brass-band events during Mardi Gras. On weekends he often plays pickup basketball at the local community center and participates in a weekly co-ed volleyball league; he also volunteers as a referee for youth games when possible.\n\nHe is active in STEM outreach, mentoring high school students on industrial safety and engineering design, and he also joins service work connected to youth and neighborhood improvement. At home, he experiments in a modest kitchen with homemade roux, andouille sausage, and Creole staples like gumbo, jambalaya, and crawfish étouffée, while also sampling fusion dishes at local food festivals. His downtime often stretches into late-night Minecraft world-building and occasional indie game development, sometimes using those projects to prototype safety-scenario simulations.\n\nHe tends to take spontaneous Gulf Coast road trips and has already spent time in New Orleans for Mardi Gras, Austin for South by Southwest, and Charleston’s historic district, while hoping eventually to visit a VR conference in Tokyo and spend time in Montreal’s jazz scene. Over the next several years, he plans to finish his industrial engineering bachelor’s degree, pursue a PE license and CSP credential, work in a Louisiana petrochemical or manufacturing setting, and eventually combine safety engineering with art through VR training, graphic safety campaigns, or a consultancy focused on ergonomics, process improvement, and culturally inclusive safety programs.",
+    "general_domain": "industrial_engineer_including_health_or_safety",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "John Brown",
+    "demographics": {
+      "age": 20,
+      "sex": "Male",
+      "marital_status": "never_married",
+      "education_level": "some_college",
+      "occupation": "industrial_engineer_including_health_or_safety",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "zipcode": "70808",
+      "country": "USA"
+    },
+    "persona_summary": "John Brown is a curiosity‑driven industrial engineer who blends art, safety, and social energy into a uniquely creative yet occasionally disorganized lifestyle, punctuated by late‑night Minecraft builds, impulsive art‑supply splurges, and a perpetual quest for ergonomic perfection.",
+    "professional_persona": "John Brown is an emerging industrial engineer who merges lean manufacturing expertise with a design‑thinking flair, creating ergonomically sound, visually engaging safety signage while leading small cross‑functional teams, even as their relaxed approach to deadlines sometimes leads to last‑minute sprint sessions.",
+    "sports_persona": "John Brown fuels their energetic social life with weekend pickup basketball at the local community center and a co‑ed volleyball league, cheered on by the New Orleans Pelicans and LSU Tigers, while also serving as a volunteer referee for youth games whenever time permits.",
+    "arts_persona": "John Brown channels curiosity into murals across Baton Rouge’s street‑art districts, sketches digital illustrations inspired by Basquiat and Trombone Shorty, frequents jazz nights at the LSU Rural Life Museum featuring Herbie Hancock, hip‑hop shows downtown with Kendrick Lamar tracks, and brass‑band parades during Mardi Gras, weaving these experiences into vibrant safety campaign graphics.",
+    "travel_persona": "John Brown prefers spontaneous road trips along the Gulf Coast, having already explored New Orleans for Mardi Gras, Austin for South by Southwest, and a weekend in Charleston’s historic district, while dreaming of a tech‑focused VR conference in Tokyo and a jazz‑laden stay in Montreal, balancing limited student budget with a love for cultural immersion.",
+    "culinary_persona": "John Brown’s palate thrives on Creole classics like gumbo, jambalaya, and crawfish étouffée, often experimenting in their modest kitchen with homemade roux and Andouille sausage, while eagerly sampling fusion dishes at local food festivals, especially when a spicy shrimp po’boy competes with a Thai mango sticky rice dessert for attention.",
+    "cultural_background": "John was raised in East Baton Rouge Parish as part of a close-knit African-American family with deep roots in the South. His upbringing was shaped by the vibrant cultural mix of Baton Rouge, where gospel choirs, jazz clubs, and the annual Mardi Gras festivities coexist with the region's industrial landscape. Family gatherings often featured soul food, storytelling, and church attendance, reinforcing community solidarity and a strong sense of identity. Growing up near several petrochemical plants, John witnessed both the economic importance of the industry and the environmental and health challenges it posed, fueling his interest in workplace safety and community health advocacy. He draws inspiration from local black artists who fuse traditional Southern motifs with contemporary expression, and he often participates in neighborhood block parties and volunteer clean-up events that celebrate both cultural heritage and civic responsibility. John's cultural background informs his collaborative work style, his appreciation for musical rhythm in team dynamics, and his commitment to creating safety solutions that respect the diverse experiences of his coworkers.",
+    "skills_and_expertise": "John possesses a blend of technical and interpersonal competencies that support his work as an emerging industrial engineer focused on health and safety. He is skilled in process mapping and lean manufacturing concepts, allowing him to identify waste and streamline production flows. He conducts time-and-motion studies and ergonomic risk assessments to design workstations that reduce strain and injury. His knowledge of OSHA standards enables him to perform thorough safety audits, develop corrective action plans, and ensure compliance across plant operations. On the analytical side, John is comfortable with Minitab for statistical process control and uses advanced Excel functions—including pivot tables, macros, and complex formulas—to track safety metrics and production data. He has basic proficiency in CAD tools such as AutoCAD and SolidWorks for drafting layout changes, and introductory experience with PLC ladder‑logic programming for equipment monitoring. Complementing his technical toolkit, John excels in clear communication, routinely facilitates safety briefings, and leads small cross‑functional teams. His curiosity about art fuels a design‑thinking approach that yields visually engaging safety signage and inventive problem‑solving methods.",
+    "skills_and_expertise_list": [
+      "Process mapping",
+      "Lean manufacturing",
+      "Time and motion study",
+      "Ergonomic risk assessment",
+      "OSHA compliance and safety audits",
+      "Minitab data analysis",
+      "Advanced Excel (pivot tables, macros)",
+      "AutoCAD basics",
+      "SolidWorks basics",
+      "PLC ladder logic basics",
+      "Safety briefing facilitation",
+      "Team leadership and coordination",
+      "Design thinking for safety solutions",
+      "Creative problem solving",
+      "Effective oral and written communication"
+    ],
+    "hobbies_and_interests": "John's curiosity and outgoing nature drive a rich set of hobbies that blend creativity, social interaction, and community involvement. He frequents the Baton Rouge Museum of Art and local street-art districts, where he sketches murals and experiments with digital illustration for personal projects. Music fuels his social life; he enjoys jazz concerts at the LSU Rural Life Museum, hip-hop shows at downtown venues, and traditional brass-band performances during Mardi Gras celebrations. He plays pickup basketball at the community center and participates in a weekly co-ed volleyball league, both of which satisfy his love of group activities and energetic play. John volunteers as a mentor in a local STEM outreach program, introducing high school students to the basics of industrial safety and engineering design. In his downtime, he builds virtual environments in Minecraft and occasional indie game development, allowing him to prototype safety-scenario simulations. He also enjoys trying out new cuisines at food festivals, especially Creole and Cajun dishes that reflect the cultural tapestry of his hometown.",
+    "hobbies_and_interests_list": [
+      "Visiting art galleries and sketching murals",
+      "Digital illustration and graphic design",
+      "Attending live jazz and hip-hop concerts",
+      "Participating in Mardi Gras brass-band events",
+      "Pickup basketball and co-ed volleyball leagues",
+      "STEM mentorship volunteer work",
+      "Minecraft world-building and indie game development",
+      "Exploring Creole and Cajun food festivals",
+      "Group escape rooms and laser tag outings",
+      "Community service at local youth center"
+    ],
+    "career_goals_and_ambitions": "John aims to finish his bachelor's degree in industrial engineering within the next two years and obtain a professional engineering (PE) license with a focus on industrial safety. In the short term, he plans to secure a full-time entry-level safety engineer position at a petrochemical or manufacturing facility in Louisiana, where he can apply his lean and ergonomic expertise to improve workplace health outcomes. He intends to study for and achieve the Certified Safety Professional (CSP) credential within five years, positioning himself to lead safety‑culture transformation projects. Long‑term, John envisions a role that merges his technical background with his artistic sensibility, such as developing immersive safety training modules using virtual reality or creating graphic safety campaigns that resonate with a diverse workforce. Ultimately, he aspires to establish his own consultancy that advises small-to-mid-size industrial firms on ergonomic design, sustainable process improvement, and culturally inclusive safety programs."
+  },
+  "rules": [
+    {
+      "rule_text": "When ordering food or cooking ingredients, he prefers Creole or Cajun options over more generic alternatives.",
+      "canonical_answer": "For food, I usually go for Creole or Cajun options first.",
+      "counterfactual_default": "Pick whatever option is cheapest, most popular, or most neutral.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "John Brown’s palate thrives on Creole classics like gumbo, jambalaya, and crawfish étouffée"
+        },
+        {
+          "type": "direct",
+          "content": "He also enjoys trying out new cuisines at food festivals, especially Creole and Cajun dishes"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "john_brown_commerce_01"
+    },
+    {
+      "rule_text": "When ordering ingredients for home cooking, he prefers items that support scratch-made dishes like roux-based cooking over ready-made shortcuts.",
+      "canonical_answer": "If I’m buying cooking ingredients, I’d rather get the pieces to make it from scratch than premade shortcuts.",
+      "counterfactual_default": "Choose convenient prepared mixes or ready-to-eat substitutes.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often experimenting in their modest kitchen with homemade roux and Andouille sausage"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "john_brown_commerce_02"
+    },
+    {
+      "rule_text": "When changing a subscription tier, he prefers the basic plan unless there is a clear need for more.",
+      "canonical_answer": "I usually keep subscriptions on the basic plan unless I really need extra features.",
+      "counterfactual_default": "Choose a mid-tier or upgraded plan for more capability by default.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing limited student budget with a love for cultural immersion"
+        },
+        {
+          "type": "direct",
+          "content": "Education Level: some_college"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "change_subscription_plan",
+        "param": "new_plan"
+      },
+      "rule_id": "john_brown_commerce_05"
+    },
+    {
+      "rule_text": "When he asks for help sending a message about applications, safety work, or outreach, he prefers it drafted for review instead of being sent immediately.",
+      "canonical_answer": "I like job, safety, and mentorship messages drafted first so I can review the wording before anything goes out.",
+      "counterfactual_default": "Send the completed message directly once the content is prepared.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Effective oral and written communication"
+        },
+        {
+          "type": "direct",
+          "content": "routinely facilitates safety briefings"
+        },
+        {
+          "type": "direct",
+          "content": "STEM mentorship volunteer work"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "john_brown_communication_01"
+    },
+    {
+      "rule_text": "When choosing a restaurant, he prefers places known for Creole, Cajun, or fusion food over generic American spots.",
+      "canonical_answer": "When I go out to eat, I lean toward Creole, Cajun, or creative fusion places.",
+      "counterfactual_default": "Book the closest or most generally rated restaurant without a cuisine preference.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "palate thrives on Creole classics like gumbo, jambalaya, and crawfish étouffée"
+        },
+        {
+          "type": "direct",
+          "content": "eagerly sampling fusion dishes at local food festivals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "john_brown_reservation_01"
+    },
+    {
+      "rule_text": "When choosing live events, he prefers jazz, hip-hop, or brass-band performances over generic entertainment options.",
+      "canonical_answer": "For nights out, I usually want jazz, hip-hop, or brass-band events first.",
+      "counterfactual_default": "Choose any available event with good reviews or convenient timing.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "frequents jazz nights at the LSU Rural Life Museum featuring Herbie Hancock, hip‑hop shows downtown with Kendrick Lamar tracks, and brass‑band parades during Mardi Gras"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "john_brown_reservation_02"
+    },
+    {
+      "rule_text": "When selecting local service appointments, he prefers options tied to sports recovery or ergonomic improvement over purely cosmetic services.",
+      "canonical_answer": "For appointments, I’m more interested in sports recovery or ergonomic help than cosmetic stuff.",
+      "counterfactual_default": "Choose whichever provider is cheapest, closest, or most available regardless of service style.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "a perpetual quest for ergonomic perfection"
+        },
+        {
+          "type": "direct",
+          "content": "weekend pickup basketball at the local community center and a co‑ed volleyball league"
+        },
+        {
+          "type": "direct",
+          "content": "He conducts time-and-motion studies and ergonomic risk assessments"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "john_brown_reservation_04"
+    },
+    {
+      "rule_text": "When scheduling his own activities around sports, volunteer work, or concerts, he prefers putting them on the calendar as real events rather than using a private reminder alone.",
+      "canonical_answer": "For things I plan to attend or run, I want an actual calendar event, not just a reminder.",
+      "counterfactual_default": "Set a reminder without creating a full calendar event.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "weekly co-ed volleyball league"
+        },
+        {
+          "type": "direct",
+          "content": "volunteer referee for youth games whenever time permits"
+        },
+        {
+          "type": "direct",
+          "content": "jazz concerts at the LSU Rural Life Museum, hip-hop shows at downtown venues"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "john_brown_scheduling_01"
+    },
+    {
+      "rule_text": "When an invite overlaps with work, sports, or volunteer commitments and he is not sure yet, he prefers responding tentatively.",
+      "canonical_answer": "If I’m conflicted or still figuring out timing, I usually mark the invite tentative.",
+      "counterfactual_default": "Accept or decline the invite immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "their relaxed approach to deadlines sometimes leads to last‑minute sprint sessions"
+        },
+        {
+          "type": "direct",
+          "content": "weekend pickup basketball at the local community center and a co‑ed volleyball league"
+        },
+        {
+          "type": "direct",
+          "content": "volunteer referee for youth games whenever time permits"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "john_brown_scheduling_02"
+    },
+    {
+      "rule_text": "For Gulf Coast and other regional leisure travel, he prefers ground transportation over flights.",
+      "canonical_answer": "For shorter regional trips, I’d rather go by road or rail than fly.",
+      "counterfactual_default": "Check flight options first for out-of-town travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "John Brown prefers spontaneous road trips along the Gulf Coast"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "john_brown_travel_02"
+    },
+    {
+      "rule_text": "When booking a flight, he prefers a window seat.",
+      "canonical_answer": "If I do fly, I always prefer a window seat.",
+      "counterfactual_default": "Choose an aisle seat for convenience or leave the seat preference unspecified.",
+      "evidence": [
+        {
+          "type": "inferred",
+          "content": "He is visually oriented through murals, digital illustration, and cultural exploration, so a window seat better matches his habit of taking in scenery during travel."
+        },
+        {
+          "type": "direct",
+          "content": "love for cultural immersion"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "john_brown_travel_03"
+    },
+    {
+      "rule_text": "When organizing files from his projects, he prefers grouping them by project rather than by type or date.",
+      "canonical_answer": "I organize working files by project first, not just by file type or date.",
+      "counterfactual_default": "Sort files by type or recency because that is simpler and more generic.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "creating ergonomically sound, visually engaging safety signage while leading small cross‑functional teams"
+        },
+        {
+          "type": "direct",
+          "content": "Process mapping, Lean manufacturing"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "john_brown_workspace_01"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "john_brown_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Handle my messages.",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "Acknowledge the note and confirm receipt",
+          "Say the floor-sign walkthrough is scheduled for this afternoon",
+          "Promise a same-day update after the walkthrough",
+          "Mention he is checking replacement sign dimensions with maintenance"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Need status update on floor-sign replacement",
+              "body": "Morning John — can you send me a status update on the floor-sign replacement before the safety huddle? I need to know whether maintenance has confirmed the dimensions and whether the walkthrough is still happening today.",
+              "thread_id": "thr_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00"
+            }
+          },
+          {
+            "id": "msg_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Bayou Industrial Supply",
+              "subject": "Updated glove catalog for Q1",
+              "body": "Attached is the latest PPE catalog and bulk pricing sheet for nitrile and cut-resistant gloves.",
+              "thread_id": "thr_02",
+              "folder": "inbox",
+              "labels": [
+                "vendor"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00"
+            }
+          },
+          {
+            "id": "msg_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Luis Ramirez",
+              "subject": "Photos from forklift lane mockup",
+              "body": "Here are the photos from yesterday’s tape layout. Let me know which angles you want in the slide.",
+              "thread_id": "thr_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-13T21:11:00"
+            }
+          },
+          {
+            "id": "msg_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Campus Career Center",
+              "subject": "Resume workshop next week",
+              "body": "Join us for a resume workshop and employer panel next Thursday evening.",
+              "thread_id": "thr_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-13T16:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "scheduling",
+      "reason_for_call": "Organize my calendar.",
+      "task_params": {
+        "calendar": "primary",
+        "title": "Industrial Engineering Study Block",
+        "start_time": "2025-07-17T18:30:00-05:00",
+        "end_time": "2025-07-17T20:00:00-05:00",
+        "location": "LSU Library"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "primary"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-07-17T18:30:00-05:00",
+            "end_time": "2025-07-17T20:00:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Industrial Engineering Study Block",
+            "start_time": "2025-07-17T18:30:00-05:00",
+            "end_time": "2025-07-17T20:00:00-05:00",
+            "location": "LSU Library"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_primary_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Safety Metrics Team Sync",
+              "start_time": "2025-07-15T09:00:00-05:00",
+              "end_time": "2025-07-15T10:00:00-05:00",
+              "participants": [
+                "ops-team@example.com",
+                "supervisor@example.com"
+              ],
+              "location": "Plant Conference Room B",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_primary_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Volunteer STEM Mentor Session",
+              "start_time": "2025-07-16T17:30:00-05:00",
+              "end_time": "2025-07-16T19:00:00-05:00",
+              "participants": [
+                "youthcenter@example.org"
+              ],
+              "location": "North Baton Rouge Youth Center",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_primary_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Co-ed Volleyball League",
+              "start_time": "2025-07-17T20:30:00-05:00",
+              "end_time": "2025-07-17T22:00:00-05:00",
+              "participants": [
+                "league-coordinator@example.com"
+              ],
+              "location": "BREC Sports Complex",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_primary_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Industrial Engineering Study Block",
+              "start_time": "2025-07-17T18:30:00-05:00",
+              "end_time": "2025-07-17T20:00:00-05:00",
+              "participants": [
+                "ie-lab@example.edu"
+              ],
+              "location": "Patrick F. Taylor Hall",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Organize a file batch",
+      "task_params": {
+        "location": "Plant Floor Dump",
+        "file_type": "image",
+        "scheme": "by_project",
+        "folder_id": "fld_sorted_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Plant Floor Dump",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_photo_01",
+              "fil_photo_02",
+              "fil_photo_03",
+              "fil_photo_04"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_photo_01",
+              "fil_photo_02",
+              "fil_photo_03",
+              "fil_photo_04"
+            ],
+            "folder_id": "fld_sorted_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_photo_01",
+            "type": "file",
+            "attributes": {
+              "name": "line3_guarding_photo_01.jpg",
+              "file_type": "image",
+              "location": "Plant Floor Dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_photo_02",
+            "type": "file",
+            "attributes": {
+              "name": "packout_station_ergo_02.png",
+              "file_type": "image",
+              "location": "Plant Floor Dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_photo_03",
+            "type": "file",
+            "attributes": {
+              "name": "forklift_lane_marking_03.jpg",
+              "file_type": "image",
+              "location": "Plant Floor Dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_photo_04",
+            "type": "file",
+            "attributes": {
+              "name": "conveyor_sensor_mount_04.jpg",
+              "file_type": "image",
+              "location": "Plant Floor Dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_sorted_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Project-Sorted Photos",
+              "purpose": "Hold labeled plant-floor images after project sorting"
+            }
+          },
+          {
+            "id": "fld_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Old Site Photos Archive",
+              "purpose": "Archive older completed photo batches"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item.",
+      "task_params": {
+        "category": "ergonomic chair cushion",
+        "budget": 35,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "ergonomic chair cushion",
+            "budget": 35,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_cushnest_01",
+              "prod_spineease_02",
+              "prod_flexsit_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_spineease_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_cushnest_01",
+            "type": "product",
+            "attributes": {
+              "name": "CushNest Ergonomic Chair Cushion",
+              "price": 29.99,
+              "category": "ergonomic chair cushion",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_spineease_02",
+            "type": "product",
+            "attributes": {
+              "name": "SpineEase Memory Foam Seat Pad",
+              "price": 34.5,
+              "category": "ergonomic chair cushion",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_flexsit_03",
+            "type": "product",
+            "attributes": {
+              "name": "FlexSit Breathable Desk Seat Cushion",
+              "price": 24.99,
+              "category": "ergonomic chair cushion",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_posturelift_04",
+            "type": "product",
+            "attributes": {
+              "name": "PostureLift Coccyx Relief Cushion",
+              "price": 39.99,
+              "category": "ergonomic chair cushion",
+              "rating": 4.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Baton Rouge",
+        "cuisine": "Creole",
+        "sort_by": "rating",
+        "date_time": "2025-02-21T20:15:00",
+        "party_size": 5
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Baton Rouge",
+            "cuisine": "Creole",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_beausoleil_01",
+            "date_time": "2025-02-21T20:15:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_beausoleil_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Beausoleil Coastal Cuisine",
+              "cuisine": "Creole",
+              "location": "Baton Rouge",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_cocha_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cocha",
+              "cuisine": "Creole",
+              "location": "Baton Rouge",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "shared tables"
+            }
+          },
+          {
+            "id": "rst_jubans_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Juban's Restaurant",
+              "cuisine": "Cajun",
+              "location": "Baton Rouge",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "classic dining room"
+            }
+          },
+          {
+            "id": "rst_curbside_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Curbside Burgers",
+              "cuisine": "American",
+              "location": "Baton Rouge",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "patio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document.",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "Safety Observation and Ergonomic Issues Log",
+        "location": "EHS/Active Logs",
+        "source_location": "EHS/Templates",
+        "content_points": [
+          "columns for date, area, observation type, issue details",
+          "include risk level and immediate action taken",
+          "track owner and target completion date",
+          "add status field for open, in progress, closed",
+          "leave room for follow-up notes"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "EHS/Templates",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "Safety Observation and Ergonomic Issues Log",
+            "location": "EHS/Active Logs",
+            "content_brief": "<authored from content_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Near-Miss Tracking Template",
+              "doc_type": "template",
+              "location": "EHS/Templates",
+              "content_brief": "Template with columns for date, location, description, severity, owner, and status."
+            }
+          },
+          {
+            "id": "doc_template_02",
+            "type": "document",
+            "attributes": {
+              "title": "Corrective Action Register Template",
+              "doc_type": "template",
+              "location": "EHS/Templates",
+              "content_brief": "Structured action log for issue, responsible person, due date, and closure notes."
+            }
+          },
+          {
+            "id": "doc_spreadsheet_03",
+            "type": "document",
+            "attributes": {
+              "title": "Monthly PPE Audit Summary",
+              "doc_type": "spreadsheet",
+              "location": "EHS/Reports",
+              "content_brief": "Monthly summary spreadsheet for PPE compliance checks."
+            }
+          },
+          {
+            "id": "doc_note_04",
+            "type": "document",
+            "attributes": {
+              "title": "Workstation Walkthrough Notes",
+              "doc_type": "note",
+              "location": "EHS/Field Notes",
+              "content_brief": "Informal notes from floor walkthroughs and ergonomic observations."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "sender": "Maya Thompson",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "greet her politely",
+          "ask what materials students should bring for the next session",
+          "ask if any handouts or supplies will be provided on site",
+          "say I want to make sure the students come prepared",
+          "thank her for the help"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Thompson",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_outreach_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_outreach_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Thompson",
+              "subject": "STEM Outreach schedule update",
+              "body": "Hi John, thanks again for volunteering. Our next student session is coming up soon. I'll send more details once the room and activity plan are finalized.",
+              "thread_id": "thr_outreach_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T16:20:00"
+            }
+          },
+          {
+            "id": "msg_team_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Carlos Nguyen",
+              "subject": "Safety sign mockup feedback",
+              "body": "Can you revise the forklift warning icon before Friday? The team liked the color palette but wants stronger contrast.",
+              "thread_id": "thr_design_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-11T09:05:00"
+            }
+          },
+          {
+            "id": "msg_league_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Avery Collins",
+              "subject": "Volleyball lineup",
+              "body": "We might be short one player this week. Let me know if your class runs late and I can adjust rotations.",
+              "thread_id": "thr_sports_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-10T18:42:00"
+            }
+          },
+          {
+            "id": "msg_prof_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Dr. Elaine Foster",
+              "subject": "Office hours follow-up",
+              "body": "Good talking with you today. The ergonomics case study examples are posted now if you want to review them before lab.",
+              "thread_id": "thr_class_04",
+              "folder": "archive",
+              "labels": [
+                "school"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-02-08T14:10:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "reservation",
+      "reason_for_call": "Book some tickets.",
+      "task_params": {
+        "location": "Downtown Baton Rouge",
+        "event_tags": [
+          "jazz"
+        ],
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Downtown Baton Rouge",
+            "event_tags": [
+              "jazz"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_riverroom_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_riverroom_01",
+            "type": "event",
+            "attributes": {
+              "name": "River Room Jazz Night",
+              "location": "Downtown Baton Rouge",
+              "date_time": "2025-02-14T20:00:00-06:00",
+              "price": 22.0,
+              "event_tags": [
+                "jazz",
+                "live music",
+                "downtown"
+              ]
+            }
+          },
+          {
+            "id": "evt_landinggroove_02",
+            "type": "event",
+            "attributes": {
+              "name": "Landing Groove Session",
+              "location": "Downtown Baton Rouge",
+              "date_time": "2025-02-15T21:00:00-06:00",
+              "price": 18.0,
+              "event_tags": [
+                "funk",
+                "live music",
+                "downtown"
+              ]
+            }
+          },
+          {
+            "id": "evt_midcitybrass_03",
+            "type": "event",
+            "attributes": {
+              "name": "Mid City Brass Collective",
+              "location": "Mid City Baton Rouge",
+              "date_time": "2025-02-14T19:30:00-06:00",
+              "price": 16.0,
+              "event_tags": [
+                "jazz",
+                "brass",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_campuskeys_04",
+            "type": "event",
+            "attributes": {
+              "name": "Campus Keys Trio",
+              "location": "LSU Area Baton Rouge",
+              "date_time": "2025-02-13T19:00:00-06:00",
+              "price": 12.0,
+              "event_tags": [
+                "jazz",
+                "piano",
+                "live music"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s11",
+      "session_type": "learning",
+      "day_offset": 11,
+      "domain": "workspace",
+      "reason_for_call": "Update a work document.",
+      "task_params": {
+        "location": "Safety Campaigns",
+        "doc_type": "note",
+        "document_title": "Safety Signage Concept Note",
+        "inclusion_section_points": [
+          "use people and symbols that reflect a mixed workforce",
+          "avoid color choices that carry conflicting cultural meanings",
+          "pair icons with short plain-language labels",
+          "increase contrast and whitespace so key warnings scan faster",
+          "group hazards by visual priority with consistent shapes"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Safety Campaigns",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_signage_01",
+            "content_delta": "<authored from inclusion_section_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_signage_01",
+            "type": "document",
+            "attributes": {
+              "title": "Safety Signage Concept Note",
+              "doc_type": "note",
+              "location": "Safety Campaigns",
+              "content_brief": "Working concept note for a plant safety-signage refresh focused on readability, hazard hierarchy, and visual consistency."
+            }
+          },
+          {
+            "id": "doc_audit_02",
+            "type": "document",
+            "attributes": {
+              "title": "PPE Audit Summary",
+              "doc_type": "report",
+              "location": "Safety Campaigns",
+              "content_brief": "Recent audit summary covering PPE compliance gaps and corrective actions."
+            }
+          },
+          {
+            "id": "doc_training_03",
+            "type": "document",
+            "attributes": {
+              "title": "Toolbox Talk Visual Guidelines",
+              "doc_type": "memo",
+              "location": "Training Materials",
+              "content_brief": "Memo on formatting visual aids for short safety briefings."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a work meeting",
+      "task_params": {
+        "title": "Signage Project Check-in",
+        "start_time": "2025-02-19T14:00:00-06:00",
+        "end_time": "2025-02-19T14:30:00-06:00",
+        "participants": [
+          "maya.chen@plantops.example.com",
+          "carlos.ruiz@plantops.example.com",
+          "nina.patel@plantops.example.com"
+        ],
+        "location": "Teams"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-19T14:00:00-06:00",
+            "end_time": "2025-02-19T14:30:00-06:00",
+            "participants": [
+              "maya.chen@plantops.example.com",
+              "carlos.ruiz@plantops.example.com",
+              "nina.patel@plantops.example.com"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Signage Project Check-in",
+            "start_time": "2025-02-19T14:00:00-06:00",
+            "end_time": "2025-02-19T14:30:00-06:00",
+            "participants": [
+              "maya.chen@plantops.example.com",
+              "carlos.ruiz@plantops.example.com",
+              "nina.patel@plantops.example.com"
+            ],
+            "location": "Teams"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Weekly Safety Standup",
+              "start_time": "2025-02-19T09:00:00-06:00",
+              "end_time": "2025-02-19T09:30:00-06:00",
+              "participants": [
+                "john.brown@example.com",
+                "maya.chen@plantops.example.com",
+                "ops-team@plantops.example.com"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Ergonomics Walkthrough",
+              "start_time": "2025-02-19T11:00:00-06:00",
+              "end_time": "2025-02-19T12:00:00-06:00",
+              "participants": [
+                "john.brown@example.com",
+                "carlos.ruiz@plantops.example.com"
+              ],
+              "location": "Assembly Line 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Signage Project Check-in",
+              "start_time": "2025-02-19T14:00:00-06:00",
+              "end_time": "2025-02-19T14:30:00-06:00",
+              "participants": [
+                "john.brown@example.com",
+                "nina.patel@plantops.example.com",
+                "vendor.rep@example.com"
+              ],
+              "location": "Teams",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Shift Handoff Review",
+              "start_time": "2025-02-20T08:30:00-06:00",
+              "end_time": "2025-02-20T09:00:00-06:00",
+              "participants": [
+                "john.brown@example.com",
+                "maya.chen@plantops.example.com",
+                "carlos.ruiz@plantops.example.com"
+              ],
+              "location": "Control Room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "travel",
+      "reason_for_call": "Book a quick trip.",
+      "task_params": {
+        "origin": "Baton Rouge",
+        "destination": "Montreal",
+        "passenger_count": 1,
+        "departure_date": "2025-09-12",
+        "return_date": "2025-09-15",
+        "seat_preference": "window",
+        "sort_by": "price_asc"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "Baton Rouge",
+            "destination": "Montreal",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_mtl_01",
+            "seat_preference": "window"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_mtl_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Baton Rouge",
+              "destination": "Montreal",
+              "departure_date": "2025-09-12",
+              "return_date": "2025-09-15",
+              "airline": "Air Canada",
+              "price": 318.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_mtl_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Baton Rouge",
+              "destination": "Montreal",
+              "departure_date": "2025-09-12",
+              "return_date": "2025-09-15",
+              "airline": "Delta",
+              "price": 356.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_mtl_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Baton Rouge",
+              "destination": "Montreal",
+              "departure_date": "2025-09-13",
+              "return_date": "2025-09-16",
+              "airline": "United",
+              "price": 289.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_mtl_04",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Baton Rouge",
+              "destination": "Montreal",
+              "departure_date": "2025-09-12",
+              "return_date": "2025-09-15",
+              "airline": "American",
+              "price": 402.0,
+              "available_seats": 7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s18",
+      "session_type": "learning",
+      "day_offset": 18,
+      "domain": "communication",
+      "reason_for_call": "Draft a work note",
+      "task_params": {
+        "sender": "Maya Patel",
+        "folder": "inbox",
+        "language": "en",
+        "body_points": [
+          "say I am taking a brief weekend break",
+          "let her know I will stay reachable if anything urgent comes up",
+          "mention I will keep an eye on messages",
+          "close with appreciation and a calm professional tone"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Patel",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "language": "en",
+            "body": "<authored from body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Patel",
+              "subject": "Next week's signage review",
+              "body": "Can you send me a quick update before Monday on the safety signage mockups and anything that might block the review?",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-16T14:20:00"
+            }
+          },
+          {
+            "id": "msg_nina_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Brooks",
+              "subject": "Volunteer shift signup",
+              "body": "The youth center posted next month's referee and mentor slots if you want to grab one.",
+              "thread_id": "thr_nina_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-05-16T09:05:00"
+            }
+          },
+          {
+            "id": "msg_ops_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Plant Ops Alerts",
+              "subject": "Weekly safety metric digest",
+              "body": "Attached is the automated digest for incident trends, near misses, and open corrective actions.",
+              "thread_id": "thr_ops_03",
+              "folder": "archive",
+              "labels": [
+                "reports"
+              ],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-05-15T18:00:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "scheduling",
+      "reason_for_call": "Manage my calendar",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Cousin's Wedding Ceremony",
+        "start_time": "2025-03-29T13:00:00-05:00",
+        "end_time": "2025-03-29T17:00:00-05:00",
+        "travel_title": "Drive to Lafayette",
+        "travel_start_time": "2025-03-29T10:30:00-05:00",
+        "travel_end_time": "2025-03-29T12:30:00-05:00",
+        "hold_title": "Weekend held for family trip",
+        "hold_start_time": "2025-03-29T17:30:00-05:00",
+        "hold_end_time": "2025-03-30T23:00:00-05:00"
+      },
+      "expected_tools": [
+        "list_events",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Drive to Lafayette",
+            "start_time": "2025-03-29T10:30:00-05:00",
+            "end_time": "2025-03-29T12:30:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Weekend held for family trip",
+            "start_time": "2025-03-29T17:30:00-05:00",
+            "end_time": "2025-03-30T23:00:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_wedding_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Cousin's Wedding Ceremony",
+              "start_time": "2025-03-29T13:00:00-05:00",
+              "end_time": "2025-03-29T17:00:00-05:00",
+              "participants": [
+                "family@example.com"
+              ],
+              "location": "Lafayette Event Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_volley_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Co-ed Volleyball",
+              "start_time": "2025-03-30T18:00:00-05:00",
+              "end_time": "2025-03-30T20:00:00-05:00",
+              "participants": [
+                "league@example.com"
+              ],
+              "location": "Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_stem_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "STEM Mentorship Prep",
+              "start_time": "2025-03-29T09:00:00-05:00",
+              "end_time": "2025-03-29T10:00:00-05:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_shift_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Safety Signage Review",
+              "start_time": "2025-03-28T15:00:00-05:00",
+              "end_time": "2025-03-28T16:30:00-05:00",
+              "participants": [
+                "teamlead@example.com"
+              ],
+              "location": "Plant Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "workspace",
+      "reason_for_call": "Archive some old files",
+      "task_params": {
+        "location": "Classes/Spring_Reports",
+        "file_type": "pdf",
+        "scheme": "by_date",
+        "archive_folder_name": "Archived Class Reports"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Classes/Spring_Reports",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_ergonomics_01",
+              "fil_process_02",
+              "fil_design_03"
+            ],
+            "scheme": "by_date"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "fil_ergonomics_01",
+              "fil_process_02",
+              "fil_design_03"
+            ],
+            "folder_id": "fld_archive_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_ergonomics_01",
+            "type": "file",
+            "attributes": {
+              "name": "IE_Ergonomics_Final_Report.pdf",
+              "file_type": "pdf",
+              "location": "Classes/Spring_Reports",
+              "owner": "John Brown",
+              "labels": [
+                "class",
+                "report",
+                "ergonomics"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_process_02",
+            "type": "file",
+            "attributes": {
+              "name": "Lean_Process_Study_Report.pdf",
+              "file_type": "pdf",
+              "location": "Classes/Spring_Reports",
+              "owner": "John Brown",
+              "labels": [
+                "class",
+                "report",
+                "lean"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_design_03",
+            "type": "file",
+            "attributes": {
+              "name": "Visual_Safety_Design_Report.pdf",
+              "file_type": "pdf",
+              "location": "Classes/Spring_Reports",
+              "owner": "John Brown",
+              "labels": [
+                "class",
+                "report",
+                "design"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Class Reports",
+              "purpose": "Storage for older completed class reports"
+            }
+          },
+          {
+            "id": "fld_current_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Current Engineering and Art",
+              "purpose": "Active coursework and creative files"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Baton Rouge",
+        "sort_by": "rating",
+        "date_time": "2025-03-18T17:30:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Baton Rouge",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_groomroom_03",
+            "date_time": "2025-03-18T17:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_shearstation_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Shear Station",
+              "service_type": "haircut",
+              "location": "Baton Rouge",
+              "rating": 4.8,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "svc_rivercitycuts_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "River City Cuts",
+              "service_type": "haircut",
+              "location": "Baton Rouge",
+              "rating": 4.6,
+              "distance_km": 2.4
+            }
+          },
+          {
+            "id": "svc_groomroom_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "The Groom Room",
+              "service_type": "haircut",
+              "location": "Baton Rouge",
+              "rating": 4.9,
+              "distance_km": 5.1
+            }
+          },
+          {
+            "id": "svc_oakpointnails_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Oak Point Nails",
+              "service_type": "manicure",
+              "location": "Baton Rouge",
+              "rating": 4.5,
+              "distance_km": 4.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "communication",
+      "reason_for_call": "Draft a thank-you message",
+      "task_params": {
+        "sender": "Maya Carter",
+        "folder": "inbox",
+        "language": "en",
+        "thank_you_points": [
+          "thank them for pulling the music plan together",
+          "thank them for handling the food plan",
+          "say the trip felt easy and fun because of their effort",
+          "mention the playlist kept the energy up",
+          "mention the food choices worked out really well",
+          "say I appreciate them taking initiative"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Carter",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thd_tripcrew_01",
+            "language": "en",
+            "body": "<authored from thank_you_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_tripcrew_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Carter",
+              "subject": "Re: Trip wrap-up and photos",
+              "body": "Had such a good time. Also, glad the playlist and food run came together. Send over any photos when you get a chance!",
+              "thread_id": "thd_tripcrew_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-22T18:14:00"
+            }
+          },
+          {
+            "id": "msg_team_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Andre Wilson",
+              "subject": "Volleyball schedule update",
+              "body": "Next week's match got pushed back by an hour. Let me know if that changes anything for you.",
+              "thread_id": "thd_volley_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-22T11:05:00"
+            }
+          },
+          {
+            "id": "msg_class_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Professor Nguyen",
+              "subject": "Lab submission reminder",
+              "body": "Reminder that the ergonomics lab summary is due by midnight tomorrow.",
+              "thread_id": "thd_class_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-03-21T09:20:00"
+            }
+          },
+          {
+            "id": "msg_tripold_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Carter",
+              "subject": "Gas money from last month",
+              "body": "No rush, but here's the split from the last drive if you still need it.",
+              "thread_id": "thd_drive_04",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-11T16:42:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule an activity",
+      "task_params": {
+        "title": "Pickup Basketball",
+        "start_time": "2025-02-26T18:30:00-06:00",
+        "end_time": "2025-02-26T20:00:00-06:00",
+        "location": "Highland Road Community Park"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "primary"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-26T18:30:00-06:00",
+            "end_time": "2025-02-26T20:00:00-06:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Pickup Basketball",
+            "start_time": "2025-02-26T18:30:00-06:00",
+            "end_time": "2025-02-26T20:00:00-06:00",
+            "location": "Highland Road Community Park"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_safety_lab_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Plant Safety Lab",
+              "start_time": "2025-02-24T15:00:00-06:00",
+              "end_time": "2025-02-24T17:30:00-06:00",
+              "participants": [
+                "lab group"
+              ],
+              "location": "Patrick F. Taylor Hall",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_volleyball_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pickup Basketball",
+              "start_time": "2025-02-26T18:30:00-06:00",
+              "end_time": "2025-02-26T20:00:00-06:00",
+              "participants": [
+                "league team"
+              ],
+              "location": "Highland Road Community Park",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_study_group_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "IE Study Group",
+              "start_time": "2025-02-27T18:00:00-06:00",
+              "end_time": "2025-02-27T20:00:00-06:00",
+              "participants": [
+                "study group"
+              ],
+              "location": "LSU Library",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_shift_review_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Shift Ergonomics Review",
+              "start_time": "2025-02-28T16:30:00-06:00",
+              "end_time": "2025-02-28T18:00:00-06:00",
+              "participants": [
+                "operations team"
+              ],
+              "location": "North Plant Conference Room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "Baton Rouge",
+        "event_tags": [
+          "art",
+          "exhibit",
+          "opening"
+        ],
+        "event_name": "Magnolia Warehouse Exhibit Opening",
+        "ticket_type": "general_admission",
+        "ticket_count": 1
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Baton Rouge",
+            "event_tags": [
+              "art",
+              "exhibit",
+              "opening"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_magnolia_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_magnolia_01",
+            "type": "event",
+            "attributes": {
+              "name": "After Hours: Magnolia Warehouse Exhibit Opening",
+              "location": "Baton Rouge",
+              "date_time": "2025-05-22T18:30:00",
+              "price": 18.0,
+              "event_tags": [
+                "art",
+                "exhibit",
+                "opening",
+                "gallery"
+              ]
+            }
+          },
+          {
+            "id": "evt_river_02",
+            "type": "event",
+            "attributes": {
+              "name": "River Center Photo Showcase",
+              "location": "Baton Rouge",
+              "date_time": "2025-05-22T19:00:00",
+              "price": 12.0,
+              "event_tags": [
+                "art",
+                "exhibit",
+                "photography"
+              ]
+            }
+          },
+          {
+            "id": "evt_cedar_03",
+            "type": "event",
+            "attributes": {
+              "name": "Cedar Street Print Fair Opening Night",
+              "location": "Baton Rouge",
+              "date_time": "2025-05-23T18:00:00",
+              "price": 20.0,
+              "event_tags": [
+                "art",
+                "opening",
+                "prints",
+                "market"
+              ]
+            }
+          },
+          {
+            "id": "evt_lsu_04",
+            "type": "event",
+            "attributes": {
+              "name": "LSU Museum Student Installation Walkthrough",
+              "location": "Baton Rouge",
+              "date_time": "2025-05-21T17:45:00",
+              "price": 0.0,
+              "event_tags": [
+                "art",
+                "installation",
+                "talk"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files",
+      "task_params": {
+        "location": "Downloads/safety_art_dump",
+        "file_type": "image",
+        "scheme": "by_project",
+        "folder_id": "fld_volunteer_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Downloads/safety_art_dump",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_iconset_01",
+              "fil_handwash_02",
+              "fil_exitmap_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_iconset_01",
+              "fil_handwash_02",
+              "fil_exitmap_03"
+            ],
+            "folder_id": "fld_volunteer_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_iconset_01",
+            "type": "file",
+            "attributes": {
+              "name": "ppe_icons_v3.png",
+              "file_type": "image",
+              "location": "Downloads/safety_art_dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_handwash_02",
+            "type": "file",
+            "attributes": {
+              "name": "handwash_poster_sketch.jpg",
+              "file_type": "image",
+              "location": "Downloads/safety_art_dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_exitmap_03",
+            "type": "file",
+            "attributes": {
+              "name": "exit_route_illustration.ai-export.png",
+              "file_type": "image",
+              "location": "Downloads/safety_art_dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_notes_04",
+            "type": "file",
+            "attributes": {
+              "name": "rough_color_notes.txt",
+              "file_type": "txt",
+              "location": "Downloads/safety_art_dump",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_volunteer_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Volunteer Safety Handouts",
+              "purpose": "Reusable artwork and layouts for community safety materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "communication",
+      "reason_for_call": "Draft a reply message",
+      "task_params": {
+        "sender": "Maya Carter",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for keeping the group on track",
+          "apologize for being behind on my piece",
+          "say my draft process map will be ready tonight",
+          "offer to upload it to the shared folder as soon as it's done",
+          "ask if anything else is blocking the group"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Carter",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_project_08",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Carter",
+              "subject": "Re: Project check-in",
+              "body": "Hey team, just nudging everyone again since a couple project pieces are still overdue. We need the remaining parts uploaded so I can combine everything before class. John, can you let us know where your section stands?",
+              "thread_id": "thr_project_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-27T18:42:00"
+            }
+          },
+          {
+            "id": "msg_prof_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Professor Lin",
+              "subject": "Lab notes reminder",
+              "body": "Please remember to bring your annotated lab notes to tomorrow's discussion section.",
+              "thread_id": "thr_class_14",
+              "folder": "inbox",
+              "labels": [
+                "class"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-27T11:10:00"
+            }
+          },
+          {
+            "id": "msg_career_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Campus Career Center",
+              "subject": "Resume workshop seats still open",
+              "body": "There are still seats available for Thursday's resume workshop if you'd like to attend.",
+              "thread_id": "thr_career_05",
+              "folder": "inbox",
+              "labels": [
+                "career"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-26T09:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Montreal",
+          "jazz",
+          "walkable",
+          "budget"
+        ],
+        "destination": "Montreal",
+        "duration_days": 4,
+        "traveler_count": 1,
+        "stop_tags": [
+          "jazz",
+          "walkable"
+        ],
+        "destination_ids": [
+          "dst_montreal_01"
+        ],
+        "selected_stop_ids": [
+          "stp_quartier_01",
+          "stp_saintdenis_02",
+          "stp_upstairs_03"
+        ]
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Montreal",
+              "jazz",
+              "walkable",
+              "budget"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_montreal_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Montreal",
+            "stop_tags": [
+              "jazz",
+              "walkable"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Montreal",
+            "duration_days": 4,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "stp_quartier_01",
+              "stp_saintdenis_02",
+              "stp_upstairs_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_montreal_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Montreal",
+              "region": "Quebec, Canada",
+              "tags": [
+                "jazz",
+                "walkable",
+                "budget",
+                "student",
+                "arts"
+              ]
+            }
+          },
+          {
+            "id": "dst_quebeccity_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Quebec City",
+              "region": "Quebec, Canada",
+              "tags": [
+                "historic",
+                "walkable",
+                "culture"
+              ]
+            }
+          },
+          {
+            "id": "stp_quartier_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Quartier des Spectacles",
+              "location": "Montreal",
+              "tags": [
+                "jazz",
+                "walkable",
+                "festival",
+                "downtown"
+              ]
+            }
+          },
+          {
+            "id": "stp_saintdenis_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Rue Saint-Denis",
+              "location": "Montreal",
+              "tags": [
+                "walkable",
+                "budget",
+                "cafes",
+                "student"
+              ]
+            }
+          },
+          {
+            "id": "stp_upstairs_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Upstairs Jazz Bar & Grill",
+              "location": "Montreal",
+              "tags": [
+                "jazz",
+                "music",
+                "nightlife"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "scheduling",
+      "reason_for_call": "Set up some reminders",
+      "task_params": {
+        "calendar": "personal",
+        "title": "IE 312 Safety Case Study Deadline",
+        "start_time": "2025-03-18T23:59:00-05:00",
+        "end_time": "2025-03-19T00:00:00-05:00",
+        "first_remind_at": "2025-03-17T21:00:00-05:00",
+        "second_remind_at": "2025-03-18T18:00:00-05:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_assign_01",
+            "remind_at": "2025-03-17T21:00:00-05:00",
+            "cadence": "once"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_assign_01",
+            "remind_at": "2025-03-18T18:00:00-05:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_assign_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "IE 312 Safety Case Study Deadline",
+              "start_time": "2025-03-18T23:59:00-05:00",
+              "end_time": "2025-03-19T00:00:00-05:00",
+              "participants": [],
+              "location": "",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_class_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Ergonomics Lab",
+              "start_time": "2025-03-18T14:00:00-05:00",
+              "end_time": "2025-03-18T15:30:00-05:00",
+              "participants": [
+                "lab-group@lsu.edu"
+              ],
+              "location": "Patrick F. Taylor Hall",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_game_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Co-ed Volleyball",
+              "start_time": "2025-03-17T19:00:00-05:00",
+              "end_time": "2025-03-17T20:30:00-05:00",
+              "participants": [
+                "league@brvolley.org"
+              ],
+              "location": "Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_meet_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "STEM Mentor Check-in",
+              "start_time": "2025-03-18T17:00:00-05:00",
+              "end_time": "2025-03-18T17:45:00-05:00",
+              "participants": [
+                "mentor-team@youthcenter.org"
+              ],
+              "location": "Youth Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "eye exam",
+        "location": "Baton Rouge",
+        "sort_by": "distance",
+        "date_time": "2025-02-15T10:30:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "eye exam",
+            "location": "Baton Rouge",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_clearview_01",
+            "date_time": "2025-02-15T10:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_clearview_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "ClearView Vision Center",
+              "service_type": "eye exam",
+              "location": "Baton Rouge",
+              "rating": 4.6,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_lenscrafters_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "LensCrafters Perkins Rowe",
+              "service_type": "eye exam",
+              "location": "Baton Rouge",
+              "rating": 4.4,
+              "distance_km": 4.8
+            }
+          },
+          {
+            "id": "svc_eyecareplus_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "EyeCare Plus on Highland",
+              "service_type": "eye exam",
+              "location": "Baton Rouge",
+              "rating": 4.7,
+              "distance_km": 3.5
+            }
+          },
+          {
+            "id": "svc_southside_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Southside Family Optometry",
+              "service_type": "eye exam",
+              "location": "Baton Rouge",
+              "rating": 4.5,
+              "distance_km": 6.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "john_brown_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a planning block",
+      "task_params": {
+        "title": "Mural sketching and social flex block",
+        "start_time": "2025-03-16T16:30:00-05:00",
+        "end_time": "2025-03-16T19:00:00-05:00",
+        "location": "Downtown Baton Rouge"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-16T16:30:00-05:00",
+            "end_time": "2025-03-16T19:00:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Mural sketching and social flex block",
+            "start_time": "2025-03-16T16:30:00-05:00",
+            "end_time": "2025-03-16T19:00:00-05:00",
+            "location": "Downtown Baton Rouge"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_family_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Church with family",
+              "start_time": "2025-03-16T09:30:00-05:00",
+              "end_time": "2025-03-16T12:15:00-05:00",
+              "participants": [
+                "Mom",
+                "Aunt Lisa"
+              ],
+              "location": "Greater King David Baptist Church",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_lunch_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Sunday family lunch",
+              "start_time": "2025-03-16T12:45:00-05:00",
+              "end_time": "2025-03-16T14:15:00-05:00",
+              "participants": [
+                "Mom",
+                "Cousin Dre"
+              ],
+              "location": "Grandma's house",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_game_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community center pickup basketball",
+              "start_time": "2025-03-16T19:30:00-05:00",
+              "end_time": "2025-03-16T21:00:00-05:00",
+              "participants": [
+                "Malik",
+                "Tre"
+              ],
+              "location": "BREC Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_shift_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mural sketching and social flex block",
+              "start_time": "2025-03-16T16:30:00-05:00",
+              "end_time": "2025-03-16T19:00:00-05:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one rice dinner mix for the pantry, keep it under $5, and make sure it's mild. Just pick one for me.",
+      "gold_value": "prod_cajun_red_beans_rice_01",
+      "session_id": "john_brown_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "john_brown_commerce_01",
+      "rule_ref": {
+        "rule_id": "john_brown_commerce_01",
+        "rule_text": "When ordering food or cooking ingredients, he prefers Creole or Cajun options over more generic alternatives.",
+        "canonical_answer": "For food, I usually go for Creole or Cajun options first."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_cajun_red_beans_rice_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cajun Red Beans & Rice Mix",
+              "price": 4.79,
+              "category": "rice_dinner_mix",
+              "rating": 4.2,
+              "cuisine_style": "cajun",
+              "spice_level": "mild",
+              "review_count": 88
+            }
+          },
+          {
+            "id": "prod_bayou_jambalaya_01",
+            "type": "product",
+            "attributes": {
+              "name": "Bayou Jambalaya Rice Mix",
+              "price": 4.49,
+              "category": "rice_dinner_mix",
+              "rating": 4.8,
+              "cuisine_style": "creole",
+              "spice_level": "hot",
+              "review_count": 640,
+              "units_sold_last_30_days": 420
+            }
+          },
+          {
+            "id": "prod_homestyle_chicken_rice_01",
+            "type": "product",
+            "attributes": {
+              "name": "Homestyle Chicken Rice Skillet Mix",
+              "price": 3.29,
+              "category": "rice_dinner_mix",
+              "rating": 4.9,
+              "cuisine_style": "american",
+              "spice_level": "mild",
+              "review_count": 1820,
+              "units_sold_last_30_days": 950
+            }
+          },
+          {
+            "id": "prod_garden_herb_pilaf_01",
+            "type": "product",
+            "attributes": {
+              "name": "Garden Herb Rice Pilaf Mix",
+              "price": 2.79,
+              "category": "rice_dinner_mix",
+              "rating": 4.7,
+              "cuisine_style": "generic",
+              "spice_level": "mild",
+              "review_count": 930,
+              "units_sold_last_30_days": 610
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_cajun_red_beans_rice_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm making gumbo at home and need one item ordered for it. Keep it under $7 and just pick one.",
+      "gold_value": "prod_bayou_pantry_roux_flour_01",
+      "session_id": "john_brown_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "john_brown_commerce_02",
+      "rule_ref": {
+        "rule_id": "john_brown_commerce_02",
+        "rule_text": "When ordering ingredients for home cooking, he prefers items that support scratch-made dishes like roux-based cooking over ready-made shortcuts.",
+        "canonical_answer": "If I’m buying cooking ingredients, I’d rather get the pieces to make it from scratch than premade shortcuts."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_bayou_pantry_roux_flour_01",
+            "type": "product",
+            "attributes": {
+              "name": "Bayou Pantry Gumbo Roux Flour",
+              "price": 6.49,
+              "category": "gumbo_ingredients",
+              "rating": 4.2,
+              "product_form": "flour",
+              "dish_style": "roux_based",
+              "review_count": 64
+            }
+          },
+          {
+            "id": "prod_pelican_dark_roux_kit_01",
+            "type": "product",
+            "attributes": {
+              "name": "Pelican Dark Roux Gumbo Kit",
+              "price": 8.59,
+              "category": "gumbo_ingredients",
+              "rating": 4.8,
+              "product_form": "kit",
+              "dish_style": "roux_based",
+              "review_count": 402
+            }
+          },
+          {
+            "id": "prod_quickpot_cajun_mix_01",
+            "type": "product",
+            "attributes": {
+              "name": "Quick Pot Cajun Gumbo Mix",
+              "price": 4.29,
+              "category": "gumbo_ingredients",
+              "rating": 4.9,
+              "product_form": "mix",
+              "cook_time_min": 20,
+              "review_count": 1880
+            }
+          },
+          {
+            "id": "prod_stovetop_gumbo_starter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Stovetop Gumbo Starter Sauce",
+              "price": 5.99,
+              "category": "gumbo_ingredients",
+              "rating": 4.8,
+              "product_form": "jarred_base",
+              "serves": 6,
+              "review_count": 1325
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_bayou_pantry_roux_flour_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm using my WorldCinema Plus subscription mostly for regular movie nights now, and the premium tier feels like overkill. Please switch it to a lighter plan and keep the service active.",
+      "gold_value": "basic",
+      "session_id": "john_brown_commerce_05_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "john_brown_commerce_05",
+      "rule_ref": {
+        "rule_id": "john_brown_commerce_05",
+        "rule_text": "When changing a subscription tier, he prefers the basic plan unless there is a clear need for more.",
+        "canonical_answer": "I usually keep subscriptions on the basic plan unless I really need extra features."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_worldcinema_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "WorldCinema Plus",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 22.99,
+              "simultaneous_streams": 4,
+              "video_quality": "4K"
+            }
+          },
+          {
+            "id": "sub_lingualoop_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "LinguaLoop",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 11.99,
+              "service_type": "language learning",
+              "course_access": "full library"
+            }
+          },
+          {
+            "id": "sub_museumroute_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "MuseumRoute Audio",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 8.99,
+              "service_type": "audio guides",
+              "offline_downloads": true
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "change_subscription_plan",
+              "arguments": {
+                "new_plan": "basic"
+              },
+              "compare_args": [
+                "new_plan"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Miguel Santos at Pine Ridge Fabrication about the forklift traffic safety walkthrough. Tell him I can come by Thursday morning, ask him to send the current incident log and the latest floor map first, and let him know I'll use the lockout/tagout checklist as a starting point.",
+      "gold_value": null,
+      "session_id": "john_brown_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "john_brown_communication_01",
+      "rule_ref": {
+        "rule_id": "john_brown_communication_01",
+        "rule_text": "When he asks for help sending a message about applications, safety work, or outreach, he prefers it drafted for review instead of being sent immediately.",
+        "canonical_answer": "I like job, safety, and mentorship messages drafted first so I can review the wording before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_miguel_safety_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Miguel Santos <miguel.santos@pineridgefab.com>",
+              "subject": "Forklift traffic safety walkthrough",
+              "body": "Hi John, we're updating the pedestrian barriers around the forklift lanes at Pine Ridge Fabrication and would like your help with a safety walkthrough before we make changes. Are you available to stop by this week? Let me know what records or site documents you want us to send ahead of time.",
+              "thread_id": "thr_miguel_safety_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-11T09:14"
+            }
+          },
+          {
+            "id": "msg_tanya_inventory_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Tanya Brooks <tanya.brooks@brownops.local>",
+              "subject": "Valve inventory count",
+              "body": "Can you check whether the revised valve count made it into the maintenance spreadsheet before the team call this afternoon?",
+              "thread_id": "thr_tanya_inventory_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-11T08:02"
+            }
+          },
+          {
+            "id": "msg_vendor_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@fieldtrackpro.com",
+              "subject": "August service invoice available",
+              "body": "Your monthly FieldTrack Pro invoice is ready in the billing portal.",
+              "thread_id": "thr_vendor_invoice_27",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-08-11T07:31"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner for two in downtown Chicago on 2026-08-14 at 7:30pm — just pick a place and reserve it.",
+      "gold_value": "rst_bayou_mosaic_01",
+      "session_id": "john_brown_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "john_brown_reservation_01",
+      "rule_ref": {
+        "rule_id": "john_brown_reservation_01",
+        "rule_text": "When choosing a restaurant, he prefers places known for Creole, Cajun, or fusion food over generic American spots.",
+        "canonical_answer": "When I go out to eat, I lean toward Creole, Cajun, or creative fusion places."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_bayou_mosaic_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bayou Mosaic Kitchen",
+              "cuisine": "Cajun fusion",
+              "location": "Downtown Chicago",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_union_grill_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Union Grill House",
+              "cuisine": "American",
+              "location": "Downtown Chicago",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "rooftop patio"
+            }
+          },
+          {
+            "id": "rst_lakefront_tavern_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Lakefront Tavern",
+              "cuisine": "American",
+              "location": "Downtown Chicago",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "bar and dining room"
+            }
+          },
+          {
+            "id": "rst_market_chophouse_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Market Street Chophouse",
+              "cuisine": "American",
+              "location": "Downtown Chicago",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "steakhouse"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_bayou_mosaic_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in New Orleans and want tickets for a night out for two people; keep it under $50 each, pick something and book it.",
+      "gold_value": "evt_crescent_jazz_01",
+      "session_id": "john_brown_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "john_brown_reservation_02",
+      "rule_ref": {
+        "rule_id": "john_brown_reservation_02",
+        "rule_text": "When choosing live events, he prefers jazz, hip-hop, or brass-band performances over generic entertainment options.",
+        "canonical_answer": "For nights out, I usually want jazz, hip-hop, or brass-band events first."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_crescent_jazz_01",
+            "type": "event",
+            "attributes": {
+              "name": "Crescent City Jazz Quartet at Frenchmen Hall",
+              "location": "New Orleans",
+              "date_time": "2026-06-12T20:30:00",
+              "price": 46,
+              "rating": 4.4,
+              "reviews_count": 61,
+              "event_tags": [
+                "jazz",
+                "live_music",
+                "quartet"
+              ]
+            }
+          },
+          {
+            "id": "evt_riverfront_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "Riverfront Summer Pop Showcase",
+              "location": "New Orleans",
+              "date_time": "2026-06-12T19:00:00",
+              "price": 39,
+              "rating": 4.9,
+              "reviews_count": 1284,
+              "event_tags": [
+                "pop",
+                "concert",
+                "live_music"
+              ]
+            }
+          },
+          {
+            "id": "evt_warehouse_comedy_01",
+            "type": "event",
+            "attributes": {
+              "name": "Warehouse District Comedy Night",
+              "location": "New Orleans",
+              "date_time": "2026-06-12T18:30:00",
+              "price": 28,
+              "rating": 4.8,
+              "reviews_count": 940,
+              "event_tags": [
+                "comedy",
+                "stand_up",
+                "nightlife"
+              ]
+            }
+          },
+          {
+            "id": "evt_bourbon_rock_01",
+            "type": "event",
+            "attributes": {
+              "name": "Bourbon Street Rock Tribute",
+              "location": "New Orleans",
+              "date_time": "2026-06-12T20:00:00",
+              "price": 34,
+              "rating": 4.7,
+              "reviews_count": 702,
+              "event_tags": [
+                "rock",
+                "tribute_band",
+                "live_music"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_crescent_jazz_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in downtown Seattle for 2026-08-11 at 6:30pm — just pick one and schedule it.",
+      "gold_value": "svc_recovery_centerline_01",
+      "session_id": "john_brown_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "john_brown_reservation_04",
+      "rule_ref": {
+        "rule_id": "john_brown_reservation_04",
+        "rule_text": "When selecting local service appointments, he prefers options tied to sports recovery or ergonomic improvement over purely cosmetic services.",
+        "canonical_answer": "For appointments, I’m more interested in sports recovery or ergonomic help than cosmetic stuff."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_recovery_centerline_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Centerline Recovery Lab",
+              "service_type": "sports recovery wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 1.9,
+              "price_usd": 95
+            }
+          },
+          {
+            "id": "svc_facial_velvet_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Velvet Glow Facial Bar",
+              "service_type": "facial wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.1,
+              "price_usd": 59
+            }
+          },
+          {
+            "id": "svc_skin_luma_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Luma Skin Lounge",
+              "service_type": "skin wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.3,
+              "price_usd": 64
+            }
+          },
+          {
+            "id": "svc_beauty_halo_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Halo Beauty Studio",
+              "service_type": "beauty wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "distance_km": 0.4,
+              "price_usd": 54
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_recovery_centerline_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I already have tickets for Red Stick Jazz Night at the LSU Rural Life Museum on 2026-09-18 from 19:30 to 21:30 in the Estuary Room. Make sure I don't forget about it.",
+      "gold_value": null,
+      "session_id": "john_brown_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "john_brown_scheduling_01",
+      "rule_ref": {
+        "rule_id": "john_brown_scheduling_01",
+        "rule_text": "When scheduling his own activities around sports, volunteer work, or concerts, he prefers putting them on the calendar as real events rather than using a private reminder alone.",
+        "canonical_answer": "For things I plan to attend or run, I want an actual calendar event, not just a reminder."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_red_stick_jazz_01",
+            "type": "event",
+            "attributes": {
+              "title": "Red Stick Jazz Night",
+              "start_time": "2026-09-18T19:30:00",
+              "end_time": "2026-09-18T21:30:00",
+              "participants": [],
+              "location": "LSU Rural Life Museum - Estuary Room",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "ticket_portal"
+            }
+          },
+          {
+            "id": "evt_youth_referee_shift_02",
+            "type": "event",
+            "attributes": {
+              "title": "Youth soccer referee volunteer shift",
+              "start_time": "2026-09-20T08:30:00",
+              "end_time": "2026-09-20T11:30:00",
+              "participants": [],
+              "location": "Liberty Park Fields",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "volunteer_signup"
+            }
+          },
+          {
+            "id": "evt_downtown_hiphop_03",
+            "type": "event",
+            "attributes": {
+              "title": "Downtown hip-hop showcase",
+              "start_time": "2026-09-25T20:00:00",
+              "end_time": "2026-09-25T23:00:00",
+              "participants": [],
+              "location": "Third Street Warehouse",
+              "calendar": "personal",
+              "status": "confirmed",
+              "source": "ticket_portal"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still need to answer the Harbor Hall mixer invite for 2026-07-18 from 6:00 to 8:00pm. See what I already committed to that evening and reply for me.",
+      "gold_value": "tentative",
+      "session_id": "john_brown_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "john_brown_scheduling_02",
+      "rule_ref": {
+        "rule_id": "john_brown_scheduling_02",
+        "rule_text": "When an invite overlaps with work, sports, or volunteer commitments and he is not sure yet, he prefers responding tentatively.",
+        "canonical_answer": "If I’m conflicted or still figuring out timing, I usually mark the invite tentative."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_harbor_mixer_20260718",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Summer Startup Mixer",
+              "start_time": "2026-07-18T18:00:00",
+              "end_time": "2026-07-18T20:00:00",
+              "participants": [
+                "events@riversidetech.org",
+                "john.brown@example.com"
+              ],
+              "location": "Harbor Hall",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_work_sprint_catchup_20260718",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "API release sprint catch-up",
+              "start_time": "2026-07-18T17:30:00",
+              "end_time": "2026-07-18T18:30:00",
+              "participants": [
+                "john.brown@example.com",
+                "maya.chen@example.com",
+                "dev-team@example.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_volleyball_league_20260718",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Co-ed Volleyball League Match",
+              "start_time": "2026-07-18T18:30:00",
+              "end_time": "2026-07-18T20:30:00",
+              "participants": [
+                "john.brown@example.com",
+                "alex.ramirez@example.com",
+                "team-red@example.com"
+              ],
+              "location": "Eastside Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_invite_potluck_20260725",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Neighborhood Potluck",
+              "start_time": "2026-07-25T19:00:00",
+              "end_time": "2026-07-25T21:00:00",
+              "participants": [
+                "neighbors@riverviewhoa.org",
+                "john.brown@example.com"
+              ],
+              "location": "Riverview Park Shelter",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book the one-way travel for my personal trip from Houston, TX to New Orleans, LA on 2026-09-19 for one traveler. I only need the transportation handled.",
+      "gold_value": null,
+      "session_id": "john_brown_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "john_brown_travel_02",
+      "rule_ref": {
+        "rule_id": "john_brown_travel_02",
+        "rule_text": "For Gulf Coast and other regional leisure travel, he prefers ground transportation over flights.",
+        "canonical_answer": "For shorter regional trips, I’d rather go by road or rail than fly."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_hou_msy_20260919_southwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Houston, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-09-19",
+              "airline": "Southwest Airlines",
+              "price": 79,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_hou_msy_20260919_united_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Houston, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-09-19",
+              "airline": "United Airlines",
+              "price": 91,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_hou_msy_20260919_delta_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Houston, TX",
+              "destination": "New Orleans, LA",
+              "departure_date": "2026-09-19",
+              "airline": "Delta Air Lines",
+              "price": 104,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "trp_hou_nola_20260919_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Houston, TX",
+              "destination": "New Orleans, LA",
+              "mode": "bus",
+              "departure_date": "2026-09-19",
+              "price": 129,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trp_hou_nola_20260919_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Houston, TX",
+              "destination": "New Orleans, LA",
+              "mode": "train",
+              "departure_date": "2026-09-19",
+              "price": 146,
+              "available_seats": 2
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Atlanta to Nashville for just me from the available options. I'm only taking a backpack, so use the traveler details and payment method already on file.",
+      "gold_value": "window",
+      "session_id": "john_brown_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "john_brown_travel_03",
+      "rule_ref": {
+        "rule_id": "john_brown_travel_03",
+        "rule_text": "When booking a flight, he prefers a window seat.",
+        "canonical_answer": "If I do fly, I always prefer a window seat."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_atl_bna_peachtree_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Nashville",
+              "departure_date": "2026-08-14",
+              "airline": "Peachtree Air",
+              "price": 118.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_atl_bna_cumberland_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Nashville",
+              "departure_date": "2026-08-14",
+              "airline": "Cumberland Connect",
+              "price": 136.0,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "flt_atl_bna_skybend_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Nashville",
+              "departure_date": "2026-08-14",
+              "airline": "SkyBend",
+              "price": 149.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_atl_mem_peachtree_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Memphis",
+              "departure_date": "2026-08-14",
+              "airline": "Peachtree Air",
+              "price": 99.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy the files sitting in /Operations/Dropoff — it's a mix of PDFs, spreadsheets, and docs from the last few months, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "john_brown_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "john_brown_workspace_01",
+      "rule_ref": {
+        "rule_id": "john_brown_workspace_01",
+        "rule_text": "When organizing files from his projects, he prefers grouping them by project rather than by type or date.",
+        "canonical_answer": "I organize working files by project first, not just by file type or date."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_dropoff_signage_01",
+            "type": "file",
+            "attributes": {
+              "name": "layout_review.pdf",
+              "file_type": "pdf",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Forklift Safety Signage",
+              "modified_date": "2026-07-02",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_signage_02",
+            "type": "file",
+            "attributes": {
+              "name": "vendor_quote.xlsx",
+              "file_type": "xlsx",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Forklift Safety Signage",
+              "modified_date": "2026-07-07",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_dropoff_flow_01",
+            "type": "file",
+            "attributes": {
+              "name": "process_walk.docx",
+              "file_type": "docx",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Receiving Flow Kaizen",
+              "modified_date": "2026-08-11",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_flow_02",
+            "type": "file",
+            "attributes": {
+              "name": "before_after_photos.pdf",
+              "file_type": "pdf",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Receiving Flow Kaizen",
+              "modified_date": "2026-08-13",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_dropoff_board_01",
+            "type": "file",
+            "attributes": {
+              "name": "shift_handoff_notes.docx",
+              "file_type": "docx",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Cell 2 Visual Board",
+              "modified_date": "2026-09-03",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_dropoff_board_02",
+            "type": "file",
+            "attributes": {
+              "name": "parts_shortage_log.xlsx",
+              "file_type": "xlsx",
+              "location": "/Operations/Dropoff",
+              "owner": "John Brown",
+              "labels": [],
+              "archived": false,
+              "project": "Cell 2 Visual Board",
+              "modified_date": "2026-09-05",
+              "priority": "high"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.75,
+    "actual_signal_overlap_rules": [
+      "john_brown_commerce_01",
+      "john_brown_commerce_02",
+      "john_brown_communication_01",
+      "john_brown_reservation_01",
+      "john_brown_reservation_02",
+      "john_brown_reservation_04",
+      "john_brown_scheduling_01",
+      "john_brown_travel_03",
+      "john_brown_workspace_01"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.75,
+    "teachable_rule_count": 9,
+    "zero_signal_rule_count": 3,
+    "signal_pool_size_dedup": 20,
+    "noise_pool_size": 18,
+    "K": 24,
+    "seed": 0,
+    "selected_rules": [
+      "john_brown_commerce_01",
+      "john_brown_commerce_02",
+      "john_brown_communication_01",
+      "john_brown_reservation_01",
+      "john_brown_reservation_02",
+      "john_brown_reservation_04",
+      "john_brown_scheduling_01",
+      "john_brown_travel_03",
+      "john_brown_workspace_01"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "john_brown_commerce_01",
+      "john_brown_commerce_02",
+      "john_brown_commerce_05",
+      "john_brown_communication_01",
+      "john_brown_reservation_01",
+      "john_brown_reservation_02",
+      "john_brown_reservation_04",
+      "john_brown_scheduling_01",
+      "john_brown_scheduling_02",
+      "john_brown_travel_02",
+      "john_brown_travel_03",
+      "john_brown_workspace_01"
+    ],
+    "signal_count": 20,
+    "noise_count": 4,
+    "trajectory_length": 24
+  }
+}

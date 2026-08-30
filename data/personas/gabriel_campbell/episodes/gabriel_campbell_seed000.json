@@ -1,0 +1,5567 @@
+{
+  "episode_id": "gabriel_campbell_seed000",
+  "persona_id": "gabriel_campbell",
+  "raw_persona": {
+    "persona_id": "gabriel_campbell",
+    "nemotron_uuid": "639580f929f24179b9f4c671d96fa4ef",
+    "narrative": "name: Gabriel Campbell\nage: 28\nsex: Male\nmarital_status: never_married\neducation_level: graduate (arts humanities)\noccupation: medical_or_health_services_manager\nhobbies_and_interests: Visiting art galleries and museums, Sketching and watercolor painting, Street and landscape photography, Playing acoustic guitar, Reading philosophy and literary theory, Hiking in Blue Hills Reservation, Cycling along the Quincy shoreline, Practicing yoga, Volunteering at community health fairs (organizing art‑therapy stations), Writing an online blog on art, health, and society\nskills_and_expertise: Strategic Healthcare Management, Financial Planning & Budgeting, Regulatory Compliance (HIPAA, CMS), Process Improvement (Lean Six Sigma), Data Analysis & Reporting, Team Leadership & Staff Development, Patient Experience Enhancement, Program Development (Art Therapy Integration), Critical Thinking & Analytical Reasoning, Effective Communication & Stakeholder Engagement\ncomplementary_info: Gabriel Campbell grew up in a middle-class Irish-American family in Quincy, Massachusetts, with two public-school-educator parents who emphasized civic engagement, critical inquiry, literature, and visual art. Local traditions such as Fourth of July parades, St. Patrick’s Day celebrations, and community theater helped shape a strong New England regional identity marked by modesty, punctuality, and community service. In daily life, he often sketches contemporary installations in a pocket notebook, photographs Quincy’s historic neighborhoods in homage to Sebastião Salgado, plays Nick Drake covers on acoustic guitar at café open-mic nights, and drafts blog essays from quiet coffee-shop corners, sometimes skipping lunch while absorbed in research and writing. He cycles with the Quincy Shoreline Cycling Club, attends yoga at Sage Yoga Studio, hikes Blue Hills on weekends, and occasionally joins local pick-up tennis games. He frequently visits the Institute of Contemporary Art and the Museum of Fine Arts Boston, and his blog connects art, health, and society through references to figures such as Ai Weiwei and Olafur Eliasson. His routine tastes and habits include cold-brew oat-milk coffee from Tatte Bakery, New England seafood staples, roasted vegetable quinoa bowls with cumin and smoked paprika, and charcuterie boards with artisanal cheese and local olives. He follows Boston sports teams closely: the Celtics, Red Sox, Bruins, and Patriots. He plans careful weekend trips to Cape Cod lighthouse trails and Martha’s Vineyard vineyards, while long-term travel aspirations include Florence’s Uffizi Gallery, Kyoto’s Zen gardens, and Berlin’s avant-garde art scene.",
+    "general_domain": "medical_or_health_services_manager",
+    "specific_domain": "arts_humanities"
+  },
+  "structured_persona": {
+    "name": "Gabriel Campbell",
+    "demographics": {
+      "age": 28,
+      "sex": "Male",
+      "marital_status": "never_married",
+      "education_level": "graduate (arts humanities)",
+      "occupation": "medical_or_health_services_manager",
+      "city": "Quincy",
+      "state": "MA",
+      "zipcode": "2169",
+      "country": "USA"
+    },
+    "persona_summary": "Gabriel Campbell, a calm yet fiercely competitive health strategist, they blend art‑therapy advocacy with data‑driven efficiency, obsess over perfecting camera composition, and habitually forgo meals while drafting thought‑provoking blog essays.",
+    "professional_persona": "Gabriel Campbell, an ambitious health services manager, they blend Lean Six Sigma expertise with a passion for art‑infused patient care, leverage data‑driven strategic planning to cut wait times, and channel a fiercely competitive yet remarkably calm demeanor into championing evidence‑based art‑therapy programs as a springboard toward a future COO role.",
+    "sports_persona": "Gabriel Campbell, an active Boston‑area fitness aficionado, they cycle the Quincy shoreline with the Quincy Shoreline Cycling Club, hike the Blue Hills Reservation on weekends, attend yoga at Sage Yoga Studio, and passionately root for the Boston Celtics, Red Sox, Bruins, and New England Patriots while occasionally joining local pick‑up tennis matches.",
+    "arts_persona": "Gabriel Campbell, a devoted arts connoisseur, they frequent the Institute of Contemporary Art and Museum of Fine Arts Boston, sketch new installations in a pocket notebook, capture street scenes of Quincy in homage to Sebastião Salgado, jam on acoustic guitar playing Nick Drake covers at café open‑mic nights, and curate a blog that weaves together insights from Ai Weiwei, Olafur Eliasson, and contemporary literary theory.",
+    "travel_persona": "Gabriel Campbell, an exploratory traveler, they plan meticulous weekend getaways to Cape Cod’s lighthouse trails and Martha’s Vineyard’s vineyards, while dreaming of immersive art pilgrimages to Florence’s Uffizi Gallery, Kyoto’s Zen gardens, and Berlin’s avant‑garde scene, balancing a modest budget with a penchant for spontaneous photo walks in new cities.",
+    "culinary_persona": "Gabriel Campbell, a culinary adventurer with moderate cooking skills, they relish New England clam chowder, lobster rolls, and roasted vegetable quinoa bowls spiced with cumin and smoked paprika, adore brewing cold‑brew oat‑milk coffee at Tatte Bakery, yet often skip lunch when deep‑in research for a blog post, rewarding themselves later with charcuterie boards featuring artisanal cheese and locally sourced olives.",
+    "cultural_background": "Gabriel grew up in a middle‑class, Irish‑American family in Quincy, Massachusetts, a city steeped in New England colonial history and maritime heritage. His parents, both public‑school educators, emphasized the importance of civic engagement, critical inquiry, and a love for literature and the visual arts. Immersed in the local traditions of Fourth of July parades, St. Patrick’s Day celebrations, and community theater, he developed a strong sense of regional identity while remaining open to broader cultural influences encountered through university studies and frequent trips to European cultural capitals. The New England emphasis on modesty, punctuality, and community service informs his reliable and organized professional demeanor, yet his appreciation for avant‑garde art and unconventional ideas reflects a willingness to challenge tradition. This blend of cultural grounding and artistic curiosity shapes his approach to healthcare management, where he seeks to marry evidence‑based practice with culturally resonant, creative interventions.",
+    "skills_and_expertise": "Gabriel blends his academic foundation in arts and humanities with a robust expertise in health services management. He excels at strategic planning, overseeing operational workflows, and aligning clinical services with financial sustainability. His proficiency in budgeting and resource allocation ensures compliance with CMS and HIPAA regulations while fostering efficiency. Leveraging Lean Six Sigma principles, he streamlines processes to improve patient throughput and reduce wait times. Gabriel’s strong data analysis and reporting capabilities translate complex performance metrics into actionable insights for senior leadership. His background in critical thinking and cultural competency equips him to design patient‑centered programs that incorporate artistic therapies, enhancing patient experience. He possesses exceptional communication skills, adept at negotiating with multidisciplinary teams, stakeholders, and external partners. Additionally, he is experienced in staff development, mentorship, and fostering collaborative work environments.",
+    "skills_and_expertise_list": [
+      "Strategic Healthcare Management",
+      "Financial Planning & Budgeting",
+      "Regulatory Compliance (HIPAA, CMS)",
+      "Process Improvement (Lean Six Sigma)",
+      "Data Analysis & Reporting",
+      "Team Leadership & Staff Development",
+      "Patient Experience Enhancement",
+      "Program Development (Art Therapy Integration)",
+      "Critical Thinking & Analytical Reasoning",
+      "Effective Communication & Stakeholder Engagement"
+    ],
+    "hobbies_and_interests": "Outside of work, Gabriel immerses himself in the vibrant arts scene of the Boston‑New England area. He frequents gallery openings and museum exhibitions, often sketching on a pocket notebook to capture the nuances of contemporary installations. An avid photographer, he explores street photography in Quincy’s historic neighborhoods and natural landscapes on hikes through the Blue Hills Reservation. He plays acoustic guitar for personal enjoyment, occasionally joining informal jam sessions at local cafés. His curiosity leads him to deep‑dive reading in philosophy, literary theory, and the latest trends in visual culture. Physical activity is a balance to his mental pursuits; he cycles along the Quincy shoreline and practices yoga to maintain his renowned calm and resilience. Gabriel also volunteers at community health fairs, where he merges his professional expertise with his passion for creative outreach, organizing art‑therapy stations and health education workshops. When craving solitude, he retreats to a quiet corner of a coffee shop to draft reflections for an online blog that discusses the intersection of art, health, and societal change.",
+    "hobbies_and_interests_list": [
+      "Visiting art galleries and museums",
+      "Sketching and watercolor painting",
+      "Street and landscape photography",
+      "Playing acoustic guitar",
+      "Reading philosophy and literary theory",
+      "Hiking in Blue Hills Reservation",
+      "Cycling along the Quincy shoreline",
+      "Practicing yoga",
+      "Volunteering at community health fairs (organizing art‑therapy stations)",
+      "Writing an online blog on art, health, and society"
+    ],
+    "career_goals_and_ambitions": "Gabriel is driven to ascend into senior leadership roles within the health sector, targeting positions such as Director of Patient Services or Chief Operating Officer of a regional health system within the next five to seven years. He aims to spearhead innovative care models that integrate arts and humanities—such as evidence‑based art‑therapy programs—to improve patient outcomes and satisfaction. By pursuing an executive MBA or a master's in health administration, he plans to deepen his strategic and financial acumen. Gabriel also aspires to become a recognized thought leader, publishing articles on creative interventions in healthcare and presenting at national conferences. He envisions establishing a consultancy that assists hospitals and community clinics in designing culturally competent, art‑infused patient engagement strategies. His competitive nature pushes him to achieve measurable performance improvements, positioning his organization as a benchmark for efficiency and patient‑centered care."
+  },
+  "rules": [
+    {
+      "rule_text": "When stocking up on food or household staples, he prefers building a running list rather than placing an impulse order immediately.",
+      "canonical_answer": "I always collect staples into a list first instead of impulse-ordering them one by one.",
+      "counterfactual_default": "A person without this rule would place an order for the needed item as soon as it comes up.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "moderate cooking skills"
+        },
+        {
+          "type": "direct",
+          "content": "often skip lunch when deep-in research for a blog post"
+        },
+        {
+          "type": "inferred",
+          "content": "Because he gets absorbed in research and meal timing is irregular, a running list helps him batch practical purchases instead of making ad hoc orders."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "build_shopping_list",
+        "param": null
+      },
+      "rule_id": "gabriel_campbell_commerce_01"
+    },
+    {
+      "rule_text": "For subscriptions he is no longer really using, he prefers canceling them outright rather than merely pausing them.",
+      "canonical_answer": "I never keep an underused subscription lingering; I cancel it rather than putting it on pause.",
+      "counterfactual_default": "A person without this rule would often pause the subscription first to avoid a full cutoff.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing a modest budget"
+        },
+        {
+          "type": "direct",
+          "content": "data-driven strategic planning"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "cancel_subscription",
+        "param": null
+      },
+      "rule_id": "gabriel_campbell_commerce_03"
+    },
+    {
+      "rule_text": "When he is preparing outreach, thought-leadership, or nuanced professional correspondence, he prefers to draft the message first rather than sending it immediately.",
+      "canonical_answer": "If a message carries strategy, advocacy, or polished public-facing ideas, I draft it before it goes out.",
+      "counterfactual_default": "A person without this rule would send the completed message directly once the requested content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "writing an online blog on art, health, and society"
+        },
+        {
+          "type": "direct",
+          "content": "He possesses exceptional communication skills, adept at negotiating with multidisciplinary teams, stakeholders, and external partners."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "gabriel_campbell_communication_01"
+    },
+    {
+      "rule_text": "When booking event tickets, he prefers contemporary art, museum, literary, or music events over generic entertainment options.",
+      "canonical_answer": "I always choose cultural events that connect to art, ideas, or acoustic music before more generic entertainment.",
+      "counterfactual_default": "A person without this rule would choose whichever event is most mainstream, closest, or broadly popular.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "frequent the Institute of Contemporary Art and Museum of Fine Arts Boston"
+        },
+        {
+          "type": "direct",
+          "content": "jam on acoustic guitar playing Nick Drake covers at café open-mic nights"
+        },
+        {
+          "type": "direct",
+          "content": "deep-dive reading in philosophy, literary theory, and the latest trends in visual culture"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "gabriel_campbell_reservation_01"
+    },
+    {
+      "rule_text": "When reserving a meal out, he prefers independent local places with strong New England seafood or creative vegetable-forward options over chain restaurants.",
+      "canonical_answer": "Whenever I book a table, I always lean toward local spots that reflect my seafood tastes or my roasted-vegetable side of eating.",
+      "counterfactual_default": "A person without this rule would often pick a familiar chain or the most convenient generic restaurant.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "relish New England clam chowder, lobster rolls, and roasted vegetable quinoa bowls spiced with cumin and smoked paprika"
+        },
+        {
+          "type": "direct",
+          "content": "locally sourced olives"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "gabriel_campbell_reservation_03"
+    },
+    {
+      "rule_text": "When booking a local service appointment tied to his wellness habits, he prefers providers aligned with yoga or restorative self-care rather than generic service options.",
+      "canonical_answer": "Whenever I book a personal wellness appointment, I always choose a provider that fits my yoga-and-recovery routine.",
+      "counterfactual_default": "A person without this rule would pick whichever provider has the earliest opening or most generic availability.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "attend yoga at Sage Yoga Studio"
+        },
+        {
+          "type": "direct",
+          "content": "practices yoga to maintain his renowned calm and resilience"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "gabriel_campbell_reservation_04"
+    },
+    {
+      "rule_text": "When an invite overlaps with unresolved work or travel uncertainty, he prefers a tentative response rather than accepting or declining outright.",
+      "canonical_answer": "Whenever my schedule is not fully settled, I always respond tentatively instead of pretending the conflict is already resolved.",
+      "counterfactual_default": "A person without this rule would usually accept if interested or decline if there is any possible conflict.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "plan meticulous weekend getaways"
+        },
+        {
+          "type": "direct",
+          "content": "The New England emphasis on modesty, punctuality, and community service informs his reliable and organized professional demeanor"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "gabriel_campbell_scheduling_01"
+    },
+    {
+      "rule_text": "For important personal routines like writing sessions, yoga, or volunteer commitments, he prefers creating a real calendar event rather than just leaving himself a reminder.",
+      "canonical_answer": "Meaningful routines deserve an actual time block, not just a nudge.",
+      "counterfactual_default": "A person without this rule would often set a reminder instead of blocking time on the calendar.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "practices yoga to maintain his renowned calm and resilience"
+        },
+        {
+          "type": "direct",
+          "content": "volunteers at community health fairs"
+        },
+        {
+          "type": "direct",
+          "content": "retreats to a quiet corner of a coffee shop to draft reflections for an online blog"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "create_event",
+        "param": null
+      },
+      "rule_id": "gabriel_campbell_scheduling_02"
+    },
+    {
+      "rule_text": "When he does want reminders for recurring self-care or fitness habits, he prefers them to repeat weekly.",
+      "canonical_answer": "I always set recurring personal-practice reminders on a weekly rhythm.",
+      "counterfactual_default": "A person without this rule would often make a one-time reminder or choose an ad hoc cadence.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "cycle the Quincy shoreline with the Quincy Shoreline Cycling Club"
+        },
+        {
+          "type": "direct",
+          "content": "hike the Blue Hills Reservation on weekends"
+        },
+        {
+          "type": "direct",
+          "content": "attend yoga at Sage Yoga Studio"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": "cadence"
+      },
+      "rule_id": "gabriel_campbell_scheduling_03"
+    },
+    {
+      "rule_text": "When an existing trip has to be replanned, he prefers replacement stops that preserve the original art-or-nature theme rather than swapping in any convenient high-rated alternative.",
+      "canonical_answer": "Whenever a stop falls through, I always replace it with something in the same artistic or landscape spirit.",
+      "counterfactual_default": "A person without this rule would replace the disrupted stop with whatever alternative is most convenient or most popular.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "plan meticulous weekend getaways to Cape Cod’s lighthouse trails and Martha’s Vineyard’s vineyards"
+        },
+        {
+          "type": "direct",
+          "content": "dreaming of immersive art pilgrimages"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "gabriel_campbell_travel_02"
+    },
+    {
+      "rule_text": "For regional or weekend travel, he prefers ground transportation over flying.",
+      "canonical_answer": "For shorter getaways, I always take ground transport instead of a flight when that option exists.",
+      "counterfactual_default": "A person without this rule would often check flights first or book the fastest air option.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "plan meticulous weekend getaways to Cape Cod’s lighthouse trails and Martha’s Vineyard’s vineyards"
+        },
+        {
+          "type": "direct",
+          "content": "balancing a modest budget"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "gabriel_campbell_travel_03"
+    },
+    {
+      "rule_text": "When choosing lodging, he prefers hotel options that are modestly priced but within walking distance of arts districts or photogenic neighborhoods.",
+      "canonical_answer": "Whenever I book a hotel, I always favor a budget-conscious place that lets me walk to galleries, museums, or good street scenes.",
+      "counterfactual_default": "A person without this rule would typically optimize for either the cheapest room anywhere or the most comfortable room regardless of location.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing a modest budget with a penchant for spontaneous photo walks in new cities"
+        },
+        {
+          "type": "direct",
+          "content": "frequent trips to European cultural capitals"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "gabriel_campbell_travel_04"
+    },
+    {
+      "rule_text": "When organizing files, he prefers a project-based scheme rather than sorting primarily by type or date.",
+      "canonical_answer": "I always organize files by project first.",
+      "counterfactual_default": "A person without this rule would commonly sort files by type or date because those are the easiest generic schemes.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Strategic Healthcare Management, Financial Planning & Budgeting, Regulatory Compliance (HIPAA, CMS), Process Improvement (Lean Six Sigma)"
+        },
+        {
+          "type": "direct",
+          "content": "channel a fiercely competitive yet remarkably calm demeanor into championing evidence-based art-therapy programs"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "gabriel_campbell_workspace_01"
+    },
+    {
+      "rule_text": "When he needs a reusable structure for recurring health-fair or art-therapy planning, he prefers creating a template rather than a one-off note.",
+      "canonical_answer": "Repeatable program work should start from a template, not a scratch note.",
+      "counterfactual_default": "A person without this rule would usually make a single note and rewrite the structure each time.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "organizing art-therapy stations and health education workshops"
+        },
+        {
+          "type": "direct",
+          "content": "Program Development (Art Therapy Integration)"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "create_document",
+        "param": "doc_type"
+      },
+      "rule_id": "gabriel_campbell_workspace_03"
+    },
+    {
+      "rule_text": "When moving active files, he prefers placing them into distinct project folders rather than broad type-based buckets.",
+      "canonical_answer": "I always move working files into the folder for the specific project, not just into a generic type folder.",
+      "counterfactual_default": "A person without this rule would often move files into broad folders like documents, images, or misc.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "overseeing operational workflows"
+        },
+        {
+          "type": "direct",
+          "content": "aligning clinical services with financial sustainability"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "move_files",
+        "param": "folder_id"
+      },
+      "rule_id": "gabriel_campbell_workspace_06"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "gabriel_campbell_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my messages",
+      "task_params": {
+        "sender": "Nina Patel",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "Thanks for flagging the staffing variance",
+          "I will bring updated weekend coverage numbers",
+          "I can confirm the float pool options in the huddle",
+          "Ask if she wants anything else added before then"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Nina Patel",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_ops_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_ops_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Patel",
+              "subject": "Need staffing variance update before ops huddle",
+              "body": "Can you send a quick confirmation on the weekend staffing variance and whether you have float pool options ready for the ops huddle? I need to close my notes first thing this morning.",
+              "thread_id": "thr_ops_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-03T07:18:00-05:00"
+            }
+          },
+          {
+            "id": "msg_vendor_02",
+            "type": "message",
+            "attributes": {
+              "sender": "MedSupply Beacon",
+              "subject": "Re: toner shipment delayed",
+              "body": "Your replacement toner shipment is delayed by one business day. No action needed unless you want to change delivery.",
+              "thread_id": "thr_vendor_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-03T06:42:00-05:00"
+            }
+          },
+          {
+            "id": "msg_news_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Healthcare Management Daily",
+              "subject": "5 morning reads on patient throughput",
+              "body": "Today’s newsletter includes case studies on patient flow, staffing models, and benchmarking dashboards.",
+              "thread_id": "thr_news_03",
+              "folder": "inbox",
+              "labels": [
+                "newsletter"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-03T05:58:00-05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting.",
+      "task_params": {
+        "title": "1:1 with Clinic Analytics Lead",
+        "start_time": "2025-03-18T15:15:00-04:00",
+        "end_time": "2025-03-18T15:35:00-04:00",
+        "participants": [
+          "morgan.lee@quincyclinic.org"
+        ],
+        "location": "Teams"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-18T15:15:00-04:00",
+            "end_time": "2025-03-18T15:35:00-04:00",
+            "participants": [
+              "morgan.lee@quincyclinic.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "1:1 with Clinic Analytics Lead",
+            "start_time": "2025-03-18T15:15:00-04:00",
+            "end_time": "2025-03-18T15:35:00-04:00",
+            "participants": [
+              "morgan.lee@quincyclinic.org"
+            ],
+            "location": "Teams"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_huddle_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Operations Huddle",
+              "start_time": "2025-03-18T13:00:00-04:00",
+              "end_time": "2025-03-18T13:45:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincyclinic.org",
+                "ops-team@quincyclinic.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_budget_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Review with Finance",
+              "start_time": "2025-03-18T14:00:00-04:00",
+              "end_time": "2025-03-18T15:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincyclinic.org",
+                "finance@quincyclinic.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_boardprep_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "1:1 with Clinic Analytics Lead",
+              "start_time": "2025-03-18T15:15:00-04:00",
+              "end_time": "2025-03-18T15:35:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincyclinic.org",
+                "chief.of.staff@quincyclinic.org"
+              ],
+              "location": "Executive Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_vendor_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "EHR Vendor Check-in",
+              "start_time": "2025-03-18T16:45:00-04:00",
+              "end_time": "2025-03-18T17:15:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincyclinic.org",
+                "support@ehrvendor.com"
+              ],
+              "location": "Phone",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "note",
+        "title": "Art-Therapy Pilot Planning Scratchpad",
+        "location": "Shared Drive/Programs/Art Therapy",
+        "content_brief": "Capture pilot goals, staffing ideas, patient cohorts, partnership ideas, and open questions."
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Shared Drive/Programs/Art Therapy",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Art-Therapy Pilot Planning Scratchpad",
+            "location": "Shared Drive/Programs/Art Therapy",
+            "content_brief": "Capture pilot goals, staffing ideas, patient cohorts, partnership ideas, and open questions."
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Program Planning Note Template",
+              "doc_type": "template",
+              "location": "Shared Drive/Programs/Art Therapy",
+              "content_brief": "Reusable outline for pilot concept notes and planning sessions."
+            }
+          },
+          {
+            "id": "doc_template_02",
+            "type": "document",
+            "attributes": {
+              "title": "Patient Experience Pilot Outline",
+              "doc_type": "template",
+              "location": "Shared Drive/Programs/Art Therapy",
+              "content_brief": "Template with sections for goals, staffing, measures, and risks."
+            }
+          },
+          {
+            "id": "doc_note_03",
+            "type": "document",
+            "attributes": {
+              "title": "Volunteer Workshop Brainstorm",
+              "doc_type": "note",
+              "location": "Shared Drive/Programs/Community Health",
+              "content_brief": "Loose notes from a community workshop planning huddle."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox and draft a reply",
+      "task_params": {
+        "sender": "Dr. Elaine Porter",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "acknowledge concern about rising patient wait times",
+          "say I am reviewing today's throughput and staffing pinch points",
+          "note I will send a concise update with actions by 10:30 AM",
+          "mention immediate focus on triage flow and room turnover",
+          "keep tone calm and collaborative"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Dr. Elaine Porter",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_porter_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_waittimes_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_porter_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dr. Elaine Porter",
+              "subject": "Urgent: patient wait times climbing again",
+              "body": "Gabriel, our clinic dashboard shows average patient wait times spiking again this morning, and front desk staff are already getting complaints. Can you send me a quick response with what you're seeing and what immediate steps we're taking?",
+              "thread_id": "thr_waittimes_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-04T08:11:00"
+            }
+          },
+          {
+            "id": "msg_porter_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Dr. Elaine Porter",
+              "subject": "Follow-up on volunteer art cart proposal",
+              "body": "When you have a minute later this week, I'd still like your thoughts on the volunteer art cart idea for the waiting area.",
+              "thread_id": "thr_artcart_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-04T07:02:00"
+            }
+          },
+          {
+            "id": "msg_nguyen_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Nguyen",
+              "subject": "Slides for Thursday operations huddle",
+              "body": "Could you review the deck before noon and flag anything missing from the throughput section?",
+              "thread_id": "thr_huddle_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-04T08:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "workspace",
+      "reason_for_call": "Organize some work files",
+      "task_params": {
+        "source_location": "Downloads/Review Prep",
+        "notes_file_ids": [
+          "file_notes_01"
+        ],
+        "slides_file_ids": [
+          "file_slides_01"
+        ],
+        "data_file_ids": [
+          "file_data_01"
+        ],
+        "notes_folder_id": "fld_notes_01",
+        "slides_folder_id": "fld_slides_01",
+        "data_folder_id": "fld_data_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Downloads/Review Prep"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_notes_01"
+            ],
+            "folder_id": "fld_notes_01"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_slides_01"
+            ],
+            "folder_id": "fld_slides_01"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_data_01"
+            ],
+            "folder_id": "fld_data_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_notes_01",
+            "type": "file",
+            "attributes": {
+              "name": "review_talking_points.txt",
+              "file_type": "txt",
+              "location": "Downloads/Review Prep",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_slides_01",
+            "type": "file",
+            "attributes": {
+              "name": "performance_review_deck.pdf",
+              "file_type": "pdf",
+              "location": "Downloads/Review Prep",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_data_01",
+            "type": "file",
+            "attributes": {
+              "name": "wait_time_metrics_q2.xlsx",
+              "file_type": "xlsx",
+              "location": "Downloads/Review Prep",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_notes_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Review Notes",
+              "purpose": "Store written prep notes and talking points"
+            }
+          },
+          {
+            "id": "fld_slides_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Review Slides",
+              "purpose": "Store presentation decks and exported slide files"
+            }
+          },
+          {
+            "id": "fld_data_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Review Data",
+              "purpose": "Store spreadsheets and supporting metrics files"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "scheduling",
+      "reason_for_call": "Set a calendar reminder",
+      "task_params": {
+        "calendar": "work",
+        "title": "Strategy Writing Block",
+        "start_time": "2025-03-06T11:00:00-05:00",
+        "end_time": "2025-03-06T14:00:00-05:00",
+        "cadence": "before_event",
+        "remind_at": "2025-03-06T12:15:00-05:00"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_strategy_01",
+            "remind_at": "2025-03-06T12:15:00-05:00",
+            "cadence": "before_event"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_strategy_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Strategy Writing Block",
+              "start_time": "2025-03-06T11:00:00-05:00",
+              "end_time": "2025-03-06T14:00:00-05:00",
+              "participants": [],
+              "location": "Focus room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_ops_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Operations Huddle",
+              "start_time": "2025-03-06T09:00:00-05:00",
+              "end_time": "2025-03-06T09:30:00-05:00",
+              "participants": [
+                "clinic-ops@harborhealth.org",
+                "gabriel.campbell@harborhealth.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_review_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Experience Metrics Review",
+              "start_time": "2025-03-06T15:00:00-05:00",
+              "end_time": "2025-03-06T16:00:00-05:00",
+              "participants": [
+                "analytics@harborhealth.org",
+                "gabriel.campbell@harborhealth.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_yoga_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga Class",
+              "start_time": "2025-03-06T18:30:00-05:00",
+              "end_time": "2025-03-06T19:30:00-05:00",
+              "participants": [],
+              "location": "Sage Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "reservation",
+      "reason_for_call": "Book a class.",
+      "task_params": {
+        "service_type": "yoga",
+        "location": "Quincy",
+        "sort_by": "rating",
+        "date_time": "2025-02-14T18:30:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "yoga",
+            "location": "Quincy",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "sp_sage_01",
+            "date_time": "2025-02-14T18:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "sp_sage_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Sage Yoga Studio",
+              "service_type": "yoga",
+              "location": "Quincy",
+              "rating": 4.9,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "sp_harbor_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Harbor Flow Wellness",
+              "service_type": "yoga",
+              "location": "Quincy",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "sp_balance_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Balance House Pilates & Yoga",
+              "service_type": "yoga",
+              "location": "Braintree",
+              "rating": 4.7,
+              "distance_km": 5.8
+            }
+          },
+          {
+            "id": "sp_restore_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Restore Bodywork Studio",
+              "service_type": "massage",
+              "location": "Quincy",
+              "rating": 4.8,
+              "distance_km": 1.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "Patient Experience Ideas Cost Comparison",
+        "location": "Patient Experience",
+        "column_keywords": [
+          "Idea",
+          "Patient impact",
+          "Rough startup cost",
+          "Ongoing cost",
+          "Operational notes",
+          "Leadership priority"
+        ],
+        "idea_keywords": [
+          "waiting room art refresh",
+          "volunteer wayfinding greeter",
+          "bedside communication cards",
+          "quiet hours pilot",
+          "discharge comfort kit"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Patient Experience"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "Patient Experience Ideas Cost Comparison",
+            "location": "Patient Experience",
+            "content_brief": "<authored from column_keywords and idea_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_px_01",
+            "type": "document",
+            "attributes": {
+              "title": "Patient Experience Quick Wins",
+              "doc_type": "memo",
+              "location": "Patient Experience",
+              "content_brief": "Short list of near-term service ideas collected from staff huddles."
+            }
+          },
+          {
+            "id": "doc_px_02",
+            "type": "document",
+            "attributes": {
+              "title": "FY Planning Notes for Patient Experience",
+              "doc_type": "note",
+              "location": "Patient Experience",
+              "content_brief": "Planning notes with rough themes for service improvements and budget sensitivity."
+            }
+          },
+          {
+            "id": "doc_px_03",
+            "type": "document",
+            "attributes": {
+              "title": "Patient Experience Leadership Readout Draft",
+              "doc_type": "report",
+              "location": "Patient Experience",
+              "content_brief": "Draft leadership summary on current patient satisfaction initiatives."
+            }
+          },
+          {
+            "id": "doc_ops_01",
+            "type": "document",
+            "attributes": {
+              "title": "Operations Throughput Dashboard Notes",
+              "doc_type": "note",
+              "location": "Operations",
+              "content_brief": "Notes tied to wait-time reduction metrics."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a planning meeting",
+      "task_params": {
+        "title": "Community Health Fair Booth Planning",
+        "start_time": "2025-02-21T11:30:00-05:00",
+        "end_time": "2025-02-21T12:00:00-05:00",
+        "participants": [
+          "nina.patel@quincyhealth.org",
+          "marcus.lee@quincyhealth.org"
+        ],
+        "location": "Conference Room B"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-21T11:30:00-05:00",
+            "end_time": "2025-02-21T12:00:00-05:00",
+            "participants": [
+              "nina.patel@quincyhealth.org",
+              "marcus.lee@quincyhealth.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Community Health Fair Booth Planning",
+            "start_time": "2025-02-21T11:30:00-05:00",
+            "end_time": "2025-02-21T12:00:00-05:00",
+            "participants": [
+              "nina.patel@quincyhealth.org",
+              "marcus.lee@quincyhealth.org"
+            ],
+            "location": "Conference Room B"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Operations Huddle",
+              "start_time": "2025-02-21T09:00:00-05:00",
+              "end_time": "2025-02-21T09:30:00-05:00",
+              "participants": [
+                "gabriel.campbell@quincyhealth.org",
+                "nina.patel@quincyhealth.org",
+                "marcus.lee@quincyhealth.org"
+              ],
+              "location": "Conference Room A",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Health Fair Booth Planning",
+              "start_time": "2025-02-21T11:30:00-05:00",
+              "end_time": "2025-02-21T12:00:00-05:00",
+              "participants": [
+                "gabriel.campbell@quincyhealth.org",
+                "nina.patel@quincyhealth.org"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Vendor Call",
+              "start_time": "2025-02-21T13:00:00-05:00",
+              "end_time": "2025-02-21T13:30:00-05:00",
+              "participants": [
+                "gabriel.campbell@quincyhealth.org",
+                "marcus.lee@quincyhealth.org"
+              ],
+              "location": "Phone",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Budget Check-in",
+              "start_time": "2025-02-21T15:00:00-05:00",
+              "end_time": "2025-02-21T15:45:00-05:00",
+              "participants": [
+                "gabriel.campbell@quincyhealth.org",
+                "nina.patel@quincyhealth.org",
+                "finance.team@quincyhealth.org"
+              ],
+              "location": "Conference Room C",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "reservation",
+      "reason_for_call": "Help with a dinner reservation.",
+      "task_params": {
+        "location": "Quincy",
+        "cuisine": "Mediterranean",
+        "date_time": "2025-02-19T19:00:00",
+        "party_size": 1
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Quincy",
+            "cuisine": "Mediterranean",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_marevista_01",
+            "date_time": "2025-02-19T19:00:00",
+            "party_size": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_marevista_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mare Vista Kitchen",
+              "cuisine": "Mediterranean",
+              "location": "Quincy",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "cozy dining room"
+            }
+          },
+          {
+            "id": "rst_cedarandstone_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cedar & Stone",
+              "cuisine": "Mediterranean",
+              "location": "Quincy",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "quiet booths"
+            }
+          },
+          {
+            "id": "rst_tidalnoodle_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Tidal Noodle Bar",
+              "cuisine": "Asian Fusion",
+              "location": "Quincy",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "open dining room"
+            }
+          },
+          {
+            "id": "rst_brickharbor_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Brick Harbor Grill",
+              "cuisine": "American",
+              "location": "Quincy",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "bar and table seating"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "communication",
+      "reason_for_call": "Draft a professional reply.",
+      "task_params": {
+        "sender": "Maya Thompson",
+        "folder": "inbox",
+        "subject": "Arts in Care roundtable follow-up",
+        "language": "en",
+        "reply_points": [
+          "thank her for the thoughtful note and examples",
+          "say the hospital is exploring patient engagement ideas",
+          "mention interest in participatory art and reflective looking formats",
+          "ask whether her team could share a short call or materials",
+          "suggest next week is workable for a brief conversation"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Thompson",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_museum_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_museum_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Thompson",
+              "subject": "Arts in Care roundtable follow-up",
+              "body": "Hi Gabriel, I enjoyed our conversation after the panel. I’m attaching a few notes on how our museum’s public programs team has adapted slow-looking and collaborative art-making formats for healthcare partners. If it would be useful, I’d be happy to compare notes on what has translated well for patient-facing settings.",
+              "thread_id": "thr_museum_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:18:00"
+            }
+          },
+          {
+            "id": "msg_museum_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Thompson",
+              "subject": "Exhibition educator resource packet",
+              "body": "Following up with the educator packet I mentioned. It focuses on gallery facilitation for adult audiences and may still spark ideas for clinical settings.",
+              "thread_id": "thr_museum_02",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-01-28T16:42:00"
+            }
+          },
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Derek Liu",
+              "subject": "Patient experience dashboard revisions",
+              "body": "Can you review the updated dashboard tabs before leadership rounds?",
+              "thread_id": "thr_ops_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-14T08:03:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Portland, ME",
+        "guest_count": 1,
+        "room_count": 1,
+        "check_in_date": "2025-09-19",
+        "check_out_date": "2025-09-21",
+        "sort_by": "price_asc"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Portland, ME",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "htl_casco_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_casco_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Casco Bay Budget Inn",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 129.0
+            }
+          },
+          {
+            "id": "htl_oldport_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Old Port Harbor Hotel",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 158.0
+            }
+          },
+          {
+            "id": "htl_lighthouse_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Lighthouse Lane Lodge",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-20",
+              "check_out_date": "2025-09-22",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 118.0
+            }
+          },
+          {
+            "id": "htl_forestreet_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Fore Street Stay",
+              "location": "Portland, ME",
+              "check_in_date": "2025-09-19",
+              "check_out_date": "2025-09-21",
+              "available_rooms": 1,
+              "max_guests_per_room": 1,
+              "price_per_night": 141.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s18",
+      "session_type": "learning",
+      "day_offset": 18,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a calendar block",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Blog Writing",
+        "start_time": "2025-05-22T19:00:00-04:00",
+        "end_time": "2025-05-22T21:30:00-04:00",
+        "location": "Home"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-05-22T19:00:00-04:00",
+            "end_time": "2025-05-22T21:30:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Blog Writing",
+            "start_time": "2025-05-22T19:00:00-04:00",
+            "end_time": "2025-05-22T21:30:00-04:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_personal_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga Class",
+              "start_time": "2025-05-22T17:30:00-04:00",
+              "end_time": "2025-05-22T18:15:00-04:00",
+              "participants": [],
+              "location": "Sage Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Ops Dashboard Review",
+              "start_time": "2025-05-22T16:00:00-04:00",
+              "end_time": "2025-05-22T17:00:00-04:00",
+              "participants": [
+                "analytics@hospital.org",
+                "opslead@hospital.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Blog Writing",
+              "start_time": "2025-05-22T19:00:00-04:00",
+              "end_time": "2025-05-22T21:30:00-04:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Colin",
+              "start_time": "2025-05-23T19:30:00-04:00",
+              "end_time": "2025-05-23T21:00:00-04:00",
+              "participants": [
+                "colin@example.com"
+              ],
+              "location": "Quincy Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "note",
+        "location": "Blog Ideas",
+        "title": "Art, Patient Dignity, and Clinical Space Design",
+        "note_points": [
+          "connections between visual art and patient dignity",
+          "how waiting rooms and corridors shape emotional experience",
+          "examples of humane clinical space design choices",
+          "art placement as wayfinding, comfort, and identity cue",
+          "questions for a future blog essay outline"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Blog Ideas",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Art, Patient Dignity, and Clinical Space Design",
+            "location": "Blog Ideas",
+            "content_brief": "<authored from note_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_blog_01",
+            "type": "document",
+            "attributes": {
+              "title": "Notes on Museum Lighting and Attention",
+              "doc_type": "note",
+              "location": "Blog Ideas",
+              "content_brief": "Rough notes about lighting, perception, and gallery pacing."
+            }
+          },
+          {
+            "id": "doc_blog_02",
+            "type": "document",
+            "attributes": {
+              "title": "Art Therapy Metrics Draft",
+              "doc_type": "memo",
+              "location": "Blog Ideas",
+              "content_brief": "Working memo connecting patient experience metrics to art programs."
+            }
+          },
+          {
+            "id": "doc_blog_03",
+            "type": "document",
+            "attributes": {
+              "title": "Visual Culture Reading List",
+              "doc_type": "note",
+              "location": "Blog Ideas",
+              "content_brief": "Reading list on visual culture, embodiment, and public institutions."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "Boston",
+        "event_tags": [
+          "contemporary art"
+        ],
+        "date_time": "2025-03-28T18:30:00-04:00",
+        "ticket_type": "general_admission",
+        "ticket_count": 1
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Boston",
+            "event_tags": [
+              "contemporary art"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_harborlight_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_harborlight_01",
+            "type": "event",
+            "attributes": {
+              "name": "Harborlight Video Installations",
+              "location": "Boston",
+              "date_time": "2025-03-28T18:30:00-04:00",
+              "price": 24.0,
+              "event_tags": [
+                "contemporary art",
+                "installation",
+                "video art"
+              ]
+            }
+          },
+          {
+            "id": "evt_inkspace_02",
+            "type": "event",
+            "attributes": {
+              "name": "Ink Space Print Salon",
+              "location": "Boston",
+              "date_time": "2025-03-28T19:00:00-04:00",
+              "price": 18.0,
+              "event_tags": [
+                "gallery",
+                "printmaking",
+                "artist talk"
+              ]
+            }
+          },
+          {
+            "id": "evt_afterimage_03",
+            "type": "event",
+            "attributes": {
+              "name": "Afterimage: Contemporary Photography Night",
+              "location": "Boston",
+              "date_time": "2025-03-28T18:45:00-04:00",
+              "price": 27.0,
+              "event_tags": [
+                "contemporary art",
+                "photography",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "evt_sculptloop_04",
+            "type": "event",
+            "attributes": {
+              "name": "Sculpt Loop Open Studios",
+              "location": "Cambridge",
+              "date_time": "2025-03-28T18:30:00-04:00",
+              "price": 20.0,
+              "event_tags": [
+                "contemporary art",
+                "sculpture",
+                "open studios"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "scheduling",
+      "reason_for_call": "Handle a calendar invite",
+      "task_params": {
+        "calendar": "invites",
+        "participants": [
+          "Priya Nandakumar",
+          "Evan Morales"
+        ],
+        "response": "accept"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "respond_to_event_invite"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites",
+            "participants": [
+              "Priya Nandakumar",
+              "Evan Morales"
+            ]
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-06-19T18:00:00-04:00",
+            "end_time": "2025-06-19T19:00:00-04:00"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_committee_01",
+            "response": "accept"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_committee_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Health Fair Volunteer Committee",
+              "start_time": "2025-06-19T18:00:00-04:00",
+              "end_time": "2025-06-19T19:00:00-04:00",
+              "participants": [
+                "Gabriel Campbell",
+                "Priya Nandakumar",
+                "Evan Morales",
+                "Sonia Patel"
+              ],
+              "location": "Quincy Community Center",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_ops_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Throughput Review",
+              "start_time": "2025-06-19T15:30:00-04:00",
+              "end_time": "2025-06-19T16:30:00-04:00",
+              "participants": [
+                "Gabriel Campbell",
+                "Dana Brooks",
+                "Leo Kim"
+              ],
+              "location": "Harborview Medical Center - Room 4B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_commute_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Blue Hills photo walk",
+              "start_time": "2025-06-19T19:30:00-04:00",
+              "end_time": "2025-06-19T21:00:00-04:00",
+              "participants": [
+                "Gabriel Campbell"
+              ],
+              "location": "Blue Hills Reservation",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_standup_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning Operations Standup",
+              "start_time": "2025-06-19T09:00:00-04:00",
+              "end_time": "2025-06-19T09:30:00-04:00",
+              "participants": [
+                "Gabriel Campbell",
+                "Dana Brooks",
+                "Leo Kim"
+              ],
+              "location": "Harborview Medical Center - Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "communication",
+      "reason_for_call": "Triage a message and draft a follow-up",
+      "task_params": {
+        "folder": "sent",
+        "subject": "community partnerships",
+        "language": "en",
+        "followup_points": [
+          "thank them for the earlier exchange",
+          "restate interest in collaborating",
+          "mention art-therapy pilot possibilities",
+          "suggest a short call next week",
+          "ask what timing works on their side"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "sent"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_comm_02",
+            "language": "en",
+            "body": "<authored from followup_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_sent_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Gabriel Campbell <gabriel.campbell@harborpointhealth.org>",
+              "subject": "Re: Community partnerships for neighborhood wellness outreach",
+              "body": "Hi Maya, I appreciated your note about local collaboration opportunities. I think there could be a strong fit between your coalition's outreach work and our patient engagement goals, especially if we explore a small art-therapy element as part of a broader community wellness effort. Happy to compare ideas once schedules calm down.",
+              "thread_id": "thr_comm_01",
+              "folder": "sent",
+              "labels": [
+                "work"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-28T15:42:00"
+            }
+          },
+          {
+            "id": "msg_sent_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Gabriel Campbell <gabriel.campbell@harborpointhealth.org>",
+              "subject": "Community partnerships and fall programming ideas",
+              "body": "Hi Maya, circling back on community partnerships as we think about fall programming. I would still love to explore whether a joint pilot around creative wellness or art-therapy-informed patient engagement could make sense. If your team is open, I can put together a concise concept outline and we can find time to discuss.",
+              "thread_id": "thr_comm_02",
+              "folder": "sent",
+              "labels": [
+                "work",
+                "outreach"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-19T09:18:00"
+            }
+          },
+          {
+            "id": "msg_sent_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Gabriel Campbell <gabriel.campbell@harborpointhealth.org>",
+              "subject": "Q3 staffing dashboard revisions",
+              "body": "I've attached the revised dashboard with the throughput and staffing updates incorporated. Let me know if you want me to break out the ambulatory figures separately before leadership review.",
+              "thread_id": "thr_ops_03",
+              "folder": "sent",
+              "labels": [
+                "work"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-05-22T17:06:00"
+            }
+          },
+          {
+            "id": "msg_inbox_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Patel <mpatel@southshorecoalition.org>",
+              "subject": "Re: Community partnerships and fall programming ideas",
+              "body": "Thanks, Gabriel. I agree there may be room for a joint effort here. Things are a little packed on our end this week, but I would be glad to reconnect soon.",
+              "thread_id": "thr_comm_02",
+              "folder": "inbox",
+              "labels": [
+                "work",
+                "outreach"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-20T11:03:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s27",
+      "session_type": "learning",
+      "day_offset": 27,
+      "domain": "commerce",
+      "reason_for_call": "Compare some products",
+      "task_params": {
+        "category": "cold-brew maker",
+        "budget": 90,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_oxo_01",
+          "prod_takeya_02",
+          "prod_kitchenaid_03"
+        ],
+        "items": [
+          "OXO Compact Cold Brew Coffee Maker",
+          "Takeya Deluxe Cold Brew Coffee Maker",
+          "KitchenAid Cold Brew Coffee Maker"
+        ],
+        "list_name": "Home coffee options"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "cold-brew maker",
+            "budget": 90,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_oxo_01",
+              "prod_takeya_02",
+              "prod_kitchenaid_03"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "OXO Compact Cold Brew Coffee Maker",
+              "Takeya Deluxe Cold Brew Coffee Maker",
+              "KitchenAid Cold Brew Coffee Maker"
+            ],
+            "list_name": "Home coffee options"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_oxo_01",
+            "type": "product",
+            "attributes": {
+              "name": "OXO Compact Cold Brew Coffee Maker",
+              "price": 49.99,
+              "category": "cold-brew maker",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_takeya_02",
+            "type": "product",
+            "attributes": {
+              "name": "Takeya Deluxe Cold Brew Coffee Maker",
+              "price": 24.99,
+              "category": "cold-brew maker",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_kitchenaid_03",
+            "type": "product",
+            "attributes": {
+              "name": "KitchenAid Cold Brew Coffee Maker",
+              "price": 79.99,
+              "category": "cold-brew maker",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_primula_04",
+            "type": "product",
+            "attributes": {
+              "name": "Primula Burke Cold Brew Coffee Maker",
+              "price": 29.99,
+              "category": "cold-brew maker",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "bike tune-up",
+        "location": "Quincy",
+        "sort_by": "distance",
+        "date_time": "2025-02-14T17:30:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "bike tune-up",
+            "location": "Quincy",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "sp_quincycycle_01",
+            "date_time": "2025-02-14T17:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "sp_quincycycle_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Quincy Cycle Works",
+              "service_type": "bike tune-up",
+              "location": "Quincy",
+              "rating": 4.8,
+              "distance_km": 1.9
+            }
+          },
+          {
+            "id": "sp_baysidebikes_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Bayside Bike Repair",
+              "service_type": "bike tune-up",
+              "location": "Quincy",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "sp_southshoresports_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "South Shore Sports Service Desk",
+              "service_type": "bike tune-up",
+              "location": "Quincy",
+              "rating": 4.4,
+              "distance_km": 4.7
+            }
+          },
+          {
+            "id": "sp_miltonvelo_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Milton Velo Lab",
+              "service_type": "bike tune-up",
+              "location": "Milton",
+              "rating": 4.9,
+              "distance_km": 6.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox.",
+      "task_params": {
+        "source_folder": "inbox",
+        "focus_sender": "Dana Ruiz",
+        "focus_priority": "high",
+        "noise_sender": "Events Digest"
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Dana Ruiz"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_dana_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Events Digest"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_events_01",
+              "msg_events_02"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_dana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Ruiz",
+              "subject": "Updated credentialing audit timeline",
+              "body": "Gabriel, the payer credentialing audit scope expanded. We need your sign-off on the revised timeline first thing Monday.",
+              "thread_id": "thr_dana_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T15:41:00"
+            }
+          },
+          {
+            "id": "msg_events_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Events Digest",
+              "subject": "Five webinars you can still join this month",
+              "body": "Catch up on upcoming webinars, networking mixers, and sponsor spotlights.",
+              "thread_id": "thr_events_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T14:08:00"
+            }
+          },
+          {
+            "id": "msg_events_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Events Digest",
+              "subject": "Weekly roundup: conferences, panels, and virtual sessions",
+              "body": "Your weekly professional events roundup is here.",
+              "thread_id": "thr_events_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T11:22:00"
+            }
+          },
+          {
+            "id": "msg_hr_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Re: staffing dashboard notes",
+              "body": "Thanks for the dashboard edits. We can review next week.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T13:17:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "location": "Patient Experience",
+        "doc_type": "report",
+        "title": "Art-Therapy Pilot Memo",
+        "memo_points": [
+          "link pilot to patient experience goals like anxiety reduction and engagement",
+          "keep tone practical and evidence-aware, not aspirational",
+          "note small-scale pilot scope with measurable outcomes",
+          "mention staff workflow impact and implementation guardrails",
+          "include budget-conscious framing and partnership option"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Patient Experience",
+            "doc_type": "report"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "memo",
+            "title": "Art-Therapy Pilot Memo",
+            "location": "Patient Experience",
+            "content_brief": "<authored from memo_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_pxreport_01",
+            "type": "document",
+            "attributes": {
+              "title": "Q2 Patient Experience Baseline",
+              "doc_type": "report",
+              "location": "Patient Experience",
+              "content_brief": "Baseline scores for wait communication, anxiety, satisfaction, and discharge clarity across ambulatory units."
+            }
+          },
+          {
+            "id": "doc_pxmemo_02",
+            "type": "document",
+            "attributes": {
+              "title": "Volunteer Arts Rounds Summary",
+              "doc_type": "memo",
+              "location": "Patient Experience",
+              "content_brief": "Short summary of informal bedside arts activities, patient comments, and staff observations from a small volunteer initiative."
+            }
+          },
+          {
+            "id": "doc_opsreport_03",
+            "type": "document",
+            "attributes": {
+              "title": "Clinic Throughput Improvement Review",
+              "doc_type": "report",
+              "location": "Operations",
+              "content_brief": "Lean review of cycle times, rooming delays, and staffing adjustments in outpatient clinics."
+            }
+          },
+          {
+            "id": "file_brief_01",
+            "type": "file",
+            "attributes": {
+              "name": "patient_experience_measures.xlsx",
+              "file_type": "xlsx",
+              "location": "Patient Experience",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "metrics",
+                "patient experience"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting",
+      "task_params": {
+        "title": "Coffee chat with Dana re: senior ops path",
+        "start_time": "2025-03-18T08:00:00-04:00",
+        "end_time": "2025-03-18T08:45:00-04:00",
+        "participants": [
+          "dana.mercer@harborhealth.org"
+        ],
+        "location": "Tatte Bakery | Kendall Square"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-18T08:00:00-04:00",
+            "end_time": "2025-03-18T08:45:00-04:00",
+            "participants": [
+              "dana.mercer@harborhealth.org"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Coffee chat with Dana re: senior ops path",
+            "start_time": "2025-03-18T08:00:00-04:00",
+            "end_time": "2025-03-18T08:45:00-04:00",
+            "participants": [
+              "dana.mercer@harborhealth.org"
+            ],
+            "location": "Tatte Bakery | Kendall Square"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Throughput Review",
+              "start_time": "2025-03-18T09:00:00-04:00",
+              "end_time": "2025-03-18T10:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincycare.org",
+                "ops-team@quincycare.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga Class",
+              "start_time": "2025-03-18T06:30:00-04:00",
+              "end_time": "2025-03-18T07:15:00-04:00",
+              "participants": [],
+              "location": "Sage Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "1:1 with Priya",
+              "start_time": "2025-03-18T11:30:00-04:00",
+              "end_time": "2025-03-18T12:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@quincycare.org",
+                "priya.shah@quincycare.org"
+              ],
+              "location": "Office 4C",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_invite_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Coffee chat with Dana re: senior ops path",
+              "start_time": "2025-03-18T08:00:00-04:00",
+              "end_time": "2025-03-18T08:45:00-04:00",
+              "participants": [
+                "events@nehsalliance.org"
+              ],
+              "location": "Zoom",
+              "calendar": "invites",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "commerce",
+      "reason_for_call": "Put together a shopping list",
+      "task_params": {
+        "category": "grocery",
+        "budget": 45,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_crackers_01",
+          "prod_brie_02",
+          "prod_salami_03",
+          "prod_coffee_04",
+          "prod_bagels_05"
+        ],
+        "items": [
+          "Sea Salt Crackers",
+          "Triple Cream Brie",
+          "Soppressata Salami",
+          "Cold Brew Coffee Concentrate",
+          "Plain Bagels"
+        ],
+        "list_name": "Gallery Night Host List"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "grocery",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_crackers_01",
+              "prod_brie_02",
+              "prod_salami_03",
+              "prod_coffee_04",
+              "prod_bagels_05"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Sea Salt Crackers",
+              "Triple Cream Brie",
+              "Soppressata Salami",
+              "Cold Brew Coffee Concentrate",
+              "Plain Bagels"
+            ],
+            "list_name": "Gallery Night Host List"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_crackers_01",
+            "type": "product",
+            "attributes": {
+              "name": "Sea Salt Crackers",
+              "price": 4.49,
+              "category": "grocery",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_brie_02",
+            "type": "product",
+            "attributes": {
+              "name": "Triple Cream Brie",
+              "price": 8.99,
+              "category": "grocery",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_salami_03",
+            "type": "product",
+            "attributes": {
+              "name": "Soppressata Salami",
+              "price": 7.49,
+              "category": "grocery",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_coffee_04",
+            "type": "product",
+            "attributes": {
+              "name": "Cold Brew Coffee Concentrate",
+              "price": 9.99,
+              "category": "grocery",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_bagels_05",
+            "type": "product",
+            "attributes": {
+              "name": "Plain Bagels",
+              "price": 5.29,
+              "category": "grocery",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "reservation",
+      "reason_for_call": "Book a dinner reservation.",
+      "task_params": {
+        "location": "Cambridge",
+        "event_tags": [
+          "open mic",
+          "acoustic"
+        ],
+        "cuisine": "Mediterranean",
+        "date_time": "2025-04-25T18:30:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Cambridge",
+            "event_tags": [
+              "open mic",
+              "acoustic"
+            ]
+          }
+        },
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Cambridge",
+            "cuisine": "Mediterranean",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_oleana_01",
+            "date_time": "2025-04-25T18:30:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_lilypad_01",
+            "type": "event",
+            "attributes": {
+              "name": "Acoustic Open Mic at The Lilypad",
+              "location": "Cambridge",
+              "date_time": "2025-04-25T20:00:00",
+              "price": 10.0,
+              "event_tags": [
+                "open mic",
+                "acoustic",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_burren_02",
+            "type": "event",
+            "attributes": {
+              "name": "Songwriters Open Mic Night",
+              "location": "Somerville",
+              "date_time": "2025-04-25T19:30:00",
+              "price": 8.0,
+              "event_tags": [
+                "open mic",
+                "acoustic",
+                "songwriter"
+              ]
+            }
+          },
+          {
+            "id": "rst_oleana_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Oleana",
+              "cuisine": "Mediterranean",
+              "location": "Cambridge",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "cozy indoor"
+            }
+          },
+          {
+            "id": "rst_moona_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Moona",
+              "cuisine": "Mediterranean",
+              "location": "Cambridge",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "small dining room"
+            }
+          },
+          {
+            "id": "rst_giulia_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Giulia",
+              "cuisine": "Italian",
+              "location": "Cambridge",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "warm indoor"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "communication",
+      "reason_for_call": "Draft an invite message",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "language": "en",
+        "invite_points": [
+          "say he is thinking of checking out the gallery and live music thing",
+          "keep it casual and low-pressure",
+          "mention they can join for any part of it",
+          "ask if they are up for it",
+          "friendly tone, not overly planned"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_gallery_07",
+            "language": "en",
+            "body": "<authored from invite_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Friday plans?",
+              "body": "Theo and I were talking about maybe doing something artsy later this week. Let me know if you hear about anything good.",
+              "thread_id": "thr_gallery_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-06T18:42:00"
+            }
+          },
+          {
+            "id": "msg_theo_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Theo Alvarez",
+              "subject": "Re: Friday plans?",
+              "body": "I am in if it stays relaxed. Could be fun to bounce between a show and some music.",
+              "thread_id": "thr_gallery_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-06T19:10:00"
+            }
+          },
+          {
+            "id": "msg_erin_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Erin Walsh",
+              "subject": "Volunteer shift notes",
+              "body": "Thanks again for helping at the health fair table.",
+              "thread_id": "thr_volunteer_12",
+              "folder": "inbox",
+              "labels": [
+                "community"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-06T15:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s38",
+      "session_type": "learning",
+      "day_offset": 38,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files",
+      "task_params": {
+        "location": "Desktop/Creative Inbox",
+        "file_type": "image",
+        "folder_name": "Weekend Creative"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Desktop/Creative Inbox",
+            "file_type": "image"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_photo_01",
+              "fil_photo_02",
+              "fil_sketch_03"
+            ],
+            "folder_id": "fld_weekend_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_photo_01",
+            "type": "file",
+            "attributes": {
+              "name": "quincy_harbor_selects_01.jpg",
+              "file_type": "image",
+              "location": "Desktop/Creative Inbox",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "photo selects"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_photo_02",
+            "type": "file",
+            "attributes": {
+              "name": "quincy_harbor_selects_02.jpg",
+              "file_type": "image",
+              "location": "Desktop/Creative Inbox",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "photo selects"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_sketch_03",
+            "type": "file",
+            "attributes": {
+              "name": "gallery_sketch_scan_03.png",
+              "file_type": "image",
+              "location": "Desktop/Creative Inbox",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "sketch scan"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_work_04",
+            "type": "file",
+            "attributes": {
+              "name": "patient_flow_dashboard_screenshot.png",
+              "file_type": "image",
+              "location": "Desktop/Hospital Ops",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "hospital"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_weekend_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Weekend Creative",
+              "purpose": "Personal art and photography files"
+            }
+          },
+          {
+            "id": "fld_admin_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Hospital Admin",
+              "purpose": "Operations and hospital management files"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s39",
+      "session_type": "learning",
+      "day_offset": 39,
+      "domain": "scheduling",
+      "reason_for_call": "Set a reminder",
+      "task_params": {
+        "calendar": "work",
+        "title": "Community Health Fair Planning Checkpoint",
+        "start_time": "2025-04-11T15:00:00-04:00",
+        "end_time": "2025-04-11T15:30:00-04:00",
+        "remind_at": "2025-04-10T16:30:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_healthfair_01",
+            "remind_at": "2025-04-10T16:30:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_healthfair_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Health Fair Planning Checkpoint",
+              "start_time": "2025-04-11T15:00:00-04:00",
+              "end_time": "2025-04-11T15:30:00-04:00",
+              "participants": [
+                "gabriel.campbell@northshorehealth.org",
+                "lena.morris@northshorehealth.org",
+                "samir.patel@northshorehealth.org"
+              ],
+              "location": "Teams",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_ops_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Flow Dashboard Review",
+              "start_time": "2025-04-11T13:00:00-04:00",
+              "end_time": "2025-04-11T14:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@northshorehealth.org",
+                "maria.chen@northshorehealth.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga at Sage Studio",
+              "start_time": "2025-04-11T18:30:00-04:00",
+              "end_time": "2025-04-11T19:30:00-04:00",
+              "participants": [],
+              "location": "Sage Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_invite_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Regional Community Outreach Sync",
+              "start_time": "2025-04-12T10:00:00-04:00",
+              "end_time": "2025-04-12T10:45:00-04:00",
+              "participants": [
+                "gabriel.campbell@northshorehealth.org",
+                "outreach-team@regionalhealth.org"
+              ],
+              "location": "Zoom",
+              "calendar": "invites",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s40",
+      "session_type": "learning",
+      "day_offset": 40,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Quincy",
+        "sort_by": "rating",
+        "date_time": "2025-02-18T17:30:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Quincy",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_baysidegrooming_03",
+            "date_time": "2025-02-18T17:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_shearcraft_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "ShearCraft Studio",
+              "service_type": "haircut",
+              "location": "Quincy",
+              "rating": 4.8,
+              "distance_km": 1.9
+            }
+          },
+          {
+            "id": "svc_hancockbarber_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Hancock Barber Co.",
+              "service_type": "haircut",
+              "location": "Quincy",
+              "rating": 4.6,
+              "distance_km": 1.1
+            }
+          },
+          {
+            "id": "svc_baysidegrooming_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Bayside Grooming Lounge",
+              "service_type": "haircut",
+              "location": "Quincy",
+              "rating": 4.9,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_southshorestyle_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "South Shore Style House",
+              "service_type": "haircut",
+              "location": "Braintree",
+              "rating": 4.7,
+              "distance_km": 5.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s45",
+      "session_type": "learning",
+      "day_offset": 45,
+      "domain": "workspace",
+      "reason_for_call": "Build a writing template",
+      "task_params": {
+        "source_location": "Blog Drafts",
+        "source_doc_type": "note",
+        "template_doc_type": "template",
+        "template_title": "Late-Night Essay Template",
+        "template_location": "Blog Drafts/Templates",
+        "structure_points": [
+          "working title placeholder",
+          "opening image or scene",
+          "core tension or question",
+          "health or care context",
+          "art or culture example",
+          "analysis and interpretation",
+          "personal reflection",
+          "closing takeaway and next question"
+        ],
+        "tone_keywords": [
+          "reflective",
+          "analytical",
+          "concrete",
+          "essay-like"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Blog Drafts",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "template",
+            "title": "Late-Night Essay Template",
+            "location": "Blog Drafts/Templates",
+            "content_brief": "<authored from structure_points and tone_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_blog_01",
+            "type": "document",
+            "attributes": {
+              "title": "Art Therapy and Waiting Rooms",
+              "doc_type": "note",
+              "location": "Blog Drafts",
+              "content_brief": "Draft essay connecting patient wait times, visual environment, and care experience."
+            }
+          },
+          {
+            "id": "doc_blog_02",
+            "type": "document",
+            "attributes": {
+              "title": "Museum Light, Clinical Light",
+              "doc_type": "note",
+              "location": "Blog Drafts",
+              "content_brief": "Reflection comparing gallery lighting with hospital spaces and attention."
+            }
+          },
+          {
+            "id": "doc_blog_03",
+            "type": "document",
+            "attributes": {
+              "title": "Why Metrics Need Metaphors",
+              "doc_type": "note",
+              "location": "Blog Drafts",
+              "content_brief": "Essay draft on blending operational data with humane storytelling."
+            }
+          },
+          {
+            "id": "doc_misc_04",
+            "type": "document",
+            "attributes": {
+              "title": "Quarterly Throughput Notes",
+              "doc_type": "memo",
+              "location": "Operations",
+              "content_brief": "Internal notes on clinic flow and staffing changes."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "gabriel_campbell_s46",
+      "session_type": "learning",
+      "day_offset": 46,
+      "domain": "scheduling",
+      "reason_for_call": "Review my calendar.",
+      "task_params": {
+        "title": "Personal Hold",
+        "start_time": "2025-03-22T09:00:00-04:00",
+        "end_time": "2025-03-22T11:00:00-04:00",
+        "location": "Main Office",
+        "recovery_event_id": "evt_hold_04",
+        "new_value": "Recovery Block"
+      },
+      "expected_tools": [
+        "list_events",
+        "modify_event",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "modify_event",
+          "arguments": {
+            "event_id": "evt_hold_04",
+            "field": "title",
+            "new_value": "Recovery Block"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Strategy Work Block",
+            "start_time": "2025-03-18T15:00:00-04:00",
+            "end_time": "2025-03-18T17:00:00-04:00",
+            "location": "Main Office"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Operations Leadership Sync",
+              "start_time": "2025-03-17T09:00:00-04:00",
+              "end_time": "2025-03-17T10:00:00-04:00",
+              "participants": [
+                "vp.operations@harborhealth.org",
+                "gabriel.campbell@harborhealth.org"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Patient Experience Metrics Review",
+              "start_time": "2025-03-18T13:00:00-04:00",
+              "end_time": "2025-03-18T14:00:00-04:00",
+              "participants": [
+                "analytics.team@harborhealth.org",
+                "gabriel.campbell@harborhealth.org"
+              ],
+              "location": "Main Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Art Therapy Pilot Debrief",
+              "start_time": "2025-03-20T11:00:00-04:00",
+              "end_time": "2025-03-20T12:00:00-04:00",
+              "participants": [
+                "program.leads@harborhealth.org",
+                "gabriel.campbell@harborhealth.org"
+              ],
+              "location": "Main Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_hold_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Personal Hold",
+              "start_time": "2025-03-22T09:00:00-04:00",
+              "end_time": "2025-03-22T11:00:00-04:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "I just noticed I'm almost out of some household basics—paper towels, dish soap, and 13-gallon trash bags. Go ahead and handle that for me.",
+      "gold_value": null,
+      "session_id": "gabriel_campbell_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "gabriel_campbell_commerce_01",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_commerce_01",
+        "rule_text": "When stocking up on food or household staples, he prefers building a running list rather than placing an impulse order immediately.",
+        "canonical_answer": "I always collect staples into a list first instead of impulse-ordering them one by one."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_home_refill_bundle_01",
+            "type": "product",
+            "attributes": {
+              "name": "Household Refill Pack: Paper Towels, Dish Soap & 13-Gallon Trash Bags",
+              "price": 31.49,
+              "category": "household",
+              "rating": 4.9,
+              "review_count": 4680,
+              "stock_status": "in_stock",
+              "contents": "6 double rolls paper towels, 24 oz dish soap, 40-count 13-gallon trash bags"
+            }
+          },
+          {
+            "id": "prod_paper_towels_01",
+            "type": "product",
+            "attributes": {
+              "name": "Ultra Absorb Paper Towels, 6 Double Rolls",
+              "price": 11.29,
+              "category": "household",
+              "rating": 4.7,
+              "review_count": 1180,
+              "stock_status": "in_stock",
+              "size": "6 double rolls"
+            }
+          },
+          {
+            "id": "prod_dish_soap_01",
+            "type": "product",
+            "attributes": {
+              "name": "Lemon Dish Soap, 24 oz",
+              "price": 4.49,
+              "category": "household",
+              "rating": 4.8,
+              "review_count": 940,
+              "stock_status": "in_stock",
+              "scent": "lemon"
+            }
+          },
+          {
+            "id": "prod_trash_bags_01",
+            "type": "product",
+            "attributes": {
+              "name": "13-Gallon Kitchen Trash Bags, 40 Count",
+              "price": 8.99,
+              "category": "household",
+              "rating": 4.8,
+              "review_count": 1260,
+              "stock_status": "in_stock",
+              "size": "40 count"
+            }
+          },
+          {
+            "id": "prod_dish_soap_concentrate_01",
+            "type": "product",
+            "attributes": {
+              "name": "Dish Soap Refill Concentrate, 3-Pack",
+              "price": 14.99,
+              "category": "household",
+              "rating": 4.9,
+              "review_count": 3320,
+              "stock_status": "in_stock",
+              "pack_size": "3 pack"
+            }
+          },
+          {
+            "id": "prod_trash_bags_scented_01",
+            "type": "product",
+            "attributes": {
+              "name": "Lavender 13-Gallon Kitchen Trash Bags, 80 Count",
+              "price": 12.49,
+              "category": "household",
+              "rating": 4.9,
+              "review_count": 2870,
+              "stock_status": "in_stock",
+              "size": "80 count"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "build_shopping_list",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I've barely touched SlopeCast Plus since the winter ended, and I may want it again when the weather turns. Please handle that subscription for me.",
+      "gold_value": null,
+      "session_id": "gabriel_campbell_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "gabriel_campbell_commerce_03",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_commerce_03",
+        "rule_text": "For subscriptions he is no longer really using, he prefers canceling them outright rather than merely pausing them.",
+        "canonical_answer": "I never keep an underused subscription lingering; I cancel it rather than putting it on pause."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "sub_slopecast_plus_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "SlopeCast Plus",
+              "plan": "basic",
+              "status": "active",
+              "price_per_period": 11.99,
+              "billing_cycle": "monthly",
+              "last_90_day_sessions": 1,
+              "category": "snow_conditions",
+              "primary_season": "winter"
+            }
+          },
+          {
+            "id": "sub_mealcrate_weeknight_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "MealCrate Weeknight",
+              "plan": "basic",
+              "status": "paused",
+              "pause_until": "2026-10-15",
+              "price_per_period": 18.99,
+              "billing_cycle": "monthly",
+              "last_90_day_orders": 0,
+              "category": "meal_kits"
+            }
+          },
+          {
+            "id": "sub_trailledger_pro_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "TrailLedger Pro",
+              "plan": "pro",
+              "status": "active",
+              "price_per_period": 9.99,
+              "billing_cycle": "monthly",
+              "last_30_day_sessions": 27,
+              "category": "expense_tracking"
+            }
+          },
+          {
+            "id": "sub_streamlane_duo_01",
+            "type": "subscription",
+            "attributes": {
+              "name": "StreamLane Duo",
+              "plan": "premium",
+              "status": "active",
+              "price_per_period": 15.49,
+              "billing_cycle": "monthly",
+              "last_30_day_hours": 22,
+              "category": "video_streaming"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "cancel_subscription",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Ortiz at Civic Futures about her newsletter note. Tell her I'd be glad to contribute, that I'm thinking of a 700-word piece on how community arts programs can support mental health, and ask who the main readership is and when they need a first version.",
+      "gold_value": null,
+      "session_id": "gabriel_campbell_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "gabriel_campbell_communication_01",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_communication_01",
+        "rule_text": "When he is preparing outreach, thought-leadership, or nuanced professional correspondence, he prefers to draft the message first rather than sending it immediately.",
+        "canonical_answer": "If a message carries strategy, advocacy, or polished public-facing ideas, I draft it before it goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_newsletter_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Ortiz <lena.ortiz@civicfutures.org>",
+              "subject": "Invitation to contribute to Civic Futures newsletter",
+              "body": "Hi Gabriel — I'm editing the next Civic Futures newsletter and wondered whether you'd be open to contributing a short article. We'd love something thoughtful on the intersection of art, health, and city life for our readers in the public-sector and nonprofit space. If you're interested, let me know what angle you might take and any questions you have about audience or timing.",
+              "thread_id": "thr_lena_newsletter_18",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T09:14"
+            }
+          },
+          {
+            "id": "msg_marcus_roomchange_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marcus Lee <marcus.lee@northsidecenter.org>",
+              "subject": "Workshop room change",
+              "body": "Just a heads-up that Thursday's facilitation session has been moved from Studio 2 to Room 114 because of the lighting setup.",
+              "thread_id": "thr_marcus_room_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T08:02"
+            }
+          },
+          {
+            "id": "msg_adobe_invoice_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@adobe.com",
+              "subject": "Your monthly invoice is ready",
+              "body": "Your latest invoice is available in the account portal.",
+              "thread_id": "thr_adobe_invoice_55",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-08T07:26"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in Boston and want two tickets for a night out; keep it under $45 each, pick something and book it.",
+      "gold_value": "evt_ica_afterhours_01",
+      "session_id": "gabriel_campbell_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "gabriel_campbell_reservation_01",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_reservation_01",
+        "rule_text": "When booking event tickets, he prefers contemporary art, museum, literary, or music events over generic entertainment options.",
+        "canonical_answer": "I always choose cultural events that connect to art, ideas, or acoustic music before more generic entertainment."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_ica_afterhours_01",
+            "type": "event",
+            "attributes": {
+              "name": "ICA Boston After Hours: New Voices Installation Night",
+              "location": "Boston",
+              "date_time": "2026-09-18T19:00:00",
+              "price": 42,
+              "event_tags": [
+                "museum",
+                "contemporary_art",
+                "artist_talk"
+              ],
+              "distance_km": 4.2,
+              "attendance_estimate": 220
+            }
+          },
+          {
+            "id": "evt_harbor_laughs_01",
+            "type": "event",
+            "attributes": {
+              "name": "Harbor Laughs Stand-Up Showcase",
+              "location": "Boston",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 24,
+              "event_tags": [
+                "comedy",
+                "stand_up",
+                "nightlife"
+              ],
+              "distance_km": 0.7,
+              "attendance_estimate": 1500
+            }
+          },
+          {
+            "id": "evt_arcade_brawl_01",
+            "type": "event",
+            "attributes": {
+              "name": "Back Bay Mega Arcade Tournament",
+              "location": "Boston",
+              "date_time": "2026-09-18T19:30:00",
+              "price": 18,
+              "event_tags": [
+                "arcade",
+                "competition",
+                "games"
+              ],
+              "distance_km": 1.1,
+              "attendance_estimate": 1800
+            }
+          },
+          {
+            "id": "evt_magic_spectacular_01",
+            "type": "event",
+            "attributes": {
+              "name": "Grand Illusion Spectacular",
+              "location": "Boston",
+              "date_time": "2026-09-18T19:45:00",
+              "price": 29,
+              "event_tags": [
+                "magic_show",
+                "family_entertainment",
+                "stage_show"
+              ],
+              "distance_km": 0.5,
+              "attendance_estimate": 1300
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_ica_afterhours_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Boston for two people on 2026-09-18 at 7:00pm; just pick a place and make the reservation.",
+      "gold_value": "rst_saltwharf_01",
+      "session_id": "gabriel_campbell_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "gabriel_campbell_reservation_03",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_reservation_03",
+        "rule_text": "When reserving a meal out, he prefers independent local places with strong New England seafood or creative vegetable-forward options over chain restaurants.",
+        "canonical_answer": "Whenever I book a table, I always lean toward local spots that reflect my seafood tastes or my roasted-vegetable side of eating."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_saltwharf_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Salt Wharf Kitchen",
+              "cuisine": "New England seafood",
+              "location": "Boston",
+              "rating": 4.3,
+              "price_range": "$$$",
+              "seating_style": "bistro",
+              "brand_type": "independent local",
+              "review_count": 128,
+              "menu_highlights": [
+                "clam chowder",
+                "lobster roll",
+                "oysters"
+              ]
+            }
+          },
+          {
+            "id": "rst_harborline_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harborline Grill",
+              "cuisine": "American",
+              "location": "Boston",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "casual dining",
+              "brand_type": "national chain",
+              "review_count": 2840,
+              "menu_highlights": [
+                "burgers",
+                "steak",
+                "nachos"
+              ]
+            }
+          },
+          {
+            "id": "rst_greenfire_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Greenfire Table",
+              "cuisine": "Vegetarian",
+              "location": "Boston",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "fast casual",
+              "brand_type": "national chain",
+              "review_count": 1915,
+              "menu_highlights": [
+                "roasted vegetable bowls",
+                "grain plates",
+                "shared salads"
+              ]
+            }
+          },
+          {
+            "id": "rst_beaconcommons_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Beacon Commons Bistro",
+              "cuisine": "New American",
+              "location": "Boston",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "bistro",
+              "brand_type": "independent local",
+              "review_count": 642,
+              "menu_highlights": [
+                "roast chicken",
+                "steak frites",
+                "burger"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_saltwharf_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a wellness appointment in Downtown Seattle sometime on 2026-08-14 — just pick a provider and whatever evening slot works.",
+      "gold_value": "svc_sage_restore_01",
+      "session_id": "gabriel_campbell_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "gabriel_campbell_reservation_04",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_reservation_04",
+        "rule_text": "When booking a local service appointment tied to his wellness habits, he prefers providers aligned with yoga or restorative self-care rather than generic service options.",
+        "canonical_answer": "Whenever I book a personal wellness appointment, I always choose a provider that fits my yoga-and-recovery routine."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_sage_restore_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Sage Restore Studio",
+              "service_type": "restorative yoga wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.4,
+              "distance_km": 1.6,
+              "available_slots": [
+                "2026-08-14T19:30:00",
+                "2026-08-14T20:30:00"
+              ]
+            }
+          },
+          {
+            "id": "svc_pinewell_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Pinewell Spa Lounge",
+              "service_type": "spa wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.3,
+              "available_slots": [
+                "2026-08-14T18:00:00",
+                "2026-08-14T18:30:00",
+                "2026-08-14T19:00:00"
+              ]
+            }
+          },
+          {
+            "id": "svc_metroease_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "MetroEase Massage Wellness",
+              "service_type": "massage wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "distance_km": 0.4,
+              "available_slots": [
+                "2026-08-14T18:15:00",
+                "2026-08-14T18:45:00",
+                "2026-08-14T19:15:00"
+              ]
+            }
+          },
+          {
+            "id": "svc_lotusglow_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Lotus Glow Facial Wellness",
+              "service_type": "facial wellness",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "distance_km": 0.2,
+              "available_slots": [
+                "2026-08-14T18:00:00",
+                "2026-08-14T18:20:00",
+                "2026-08-14T18:40:00"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_sage_restore_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Harbor Hall community dinner invite. Check whether it conflicts with what's on my calendar and respond to it for me so they aren't waiting on me.",
+      "gold_value": "tentative",
+      "session_id": "gabriel_campbell_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "gabriel_campbell_scheduling_01",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_scheduling_01",
+        "rule_text": "When an invite overlaps with unresolved work or travel uncertainty, he prefers a tentative response rather than accepting or declining outright.",
+        "canonical_answer": "Whenever my schedule is not fully settled, I always respond tentatively instead of pretending the conflict is already resolved."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_harbor_hall_dinner_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Harbor Hall Community Dinner",
+              "start_time": "2026-09-18T18:30:00-04:00",
+              "end_time": "2026-09-18T20:30:00-04:00",
+              "participants": [
+                "events@harborhall.org",
+                "gabriel.campbell@example.com"
+              ],
+              "location": "Harbor Hall, Portland",
+              "calendar": "invites",
+              "status": "needs_action"
+            }
+          },
+          {
+            "id": "evt_invite_west_end_gallery_20260920",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "West End Gallery Opening Reception",
+              "start_time": "2026-09-20T19:00:00-04:00",
+              "end_time": "2026-09-20T21:00:00-04:00",
+              "participants": [
+                "rsvp@westendgallery.org",
+                "gabriel.campbell@example.com"
+              ],
+              "location": "West End Gallery",
+              "calendar": "invites",
+              "status": "needs_action"
+            }
+          },
+          {
+            "id": "evt_work_boston_trip_hold_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Client trip hold — Boston",
+              "start_time": "2026-09-18T16:00:00-04:00",
+              "end_time": "2026-09-18T21:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@example.com",
+                "ops@northshoreadvisory.com"
+              ],
+              "location": "Boston",
+              "calendar": "work",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_q3_budget_review_20260919",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Q3 Budget Review",
+              "start_time": "2026-09-19T09:00:00-04:00",
+              "end_time": "2026-09-19T10:00:00-04:00",
+              "participants": [
+                "gabriel.campbell@example.com",
+                "finance@northshoreadvisory.com"
+              ],
+              "location": "Northshore Advisory HQ",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The plan for my Northbridge Coffee writing session in Lakeview is set: 2026-08-18 from 18:30 to 20:00. Keep this on my radar.",
+      "gold_value": null,
+      "session_id": "gabriel_campbell_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "gabriel_campbell_scheduling_02",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_scheduling_02",
+        "rule_text": "For important personal routines like writing sessions, yoga, or volunteer commitments, he prefers creating a real calendar event rather than just leaving himself a reminder.",
+        "canonical_answer": "Meaningful routines deserve an actual time block, not just a nudge."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_northbridge_writing_plan_01",
+            "type": "event",
+            "attributes": {
+              "title": "Northbridge Coffee writing session",
+              "start_time": "2026-08-18T18:30:00",
+              "end_time": "2026-08-18T20:00:00",
+              "participants": [],
+              "location": "Northbridge Coffee, Lakeview",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "personal_note"
+            }
+          },
+          {
+            "id": "evt_cedarflow_yoga_plan_02",
+            "type": "event",
+            "attributes": {
+              "title": "Cedar Flow sunrise yoga",
+              "start_time": "2026-08-20T07:00:00",
+              "end_time": "2026-08-20T08:00:00",
+              "participants": [],
+              "location": "Cedar Flow Studio, Capitol Hill",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "personal_note"
+            }
+          },
+          {
+            "id": "evt_rainier_volunteer_plan_03",
+            "type": "event",
+            "attributes": {
+              "title": "Rainier Community Health Fair volunteer shift",
+              "start_time": "2026-08-23T09:00:00",
+              "end_time": "2026-08-23T12:00:00",
+              "participants": [
+                "checkin@rainierhealthfair.org"
+              ],
+              "location": "Rainier Community Center",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "signup_portal"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_event",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm already signed up for yoga at Sage Yoga Studio on 2026-06-03 at 6pm. Set up a reminder for it so I don't forget.",
+      "gold_value": "weekly",
+      "session_id": "gabriel_campbell_scheduling_03_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "gabriel_campbell_scheduling_03",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_scheduling_03",
+        "rule_text": "When he does want reminders for recurring self-care or fitness habits, he prefers them to repeat weekly.",
+        "canonical_answer": "I always set recurring personal-practice reminders on a weekly rhythm."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_sage_yoga_20260603",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Yoga at Sage Yoga Studio",
+              "start_time": "2026-06-03T18:00:00",
+              "end_time": "2026-06-03T19:00:00",
+              "participants": [],
+              "location": "Sage Yoga Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_blue_hills_hike_20260606",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Blue Hills trail hike",
+              "start_time": "2026-06-06T09:00:00",
+              "end_time": "2026-06-06T12:00:00",
+              "participants": [],
+              "location": "Blue Hills Reservation",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_quincy_shoreline_ride_20260607",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Quincy Shoreline Cycling Club ride",
+              "start_time": "2026-06-07T08:00:00",
+              "end_time": "2026-06-07T10:00:00",
+              "participants": [],
+              "location": "Quincy Shoreline",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {
+                "cadence": "weekly"
+              },
+              "compare_args": [
+                "cadence"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-4408 on the Monterey Peninsula fell through. Please swap in a single replacement for a daytime visit on the peninsula that can fit in about 60–90 minutes and stays within roughly 15 minutes of the current route.",
+      "gold_value": [
+        "stop_asilomar_dunes_boardwalk_01"
+      ],
+      "session_id": "gabriel_campbell_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "gabriel_campbell_travel_02",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_travel_02",
+        "rule_text": "When an existing trip has to be replanned, he prefers replacement stops that preserve the original art-or-nature theme rather than swapping in any convenient high-rated alternative.",
+        "canonical_answer": "Whenever a stop falls through, I always replace it with something in the same artistic or landscape spirit."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_asilomar_dunes_boardwalk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Asilomar Dunes Boardwalk",
+              "location": "Pacific Grove, Monterey Peninsula, California",
+              "tags": [
+                "nature",
+                "coastal",
+                "boardwalk",
+                "dunes",
+                "daytime"
+              ],
+              "trip_id": "T-4408",
+              "stop_type": "nature_boardwalk",
+              "rating": 4.4,
+              "detour_minutes_from_current_route": 12,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_lovers_point_coastal_trail_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Lovers Point Coastal Trail",
+              "location": "Pacific Grove, Monterey Peninsula, California",
+              "tags": [
+                "nature",
+                "coastal",
+                "scenic",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-4408",
+              "stop_type": "coastal_trail",
+              "rating": 4.9,
+              "detour_minutes_from_current_route": 26,
+              "visit_duration_hours": 1.0
+            }
+          },
+          {
+            "id": "stop_cannery_row_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Cannery Row",
+              "location": "Monterey, Monterey Peninsula, California",
+              "tags": [
+                "historic_district",
+                "shopping",
+                "popular",
+                "daytime",
+                "waterfront"
+              ],
+              "trip_id": "T-4408",
+              "stop_type": "historic_district",
+              "rating": 4.8,
+              "detour_minutes_from_current_route": 4,
+              "visit_duration_hours": 1.25
+            }
+          },
+          {
+            "id": "stop_monterey_bay_aquarium_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Monterey Bay Aquarium",
+              "location": "Monterey, Monterey Peninsula, California",
+              "tags": [
+                "aquarium",
+                "popular",
+                "family",
+                "waterfront",
+                "daytime"
+              ],
+              "trip_id": "T-4408",
+              "stop_type": "aquarium",
+              "rating": 4.9,
+              "detour_minutes_from_current_route": 5,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_old_fishermans_wharf_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Old Fisherman's Wharf",
+              "location": "Monterey, Monterey Peninsula, California",
+              "tags": [
+                "harbor",
+                "shops",
+                "restaurants",
+                "popular",
+                "daytime"
+              ],
+              "trip_id": "T-4408",
+              "stop_type": "waterfront_pier",
+              "rating": 4.7,
+              "detour_minutes_from_current_route": 6,
+              "visit_duration_hours": 1.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_asilomar_dunes_boardwalk_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm heading to Washington, DC for a quick weekend and need the one-way trip from Boston, MA on 2026-09-12 booked for just me. I don't need lodging or anything else—just handle getting me there.",
+      "gold_value": null,
+      "session_id": "gabriel_campbell_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "gabriel_campbell_travel_03",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_travel_03",
+        "rule_text": "For regional or weekend travel, he prefers ground transportation over flying.",
+        "canonical_answer": "For shorter getaways, I always take ground transport instead of a flight when that option exists."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_bos_washdc_20260912_jetblue_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "departure_date": "2026-09-12",
+              "airline": "JetBlue",
+              "price": 92,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_bos_washdc_20260912_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "departure_date": "2026-09-12",
+              "airline": "Delta Air Lines",
+              "price": 104,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_bos_washdc_20260912_american_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "departure_date": "2026-09-12",
+              "airline": "American Airlines",
+              "price": 111,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trp_bos_washdc_20260912_train_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "mode": "train",
+              "departure_date": "2026-09-12",
+              "price": 146,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "trp_bos_washdc_20260912_bus_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Washington, DC",
+              "mode": "bus",
+              "departure_date": "2026-09-12",
+              "price": 129,
+              "available_seats": 11
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book 1 hotel room in Lisbon for 1 guest from the hotel offers below. Just pick one of the available options and make the booking.",
+      "gold_value": "hotel_lisbon_rato_gallery_walk_01",
+      "session_id": "gabriel_campbell_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "gabriel_campbell_travel_04",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_travel_04",
+        "rule_text": "When choosing lodging, he prefers hotel options that are modestly priced but within walking distance of arts districts or photogenic neighborhoods.",
+        "canonical_answer": "Whenever I book a hotel, I always favor a budget-conscious place that lets me walk to galleries, museums, or good street scenes."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hotel_lisbon_riverside_value_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Riverside Value Inn",
+              "location": "Lisbon, Portugal",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 86,
+              "neighborhood": "Parque das Nações",
+              "category": "budget",
+              "star_rating": 2,
+              "rating": 4.3,
+              "review_count": 1184,
+              "walking_minutes_to_chiado_galleries": 41,
+              "walking_minutes_to_alfama_viewpoints": 46,
+              "amenities": [
+                "wifi",
+                "airport_shuttle"
+              ]
+            }
+          },
+          {
+            "id": "hotel_lisbon_alfama_panoramic_grand_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Alfama Panoramic Grand",
+              "location": "Lisbon, Portugal",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 318,
+              "neighborhood": "Alfama",
+              "category": "luxury",
+              "star_rating": 5,
+              "rating": 4.9,
+              "review_count": 3011,
+              "walking_minutes_to_chiado_galleries": 16,
+              "walking_minutes_to_alfama_viewpoints": 4,
+              "amenities": [
+                "rooftop_bar",
+                "spa",
+                "concierge"
+              ]
+            }
+          },
+          {
+            "id": "hotel_lisbon_avenida_business_suites_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Avenida Business Suites",
+              "location": "Lisbon, Portugal",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 121,
+              "neighborhood": "Avenidas Novas",
+              "category": "standard",
+              "star_rating": 4,
+              "rating": 4.8,
+              "review_count": 1672,
+              "walking_minutes_to_chiado_galleries": 29,
+              "walking_minutes_to_alfama_viewpoints": 33,
+              "amenities": [
+                "gym",
+                "breakfast",
+                "metro_nearby"
+              ]
+            }
+          },
+          {
+            "id": "hotel_lisbon_chiado_boutique_house_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Chiado Boutique House",
+              "location": "Lisbon, Portugal",
+              "available_rooms": 1,
+              "max_guests_per_room": 2,
+              "price_per_night": 248,
+              "neighborhood": "Chiado",
+              "category": "boutique",
+              "star_rating": 4,
+              "rating": 4.7,
+              "review_count": 842,
+              "walking_minutes_to_chiado_galleries": 3,
+              "walking_minutes_to_alfama_viewpoints": 15,
+              "amenities": [
+                "wifi",
+                "lounge",
+                "late_check_in"
+              ]
+            }
+          },
+          {
+            "id": "hotel_lisbon_rato_gallery_walk_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Rato Gallery Walk Hotel",
+              "location": "Lisbon, Portugal",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 142,
+              "neighborhood": "Príncipe Real",
+              "category": "standard",
+              "star_rating": 3,
+              "rating": 4.4,
+              "review_count": 524,
+              "walking_minutes_to_chiado_galleries": 9,
+              "walking_minutes_to_alfama_viewpoints": 18,
+              "amenities": [
+                "wifi",
+                "breakfast"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "hotel_lisbon_rato_gallery_walk_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy the files sitting in /Work/Incoming — it's a jumble of PDFs, spreadsheets, and docs from the last few months, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "gabriel_campbell_workspace_01_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "gabriel_campbell_workspace_01",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_workspace_01",
+        "rule_text": "When organizing files, he prefers a project-based scheme rather than sorting primarily by type or date.",
+        "canonical_answer": "I always organize files by project first."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_incoming_01",
+            "type": "file",
+            "attributes": {
+              "name": "budget assumptions.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Pilot",
+              "modified_date": "2026-02-18"
+            }
+          },
+          {
+            "id": "fil_incoming_02",
+            "type": "file",
+            "attributes": {
+              "name": "site visit notes.docx",
+              "file_type": "docx",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Crescent Review",
+              "modified_date": "2026-03-02"
+            }
+          },
+          {
+            "id": "fil_incoming_03",
+            "type": "file",
+            "attributes": {
+              "name": "signature page.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Harbor Pilot",
+              "modified_date": "2026-03-05"
+            }
+          },
+          {
+            "id": "fil_incoming_04",
+            "type": "file",
+            "attributes": {
+              "name": "staffing draft.xlsx",
+              "file_type": "xlsx",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Lakeside Update",
+              "modified_date": "2026-04-11"
+            }
+          },
+          {
+            "id": "fil_incoming_05",
+            "type": "file",
+            "attributes": {
+              "name": "call summary.docx",
+              "file_type": "docx",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Lakeside Update",
+              "modified_date": "2026-04-14"
+            }
+          },
+          {
+            "id": "fil_incoming_06",
+            "type": "file",
+            "attributes": {
+              "name": "requirements packet.pdf",
+              "file_type": "pdf",
+              "location": "/Work/Incoming",
+              "owner": "Gabriel Campbell",
+              "labels": [],
+              "archived": false,
+              "project": "Crescent Review",
+              "modified_date": "2026-05-01"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please put together something the team can use for the community health fair art-therapy station. Save it in /Program Development/Art Therapy Integration, title it \"Community Health Fair Art-Therapy Station Setup,\" and include the supply list, volunteer roles, table layout, and participant check-in steps.",
+      "gold_value": "template",
+      "session_id": "gabriel_campbell_workspace_03_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "gabriel_campbell_workspace_03",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_workspace_03",
+        "rule_text": "When he needs a reusable structure for recurring health-fair or art-therapy planning, he prefers creating a template rather than a one-off note.",
+        "canonical_answer": "Repeatable program work should start from a template, not a scratch note."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_health_fair_booth_notes_01",
+            "type": "document",
+            "attributes": {
+              "title": "Community Health Fair Booth Setup Notes",
+              "doc_type": "note",
+              "location": "/Program Development/Art Therapy Integration",
+              "content_brief": "One-off jot sheet from a recent fair covering easels, markers, folding table placement, and volunteer arrival details."
+            }
+          },
+          {
+            "id": "doc_art_therapy_supply_memo_01",
+            "type": "document",
+            "attributes": {
+              "title": "Art-Therapy Supply Table Reminder",
+              "doc_type": "memo",
+              "location": "/Program Development/Art Therapy Integration",
+              "content_brief": "Single-event reminder about paint trays, wipes, name tags, and sign-in sheets for a weekend program."
+            }
+          },
+          {
+            "id": "doc_wellness_checkin_notes_01",
+            "type": "document",
+            "attributes": {
+              "title": "Wellness Outreach Check-In Notes",
+              "doc_type": "note",
+              "location": "/Program Development/Art Therapy Integration",
+              "content_brief": "Scratch notes on greeting participants and where completed forms were stacked at the last health fair."
+            }
+          },
+          {
+            "id": "doc_program_activity_grid_01",
+            "type": "document",
+            "attributes": {
+              "title": "Program Activity Planning Grid",
+              "doc_type": "template",
+              "location": "/Program Development/Art Therapy Integration",
+              "content_brief": "Reusable structure for tracking supplies, staff roles, setup layout, and participant flow for program activities."
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_document",
+              "arguments": {
+                "doc_type": "template"
+              },
+              "compare_args": [
+                "doc_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The file named \"Northstar FY26 budget workbook.xlsx\" is still in Downloads. Please move it to the most appropriate folder.",
+      "gold_value": "fld_northstar_01",
+      "session_id": "gabriel_campbell_workspace_06_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "gabriel_campbell_workspace_06",
+      "rule_ref": {
+        "rule_id": "gabriel_campbell_workspace_06",
+        "rule_text": "When moving active files, he prefers placing them into distinct project folders rather than broad type-based buckets.",
+        "canonical_answer": "I always move working files into the folder for the specific project, not just into a generic type folder."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_northstar_budget_workbook_01",
+            "type": "file",
+            "attributes": {
+              "name": "Northstar FY26 budget workbook.xlsx",
+              "file_type": "xlsx",
+              "location": "Downloads",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "northstar",
+                "budget",
+                "active"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_riverview_budget_workbook_01",
+            "type": "file",
+            "attributes": {
+              "name": "Riverview staffing budget workbook.xlsx",
+              "file_type": "xlsx",
+              "location": "Active Spreadsheets",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "riverview",
+                "budget",
+                "active"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_ops_q3_forecast_01",
+            "type": "file",
+            "attributes": {
+              "name": "Ops Q3 forecast.xlsx",
+              "file_type": "xlsx",
+              "location": "Active Spreadsheets",
+              "owner": "Gabriel Campbell",
+              "labels": [
+                "ops",
+                "forecast",
+                "active"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_northstar_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Northstar",
+              "purpose": "project folder"
+            }
+          },
+          {
+            "id": "fld_riverview_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Riverview",
+              "purpose": "project folder"
+            }
+          },
+          {
+            "id": "fld_active_spreadsheets_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Active Spreadsheets",
+              "purpose": "default folder for current spreadsheet files"
+            }
+          },
+          {
+            "id": "fld_documents_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Documents",
+              "purpose": "general folder for active documents"
+            }
+          },
+          {
+            "id": "fld_misc_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Misc",
+              "purpose": "general unassigned files"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "move_files",
+              "arguments": {
+                "folder_id": "fld_northstar_01"
+              },
+              "compare_args": [
+                "folder_id"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.7333333333333333,
+    "actual_signal_overlap_rules": [
+      "gabriel_campbell_commerce_01",
+      "gabriel_campbell_communication_01",
+      "gabriel_campbell_reservation_01",
+      "gabriel_campbell_reservation_03",
+      "gabriel_campbell_reservation_04",
+      "gabriel_campbell_scheduling_01",
+      "gabriel_campbell_scheduling_02",
+      "gabriel_campbell_scheduling_03",
+      "gabriel_campbell_travel_04",
+      "gabriel_campbell_workspace_03",
+      "gabriel_campbell_workspace_06"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.7333333333333333,
+    "teachable_rule_count": 11,
+    "zero_signal_rule_count": 4,
+    "signal_pool_size_dedup": 29,
+    "noise_pool_size": 18,
+    "K": 30,
+    "seed": 0,
+    "selected_rules": [
+      "gabriel_campbell_commerce_01",
+      "gabriel_campbell_communication_01",
+      "gabriel_campbell_reservation_01",
+      "gabriel_campbell_reservation_03",
+      "gabriel_campbell_reservation_04",
+      "gabriel_campbell_scheduling_01",
+      "gabriel_campbell_scheduling_02",
+      "gabriel_campbell_scheduling_03",
+      "gabriel_campbell_travel_04",
+      "gabriel_campbell_workspace_03",
+      "gabriel_campbell_workspace_06"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "gabriel_campbell_commerce_01",
+      "gabriel_campbell_commerce_03",
+      "gabriel_campbell_communication_01",
+      "gabriel_campbell_reservation_01",
+      "gabriel_campbell_reservation_03",
+      "gabriel_campbell_reservation_04",
+      "gabriel_campbell_scheduling_01",
+      "gabriel_campbell_scheduling_02",
+      "gabriel_campbell_scheduling_03",
+      "gabriel_campbell_travel_02",
+      "gabriel_campbell_travel_03",
+      "gabriel_campbell_travel_04",
+      "gabriel_campbell_workspace_01",
+      "gabriel_campbell_workspace_03",
+      "gabriel_campbell_workspace_06"
+    ],
+    "signal_count": 29,
+    "noise_count": 1,
+    "trajectory_length": 30
+  }
+}

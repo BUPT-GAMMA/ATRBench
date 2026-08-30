@@ -1,0 +1,4077 @@
+{
+  "episode_id": "rafael_ortiz_seed000",
+  "persona_id": "rafael_ortiz",
+  "raw_persona": {
+    "persona_id": "rafael_ortiz",
+    "nemotron_uuid": "01496d451d4a4ae898764a1608423fd6",
+    "narrative": "name: Rafael Ortiz\nage: 28\nsex: Male\nmarital_status: married_present\neducation_level: some_college\noccupation: registered_nurse\nhobbies_and_interests: Soccer (pickup games), Cooking Mexican and Tex‑Mex cuisine, Participating in Día de los Muertos celebrations, Volunteering at community health fairs, Hiking in the Santa Ana National Wildlife Refuge, Photography of local wildlife, Reading science‑fiction literature, Listening to medical technology podcasts, Playing acoustic guitar\nskills_and_expertise: Patient Assessment, Medication Administration, IV Therapy, Wound Care, Triage, BLS/ACLS Certification, ECG Interpretation, Bilingual Spanish-English Communication, Electronic Medical Record (EMR) Documentation, Quality Improvement Projects, Shift Scheduling and Inventory Management, Health Education and Community Outreach, Evidence‑Based Practice Implementation, Team Collaboration and Leadership\ncomplementary_info: Rafael Ortiz was born and raised in McAllen in a close-knit Mexican-American family with strong ties to Michoacán, Mexico. He grew up speaking Spanish at home and English at school, and his bicultural identity is shaped by family traditions like quinceañeras, Christmas posadas, shared cooking, Catholic Mass, and local Rio Grande Valley celebrations including Charro Days. He and his wife host small Día de los Muertos gatherings with home altars and pan de muerto. His weekly rhythm includes Sunday pickup soccer at Riverside Park, monthly live music outings, monthly hikes at Santa Ana National Wildlife Refuge, and volunteering in Spanish at community health fairs, especially for blood-pressure screening and chronic-disease education. At home he plays acoustic guitar, drawing from Townes Van Zandt, traditional corridos, norteño, and cumbia, and has hosted open-mic nights for friends; he also reads N.K. Jemisin and follows medical-technology podcasts. He often cooks detailed dishes like pozole, chiles en nogada, smoked-brisket tacos, and pan de muerto, though he tends to leave the kitchen cluttered and occasionally neglects dental hygiene. Travel tends to be road-trip based and carefully planned around cultural and outdoor stops; notable trips include a week photographing hummingbirds at Santa Ana and a long weekend in Oaxaca, with future plans for Olympic National Park and Chiang Mai. Long term, he plans to finish his BSN within two years, move toward charge nurse and nurse manager roles, then pursue family nurse practitioner training, clinical education, and culturally competent community programs for underserved families in the Rio Grande Valley, especially around diabetes and hypertension.",
+    "general_domain": "registered_nurse",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Rafael Ortiz",
+    "demographics": {
+      "age": 28,
+      "sex": "Male",
+      "marital_status": "married_present",
+      "education_level": "some_college",
+      "occupation": "registered_nurse",
+      "city": "Mcallen",
+      "state": "TX",
+      "zipcode": "78501",
+      "country": "USA"
+    },
+    "persona_summary": "Rafael Ortiz balances methodical professionalism with a vibrant social life, juggling bedside care, community health outreach, weekend soccer, guitar practice, and culinary experiments, all while occasionally neglecting dental hygiene, leaving kitchen countertops a mess, and splurging on new kitchen gadgets.",
+    "professional_persona": "Rafael Ortiz, a Registered Nurse with BLS and ACLS certification, blends meticulous organization with a sociable bedside manner; they leverage bilingual fluency to bridge communication gaps for Spanish‑speaking patients, assertively lead interdisciplinary team huddles, and channel their curiosity into quality‑improvement projects that cut medication errors by 15% while eyeing a future as charge nurse and eventually a family nurse practitioner.",
+    "sports_persona": "Rafael Ortiz laces up for the Sunday pickup soccer league at Riverside Park, where they thrive on teamwork and friendly competition, while also cheering for the Dallas Cowboys on Saturdays and the Houston Astros during baseball season; they maintain fitness by hiking the Santa Ana National Wildlife Refuge monthly, and they belong to the Texas Soccer Association's amateur club, balancing assertive play with cooperative spirit, keeping a balanced mix of cardio and strength.",
+    "arts_persona": "Rafael Ortiz strums an acoustic guitar at home, immersing themselves in folk repertoire ranging from Texas singer‑songwriters such as Townes Van Zandt to traditional Mexican corridos, while they unwind with science‑fiction novels by N.K. Jemisin and binge‑listen to podcasts featuring medical technology innovators; they also attend monthly live performances at a local music venue, where they often applaud the crooning of Lila Downs, and their outgoing nature shines as they volunteer to host open‑mic nights for friends.",
+    "travel_persona": "Rafael Ortiz prefers road‑trip adventures that blend outdoor exploration with cultural immersion, having already spent a week photographing the hummingbirds of the Santa Ana National Wildlife Refuge and a long weekend in Oaxaca, Mexico sampling local cuisine; they are planning a future itinerary to the Pacific Northwest’s Olympic National Park and a culinary tour of Chiang Mai, Thailand, balancing modest accommodations with occasional splurges on guided wildlife tours, and they methodically map each route using an app that marks scenic rest stops.",
+    "culinary_persona": "Rafael Ortiz is an avid home chef who routinely crafts pozole with fresh hominy, pork shoulder, and a blend of guajillo and ancho chilies, then elevates chiles en nogada by stuffing Anaheim peppers with a quinoa‑corn mixture and topping them with walnut‑based nogada; they love experimenting with Tex‑Mex flair by adding smoked brisket to tacos, and every Día de los Muertos they bake pan de muerto infused with orange zest and anise, though they often leave the stovetop cluttered after an enthusiastic cooking session and occasionally forget to clean the cutting board, a quirk they’ve promised to fix.",
+    "cultural_background": "Rafael was born and raised in McAllen, Texas, within a close‑knit Mexican‑American family that maintains strong ties to their ancestral hometown in Michoacán, Mexico. He grew up speaking Spanish at home while learning English at school, giving him fluency in both languages and a deep appreciation for bicultural identity. Family traditions such as quinceañeras, Christmas posadas, and cooking meals together have shaped his values around family, community, and hospitality. The cultural landscape of the Rio Grande Valley, with its blend of Texan and Mexican influences, is reflected in his love for regional music like norteño and cumbia, as well as his participation in local festivals such as Charro Days. He identifies strongly with the Catholic faith, attending Mass with his family and incorporating its charitable teachings into his nursing practice. Rafael’s heritage informs his professional focus on culturally competent care and addressing health disparities that affect the Hispanic population in South Texas.",
+    "skills_and_expertise": "Rafael is a Registered Nurse with solid clinical competencies in patient assessment, medication administration, IV therapy, wound care, triage, and emergency response. He is certified in Basic Life Support (BLS) and Advanced Cardiac Life Support (ACLS) and proficient in interpreting electrocardiograms. His bilingual fluency in Spanish and English enables seamless communication with a predominantly Hispanic patient population, improving patient education and adherence. He excels in electronic medical record (EMR) documentation, healthcare informatics, and quality improvement initiatives, having led a unit-wide project that reduced medication errors by 15%. Rafael demonstrates strong organizational skills, managing shift schedules, inventory control, and coordinating interdisciplinary team meetings. His interpersonal strengths make him an effective health educator, delivering community workshops on chronic disease management and preventive care. He stays current through medical journals and implements new clinical protocols based on evidence‑based practice.",
+    "skills_and_expertise_list": [
+      "Patient Assessment",
+      "Medication Administration",
+      "IV Therapy",
+      "Wound Care",
+      "Triage",
+      "BLS/ACLS Certification",
+      "ECG Interpretation",
+      "Bilingual Spanish-English Communication",
+      "Electronic Medical Record (EMR) Documentation",
+      "Quality Improvement Projects",
+      "Shift Scheduling and Inventory Management",
+      "Health Education and Community Outreach",
+      "Evidence‑Based Practice Implementation",
+      "Team Collaboration and Leadership"
+    ],
+    "hobbies_and_interests": "Outside of work, Rafael enjoys activities that blend his social nature with his cultural roots. He plays weekly pickup soccer games with friends at the local park, where his competitive spirit and teamwork shine. He is an avid cook, experimenting with traditional Mexican dishes such as pozole, chiles en nogada, and adjusting them with Tex‑Mex twists. He and his wife host small gatherings for Día de los Muertos, crafting altars and baking pan de muerto. Rafael volunteers at community health fairs, providing blood pressure screenings and health education in Spanish. He likes hiking the Santa Ana National Wildlife Refuge and photographing local wildlife. In quieter moments, he reads science‑fiction novels and follows the latest medical technology podcasts. He also enjoys playing acoustic guitar, learning folk songs from both Mexican and Texas traditions.",
+    "hobbies_and_interests_list": [
+      "Soccer (pickup games)",
+      "Cooking Mexican and Tex‑Mex cuisine",
+      "Participating in Día de los Muertos celebrations",
+      "Volunteering at community health fairs",
+      "Hiking in the Santa Ana National Wildlife Refuge",
+      "Photography of local wildlife",
+      "Reading science‑fiction literature",
+      "Listening to medical technology podcasts",
+      "Playing acoustic guitar"
+    ],
+    "career_goals_and_ambitions": "Rafael aims to complete his Bachelor of Science in Nursing within the next two years, leveraging his current coursework. He aspires to become a charge nurse and later a nurse manager in the acute care unit at the local hospital, where he can influence staffing, workflow, and patient safety policies. Long‑term, he intends to pursue a Family Nurse Practitioner degree to expand his scope of practice and provide primary care to underserved families in the Rio Grande Valley. He is passionate about reducing health disparities, so he plans to spearhead community health programs focused on diabetes and hypertension education. Additionally, he hopes to become a clinical educator, teaching new nurses and nursing students, and to contribute to research on culturally competent care."
+  },
+  "rules": [
+    {
+      "rule_text": "For Mexican cooking ingredients, he favors traditional fresh components over shortcut or generic substitutes.",
+      "canonical_answer": "For my Mexican dishes, I prefer ordering the real fresh ingredients instead of shortcut substitutes.",
+      "counterfactual_default": "Pick the most convenient or generic product option that roughly fits the recipe.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "routinely crafts pozole with fresh hominy, pork shoulder, and a blend of guajillo and ancho chilies"
+        },
+        {
+          "type": "direct",
+          "content": "every Día de los Muertos they bake pan de muerto infused with orange zest and anise"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "rafael_ortiz_commerce_02"
+    },
+    {
+      "rule_text": "When a kitchen gadget order disappoints him, he prefers an exchange over a refund or store credit.",
+      "canonical_answer": "If a kitchen gadget misses the mark, I usually want an exchange so I can try a better version.",
+      "counterfactual_default": "Request a refund as the standard resolution.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "splurging on new kitchen gadgets"
+        },
+        {
+          "type": "inferred",
+          "content": "Because he actively enjoys experimenting in the kitchen and repeatedly buys gadgets, replacing a bad gadget with a better one fits his use pattern better than simply cashing out."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "rafael_ortiz_commerce_03"
+    },
+    {
+      "rule_text": "When communicating about outreach, teaching, or professional coordination, he prefers drafting messages for review rather than sending them immediately.",
+      "canonical_answer": "For outreach or professional messages, I like to draft them first before they go out.",
+      "counterfactual_default": "Send the composed message directly once the content is available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "He excels in electronic medical record (EMR) documentation, healthcare informatics, and quality improvement initiatives"
+        },
+        {
+          "type": "direct",
+          "content": "His interpersonal strengths make him an effective health educator, delivering community workshops on chronic disease management and preventive care."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "rafael_ortiz_communication_01"
+    },
+    {
+      "rule_text": "When choosing a place to eat out, he prefers locally rooted Mexican or Tex-Mex restaurants over generic chains.",
+      "canonical_answer": "I usually pick local Mexican or Tex-Mex spots instead of chain restaurants.",
+      "counterfactual_default": "Choose a broadly popular or familiar chain restaurant.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "The cultural landscape of the Rio Grande Valley, with its blend of Texan and Mexican influences, is reflected in his love for regional music like norteño and cumbia"
+        },
+        {
+          "type": "direct",
+          "content": "He is an avid cook, experimenting with traditional Mexican dishes such as pozole, chiles en nogada, and adjusting them with Tex-Mex twists."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "rafael_ortiz_reservation_01"
+    },
+    {
+      "rule_text": "For live entertainment, he tends to choose folk, regional Mexican, or singer-songwriter performances over generic event options.",
+      "canonical_answer": "For shows, I usually go for folk or regional Mexican performances rather than generic entertainment.",
+      "counterfactual_default": "Pick whichever event is most popular or broadly rated without regard to genre.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "immersing themselves in folk repertoire ranging from Texas singer-songwriters such as Townes Van Zandt to traditional Mexican corridos"
+        },
+        {
+          "type": "direct",
+          "content": "they also attend monthly live performances at a local music venue, where they often applaud the crooning of Lila Downs"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "rafael_ortiz_reservation_02"
+    },
+    {
+      "rule_text": "When an invite overlaps with an unresolved work schedule, he prefers responding tentatively rather than accepting or declining immediately.",
+      "canonical_answer": "If my shift situation is still unclear, I usually respond tentative first.",
+      "counterfactual_default": "Accept or decline the invitation right away.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "managing shift schedules"
+        },
+        {
+          "type": "direct",
+          "content": "juggling bedside care, community health outreach, weekend soccer, guitar practice, and culinary experiments"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "rafael_ortiz_scheduling_02"
+    },
+    {
+      "rule_text": "For trip transportation, he prefers ground travel and road-trip options over flights when both are viable.",
+      "canonical_answer": "I prefer road-trip or other ground travel options over flying whenever that works.",
+      "counterfactual_default": "Check flights first and book air travel for longer trips.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Rafael Ortiz prefers road-trip adventures"
+        },
+        {
+          "type": "direct",
+          "content": "they methodically map each route using an app that marks scenic rest stops"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "rafael_ortiz_travel_02"
+    },
+    {
+      "rule_text": "For lodging, he generally chooses modest accommodations rather than luxury stays.",
+      "canonical_answer": "I usually go with modest accommodations instead of luxury hotels.",
+      "counterfactual_default": "Choose the nicest or most upscale hotel available within budget.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing modest accommodations with occasional splurges on guided wildlife tours"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "rafael_ortiz_travel_03"
+    },
+    {
+      "rule_text": "If a trip stop falls through, he prefers replacement stops that preserve the original nature-and-culture theme instead of swapping to any generic highly rated alternative.",
+      "canonical_answer": "If part of my trip breaks, I want replacement stops that keep the same outdoor-and-cultural feel.",
+      "counterfactual_default": "Replace the disrupted stop with any convenient or top-rated alternative.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers road-trip adventures that blend outdoor exploration with cultural immersion"
+        },
+        {
+          "type": "direct",
+          "content": "planning a future itinerary to the Pacific Northwest’s Olympic National Park and a culinary tour of Chiang Mai, Thailand"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "rafael_ortiz_travel_04"
+    },
+    {
+      "rule_text": "For recurring teaching or outreach materials, he prefers creating reusable templates instead of one-off documents.",
+      "canonical_answer": "For teaching and outreach materials, I like reusable templates instead of starting from scratch every time.",
+      "counterfactual_default": "Create a one-off note or memo for each new session.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "His interpersonal strengths make him an effective health educator, delivering community workshops on chronic disease management and preventive care."
+        },
+        {
+          "type": "direct",
+          "content": "he hopes to become a clinical educator, teaching new nurses and nursing students"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "create_document",
+        "param": "doc_type"
+      },
+      "rule_id": "rafael_ortiz_workspace_02"
+    },
+    {
+      "rule_text": "He prefers work files classified by project rather than by generic type or date buckets.",
+      "canonical_answer": "I organize my files by project first, not just by type or date.",
+      "counterfactual_default": "Classify files by type or date because that is the easiest generic scheme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "quality-improvement projects"
+        },
+        {
+          "type": "direct",
+          "content": "coordinating interdisciplinary team meetings"
+        },
+        {
+          "type": "direct",
+          "content": "community workshops on chronic disease management and preventive care"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "classify_files",
+        "param": "scheme"
+      },
+      "rule_id": "rafael_ortiz_workspace_04"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "rafael_ortiz_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox and draft a reply",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Night Shift Charge",
+        "priority": "high",
+        "label_ids": [
+          "lbl_nurseupdate_01"
+        ],
+        "archive_message_ids": [
+          "msg_payroll_01"
+        ],
+        "reply_thread_id": "thr_bedupdate_01",
+        "language": "en",
+        "reply_points": [
+          "Acknowledge the overnight update",
+          "Confirm I will check the patient after handoff",
+          "Say I will update the wound assessment in the chart today",
+          "Ask if there were any new drainage changes before shift change"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "label_messages",
+        "archive_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Night Shift Charge"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_bedupdate_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_bedupdate_01"
+            ],
+            "label_ids": [
+              "lbl_nurseupdate_01"
+            ]
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_payroll_01"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_bedupdate_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_bedupdate_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Night Shift Charge",
+              "subject": "Need nurse update on room 412 before noon",
+              "body": "Morning Rafael, can you send a nurse update today on the patient in room 412? Overnight there was mild drainage at the wound site and the day team should reassess and document.",
+              "thread_id": "thr_bedupdate_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T05:18:00"
+            }
+          },
+          {
+            "id": "msg_payroll_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Payroll Office",
+              "subject": "Updated pay stub now available",
+              "body": "Your latest pay stub has been posted to the employee portal. No action is needed unless you notice a discrepancy.",
+              "thread_id": "thr_payroll_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T04:52:00"
+            }
+          },
+          {
+            "id": "msg_newsletter_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Clinical Education",
+              "subject": "Monthly CE newsletter",
+              "body": "Here is the monthly continuing education roundup with optional webinars and article links for staff review.",
+              "thread_id": "thr_ce_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T03:40:00"
+            }
+          },
+          {
+            "id": "lbl_nurseupdate_01",
+            "type": "label",
+            "attributes": {
+              "name": "Nurse Update",
+              "topic": "patient follow-up and status requests"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "reference_doc_type": "template",
+        "doc_type": "note",
+        "location": "Quality Improvement",
+        "title": "Medication Safety Pitch - Barcode Scanning Compliance",
+        "pitch_points": [
+          "problem: missed barcode scans during med pass still create near-miss risk",
+          "proposal: brief shift huddle reminder plus scanner readiness check",
+          "pilot on one med-surg unit for two weeks",
+          "track compliance rate and near-miss reports before and after",
+          "include bilingual patient ID confirmation as a reinforcement step"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Quality Improvement",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Medication Safety Pitch - Barcode Scanning Compliance",
+            "location": "Quality Improvement",
+            "content_brief": "<authored from pitch_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_qi_01",
+            "type": "document",
+            "attributes": {
+              "title": "QI Pitch Template",
+              "doc_type": "template",
+              "location": "Quality Improvement",
+              "content_brief": "Simple project pitch outline with sections for problem, proposed change, pilot scope, measures, and next steps."
+            }
+          },
+          {
+            "id": "doc_qi_02",
+            "type": "document",
+            "attributes": {
+              "title": "Falls Reduction Idea Notes",
+              "doc_type": "note",
+              "location": "Quality Improvement",
+              "content_brief": "Working note from a prior unit safety idea with rough bullets and follow-up questions."
+            }
+          },
+          {
+            "id": "doc_qi_03",
+            "type": "document",
+            "attributes": {
+              "title": "Medication Near-Miss Review",
+              "doc_type": "report",
+              "location": "Quality Improvement",
+              "content_brief": "Summary of recent near-miss patterns including workflow interruptions and scanning gaps."
+            }
+          },
+          {
+            "id": "file_qi_01",
+            "type": "file",
+            "attributes": {
+              "name": "med_safety_whiteboard.jpg",
+              "file_type": "image",
+              "location": "Quality Improvement",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "safety",
+                "unit"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "kitchen scale",
+        "budget": 25,
+        "sort_by": "rating",
+        "product_id": "prod_escali_01",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "kitchen scale",
+            "budget": 25,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_escali_01",
+              "prod_etekcity_02",
+              "prod_taylor_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_escali_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_escali_01",
+            "type": "product",
+            "attributes": {
+              "name": "Escali Pico Digital Kitchen Scale",
+              "price": 24.95,
+              "category": "kitchen scale",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_etekcity_02",
+            "type": "product",
+            "attributes": {
+              "name": "Etekcity Compact Food Kitchen Scale",
+              "price": 19.99,
+              "category": "kitchen scale",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_oxo_03",
+            "type": "product",
+            "attributes": {
+              "name": "OXO 5 lb Food Scale",
+              "price": 29.99,
+              "category": "kitchen scale",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_taylor_04",
+            "type": "product",
+            "attributes": {
+              "name": "Taylor Slim Digital Kitchen Scale",
+              "price": 14.99,
+              "category": "kitchen scale",
+              "rating": 4.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "McAllen",
+        "cuisine": "Mexican",
+        "date_time": "2025-02-13T19:30:00-06:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "McAllen",
+            "cuisine": "Mexican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_palenque_01",
+            "date_time": "2025-02-13T19:30:00-06:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_palenque_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Palenque Grill McAllen",
+              "cuisine": "Mexican",
+              "location": "McAllen",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_salt_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Salt New American Table",
+              "cuisine": "American",
+              "location": "McAllen",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "contemporary"
+            }
+          },
+          {
+            "id": "rst_yasuke_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Yasuke Japanese Sushi",
+              "cuisine": "Japanese",
+              "location": "McAllen",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "modern"
+            }
+          },
+          {
+            "id": "rst_casa_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa De Mariscos",
+              "cuisine": "Mexican seafood",
+              "location": "McAllen",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "family style"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "communication",
+      "reason_for_call": "Draft a family message",
+      "task_params": {
+        "recipient": "family-group@example.com",
+        "subject": "Comida familiar de este mes",
+        "language": "en",
+        "meal_points": [
+          "say hi to everyone warmly in Spanish and English",
+          "invite them to this month's family meal",
+          "mention it will be at our place",
+          "ask who can make it",
+          "ask if anyone wants to bring a side or dessert",
+          "keep it inviting and casual, not too formal"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "family-group@example.com",
+            "subject": "Comida familiar de este mes",
+            "language": "en",
+            "body": "<authored from meal_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_cousin_01",
+            "type": "message",
+            "attributes": {
+              "sender": "marisela.ortiz@example.com",
+              "subject": "Fotos de la reunión",
+              "body": "Te mando las fotos de la reunión pasada. Salieron muy bonitas.",
+              "thread_id": "thr_family_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T18:42:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "charge.nurse@rgvmedical.org",
+              "subject": "Updated staffing grid",
+              "body": "Please review the updated staffing grid before tomorrow morning.",
+              "thread_id": "thr_work_14",
+              "folder": "inbox",
+              "labels": [
+                "lbl_work_01"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-10T07:15:00"
+            }
+          },
+          {
+            "id": "lbl_family_01",
+            "type": "label",
+            "attributes": {
+              "name": "Family",
+              "topic": "personal family messages"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "workspace",
+      "reason_for_call": "Organize some school files",
+      "task_params": {
+        "location": "Downloads/Nursing",
+        "file_type": "pdf",
+        "file_ids": [
+          "file_pharm_01",
+          "file_peds_02",
+          "file_path_03"
+        ],
+        "scheme": "by_project",
+        "folder_id": "fld_coursework_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Downloads/Nursing",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_pharm_01",
+              "file_peds_02",
+              "file_path_03"
+            ],
+            "scheme": "by_project"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "file_pharm_01",
+              "file_peds_02",
+              "file_path_03"
+            ],
+            "folder_id": "fld_coursework_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_pharm_01",
+            "type": "file",
+            "attributes": {
+              "name": "Pharmacology Week 4 Dosage Calculations.pdf",
+              "file_type": "pdf",
+              "location": "Downloads/Nursing",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_peds_02",
+            "type": "file",
+            "attributes": {
+              "name": "Pediatrics Care Plan Draft.pdf",
+              "file_type": "pdf",
+              "location": "Downloads/Nursing",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_path_03",
+            "type": "file",
+            "attributes": {
+              "name": "Pathophysiology Module 3 Notes.pdf",
+              "file_type": "pdf",
+              "location": "Downloads/Nursing",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_shift_04",
+            "type": "file",
+            "attributes": {
+              "name": "July Shift Swap Request.pdf",
+              "file_type": "pdf",
+              "location": "Downloads/Work",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_coursework_01",
+            "type": "folder",
+            "attributes": {
+              "name": "BSN Coursework",
+              "purpose": "Organized folder for current nursing classes and assignments"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "McAllen",
+        "event_tags": [
+          "live music",
+          "local"
+        ],
+        "event_id": "evt_palms_02",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "McAllen",
+            "event_tags": [
+              "live music",
+              "local"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_palms_02",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_court_01",
+            "type": "event",
+            "attributes": {
+              "name": "Friday Night Jazz at Townlake",
+              "location": "McAllen",
+              "date_time": "2025-03-14T20:00:00",
+              "price": 18.0,
+              "event_tags": [
+                "live music",
+                "jazz",
+                "local"
+              ]
+            }
+          },
+          {
+            "id": "evt_palms_02",
+            "type": "event",
+            "attributes": {
+              "name": "Acoustic Evenings at The Palm Room",
+              "location": "McAllen",
+              "date_time": "2025-03-15T19:30:00",
+              "price": 22.0,
+              "event_tags": [
+                "live music",
+                "acoustic",
+                "local"
+              ]
+            }
+          },
+          {
+            "id": "evt_border_03",
+            "type": "event",
+            "attributes": {
+              "name": "Cumbia Night Downtown",
+              "location": "McAllen",
+              "date_time": "2025-03-16T20:30:00",
+              "price": 25.0,
+              "event_tags": [
+                "live music",
+                "dance",
+                "local"
+              ]
+            }
+          },
+          {
+            "id": "evt_mission_04",
+            "type": "event",
+            "attributes": {
+              "name": "Valley Folk Sessions",
+              "location": "Mission",
+              "date_time": "2025-03-15T18:30:00",
+              "price": 15.0,
+              "event_tags": [
+                "live music",
+                "folk",
+                "local"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "communication",
+      "reason_for_call": "Triage my messages and reply to one thread.",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Elena Ramirez",
+        "priority": "high",
+        "label_ids": [
+          "lbl_reply_01"
+        ],
+        "reply_points": [
+          "Apologize for the late reply",
+          "Thank her for checking in",
+          "Confirm I can bring drinks",
+          "Ask what time to arrive"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "label_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Elena Ramirez"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01"
+            ],
+            "label_ids": [
+              "lbl_reply_01"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_elena_01",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Ramirez",
+              "subject": "Saturday dinner at our place?",
+              "body": "Hey Rafael, just checking whether you and Marisol can make it Saturday. If you come, could you bring drinks? Let me know what time works for you.",
+              "thread_id": "thr_elena_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-20T19:18:00"
+            }
+          },
+          {
+            "id": "msg_miguel_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Miguel Santos",
+              "subject": "Sunday soccer update",
+              "body": "Field changed to the north side this week. Same kickoff time.",
+              "thread_id": "thr_miguel_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-20T18:02:00"
+            }
+          },
+          {
+            "id": "msg_store_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Kitchen Pro Deals",
+              "subject": "Your order has shipped",
+              "body": "Good news — your order is on the way.",
+              "thread_id": "thr_store_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-20T16:44:00"
+            }
+          },
+          {
+            "id": "lbl_reply_01",
+            "type": "label",
+            "attributes": {
+              "name": "Needs Reply",
+              "topic": "follow-up"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "commerce",
+      "reason_for_call": "Order a household item.",
+      "task_params": {
+        "category": "meal-prep containers",
+        "budget": 40,
+        "product_ids": [
+          "prod_locknstore_01",
+          "prod_freshseal_02",
+          "prod_shiftbox_03"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "meal-prep containers",
+            "budget": 40,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_locknstore_01",
+              "prod_freshseal_02",
+              "prod_shiftbox_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_locknstore_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_locknstore_01",
+            "type": "product",
+            "attributes": {
+              "name": "LocknStore Glass Meal-Prep Containers 10-Pack",
+              "price": 34.99,
+              "category": "meal-prep containers",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_freshseal_02",
+            "type": "product",
+            "attributes": {
+              "name": "FreshSeal Stainless Meal-Prep Set 6-Pack",
+              "price": 39.5,
+              "category": "meal-prep containers",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_shiftbox_03",
+            "type": "product",
+            "attributes": {
+              "name": "ShiftBox Heavy-Duty Plastic Meal-Prep Containers 12-Pack",
+              "price": 22.99,
+              "category": "meal-prep containers",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_snapdaily_04",
+            "type": "product",
+            "attributes": {
+              "name": "SnapDaily Bento Lunch Kit 4-Pack",
+              "price": 18.99,
+              "category": "lunch containers",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "BSN Application Tracker",
+        "location": "Career Development",
+        "content_brief": "Spreadsheet to track BSN application items with columns for school, application task, deadline, status, documents needed, and follow-up notes",
+        "reference_doc_type": "template",
+        "template_doc_id": "doc_bsn_template_01"
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Career Development",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "BSN Application Tracker",
+            "location": "Career Development",
+            "content_brief": "Spreadsheet to track BSN application items with columns for school, application task, deadline, status, documents needed, and follow-up notes"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_bsn_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Graduate Program Application Tracker Template",
+              "doc_type": "template",
+              "location": "Career Development",
+              "content_brief": "Template with columns for program, requirement, due date, status, notes, and follow-up"
+            }
+          },
+          {
+            "id": "doc_cert_log_02",
+            "type": "document",
+            "attributes": {
+              "title": "Certification Renewal Checklist",
+              "doc_type": "spreadsheet",
+              "location": "Career Development",
+              "content_brief": "Spreadsheet tracking BLS, ACLS, CE hours, deadlines, and completion status"
+            }
+          },
+          {
+            "id": "doc_shift_notes_03",
+            "type": "document",
+            "attributes": {
+              "title": "Unit QI Meeting Notes",
+              "doc_type": "note",
+              "location": "Work Notes",
+              "content_brief": "Notes from medication safety huddle and follow-up tasks"
+            }
+          },
+          {
+            "id": "file_resume_04",
+            "type": "file",
+            "attributes": {
+              "name": "Rafael_Resume_2025.docx",
+              "file_type": "docx",
+              "location": "Career Development",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "resume",
+                "career"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "communication",
+      "reason_for_call": "Reply to a work message",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "message_id": "msg_shift_01",
+        "thread_id": "thr_shift_204",
+        "language": "en",
+        "reply_points": [
+          "Thanks for checking in",
+          "Keep the revised handoff note in the patient chart",
+          "Flag pending labs during bedside report",
+          "Use secure chat only for urgent changes after report",
+          "Happy to walk through it together next shift"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_shift_204",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_shift_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Quick follow-up on the handoff change",
+              "body": "Hey Rafael, can you send me the workflow tweak you mentioned during shift change? I want to make sure I'm doing the handoff note and urgent updates the same way you described.",
+              "thread_id": "thr_shift_204",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T18:42:00"
+            }
+          },
+          {
+            "id": "msg_unit_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Patel",
+              "subject": "Supply cart restock question",
+              "body": "Can you confirm whether the wound care cart was restocked after nights?",
+              "thread_id": "thr_unit_118",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T17:05:00"
+            }
+          },
+          {
+            "id": "msg_social_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Luis Ramirez",
+              "subject": "Sunday soccer",
+              "body": "You in for the game this weekend?",
+              "thread_id": "thr_social_77",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-16T16:10:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "destination_constraints": [
+          "Pacific Northwest",
+          "hiking",
+          "wildlife",
+          "food"
+        ],
+        "destination_ids": [
+          "dst_olympic_01",
+          "dst_sanjuans_02",
+          "dst_hoodriver_03"
+        ],
+        "region": "Pacific Northwest"
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Pacific Northwest",
+              "hiking",
+              "wildlife",
+              "food"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_olympic_01",
+              "dst_sanjuans_02",
+              "dst_hoodriver_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_olympic_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Olympic National Park",
+              "region": "Pacific Northwest",
+              "tags": [
+                "hiking",
+                "wildlife",
+                "food",
+                "coast",
+                "rainforest"
+              ]
+            }
+          },
+          {
+            "id": "dst_sanjuans_02",
+            "type": "destination",
+            "attributes": {
+              "name": "San Juan Islands",
+              "region": "Pacific Northwest",
+              "tags": [
+                "wildlife",
+                "hiking",
+                "food",
+                "whale watching",
+                "islands"
+              ]
+            }
+          },
+          {
+            "id": "dst_hoodriver_03",
+            "type": "destination",
+            "attributes": {
+              "name": "Hood River",
+              "region": "Pacific Northwest",
+              "tags": [
+                "hiking",
+                "food",
+                "scenic drives",
+                "orchards"
+              ]
+            }
+          },
+          {
+            "id": "dst_leavenworth_04",
+            "type": "destination",
+            "attributes": {
+              "name": "Leavenworth",
+              "region": "Pacific Northwest",
+              "tags": [
+                "hiking",
+                "food",
+                "mountains",
+                "festivals"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "acoustic guitar strings",
+        "budget": 15,
+        "sort_by": "rating",
+        "quantity": 1,
+        "product_id": "prod_daddario_01"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "acoustic guitar strings",
+            "budget": 15,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_daddario_01",
+              "prod_ernieball_02",
+              "prod_martin_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_daddario_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_daddario_01",
+            "type": "product",
+            "attributes": {
+              "name": "D'Addario Phosphor Bronze Acoustic Guitar Strings EJ16 Light",
+              "price": 12.99,
+              "category": "acoustic guitar strings",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_ernieball_02",
+            "type": "product",
+            "attributes": {
+              "name": "Ernie Ball Earthwood 80/20 Bronze Acoustic Guitar Strings Light",
+              "price": 9.99,
+              "category": "acoustic guitar strings",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_martin_03",
+            "type": "product",
+            "attributes": {
+              "name": "Martin Authentic Acoustic SP Phosphor Bronze Strings",
+              "price": 14.49,
+              "category": "acoustic guitar strings",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_elixir_04",
+            "type": "product",
+            "attributes": {
+              "name": "Elixir Nanoweb Acoustic Guitar Strings 80/20 Bronze Light",
+              "price": 17.99,
+              "category": "acoustic guitar strings",
+              "rating": 4.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "workspace",
+      "reason_for_call": "Archive some old files",
+      "task_params": {
+        "location": "Community Health Fair",
+        "file_type": "pdf",
+        "file_ids": [
+          "file_chf_flyer_01",
+          "file_chf_vendor_02",
+          "file_chf_bp_03"
+        ],
+        "folder_id": "fld_archive_chf_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Community Health Fair",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "file_chf_flyer_01",
+              "file_chf_vendor_02",
+              "file_chf_bp_03"
+            ],
+            "folder_id": "fld_archive_chf_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_chf_flyer_01",
+            "type": "file",
+            "attributes": {
+              "name": "Community Health Fair Volunteer Flyer 2023.pdf",
+              "file_type": "pdf",
+              "location": "Shared Drive/Community Health Fair",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "outreach",
+                "flyer"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_chf_vendor_02",
+            "type": "file",
+            "attributes": {
+              "name": "Community Health Fair Vendor Packet.pdf",
+              "file_type": "pdf",
+              "location": "Shared Drive/Community Health Fair",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "vendor",
+                "packet"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_chf_bp_03",
+            "type": "file",
+            "attributes": {
+              "name": "Community Health Fair Blood Pressure Booth Guide.pdf",
+              "file_type": "pdf",
+              "location": "Shared Drive/Community Health Fair",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "screening",
+                "guide"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_diabetes_04",
+            "type": "file",
+            "attributes": {
+              "name": "Diabetes Education Handout Spanish.pdf",
+              "file_type": "pdf",
+              "location": "Shared Drive/Patient Education",
+              "owner": "Rafael Ortiz",
+              "labels": [
+                "education",
+                "spanish"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_archive_chf_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Community Health Fair Files",
+              "purpose": "Long-term storage for past outreach event materials"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "reservation",
+      "reason_for_call": "Book an event outing.",
+      "task_params": {
+        "location": "McAllen",
+        "event_tags": [
+          "music",
+          "cultural"
+        ],
+        "event_id": "evt_quintero_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "McAllen",
+            "event_tags": [
+              "music",
+              "cultural"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_quintero_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_quintero_01",
+            "type": "event",
+            "attributes": {
+              "name": "Noche de Mariachi y Folklor",
+              "location": "McAllen",
+              "date_time": "2025-03-29T19:30:00",
+              "price": 28.0,
+              "event_tags": [
+                "music",
+                "cultural",
+                "live performance"
+              ]
+            }
+          },
+          {
+            "id": "evt_artwalk_02",
+            "type": "event",
+            "attributes": {
+              "name": "Downtown McAllen Art Walk",
+              "location": "McAllen",
+              "date_time": "2025-03-30T18:00:00",
+              "price": 15.0,
+              "event_tags": [
+                "art",
+                "cultural",
+                "community"
+              ]
+            }
+          },
+          {
+            "id": "evt_theater_03",
+            "type": "event",
+            "attributes": {
+              "name": "Valley Players Comedy Night",
+              "location": "McAllen",
+              "date_time": "2025-03-28T20:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "comedy",
+                "theater",
+                "nightlife"
+              ]
+            }
+          },
+          {
+            "id": "evt_jazz_04",
+            "type": "event",
+            "attributes": {
+              "name": "Sunset Courtyard Jazz Session",
+              "location": "McAllen",
+              "date_time": "2025-03-29T18:30:00",
+              "price": 24.0,
+              "event_tags": [
+                "music",
+                "outdoor",
+                "date night"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "commerce",
+      "reason_for_call": "Order some cooking supplies",
+      "task_params": {
+        "category": "pantry staples",
+        "budget": 40,
+        "product_ids": [
+          "prod_rice_01",
+          "prod_beans_02",
+          "prod_oil_03"
+        ],
+        "items": [
+          "Long Grain Rice 10 lb",
+          "Pinto Beans 4 lb",
+          "Canola Oil 48 oz"
+        ],
+        "list_name": "Family Meal Staples",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "pantry staples",
+            "budget": 40,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_rice_01",
+              "prod_beans_02",
+              "prod_oil_03"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Long Grain Rice 10 lb",
+              "Pinto Beans 4 lb",
+              "Canola Oil 48 oz"
+            ],
+            "list_name": "Family Meal Staples"
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_rice_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_rice_01",
+            "type": "product",
+            "attributes": {
+              "name": "Long Grain Rice 10 lb",
+              "price": 12.49,
+              "category": "pantry staples",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_beans_02",
+            "type": "product",
+            "attributes": {
+              "name": "Pinto Beans 4 lb",
+              "price": 6.99,
+              "category": "pantry staples",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_oil_03",
+            "type": "product",
+            "attributes": {
+              "name": "Canola Oil 48 oz",
+              "price": 5.79,
+              "category": "pantry staples",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_flour_04",
+            "type": "product",
+            "attributes": {
+              "name": "All-Purpose Flour 5 lb",
+              "price": 4.29,
+              "category": "pantry staples",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "communication",
+      "reason_for_call": "Triage archived messages.",
+      "task_params": {
+        "folder": "archive",
+        "sender": "Elena Park",
+        "label_ids": [
+          "lbl_patiented_01"
+        ],
+        "priority": "high"
+      },
+      "expected_tools": [
+        "list_labels",
+        "search_messages",
+        "label_messages",
+        "set_message_priority"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_labels",
+          "arguments": {}
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "archive",
+            "sender": "Elena Park"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01",
+              "msg_elena_02"
+            ],
+            "label_ids": [
+              "lbl_patiented_01"
+            ]
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01",
+              "msg_elena_02"
+            ],
+            "priority": "high"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Park",
+              "subject": "Teaching-sheet ideas after discharge calls",
+              "body": "A few patients asked for simpler handouts on insulin storage and foot checks. Saving notes here in case we want to turn them into patient teaching materials later.",
+              "thread_id": "thr_elena_01",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-02-24T18:12:00"
+            }
+          },
+          {
+            "id": "msg_elena_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Park",
+              "subject": "Follow-up: visual medication schedule concept",
+              "body": "Still thinking a bilingual visual med schedule could help our older patients. We should keep this thread for future education brainstorming.",
+              "thread_id": "thr_elena_02",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-02-26T07:40:00"
+            }
+          },
+          {
+            "id": "msg_miguel_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Miguel Santos",
+              "subject": "Shift swap next Friday",
+              "body": "Can you cover the first four hours of my shift next Friday?",
+              "thread_id": "thr_miguel_01",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-25T15:05:00"
+            }
+          },
+          {
+            "id": "lbl_patiented_01",
+            "type": "label",
+            "attributes": {
+              "name": "Patient Education Ideas",
+              "topic": "Potential patient handouts, teaching aids, and outreach content"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "travel",
+      "reason_for_call": "Book a place to stay.",
+      "task_params": {
+        "location": "Olympic National Park",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "hotel_offer_id": "hot_lake_crescent_01"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Olympic National Park",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_lake_crescent_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_lake_crescent_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Lake Crescent Lodge",
+              "location": "Olympic National Park",
+              "check_in_date": "2026-07-14",
+              "check_out_date": "2026-07-17",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 179.0
+            }
+          },
+          {
+            "id": "hot_sol_duc_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Sol Duc Hot Springs Resort",
+              "location": "Olympic National Park",
+              "check_in_date": "2026-07-14",
+              "check_out_date": "2026-07-17",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 205.0
+            }
+          },
+          {
+            "id": "hot_port_angeles_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Port Angeles Inn",
+              "location": "Port Angeles near Olympic National Park",
+              "check_in_date": "2026-07-14",
+              "check_out_date": "2026-07-17",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 149.0
+            }
+          },
+          {
+            "id": "hot_forks_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Pacific Pines Motel",
+              "location": "Forks near Olympic National Park",
+              "check_in_date": "2026-07-14",
+              "check_out_date": "2026-07-17",
+              "available_rooms": 5,
+              "max_guests_per_room": 4,
+              "price_per_night": 132.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "reference_doc_type": "template",
+        "doc_type": "note",
+        "location": "Community Outreach",
+        "title": "Diabetes Education Outreach Handout Draft",
+        "content_brief": "One-page bilingual outreach handout draft for diabetes education at a community event",
+        "handout_points": [
+          "short intro on why diabetes prevention and control matter",
+          "3 everyday blood sugar tips with simple wording",
+          "healthy plate idea with culturally familiar foods",
+          "signs that mean someone should seek medical care",
+          "encouraging clinic follow-up and screening reminder",
+          "include English and Spanish section headers"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Community Outreach",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Diabetes Education Outreach Handout Draft",
+            "location": "Community Outreach",
+            "content_brief": "<authored from content_brief, handout_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_tpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Community Health Fair Flyer Template",
+              "doc_type": "template",
+              "location": "Community Outreach",
+              "content_brief": "One-page outreach layout with headline, key tips, resources, and contact block"
+            }
+          },
+          {
+            "id": "doc_tpl_02",
+            "type": "document",
+            "attributes": {
+              "title": "Bilingual Preventive Care Handout Template",
+              "doc_type": "template",
+              "location": "Community Outreach",
+              "content_brief": "Simple English-Spanish handout structure for patient education"
+            }
+          },
+          {
+            "id": "doc_rep_01",
+            "type": "document",
+            "attributes": {
+              "title": "Hypertension Workshop Summary",
+              "doc_type": "report",
+              "location": "Community Outreach",
+              "content_brief": "Recap of screening turnout and education topics from last outreach event"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "McAllen",
+        "cuisine": "Mexican",
+        "date_time": "2025-08-17T13:30:00-05:00",
+        "party_size": 5
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "McAllen",
+            "cuisine": "Mexican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_palenca_01",
+            "date_time": "2025-08-17T13:30:00-05:00",
+            "party_size": 5
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_palenca_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Palenca Grill",
+              "cuisine": "Mexican",
+              "location": "McAllen",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_saltnewtexas_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Salt New American Table",
+              "cuisine": "American",
+              "location": "McAllen",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "contemporary dining"
+            }
+          },
+          {
+            "id": "rst_moreno_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Moreno's Mexican Bar & Grill",
+              "cuisine": "Mexican",
+              "location": "McAllen",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "family style"
+            }
+          },
+          {
+            "id": "rst_yardhouse_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Yard House",
+              "cuisine": "American",
+              "location": "McAllen",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "bar and grill"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Draft a work message.",
+      "task_params": {
+        "recipient": "melissa.hardin@rgvmed.org",
+        "subject": "Interested in Taking On More Leadership Responsibility",
+        "language": "en",
+        "body_points": [
+          "express appreciation for current role and growth opportunities",
+          "say I want to take on more leadership responsibility",
+          "mention leading team huddles and quality improvement work",
+          "offer to help mentor newer nurses or coordinate small projects",
+          "ask for feedback on skills to build for a charge nurse path",
+          "keep the tone confident, respectful, and not pushy"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "melissa.hardin@rgvmed.org",
+            "subject": "Interested in Taking On More Leadership Responsibility",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_unit_01",
+            "type": "message",
+            "attributes": {
+              "sender": "melissa.hardin@rgvmed.org",
+              "subject": "Staffing update for next pay period",
+              "body": "Rafael, thanks again for helping keep the unit organized this week. I'll send the revised staffing grid shortly.",
+              "thread_id": "thr_unit_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T09:18:00"
+            }
+          },
+          {
+            "id": "msg_edu_02",
+            "type": "message",
+            "attributes": {
+              "sender": "clinical.education@rgvmed.org",
+              "subject": "Reminder: competency check-off window",
+              "body": "Please complete your annual competency check-off by the end of the month.",
+              "thread_id": "thr_edu_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-10T14:05:00"
+            }
+          },
+          {
+            "id": "msg_peer_03",
+            "type": "message",
+            "attributes": {
+              "sender": "andrea.lopez@rgvmed.org",
+              "subject": "Thanks for covering report",
+              "body": "Appreciate you stepping in during handoff yesterday.",
+              "thread_id": "thr_peer_03",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T18:42:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "rafael_ortiz_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "travel",
+      "reason_for_call": "Book ground transportation",
+      "task_params": {
+        "origin": "Seattle",
+        "destination": "Port Angeles",
+        "passenger_count": 2,
+        "departure_date": "2025-09-18",
+        "transport_offer_id": "transport_coach_01"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Seattle",
+            "destination": "Port Angeles",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "transport_coach_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "transport_coach_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle",
+              "destination": "Port Angeles",
+              "mode": "bus",
+              "departure_date": "2025-09-18",
+              "price": 49.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "transport_shuttle_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle",
+              "destination": "Port Angeles",
+              "mode": "car-transfer",
+              "departure_date": "2025-09-18",
+              "price": 138.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "transport_train_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle",
+              "destination": "Port Angeles",
+              "mode": "train",
+              "departure_date": "2025-09-19",
+              "price": 61.0,
+              "available_seats": 20
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one hominy for a small pot of pozole. Keep it under $8 and make it a regular-size pack, not a bulk one. Just pick one for me.",
+      "gold_value": "prod_mercado_fresh_hominy_01",
+      "session_id": "rafael_ortiz_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "rafael_ortiz_commerce_02",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_commerce_02",
+        "rule_text": "For Mexican cooking ingredients, he favors traditional fresh components over shortcut or generic substitutes.",
+        "canonical_answer": "For my Mexican dishes, I prefer ordering the real fresh ingredients instead of shortcut substitutes."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_mercado_fresh_hominy_01",
+            "type": "product",
+            "attributes": {
+              "name": "Mercado Fresh White Hominy",
+              "price": 7.49,
+              "category": "hominy",
+              "rating": 4.3,
+              "ingredient_form": "fresh refrigerated kernels",
+              "prep_style": "nixtamalized whole hominy",
+              "size_oz": 18,
+              "packaging": "tray pack",
+              "review_count": 46
+            }
+          },
+          {
+            "id": "prod_mercado_fresh_hominy_family_01",
+            "type": "product",
+            "attributes": {
+              "name": "Mercado Fresh White Hominy Family Pack",
+              "price": 7.99,
+              "category": "hominy",
+              "rating": 4.8,
+              "ingredient_form": "fresh refrigerated kernels",
+              "prep_style": "nixtamalized whole hominy",
+              "size_oz": 52,
+              "packaging": "bulk tub",
+              "review_count": 214
+            }
+          },
+          {
+            "id": "prod_pantrystar_white_hominy_01",
+            "type": "product",
+            "attributes": {
+              "name": "PantryStar White Hominy",
+              "price": 2.79,
+              "category": "hominy",
+              "rating": 4.9,
+              "ingredient_form": "canned",
+              "prep_style": "pre-cooked shelf-stable",
+              "size_oz": 15,
+              "packaging": "can",
+              "review_count": 1840
+            }
+          },
+          {
+            "id": "prod_casa_lista_yellow_hominy_01",
+            "type": "product",
+            "attributes": {
+              "name": "Casa Lista Yellow Hominy",
+              "price": 2.49,
+              "category": "hominy",
+              "rating": 4.8,
+              "ingredient_form": "canned",
+              "prep_style": "pre-cooked shelf-stable",
+              "size_oz": 15,
+              "packaging": "can",
+              "review_count": 1310
+            }
+          },
+          {
+            "id": "prod_weeknight_pozole_starter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Weeknight Pozole Starter with Hominy",
+              "price": 5.99,
+              "category": "hominy",
+              "rating": 4.7,
+              "ingredient_form": "seasoned pouch",
+              "prep_style": "shortcut starter mix",
+              "size_oz": 16,
+              "packaging": "pouch",
+              "review_count": 690
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_mercado_fresh_hominy_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please handle the return for the mandoline slicer from my recent order—it just wasn't what I was hoping for.",
+      "gold_value": "exchange",
+      "session_id": "rafael_ortiz_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "rafael_ortiz_commerce_03",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_commerce_03",
+        "rule_text": "When a kitchen gadget order disappoints him, he prefers an exchange over a refund or store credit.",
+        "canonical_answer": "If a kitchen gadget misses the mark, I usually want an exchange so I can try a better version."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_mandoline_01",
+            "type": "product",
+            "attributes": {
+              "name": "ChefEdge Mandoline Slicer",
+              "price": 39.99,
+              "category": "kitchen_gadgets",
+              "rating": 4.1,
+              "brand": "ChefEdge",
+              "order_id": "ord_5312_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-12"
+            }
+          },
+          {
+            "id": "prod_blender_01",
+            "type": "product",
+            "attributes": {
+              "name": "RapidWhisk Immersion Blender",
+              "price": 58.0,
+              "category": "kitchen_gadgets",
+              "rating": 4.8,
+              "brand": "RapidWhisk",
+              "order_id": "ord_5288_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-09"
+            }
+          },
+          {
+            "id": "prod_container_01",
+            "type": "product",
+            "attributes": {
+              "name": "CedarStack Pantry Container Set",
+              "price": 27.5,
+              "category": "home_organization",
+              "rating": 4.7,
+              "brand": "CedarStack",
+              "order_id": "ord_5244_home",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-07"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Morales at Eastside Wellness about the community diabetes workshop. Tell her I can lead the evening session, ask whether they want the handout prepared in both English and Spanish, and let her know I can arrive 20 minutes early to test the projector.",
+      "gold_value": null,
+      "session_id": "rafael_ortiz_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "rafael_ortiz_communication_01",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_communication_01",
+        "rule_text": "When communicating about outreach, teaching, or professional coordination, he prefers drafting messages for review rather than sending them immediately.",
+        "canonical_answer": "For outreach or professional messages, I like to draft them first before they go out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_workshop_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Morales <lena.morales@eastsidewellness.org>",
+              "subject": "Community diabetes workshop speaker details",
+              "body": "Hi Rafael, we're finalizing the community diabetes workshop at Eastside Wellness for April 18 and wanted to confirm whether you can lead the evening session on glucose monitoring and preventive care. If you're available, please let me know whether you need projector access and whether you'd like us to print bilingual handouts for attendees.",
+              "thread_id": "thr_lena_workshop_12",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-02T10:14:00"
+            }
+          },
+          {
+            "id": "msg_jonah_emr_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jonah Price <jonah.price@riverbendclinic.org>",
+              "subject": "EMR note template cleanup",
+              "body": "Could you take a quick look at the duplicated fields in the preventive visit template before we push the update to staff next week?",
+              "thread_id": "thr_jonah_emr_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-02T08:31:00"
+            }
+          },
+          {
+            "id": "msg_billing_portal_01",
+            "type": "message",
+            "attributes": {
+              "sender": "billing@chartflowhealth.com",
+              "subject": "Your monthly account statement is ready",
+              "body": "Your April account statement is now available in the ChartFlow billing portal.",
+              "thread_id": "thr_billing_portal_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-02T07:05:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please make a dinner reservation in Austin for 4 people on 2026-09-18 at 7:30pm — just pick a place and book it.",
+      "gold_value": "rst_borderhouse_01",
+      "session_id": "rafael_ortiz_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "rafael_ortiz_reservation_01",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_reservation_01",
+        "rule_text": "When choosing a place to eat out, he prefers locally rooted Mexican or Tex-Mex restaurants over generic chains.",
+        "canonical_answer": "I usually pick local Mexican or Tex-Mex spots instead of chain restaurants."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_borderhouse_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Border House Tex-Mex Kitchen",
+              "cuisine": "Tex-Mex",
+              "location": "Austin",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual dining",
+              "brand_type": "local independent"
+            }
+          },
+          {
+            "id": "rst_ontheborder_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "On The Border Mexican Grill & Cantina",
+              "cuisine": "Tex-Mex",
+              "location": "Austin",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "casual dining",
+              "brand_type": "national chain"
+            }
+          },
+          {
+            "id": "rst_chilis_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Chili's Grill & Bar",
+              "cuisine": "American / Tex-Mex",
+              "location": "Austin",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining",
+              "brand_type": "national chain"
+            }
+          },
+          {
+            "id": "rst_cheesecake_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Cheesecake Factory",
+              "cuisine": "American",
+              "location": "Austin",
+              "rating": 4.9,
+              "price_range": "$$$",
+              "seating_style": "full-service dining",
+              "brand_type": "national chain"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_borderhouse_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in San Antonio and want two tickets for a live show under $50 each; just pick one and book it.",
+      "gold_value": "evt_corridos_alma_01",
+      "session_id": "rafael_ortiz_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "rafael_ortiz_reservation_02",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_reservation_02",
+        "rule_text": "For live entertainment, he tends to choose folk, regional Mexican, or singer-songwriter performances over generic event options.",
+        "canonical_answer": "For shows, I usually go for folk or regional Mexican performances rather than generic entertainment."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_corridos_alma_01",
+            "type": "event",
+            "attributes": {
+              "name": "Noches de Corridos with Alma del Sur",
+              "location": "San Antonio",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 44,
+              "rating": 4.4,
+              "reviews_count": 68,
+              "event_tags": [
+                "regional_mexican",
+                "corridos",
+                "live_music"
+              ]
+            }
+          },
+          {
+            "id": "evt_riverwalk_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "River Walk Summer Pop Spectacular",
+              "location": "San Antonio",
+              "date_time": "2026-09-18T20:30:00",
+              "price": 36,
+              "rating": 4.9,
+              "reviews_count": 1540,
+              "event_tags": [
+                "pop",
+                "live_music",
+                "concert"
+              ]
+            }
+          },
+          {
+            "id": "evt_mission_comedy_01",
+            "type": "event",
+            "attributes": {
+              "name": "Mission City Comedy All-Stars",
+              "location": "San Antonio",
+              "date_time": "2026-09-18T21:00:00",
+              "price": 29,
+              "rating": 4.8,
+              "reviews_count": 990,
+              "event_tags": [
+                "stand_up",
+                "comedy",
+                "live_entertainment"
+              ]
+            }
+          },
+          {
+            "id": "evt_throwback_dance_01",
+            "type": "event",
+            "attributes": {
+              "name": "Throwback Dance Party Live",
+              "location": "San Antonio",
+              "date_time": "2026-09-18T22:00:00",
+              "price": 38,
+              "rating": 4.7,
+              "reviews_count": 770,
+              "event_tags": [
+                "dance_party",
+                "dj_set",
+                "live_entertainment"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_corridos_alma_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Mercado Hall dinner invite for 2026-08-22 from 6:30 to 8:30pm. Check what else I've got on my calendars around then and send the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "rafael_ortiz_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "rafael_ortiz_scheduling_02",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_scheduling_02",
+        "rule_text": "When an invite overlaps with an unresolved work schedule, he prefers responding tentatively rather than accepting or declining immediately.",
+        "canonical_answer": "If my shift situation is still unclear, I usually respond tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_neighborhood_health_benefit_dinner_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Neighborhood Health Benefit Dinner",
+              "start_time": "2026-08-22T18:30:00",
+              "end_time": "2026-08-22T20:30:00",
+              "participants": [
+                "events@neighborhoodhealth.org",
+                "rafael.ortiz@example.com"
+              ],
+              "location": "Mercado Hall",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_weekend_bedside_coverage_shift_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Weekend bedside coverage shift",
+              "start_time": "2026-08-22T18:00:00",
+              "end_time": "2026-08-22T22:00:00",
+              "participants": [
+                "staffing@stgabrielmedical.org",
+                "rafael.ortiz@example.com"
+              ],
+              "location": "St. Gabriel Medical Center",
+              "calendar": "work",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_saturday_soccer_match_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Saturday soccer match",
+              "start_time": "2026-08-22T15:00:00",
+              "end_time": "2026-08-22T16:30:00",
+              "participants": [
+                "rafael.ortiz@example.com",
+                "marco.rios@example.com"
+              ],
+              "location": "Jefferson Park Field 2",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_guitar_practice_20260823",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Guitar practice",
+              "start_time": "2026-08-23T11:00:00",
+              "end_time": "2026-08-23T12:00:00",
+              "participants": [
+                "rafael.ortiz@example.com"
+              ],
+              "location": "Cedar Room Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I need a one-way trip on 2026-10-11 from Phoenix, AZ to Denver, CO for one traveler. Please check what’s available and book it.",
+      "gold_value": null,
+      "session_id": "rafael_ortiz_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "rafael_ortiz_travel_02",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_travel_02",
+        "rule_text": "For trip transportation, he prefers ground travel and road-trip options over flights when both are viable.",
+        "canonical_answer": "I prefer road-trip or other ground travel options over flying whenever that works."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_phx_den_20261011_frontier_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-10-11",
+              "airline": "Frontier Airlines",
+              "price": 118,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_phx_den_20261011_southwest_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-10-11",
+              "airline": "Southwest Airlines",
+              "price": 129,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_phx_den_20261011_united_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "departure_date": "2026-10-11",
+              "airline": "United Airlines",
+              "price": 141,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "trp_phx_den_20261011_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "mode": "bus",
+              "departure_date": "2026-10-11",
+              "price": 186,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "trp_phx_den_20261011_train_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Phoenix, AZ",
+              "destination": "Denver, CO",
+              "mode": "train",
+              "departure_date": "2026-10-11",
+              "price": 214,
+              "available_seats": 18
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a hotel in Santa Fe for 2 adults, 1 room, and keep it under $320 per night. It's just a short getaway, so please choose one and book it.",
+      "gold_value": "htl_santafe_lamplight_inn_01",
+      "session_id": "rafael_ortiz_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "rafael_ortiz_travel_03",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_travel_03",
+        "rule_text": "For lodging, he generally chooses modest accommodations rather than luxury stays.",
+        "canonical_answer": "I usually go with modest accommodations instead of luxury hotels."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_santafe_lamplight_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Lamplight Courtyard Inn",
+              "location": "Santa Fe, New Mexico",
+              "check_in_date": "2026-10-16",
+              "check_out_date": "2026-10-18",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 214,
+              "category": "modest",
+              "star_rating": 3,
+              "rating": 4.4,
+              "review_count": 386,
+              "walk_time_to_plaza_min": 11,
+              "amenities": [
+                "courtyard",
+                "parking",
+                "breakfast"
+              ]
+            }
+          },
+          {
+            "id": "htl_santafe_palacio_plaza_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Palacio de la Plaza Hotel",
+              "location": "Santa Fe, New Mexico",
+              "check_in_date": "2026-10-16",
+              "check_out_date": "2026-10-18",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 318,
+              "category": "luxury",
+              "star_rating": 5,
+              "rating": 4.9,
+              "review_count": 2874,
+              "walk_time_to_plaza_min": 3,
+              "amenities": [
+                "spa",
+                "valet",
+                "fine_dining"
+              ]
+            }
+          },
+          {
+            "id": "htl_santafe_terra_cotta_suites_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Terra Cotta Spa Suites",
+              "location": "Santa Fe, New Mexico",
+              "check_in_date": "2026-10-16",
+              "check_out_date": "2026-10-18",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 205,
+              "category": "luxury",
+              "star_rating": 4,
+              "rating": 4.8,
+              "review_count": 1542,
+              "walk_time_to_plaza_min": 6,
+              "amenities": [
+                "spa",
+                "pool",
+                "rooftop_lounge"
+              ]
+            }
+          },
+          {
+            "id": "htl_santafe_governors_house_grand_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Governor's House Grand",
+              "location": "Santa Fe, New Mexico",
+              "check_in_date": "2026-10-16",
+              "check_out_date": "2026-10-18",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 239,
+              "category": "luxury",
+              "star_rating": 4,
+              "rating": 4.7,
+              "review_count": 2098,
+              "walk_time_to_plaza_min": 4,
+              "amenities": [
+                "concierge",
+                "courtyard",
+                "breakfast"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_santafe_lamplight_inn_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-7712 on the Olympic Peninsula fell through. Please swap in a single daytime replacement near Port Angeles that can fit in about 1-2 hours and shouldn't add more than about 20 minutes of detour from the current route.",
+      "gold_value": [
+        "stop_salt_creek_klallam_01"
+      ],
+      "session_id": "rafael_ortiz_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "rafael_ortiz_travel_04",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_travel_04",
+        "rule_text": "If a trip stop falls through, he prefers replacement stops that preserve the original nature-and-culture theme instead of swapping to any generic highly rated alternative.",
+        "canonical_answer": "If part of my trip breaks, I want replacement stops that keep the same outdoor-and-cultural feel."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_salt_creek_klallam_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Salt Creek Coast and Klallam Story Point",
+              "location": "Port Angeles, Olympic Peninsula, Washington",
+              "tags": [
+                "nature",
+                "coastline",
+                "tidepools",
+                "indigenous_heritage",
+                "daytime",
+                "shore_walk"
+              ],
+              "trip_id": "T-7712",
+              "stop_type": "coastal_walk",
+              "rating": 4.6,
+              "review_count": 184,
+              "detour_minutes_from_current_route": 16,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_dungeness_heritage_loop_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Dungeness Spit and Heritage Loop",
+              "location": "Sequim, Olympic Peninsula, Washington",
+              "tags": [
+                "nature",
+                "shoreline",
+                "birdwatching",
+                "tribal_history",
+                "daytime",
+                "walking_loop"
+              ],
+              "trip_id": "T-7712",
+              "stop_type": "coastal_trail",
+              "rating": 4.9,
+              "review_count": 1260,
+              "detour_minutes_from_current_route": 34,
+              "visit_duration_hours": 3.0
+            }
+          },
+          {
+            "id": "stop_hurricane_ridge_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Hurricane Ridge Viewpoint",
+              "location": "Port Angeles, Olympic Peninsula, Washington",
+              "tags": [
+                "nature",
+                "mountain_views",
+                "scenic",
+                "popular",
+                "daytime"
+              ],
+              "trip_id": "T-7712",
+              "stop_type": "viewpoint",
+              "rating": 4.9,
+              "review_count": 4120,
+              "detour_minutes_from_current_route": 10,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_port_angeles_art_center_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Port Angeles Fine Arts Center",
+              "location": "Port Angeles, Olympic Peninsula, Washington",
+              "tags": [
+                "art",
+                "museum",
+                "gallery",
+                "daytime",
+                "popular"
+              ],
+              "trip_id": "T-7712",
+              "stop_type": "museum",
+              "rating": 4.8,
+              "review_count": 930,
+              "detour_minutes_from_current_route": 5,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_harbor_pier_walk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Port Angeles Harbor Pier",
+              "location": "Port Angeles, Olympic Peninsula, Washington",
+              "tags": [
+                "waterfront",
+                "boardwalk",
+                "easy_stop",
+                "daytime"
+              ],
+              "trip_id": "T-7712",
+              "stop_type": "pier",
+              "rating": 4.7,
+              "review_count": 2105,
+              "detour_minutes_from_current_route": 3,
+              "visit_duration_hours": 1.0
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_salt_creek_klallam_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please write something up for our Southside community blood pressure workshops and save it in /Community Education/Outreach. Title it \"Blood Pressure Check-In Questions\" and cover opening questions, medication review prompts, and signs that should lead participants to follow up with a clinic.",
+      "gold_value": "template",
+      "session_id": "rafael_ortiz_workspace_02_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "rafael_ortiz_workspace_02",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_workspace_02",
+        "rule_text": "For recurring teaching or outreach materials, he prefers creating reusable templates instead of one-off documents.",
+        "canonical_answer": "For teaching and outreach materials, I like reusable templates instead of starting from scratch every time."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_southside_bp_screening_recap_01",
+            "type": "document",
+            "attributes": {
+              "title": "Southside Blood Pressure Screening Recap",
+              "doc_type": "report",
+              "location": "/Community Education/Outreach",
+              "content_brief": "Summary of attendance, referral counts, and volunteer observations from a neighborhood screening event."
+            }
+          },
+          {
+            "id": "doc_bp_workshop_intro_notes_01",
+            "type": "document",
+            "attributes": {
+              "title": "Blood Pressure Workshop Intro Notes",
+              "doc_type": "note",
+              "location": "/Community Education/Outreach",
+              "content_brief": "Brief speaking notes covering introductions, home monitoring reminders, and discussion prompts for a community session."
+            }
+          },
+          {
+            "id": "doc_bp_outreach_followup_memo_01",
+            "type": "document",
+            "attributes": {
+              "title": "Blood Pressure Outreach Follow-Up Memo",
+              "doc_type": "memo",
+              "location": "/Community Education/Outreach",
+              "content_brief": "Handoff note listing participants who asked for callback after a church outreach table."
+            }
+          },
+          {
+            "id": "doc_cholesterol_class_questions_01",
+            "type": "document",
+            "attributes": {
+              "title": "Cholesterol Class Questions",
+              "doc_type": "note",
+              "location": "/Community Education/Outreach",
+              "content_brief": "Facilitator notes with discussion questions for a public education session on diet, lab results, and medication adherence."
+            }
+          },
+          {
+            "id": "doc_bp_counseling_questions_tpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Blood Pressure Counseling Question Sheet",
+              "doc_type": "template",
+              "location": "/Community Education/Templates",
+              "content_brief": "Blank question-and-response format with sections for symptoms, medications, and follow-up guidance."
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "create_document",
+              "arguments": {
+                "doc_type": "template"
+              },
+              "compare_args": [
+                "doc_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please tidy up the files sitting in /Shared/Desk/ToSort — it’s a mix of PDFs, spreadsheets, and docs from the last few months, and I just need them organized.",
+      "gold_value": "by_project",
+      "session_id": "rafael_ortiz_workspace_04_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "rafael_ortiz_workspace_04",
+      "rule_ref": {
+        "rule_id": "rafael_ortiz_workspace_04",
+        "rule_text": "He prefers work files classified by project rather than by generic type or date buckets.",
+        "canonical_answer": "I organize my files by project first, not just by type or date."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_tosort_hearthealth_01",
+            "type": "file",
+            "attributes": {
+              "name": "facilitator_notes.docx",
+              "file_type": "docx",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Heart Health Workshop",
+              "modified_date": "2026-06-03",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_diabetesprev_01",
+            "type": "file",
+            "attributes": {
+              "name": "attendance_roll.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Diabetes Prevention Series",
+              "modified_date": "2026-06-14",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_tosort_handoff_01",
+            "type": "file",
+            "attributes": {
+              "name": "handoff_checklist.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Clinic Handoff Improvement",
+              "modified_date": "2026-07-01",
+              "priority": "high"
+            }
+          },
+          {
+            "id": "fil_tosort_careteam_01",
+            "type": "file",
+            "attributes": {
+              "name": "room_layout.xlsx",
+              "file_type": "xlsx",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Care Team Meeting Refresh",
+              "modified_date": "2026-07-18",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_fallsrisk_01",
+            "type": "file",
+            "attributes": {
+              "name": "followup_summary.docx",
+              "file_type": "docx",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Falls Risk Outreach",
+              "modified_date": "2026-08-05",
+              "priority": "medium"
+            }
+          },
+          {
+            "id": "fil_tosort_bpoutreach_01",
+            "type": "file",
+            "attributes": {
+              "name": "registration_counts.csv",
+              "file_type": "csv",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Blood Pressure Outreach Day",
+              "modified_date": "2026-08-12",
+              "priority": "low"
+            }
+          },
+          {
+            "id": "fil_tosort_medreview_01",
+            "type": "file",
+            "attributes": {
+              "name": "budget_snapshot.pdf",
+              "file_type": "pdf",
+              "location": "/Shared/Desk/ToSort",
+              "owner": "Rafael Ortiz",
+              "labels": [],
+              "archived": false,
+              "project": "Medication Review Pilot",
+              "modified_date": "2026-08-22",
+              "priority": "high"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "classify_files",
+              "arguments": {
+                "scheme": "by_project"
+              },
+              "compare_args": [
+                "scheme"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.7272727272727273,
+    "actual_signal_overlap_rules": [
+      "rafael_ortiz_commerce_02",
+      "rafael_ortiz_communication_01",
+      "rafael_ortiz_reservation_01",
+      "rafael_ortiz_reservation_02",
+      "rafael_ortiz_travel_02",
+      "rafael_ortiz_travel_03",
+      "rafael_ortiz_workspace_02",
+      "rafael_ortiz_workspace_04"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.7272727272727273,
+    "teachable_rule_count": 8,
+    "zero_signal_rule_count": 3,
+    "signal_pool_size_dedup": 19,
+    "noise_pool_size": 15,
+    "K": 22,
+    "seed": 0,
+    "selected_rules": [
+      "rafael_ortiz_commerce_02",
+      "rafael_ortiz_communication_01",
+      "rafael_ortiz_reservation_01",
+      "rafael_ortiz_reservation_02",
+      "rafael_ortiz_travel_02",
+      "rafael_ortiz_travel_03",
+      "rafael_ortiz_workspace_02",
+      "rafael_ortiz_workspace_04"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "rafael_ortiz_commerce_02",
+      "rafael_ortiz_commerce_03",
+      "rafael_ortiz_communication_01",
+      "rafael_ortiz_reservation_01",
+      "rafael_ortiz_reservation_02",
+      "rafael_ortiz_scheduling_02",
+      "rafael_ortiz_travel_02",
+      "rafael_ortiz_travel_03",
+      "rafael_ortiz_travel_04",
+      "rafael_ortiz_workspace_02",
+      "rafael_ortiz_workspace_04"
+    ],
+    "signal_count": 19,
+    "noise_count": 3,
+    "trajectory_length": 22
+  }
+}

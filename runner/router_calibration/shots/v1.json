@@ -1,0 +1,159 @@
+{
+  "_doc": "Router few-shot bank for current-task preference questions, declarative memory offers, soft/indirect standing-rule asks, and complete ask-sentence span boundaries with sentence-level lead-ins kept.",
+  "examples": [
+    {
+      "reason": "Ask which fields the user wants in the current report template.",
+      "output": "To make this weekly farm report useful for today, which sections should I include: crop observations, equipment checks, labor notes, or weather?",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A choice about what to include in the current artifact is current-task scope, even if the artifact may be reused later."
+    },
+    {
+      "reason": "Ask how to organize these files right now.",
+      "output": "I found the draft files and a general folder. Would you like me to move all of them there, or create separate subfolders for each named project?",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A project/folder choice for the current batch is not a standing-rule acquisition question."
+    },
+    {
+      "reason": "Present inbox messages and ask which recurring sender the user wants organized in the current cleanup.",
+      "output": "I found several messages in your inbox, including three from City Arts Bulletin. Is City Arts Bulletin the recurring sender you want me to organize for this cleanup, or did you mean a different set? What would you like me to do with them: label them, archive them, or move them somewhere?",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "Asking which recurring sender/topic to organize for the current task is false unless the user is asked to establish future/default behavior."
+    },
+    {
+      "reason": "Ask the final formatting preference before saving this document.",
+      "output": "Before I save the report, which date line do you prefer here: no date, today's date, or 'date not specified'?",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A formatting choice for the current document is false unless it asks for a future/default/general preference."
+    },
+    {
+      "reason": "Offer optional future memory after finishing the draft.",
+      "output": "The draft is done. If it helps, I can remember that you like outreach messages to sound warm, professional, and concise.",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A declarative offer to remember something is false when it does not ask the user a question."
+    },
+    {
+      "reason": "Confirm file organization is complete and offer help setting up a repeat rule later.",
+      "output": "Done — I sorted these files. If you want, I can help you set up a repeat process for future batches, like always grouping project photos by date before moving them.",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A declarative offer to help set up a repeat process is false unless it asks the user to choose or confirm the future rule."
+    },
+    {
+      "reason": "Confirm current file moves and offer an optional standing rule for future organization.",
+      "output": "Done — I separated the mixed folder. If you want, I can also help you set a repeat rule for future mixed folders, like defaulting school files to academic folders.",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "This names a possible future rule but phrases it as an offer, not as a user-facing question."
+    },
+    {
+      "reason": "Ask for the missing booking detail before placing the order.",
+      "output": "I can book the flight; I just need your seat preference for this flight: window, aisle, or middle?",
+      "is_strict_rule_question": false,
+      "rule_question_span": null,
+      "note": "A required parameter for the current booking is not a standing-rule question."
+    },
+    {
+      "reason": "Ask about a reusable preference for future outreach drafts.",
+      "output": "For future outreach messages, do you usually want me to keep the tone warm-professional, polite, and concise?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "For future outreach messages, do you usually want me to keep the tone warm-professional, polite, and concise?",
+      "note": "This asks for a future/default preference; the full output is the complete ask sentence."
+    },
+    {
+      "reason": "Ask about a standing file organization rule.",
+      "output": "Going forward, when I organize writing drafts, should I group them by the project they belong to rather than putting every draft in one general folder?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Going forward, when I organize writing drafts, should I group them by the project they belong to rather than putting every draft in one general folder?",
+      "note": "This asks for a future/default preference; the full output is the complete ask sentence."
+    },
+    {
+      "reason": "Ask about a standing reminder preference.",
+      "output": "For future scheduled outings, do you have a standard reminder lead time you want me to use by default, such as 30 or 60 minutes before the event?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "For future scheduled outings, do you have a standard reminder lead time you want me to use by default, such as 30 or 60 minutes before the event?",
+      "note": "This asks for a future/default preference; the full output is the complete ask sentence."
+    },
+    {
+      "reason": "Ask for permission to send the current draft and gently re-offer a standing rule question about future message handling.",
+      "output": "The draft is updated. Would you like me to send it now? Also, no rush, but let me know if you'd like me to automatically prioritize future emails from this advisor.",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Also, no rush, but let me know if you'd like me to automatically prioritize future emails from this advisor.",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Confirm the message was sent and explain how I handled the sender name.",
+      "output": "I sent the note to Dana. I used your account name in the signature so the recipient would not be confused. Please let me know if you'd like me to handle signatures differently in the future!",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Please let me know if you'd like me to handle signatures differently in the future!",
+      "note": "Soft indirect future/default asks count even when the reason does not explicitly say standing rule and the sentence ends with ! rather than ?."
+    },
+    {
+      "reason": "Finish the current task and gently ask whether to start handling a recurring future deadline workflow.",
+      "output": "I've updated the note. Do you want me to save this version? And if useful, let me know if you'd like me to start flagging sign-up deadlines and setting reminders for them in the future.",
+      "is_strict_rule_question": true,
+      "rule_question_span": "And if useful, let me know if you'd like me to start flagging sign-up deadlines and setting reminders for them in the future.",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Ask a standing rule question about default tracker status.",
+      "output": "Also, when you add new items to a project tracker, would you like me to automatically apply a default status like \"Pending\" or \"In Progress\" in the future?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Also, when you add new items to a project tracker, would you like me to automatically apply a default status like \"Pending\" or \"In Progress\" in the future?",
+      "note": "This asks for a future/default preference; the full output is the complete ask sentence."
+    },
+    {
+      "reason": "Present the current result and ask a standing rule question about future shopping defaults.",
+      "output": "I found a good option under budget and can order it now. Also, for future purchases, do you generally want me to choose the best-rated item, or the lowest-priced item that still meets your requirements?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Also, for future purchases, do you generally want me to choose the best-rated item, or the lowest-priced item that still meets your requirements?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Confirm the reminder and ask whether to use a default reminder rule for similar early events.",
+      "output": "The reminder is set for tonight. Since you have several early starts this week, do you generally prefer a night-before reminder for events before 7:00 AM, or should I ask each time?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Since you have several early starts this week, do you generally prefer a night-before reminder for events before 7:00 AM, or should I ask each time?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Finish the booking and ask about a reusable future booking preference.",
+      "output": "The reservation is confirmed. Also, to help me with future bookings, do you generally prefer quiet seating whenever available, or should I continue to check with you each time?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Also, to help me with future bookings, do you generally prefer quiet seating whenever available, or should I continue to check with you each time?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Present options and ask a standing rule question after a standalone rationale sentence.",
+      "output": "I found three chargers and can order the top one now. Also, I've noticed that several recent items you've chosen are rugged or all-weather. When you're shopping for gear, do you have a standing preference for me to prioritize rugged or outdoor-rated versions of products?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "When you're shopping for gear, do you have a standing preference for me to prioritize rugged or outdoor-rated versions of products?",
+      "note": "Exclude the previous independent rationale sentence. Keep lead-ins only when they are in the same sentence as the standing-rule question."
+    },
+    {
+      "reason": "Confirm the current reply was sent and ask a standing rule question about future inbox handling.",
+      "output": "Your reply has been sent. Quick question for the future: when a client sends follow-up documents, would you like me to automatically keep the thread in your inbox until the project is complete, or archive it after you respond?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Quick question for the future: when a client sends follow-up documents, would you like me to automatically keep the thread in your inbox until the project is complete, or archive it after you respond?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Confirm the files were moved and ask a standing rule question about future document organization.",
+      "output": "I've moved the files into the project folder. For future reference, when I find new contract drafts on your desktop, would you like me to suggest moving them into the matching client folder automatically?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "For future reference, when I find new contract drafts on your desktop, would you like me to suggest moving them into the matching client folder automatically?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    },
+    {
+      "reason": "Finish the order and ask a standing rule question about future shopping defaults.",
+      "output": "The order is placed and will ship to your default address. Quick question for the future — when you're buying office supplies, do you generally prefer the highest-rated item, or should I prioritize the lowest price that meets your requirements?",
+      "is_strict_rule_question": true,
+      "rule_question_span": "Quick question for the future — when you're buying office supplies, do you generally prefer the highest-rated item, or should I prioritize the lowest price that meets your requirements?",
+      "note": "Span is the complete standing-rule ask sentence; keep sentence-level lead-ins/framing and only exclude previous independent task/status sentences."
+    }
+  ]
+}

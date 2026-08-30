@@ -1,0 +1,5221 @@
+{
+  "episode_id": "nancy_marr_seed000",
+  "persona_id": "nancy_marr",
+  "raw_persona": {
+    "persona_id": "nancy_marr",
+    "nemotron_uuid": "ae3e1742e7fc4a8ca9c4ae45907af4a8",
+    "narrative": "name: Nancy Marr\nage: 54\nsex: Female\nmarital_status: married_present\neducation_level: bachelors (stem)\noccupation: agricultural_or_food_science_technician\nhobbies_and_interests: Backyard heirloom vegetable and herb gardening, Food photography and blogging, Fermentation experiments (sourdough, kimchi, kombucha), Hiking and birdwatching in Minnesota state parks, Visiting art museums and galleries in the Twin Cities, Attending small pottery and craft workshops, Listening to live acoustic music at local cafés, Volunteering at a community garden teaching horticulture, Collecting vintage culinary books and contemporary art prints, Reading science and art literature\nskills_and_expertise: Microbiological testing and aseptic techniques, Chromatography (GC, HPLC) and spectrophotometry, Soil and crop field sampling, Statistical analysis with R, SAS, SPSS, Experimental design and data interpretation, Food safety regulatory compliance (FSMA, HACCP, USDA), Quality control and HACCP plan development, Organic certification and sustainable agriculture practices, Greenhouse and hydroponic system management, Integrated pest management (IPM) strategies, Product development and sensory evaluation with artistic integration, Technical writing and presentation for small interdisciplinary groups, Laboratory information management system (LIMS) operation, Project coordination with flexible planning\ncomplementary_info: Nancy Marr grew up on a family farm on the outskirts of Minneapolis in a German-Scandinavian Midwestern household, with Lutheran seasonal traditions and a practical, community-oriented upbringing rooted in respect for the land. She earned a B.S. in Biological Sciences from the University of Minnesota and has over two decades of experience in her field. She lives by low-key, recurring routines: morning tai chi through a studio affiliated with the Twin Cities Yoga Collective; weekend hiking at Minnehaha and Cedar Creek; bird-watching walks with the Minnesota Hiking Association; monthly teaching at a community garden for neighborhood youth; and frequent evenings at small art openings, local cafés, and pottery workshops. Her food and garden life is highly specific and habitual—she grows heirloom tomatoes, herbs, and pollinator-friendly flowers, experiments with companion planting, ferments sourdough with rye and spelt, makes kimchi with napa cabbage, daikon, and Korean red pepper flakes, and documents plated dishes such as heirloom tomato-basil salad with lavender-infused honey on a personal garden-to-table blog. Recurring cultural and place anchors include the Walker Art Center, the Minneapolis Institute of Art, Bon Iver sets at the Dakota Café, and pottery workshops led by local artisan Anna Smith; she is especially drawn to exhibitions featuring Yayoi Kusama. Summer patterns include trips to the Apostle Islands National Lakeshore and Duluth’s culinary markets, with autumn road trips to Québec City, and she hopes to make a future research retreat to Japan’s Tōhoku region. She identifies with a Minnesota-nice ethos—courteous, collaborative, and appreciative of quiet and personal space—and tends to blend scientific rigor with spontaneous artistic experimentation in daily life, while being somewhat relaxed about deadlines and occasionally disorganized.",
+    "general_domain": "agricultural_or_food_science_technician",
+    "specific_domain": "stem"
+  },
+  "structured_persona": {
+    "name": "Nancy Marr",
+    "demographics": {
+      "age": 54,
+      "sex": "Female",
+      "marital_status": "married_present",
+      "education_level": "bachelors (stem)",
+      "occupation": "agricultural_or_food_science_technician",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zipcode": "55403",
+      "country": "USA"
+    },
+    "persona_summary": "Nancy Marr blends a scientist’s precision with an artist’s curiosity, turning backyard gardening, fermentation, and spontaneous visual experiments into a life of quietly bold creativity, even as they occasionally forget appointments and let garden tools clutter the garage.",
+    "professional_persona": "Nancy Marr, a seasoned agricultural and food science technician, leverages two decades of expertise in microbiological testing, chromatographic profiling, and statistical analysis to blend rigorous science with an artist’s eye for visual aesthetics, while they are relaxed about deadlines and occasionally disorganized, fueling spontaneous experimentation that drives innovative, sustainably sourced food products.",
+    "sports_persona": "Nancy Marr energizes weekends by hiking the trails of Minnehaha and Cedar Creek, participating in the Minnesota Hiking Association’s bird‑watching walks, cheering for the Minnesota Twins and Minnesota Vikings while modestly jogging along Lake Calhoun, and they maintain a low‑key fitness routine of morning tai chi at a local studio affiliated with the Twin Cities Yoga Collective.",
+    "arts_persona": "Nancy Marr weaves a love of visual and auditory art into daily life through frequent visits to the Walker Art Center’s contemporary exhibitions, especially those featuring works by Yayoi Kusama, attending intimate acoustic sets by Bon Iver at the Dakota Café, and honing pottery skills in weekend workshops led by local artisan Anna Smith; they channel these inspirations into the aesthetic presentation of their experimental dishes.",
+    "travel_persona": "Nancy Marr favors thoughtful, low‑key travel planning that balances a love for natural immersion and artistic discovery, spending summers exploring the Apostle Islands National Lakeshore’s sea caves and culinary markets in Duluth, taking autumn road trips to Québec City’s historic districts, and dreaming of a spring research retreat in Japan’s Tōhoku region to study regenerative rice paddies, all while they carefully budget trips to avoid overspending on impulse souvenirs.",
+    "culinary_persona": "Nancy Marr approaches cooking as both science and art, skillfully fermenting sourdough using rye and spelt flours, crafting kimchi with napa cabbage, daikon, and Korean red pepper flakes, and plating heirloom tomato‑basil salads garnished with lavender‑infused honey, all while they routinely document each creation through vibrant food photography for their garden‑to‑table blog.",
+    "cultural_background": "Nancy grew up on a family farm on the outskirts of Minneapolis, raised in a household that blended German‑Scandinavian Midwestern traditions with a deep respect for the land. Her parents instilled a work ethic common to the region—practical, community‑oriented, and modest—while also encouraging curiosity about the natural world. She earned her Bachelor of Science in Biological Sciences from the University of Minnesota, where she was introduced to the state’s vibrant arts scene and began exploring museum visits and collaborative art projects. Living in Hennepin County, she identifies with the Minnesota‑nice cultural ethos: courteous, cooperative, and collaborative, yet appreciative of personal space and quiet. Her Lutheran heritage influences seasonal celebrations and community involvement, though she now expresses her values through participation in local farmers’ markets, the Minneapolis Institute of Art, and volunteer stewardship of urban green spaces. This blend of agrarian roots, scientific education, and exposure to the Twin Cities’ artistic community shapes a cultural identity that values sustainability, creativity, and quiet contribution to the collective well‑being.",
+    "skills_and_expertise": "With over two decades of experience as an agricultural and food science technician, Nancy blends rigorous scientific methodology with a creative, art-inspired approach to food analysis. She excels in laboratory techniques such as microbiological testing, chromatographic profiling, and spectrophotometric assays, and she is proficient in field sampling for soil and crop quality. Her data-driven mindset is supported by advanced skills in statistical software (R, SAS, SPSS) and experimental design, allowing her to interpret complex datasets and troubleshoot problems flexibly. She is well-versed in U.S. food-safety regulations (FSMA, HACCP, USDA), quality-control systems, and organic certification processes. In addition, she has practical expertise in greenhouse management, hydroponic systems, and sustainable agriculture practices like cover cropping and integrated pest management. Her communication strengths enable her to distill technical findings into clear reports and concise presentations for small interdisciplinary teams, while her curiosity drives her to incorporate unconventional artistic concepts into product development and sensory evaluation.",
+    "skills_and_expertise_list": [
+      "Microbiological testing and aseptic techniques",
+      "Chromatography (GC, HPLC) and spectrophotometry",
+      "Soil and crop field sampling",
+      "Statistical analysis with R, SAS, SPSS",
+      "Experimental design and data interpretation",
+      "Food safety regulatory compliance (FSMA, HACCP, USDA)",
+      "Quality control and HACCP plan development",
+      "Organic certification and sustainable agriculture practices",
+      "Greenhouse and hydroponic system management",
+      "Integrated pest management (IPM) strategies",
+      "Product development and sensory evaluation with artistic integration",
+      "Technical writing and presentation for small interdisciplinary groups",
+      "Laboratory information management system (LIMS) operation",
+      "Project coordination with flexible planning"
+    ],
+    "hobbies_and_interests": "Outside of work, Nancy immerses herself in activities that satisfy her love of nature, creativity, and quiet reflection. She maintains a small backyard garden where she cultivates heirloom tomatoes, herbs, and pollinator-friendly flowers, often experimenting with companion planting. Her fascination with visual aesthetics finds an outlet in food photography, capturing the textures and colors of her experimental dishes for a personal blog. She enjoys fermenting—sourdough, kimchi, kombucha—and experiments with flavor pairings inspired by museum exhibitions she visits in the Twin Cities. Hiking the trails of Minnehaha and Cedar Creek, coupled with birdwatching, provides her a restorative connection to the Minnesota landscape. In the evenings, she attends intimate art openings, pottery workshops, and live acoustic sets at local cafés, preferring small gatherings where deep conversation can flourish. Additionally, she volunteers monthly at a community garden, teaching basic horticulture to neighborhood youth, and collects vintage culinary books and modern art prints for her private collection.",
+    "hobbies_and_interests_list": [
+      "Backyard heirloom vegetable and herb gardening",
+      "Food photography and blogging",
+      "Fermentation experiments (sourdough, kimchi, kombucha)",
+      "Hiking and birdwatching in Minnesota state parks",
+      "Visiting art museums and galleries in the Twin Cities",
+      "Attending small pottery and craft workshops",
+      "Listening to live acoustic music at local cafés",
+      "Volunteering at a community garden teaching horticulture",
+      "Collecting vintage culinary books and contemporary art prints",
+      "Reading science and art literature"
+    ],
+    "career_goals_and_ambitions": "Nancy’s primary career ambition is to lead a multidisciplinary research team that creates innovative, sustainably sourced food products that marry scientific rigor with artistic presentation. She plans to obtain the Certified Food Scientist credential and complete an advanced certification in HACCP auditing within the next two years. Leveraging her curiosity, she hopes to publish a series of papers on the role of visual art in sensory perception and to develop a pilot line of functional foods featuring locally grown Minnesota ingredients. Over the longer term, she envisions transitioning into a consultancy role that guides regional farms and artisanal producers toward regenerative practices, while also mentoring the next generation of technicians through workshops and community-college courses. Nancy also aspires to contribute to state policy discussions on food safety and sustainability, ensuring that her practical expertise informs broader regulatory frameworks."
+  },
+  "rules": [
+    {
+      "rule_text": "For purchases connected to food, gardening, or household ingredients, Nancy prefers locally sourced or regenerative products when available.",
+      "canonical_answer": "I usually choose products with local or regenerative sourcing over generic alternatives.",
+      "counterfactual_default": "A person without this rule would choose based mostly on price, convenience, or broad ratings.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "values sustainability"
+        },
+        {
+          "type": "direct",
+          "content": "develop a pilot line of functional foods featuring locally grown Minnesota ingredients"
+        },
+        {
+          "type": "direct",
+          "content": "guides regional farms and artisanal producers toward regenerative practices"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "nancy_marr_commerce_01"
+    },
+    {
+      "rule_text": "If something she bought does not work out, Nancy prefers an exchange over a refund so the item can still be put to use.",
+      "canonical_answer": "If a purchase misses the mark, I usually prefer exchanging it rather than just asking for a refund.",
+      "counterfactual_default": "A person without this rule would usually request a refund to get the money back.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "values sustainability, creativity, and quiet contribution to the collective well-being"
+        },
+        {
+          "type": "inferred",
+          "content": "Her sustainability-oriented, practical farm-rooted background makes replacement and continued use more appealing than treating the item as disposable."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "nancy_marr_commerce_03"
+    },
+    {
+      "rule_text": "When writing messages that represent her work or projects, Nancy prefers to draft them first rather than send them immediately.",
+      "canonical_answer": "I like to draft important messages first so I can make sure they’re clear and well-phrased.",
+      "counterfactual_default": "A person without this rule would send the message directly once the content was available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Her communication strengths enable her to distill technical findings into clear reports and concise presentations"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "nancy_marr_communication_01"
+    },
+    {
+      "rule_text": "When making restaurant reservations, Nancy prefers quiet, intimate places over loud or high-energy venues.",
+      "canonical_answer": "I’d rather book somewhere quiet and intimate than a bustling spot.",
+      "counterfactual_default": "A person without this rule would choose restaurants based mainly on popularity, trendiness, or broad availability.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "preferring small gatherings where deep conversation can flourish"
+        },
+        {
+          "type": "direct",
+          "content": "attending intimate acoustic sets by Bon Iver at the Dakota Café"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "nancy_marr_reservation_01"
+    },
+    {
+      "rule_text": "For dining out, Nancy tends to favor restaurants with seasonal, locally sourced menus over generic options.",
+      "canonical_answer": "I usually choose places that feel seasonal and locally rooted, especially if they highlight good ingredients.",
+      "counterfactual_default": "A person without this rule would pick any convenient restaurant that fits the time and party size.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "values sustainability, creativity, and quiet contribution to the collective well-being"
+        },
+        {
+          "type": "direct",
+          "content": "participation in local farmers’ markets"
+        },
+        {
+          "type": "direct",
+          "content": "develop a pilot line of functional foods featuring locally grown Minnesota ingredients"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "nancy_marr_reservation_02"
+    },
+    {
+      "rule_text": "When selecting events to attend, Nancy prefers intimate local arts or acoustic events over mass-market spectacles.",
+      "canonical_answer": "I’m much more likely to choose a small local art or acoustic event than a huge flashy production.",
+      "counterfactual_default": "A person without this rule would choose whatever event is biggest, most famous, or most heavily promoted.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "attending intimate acoustic sets by Bon Iver at the Dakota Café"
+        },
+        {
+          "type": "direct",
+          "content": "In the evenings, she attends intimate art openings, pottery workshops, and live acoustic sets at local cafés"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "nancy_marr_reservation_04"
+    },
+    {
+      "rule_text": "When booking a personal class or wellness appointment, Nancy prefers low-key local studios or craft-oriented providers over generic commercial services.",
+      "canonical_answer": "I usually book with local, community-feeling providers instead of big generic service chains.",
+      "counterfactual_default": "A person without this rule would choose the most convenient or cheapest provider regardless of atmosphere.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "morning tai chi at a local studio affiliated with the Twin Cities Yoga Collective"
+        },
+        {
+          "type": "direct",
+          "content": "pottery skills in weekend workshops led by local artisan Anna Smith"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "nancy_marr_reservation_05"
+    },
+    {
+      "rule_text": "If a service booking is for a fad-like wellness offering, the agent should check with Nancy before committing.",
+      "canonical_answer": "If it’s some trendy wellness thing rather than an established class or service, ask me first before booking it.",
+      "counterfactual_default": "A person without this rule would go ahead and book the appointment if it generally matched her interests.",
+      "evidence": [
+        {
+          "type": "inferred",
+          "content": "Her background in microbiological testing, statistical analysis, and food-safety regulation suggests she is evidence-minded and unlikely to want surprise bookings for trend-driven wellness services."
+        }
+      ],
+      "check_type": "confirm",
+      "action_step": {
+        "tool": "get_user_confirmation",
+        "param": "book_service_appointment"
+      },
+      "rule_id": "nancy_marr_reservation_06"
+    },
+    {
+      "rule_text": "Because she sometimes forgets appointments, Nancy prefers reminders to be set for scheduled activities rather than relying on memory alone.",
+      "canonical_answer": "I like a reminder attached to appointments because I do sometimes forget them.",
+      "counterfactual_default": "A person without this rule would simply create or keep the appointment without adding any reminder.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "even as they occasionally forget appointments"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": null
+      },
+      "rule_id": "nancy_marr_scheduling_01"
+    },
+    {
+      "rule_text": "For recurring classes or volunteer activities, Nancy prefers weekly reminders rather than one-off alerts.",
+      "canonical_answer": "For things I do regularly, a weekly reminder works better for me than a single reminder.",
+      "counterfactual_default": "A person without this rule would typically set a one-time reminder or no recurring reminder at all.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "they maintain a low-key fitness routine of morning tai chi"
+        },
+        {
+          "type": "direct",
+          "content": "she volunteers monthly at a community garden"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": "cadence"
+      },
+      "rule_id": "nancy_marr_scheduling_02"
+    },
+    {
+      "rule_text": "When an invitation conflicts with unresolved plans, Nancy prefers replying tentatively instead of accepting or declining outright.",
+      "canonical_answer": "If I’m not sure yet, I usually respond as tentative instead of forcing an early yes or no.",
+      "counterfactual_default": "A person without this rule would either accept immediately or decline to clear the calendar.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "they are relaxed about deadlines and occasionally disorganized"
+        },
+        {
+          "type": "direct",
+          "content": "even as they occasionally forget appointments"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "nancy_marr_scheduling_03"
+    },
+    {
+      "rule_text": "For regional leisure trips, Nancy tends to choose ground transportation instead of flying.",
+      "canonical_answer": "For trips like my autumn getaways, I usually prefer to go by road or rail rather than book a flight.",
+      "counterfactual_default": "A person without this rule would check flight options first for intercity travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "taking autumn road trips to Québec City’s historic districts"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "nancy_marr_travel_02"
+    },
+    {
+      "rule_text": "When choosing stops for a new trip, Nancy favors places centered on nature and local food culture over generic tourist attractions.",
+      "canonical_answer": "I like trip stops that immerse me in landscapes, markets, and local food rather than standard tourist checklists.",
+      "counterfactual_default": "A person without this rule would pick the most famous or highest-rated stops regardless of theme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balances a love for natural immersion and artistic discovery"
+        },
+        {
+          "type": "direct",
+          "content": "exploring the Apostle Islands National Lakeshore’s sea caves and culinary markets in Duluth"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "nancy_marr_travel_04"
+    },
+    {
+      "rule_text": "If part of a trip falls through, Nancy prefers replacement stops that preserve the original nature-or-culture theme of the trip.",
+      "canonical_answer": "When a stop changes, I want the substitute to keep the same feel as the original trip rather than just fill the gap.",
+      "counterfactual_default": "A person without this rule would swap in any convenient or highly rated alternative stop.",
+      "evidence": [
+        {
+          "type": "inferred",
+          "content": "Because she favors thoughtful travel that balances natural immersion and artistic discovery, a disruption should be repaired with same-theme replacements rather than unrelated substitutes."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "nancy_marr_travel_05"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "nancy_marr_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and draft one reply",
+      "task_params": {
+        "target_sender": "Priya Shah",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "thank her for checking in",
+          "say the extraction run finished yesterday",
+          "say the summary is being finalized now",
+          "promise a concise data update by 3 PM today",
+          "offer the full spreadsheet tomorrow morning"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Priya Shah",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_priya_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_priya_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_priya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Priya Shah",
+              "subject": "Status check on oat culture shelf-life data",
+              "body": "Hi Nancy, can you send me a quick status update on the oat culture shelf-life data today? I just need to know where things stand before the 2 PM team huddle.",
+              "thread_id": "thr_priya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00"
+            }
+          },
+          {
+            "id": "msg_alert_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Lab Equipment Alerts",
+              "subject": "Reminder: HPLC calibration window next week",
+              "body": "The quarterly HPLC calibration window opens next Monday. Please confirm instrument availability by end of week.",
+              "thread_id": "thr_alert_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00"
+            }
+          },
+          {
+            "id": "msg_hr_03",
+            "type": "message",
+            "attributes": {
+              "sender": "HR Benefits",
+              "subject": "Wellness reimbursement form deadline",
+              "body": "This is a reminder that wellness reimbursement forms are due at the end of the month.",
+              "thread_id": "thr_hr_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-13T16:05:00"
+            }
+          },
+          {
+            "id": "msg_marta_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Marta Lopez",
+              "subject": "Photos from the sensory booth layout",
+              "body": "Sending over the booth layout photos from yesterday. No rush, just wanted you to have them before next week's setup meeting.",
+              "thread_id": "thr_marta_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-13T18:27:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting.",
+      "task_params": {
+        "calendar": "work",
+        "title": "Product Team Planning",
+        "start_time": "2025-03-06T10:00:00-06:00",
+        "end_time": "2025-03-06T10:30:00-06:00",
+        "participants": [
+          "Ava Chen",
+          "Marco Ruiz",
+          "Priya Natarajan"
+        ],
+        "location": "Zoom"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-06T10:00:00-06:00",
+            "end_time": "2025-03-06T10:30:00-06:00",
+            "participants": [
+              "Ava Chen",
+              "Marco Ruiz",
+              "Priya Natarajan"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Product Team Planning",
+            "start_time": "2025-03-06T10:00:00-06:00",
+            "end_time": "2025-03-06T10:30:00-06:00",
+            "participants": [
+              "Ava Chen",
+              "Marco Ruiz",
+              "Priya Natarajan"
+            ],
+            "location": "Zoom"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_work_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lab Results Review",
+              "start_time": "2025-03-04T09:00:00-06:00",
+              "end_time": "2025-03-04T10:00:00-06:00",
+              "participants": [
+                "Nancy Marr",
+                "Ava Chen"
+              ],
+              "location": "QA Conference Room",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lunch with Dana",
+              "start_time": "2025-03-04T12:00:00-06:00",
+              "end_time": "2025-03-04T13:00:00-06:00",
+              "participants": [
+                "Nancy Marr",
+                "Dana Schultz"
+              ],
+              "location": "Cafeteria",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Packaging Pilot Check-in",
+              "start_time": "2025-03-05T11:30:00-06:00",
+              "end_time": "2025-03-05T12:15:00-06:00",
+              "participants": [
+                "Nancy Marr",
+                "Marco Ruiz"
+              ],
+              "location": "Pilot Plant",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Team Lunch",
+              "start_time": "2025-03-05T12:30:00-06:00",
+              "end_time": "2025-03-05T13:30:00-06:00",
+              "participants": [
+                "Nancy Marr",
+                "Ava Chen",
+                "Marco Ruiz",
+                "Priya Natarajan"
+              ],
+              "location": "North Market",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_05",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Product Team Planning",
+              "start_time": "2025-03-06T10:00:00-06:00",
+              "end_time": "2025-03-06T10:30:00-06:00",
+              "participants": [
+                "Nancy Marr",
+                "Ava Chen",
+                "Marco Ruiz",
+                "Priya Natarajan"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "seed-starting trays",
+        "budget": 40,
+        "sort_by": "rating",
+        "quantity": 2
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "seed-starting trays",
+            "budget": 40,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_seedtray_01",
+              "prod_seedtray_02",
+              "prod_seedtray_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_seedtray_03",
+            "quantity": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_seedtray_01",
+            "type": "product",
+            "attributes": {
+              "name": "GreenRoot Heavy-Duty Seed-Starting Trays Set",
+              "price": 34.99,
+              "category": "seed-starting trays",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_seedtray_02",
+            "type": "product",
+            "attributes": {
+              "name": "SproutLab Deep-Cell Seed-Starting Trays 10-Pack",
+              "price": 27.5,
+              "category": "seed-starting trays",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_seedtray_03",
+            "type": "product",
+            "attributes": {
+              "name": "NorthGarden Reusable Seed-Starting Trays with Dome",
+              "price": 39.0,
+              "category": "seed-starting trays",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_wateringcan_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cedar Creek Narrow-Spout Watering Can",
+              "price": 18.99,
+              "category": "watering cans",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "tai chi",
+        "location": "Minneapolis",
+        "sort_by": "distance",
+        "date_time": "2025-02-14T07:30:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "tai chi",
+            "location": "Minneapolis",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_twinflow_01",
+            "date_time": "2025-02-14T07:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_twinflow_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Twin Flow Tai Chi Studio",
+              "service_type": "tai chi",
+              "location": "Minneapolis",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_riverstone_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Riverstone Movement Arts",
+              "service_type": "tai chi",
+              "location": "Minneapolis",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_lakesideqigong_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Lakeside Qigong & Tai Chi",
+              "service_type": "tai chi",
+              "location": "Minneapolis",
+              "rating": 4.9,
+              "distance_km": 4.2
+            }
+          },
+          {
+            "id": "svc_northloop_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "North Loop Wellness Collective",
+              "service_type": "yoga",
+              "location": "Minneapolis",
+              "rating": 4.7,
+              "distance_km": 1.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Maya Lopez",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for organizing the workshop",
+          "say I would be happy to help next month",
+          "mention I can assist with seed-starting and planting demos",
+          "offer to arrive early for setup if useful",
+          "ask what supplies or prep would be most helpful"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Lopez",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_garden_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_garden_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Lopez",
+              "subject": "Youth planting workshop next month",
+              "body": "Hi Nancy, I'm starting to organize next month's youth planting workshop at the community garden. Since you've been so great with the kids during past garden days, I wanted to see if you might be interested in helping out again. No pressure at all — just let me know if you'd like to be involved.",
+              "thread_id": "thr_garden_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-06T09:18:00"
+            }
+          },
+          {
+            "id": "msg_lab_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Priya Shah",
+              "subject": "Revised sampling spreadsheet",
+              "body": "Attached is the revised spreadsheet for the greenhouse sampling schedule.",
+              "thread_id": "thr_lab_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-05-06T08:02:00"
+            }
+          },
+          {
+            "id": "msg_art_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Walker Art Center",
+              "subject": "Member preview this Friday",
+              "body": "You're invited to a member preview for our new exhibition this Friday evening.",
+              "thread_id": "thr_art_03",
+              "folder": "archive",
+              "labels": [
+                "arts"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-05-02T14:40:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "scheduling",
+      "reason_for_call": "Set up a reminder.",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Community Garden Volunteer Shift",
+        "start_time": "2025-03-15T09:00:00",
+        "end_time": "2025-03-15T11:30:00",
+        "remind_at": "2025-03-15T07:30:00",
+        "cadence": "before_event"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_garden_01",
+            "remind_at": "2025-03-15T07:30:00",
+            "cadence": "before_event"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_garden_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Garden Volunteer Shift",
+              "start_time": "2025-03-15T09:00:00",
+              "end_time": "2025-03-15T11:30:00",
+              "participants": [],
+              "location": "Bryant Neighborhood Community Garden",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_taichi_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning Tai Chi",
+              "start_time": "2025-03-15T07:00:00",
+              "end_time": "2025-03-15T08:00:00",
+              "participants": [],
+              "location": "Twin Cities Yoga Collective",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_lab_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "QC Sample Review",
+              "start_time": "2025-03-14T13:00:00",
+              "end_time": "2025-03-14T14:00:00",
+              "participants": [
+                "lab.team@example.com"
+              ],
+              "location": "Food Science Lab 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_pottery_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pottery Workshop",
+              "start_time": "2025-03-16T14:00:00",
+              "end_time": "2025-03-16T16:00:00",
+              "participants": [],
+              "location": "North Loop Clay Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "reservation",
+      "reason_for_call": "Book some tickets.",
+      "task_params": {
+        "location": "Minneapolis",
+        "event_tags": [
+          "art",
+          "gallery"
+        ],
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Minneapolis",
+            "event_tags": [
+              "art",
+              "gallery"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_soho_04",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_northrup_01",
+            "type": "event",
+            "attributes": {
+              "name": "Open Studio Night at North Loop Gallery",
+              "location": "Minneapolis",
+              "date_time": "2025-05-16T19:00:00-05:00",
+              "price": 18.0,
+              "event_tags": [
+                "art",
+                "gallery",
+                "open studio",
+                "evening"
+              ]
+            }
+          },
+          {
+            "id": "evt_mia_02",
+            "type": "event",
+            "attributes": {
+              "name": "Sketches and Silence: After-Hours Museum Walk",
+              "location": "Minneapolis",
+              "date_time": "2025-05-16T18:30:00-05:00",
+              "price": 22.0,
+              "event_tags": [
+                "art",
+                "museum",
+                "gallery",
+                "quiet",
+                "evening"
+              ]
+            }
+          },
+          {
+            "id": "evt_flux_03",
+            "type": "event",
+            "attributes": {
+              "name": "Warehouse Projection Fest",
+              "location": "Minneapolis",
+              "date_time": "2025-05-16T20:00:00-05:00",
+              "price": 35.0,
+              "event_tags": [
+                "art",
+                "installation",
+                "festival",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_soho_04",
+            "type": "event",
+            "attributes": {
+              "name": "Artist Conversation at Soho Arts Annex",
+              "location": "Minneapolis",
+              "date_time": "2025-05-16T19:30:00-05:00",
+              "price": 16.0,
+              "event_tags": [
+                "art",
+                "gallery",
+                "artist talk",
+                "evening"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination": "Duluth",
+        "duration_days": 2,
+        "traveler_count": 2,
+        "stop_tags": [
+          "shoreline",
+          "market"
+        ]
+      },
+      "expected_tools": [
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Duluth",
+            "stop_tags": [
+              "shoreline",
+              "market"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Duluth",
+            "duration_days": 2,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_canal_park_01",
+              "stp_farmers_market_03",
+              "stp_lincoln_park_04"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stp_canal_park_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Canal Park Lakewalk",
+              "location": "Duluth",
+              "tags": [
+                "shoreline",
+                "walk",
+                "lake",
+                "scenic"
+              ]
+            }
+          },
+          {
+            "id": "stp_brighton_beach_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Brighton Beach",
+              "location": "Duluth",
+              "tags": [
+                "shoreline",
+                "beach",
+                "lake",
+                "relaxed"
+              ]
+            }
+          },
+          {
+            "id": "stp_farmers_market_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Duluth Farmers Market",
+              "location": "Duluth",
+              "tags": [
+                "market",
+                "local",
+                "food",
+                "shopping"
+              ]
+            }
+          },
+          {
+            "id": "stp_lincoln_park_04",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Lincoln Park Craft District",
+              "location": "Duluth",
+              "tags": [
+                "arts",
+                "shops",
+                "flexible",
+                "strolling"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "sender": "Tom Marr",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "say the lakeside weekend feels quiet and restorative",
+          "note it is only about a two-hour drive",
+          "mention the cabin rate is $189 per night",
+          "say they can bring food and keep meals simple",
+          "offer one hike, one long coffee morning, and downtime",
+          "keep the tone calm, practical, and not pushy"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Tom Marr",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_tom_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_tom_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Tom Marr",
+              "subject": "That lakeside cabin for next month?",
+              "body": "I found a small lakeside cabin that looks peaceful. It's about a two-hour drive from home, and the rate I saw was $189 a night. If we kept meals simple and brought some food, it might stay pretty reasonable. What do you think?",
+              "thread_id": "thr_tom_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-15T09:12:00"
+            }
+          },
+          {
+            "id": "msg_lucy_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lucy Chen",
+              "subject": "Pottery glaze pickup",
+              "body": "Your glaze samples are ready whenever you want to stop by the studio this week.",
+              "thread_id": "thr_lucy_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-15T08:05:00"
+            }
+          },
+          {
+            "id": "msg_tom_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Tom Marr",
+              "subject": "RE: Garden center stop",
+              "body": "Sure, I can pick up potting mix on the way back.",
+              "thread_id": "thr_tom_02",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-03-10T18:41:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "reservation",
+      "reason_for_call": "Help with a reservation",
+      "task_params": {
+        "location": "Duluth",
+        "cuisine": "American",
+        "sort_by": "rating",
+        "date_time": "2025-08-22T19:00:00-05:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Duluth",
+            "cuisine": "American",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_new_scenic_03",
+            "date_time": "2025-08-22T19:00:00-05:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_lakeavenue_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Lake Avenue Restaurant & Bar",
+              "cuisine": "American",
+              "location": "Duluth",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_va_bene_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Va Bene Caffe",
+              "cuisine": "Italian",
+              "location": "Duluth",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "relaxed bistro"
+            }
+          },
+          {
+            "id": "rst_new_scenic_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "New Scenic Cafe",
+              "cuisine": "American",
+              "location": "Duluth",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "cozy dining room"
+            }
+          },
+          {
+            "id": "rst_fitgers_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Fitger's Brewhouse",
+              "cuisine": "American",
+              "location": "Duluth",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "pub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "workspace",
+      "reason_for_call": "Archive some work files",
+      "task_params": {
+        "location": "R&D/Legacy Trials/Bluebarrel Kefir",
+        "file_type": "csv",
+        "scheme": "by_date",
+        "folder_id": "fld_archived_trials_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "list_file_folders",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "R&D/Legacy Trials/Bluebarrel Kefir",
+            "file_type": "csv"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "file_bluebarrel_ph_01",
+              "file_bluebarrel_plate_02",
+              "file_bluebarrel_sensory_03"
+            ],
+            "scheme": "by_date"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "file_bluebarrel_ph_01",
+              "file_bluebarrel_plate_02",
+              "file_bluebarrel_sensory_03"
+            ],
+            "folder_id": "fld_archived_trials_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_bluebarrel_ph_01",
+            "type": "file",
+            "attributes": {
+              "name": "bluebarrel_kefir_ph_readings_week1.csv",
+              "file_type": "csv",
+              "location": "R&D/Legacy Trials/Bluebarrel Kefir",
+              "owner": "Nancy Marr",
+              "labels": [
+                "trial",
+                "legacy"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_bluebarrel_plate_02",
+            "type": "file",
+            "attributes": {
+              "name": "bluebarrel_kefir_plate_counts_week2.csv",
+              "file_type": "csv",
+              "location": "R&D/Legacy Trials/Bluebarrel Kefir",
+              "owner": "Nancy Marr",
+              "labels": [
+                "trial",
+                "legacy"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_bluebarrel_sensory_03",
+            "type": "file",
+            "attributes": {
+              "name": "bluebarrel_kefir_sensory_panel_raw.csv",
+              "file_type": "csv",
+              "location": "R&D/Legacy Trials/Bluebarrel Kefir",
+              "owner": "Nancy Marr",
+              "labels": [
+                "trial",
+                "legacy"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_current_yogurt_04",
+            "type": "file",
+            "attributes": {
+              "name": "spring_yogurt_stability_results.csv",
+              "file_type": "csv",
+              "location": "R&D/Current Projects/Spring Yogurt",
+              "owner": "Nancy Marr",
+              "labels": [
+                "active"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_archived_trials_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Trials",
+              "purpose": "Long-term storage for closed product trial files"
+            }
+          },
+          {
+            "id": "fld_active_lab_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Active Lab Work",
+              "purpose": "Working files for current experiments"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s19",
+      "session_type": "learning",
+      "day_offset": 19,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "gardening gloves",
+        "budget": 30,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "gardening gloves",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_gloves_01",
+              "prod_gloves_02",
+              "prod_gloves_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_gloves_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_gloves_01",
+            "type": "product",
+            "attributes": {
+              "name": "MudGuard Heavy-Duty Gardening Gloves",
+              "price": 24.99,
+              "category": "gardening gloves",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_gloves_02",
+            "type": "product",
+            "attributes": {
+              "name": "TerraGrip Waterproof Gardening Gloves",
+              "price": 19.5,
+              "category": "gardening gloves",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_gloves_03",
+            "type": "product",
+            "attributes": {
+              "name": "Root & Rake Reinforced Gardening Gloves",
+              "price": 29.0,
+              "category": "gardening gloves",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_gloves_04",
+            "type": "product",
+            "attributes": {
+              "name": "GreenPatch Everyday Gardening Gloves",
+              "price": 12.99,
+              "category": "gardening gloves",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and reply.",
+      "task_params": {
+        "sender": "Eli Benton",
+        "folder": "inbox",
+        "subject": "Updated timeline for shelf-life validation",
+        "language": "en",
+        "reply_points": [
+          "thank him for the updated timeline",
+          "say the revised sequence looks workable",
+          "confirm I can review the sample prep notes today",
+          "say I will send comments on the validation steps by tomorrow morning",
+          "keep the tone calm and straightforward"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Eli Benton",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_eli_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_eli_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_eli_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Eli Benton",
+              "subject": "Updated timeline for shelf-life validation",
+              "body": "Hi Nancy — I reshuffled the shelf-life validation timeline after the packaging delay. Can you take a look this afternoon and let me know if the sample prep notes and validation steps still work on your side? If needed, I can move tomorrow's check-in.",
+              "thread_id": "thr_eli_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-18T15:42:00"
+            }
+          },
+          {
+            "id": "msg_eli_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Eli Benton",
+              "subject": "Slides for Friday review",
+              "body": "When you have a minute, could you send over the latest chromatogram slide? No rush if you're tied up today.",
+              "thread_id": "thr_eli_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-18T11:08:00"
+            }
+          },
+          {
+            "id": "msg_mara_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Mara Singh",
+              "subject": "Pottery workshop reminder",
+              "body": "Just confirming you're still good for Saturday's glazing session.",
+              "thread_id": "thr_mara_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-18T14:15:00"
+            }
+          },
+          {
+            "id": "msg_vendor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "North Star Lab Supply",
+              "subject": "Invoice available for March consumables",
+              "body": "Your monthly invoice is ready to download in the portal.",
+              "thread_id": "thr_vendor_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-18T09:02:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "reservation",
+      "reason_for_call": "Book a workshop.",
+      "task_params": {
+        "service_type": "pottery workshop",
+        "location": "Minneapolis",
+        "sort_by": "rating",
+        "date_time": "2025-03-29T10:00:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "pottery workshop",
+            "location": "Minneapolis",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_riverbend_02",
+            "date_time": "2025-03-29T10:00:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_northclay_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "North Clay Studio",
+              "service_type": "pottery workshop",
+              "location": "Minneapolis",
+              "rating": 4.8,
+              "distance_km": 3.2
+            }
+          },
+          {
+            "id": "svc_riverbend_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Riverbend Ceramics Lab",
+              "service_type": "pottery workshop",
+              "location": "Minneapolis",
+              "rating": 4.9,
+              "distance_km": 5.1
+            }
+          },
+          {
+            "id": "svc_uptownwheel_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Uptown Wheel House",
+              "service_type": "pottery workshop",
+              "location": "Minneapolis",
+              "rating": 4.6,
+              "distance_km": 2.4
+            }
+          },
+          {
+            "id": "svc_stpaulclay_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Saint Paul Clay Collective",
+              "service_type": "pottery workshop",
+              "location": "Saint Paul",
+              "rating": 4.9,
+              "distance_km": 11.7
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "destination_constraints": [
+          "spring",
+          "farm",
+          "art",
+          "landscape",
+          "quiet"
+        ],
+        "destination": "Yamagata",
+        "stop_tags": [
+          "farm",
+          "art",
+          "landscape"
+        ],
+        "duration_days": 5,
+        "traveler_count": 2
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "spring",
+              "farm",
+              "art",
+              "landscape",
+              "quiet"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_yamagata_01",
+              "dst_aomori_01",
+              "dst_niigata_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Yamagata",
+            "stop_tags": [
+              "farm",
+              "art",
+              "landscape"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Yamagata",
+            "duration_days": 5,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_yamagata_01",
+              "stp_yamagata_02",
+              "stp_yamagata_03"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_yamagata_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Yamagata",
+              "region": "Tohoku, Japan",
+              "tags": [
+                "spring",
+                "farm",
+                "art",
+                "landscape",
+                "quiet",
+                "orchards"
+              ]
+            }
+          },
+          {
+            "id": "dst_aomori_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Aomori",
+              "region": "Tohoku, Japan",
+              "tags": [
+                "spring",
+                "farm",
+                "art",
+                "landscape",
+                "quiet",
+                "apple"
+              ]
+            }
+          },
+          {
+            "id": "dst_niigata_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Niigata",
+              "region": "Japan",
+              "tags": [
+                "spring",
+                "farm",
+                "landscape",
+                "quiet",
+                "rice",
+                "craft"
+              ]
+            }
+          },
+          {
+            "id": "stp_yamagata_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Dewa Sanzan Foothill Farm Visit",
+              "location": "Yamagata",
+              "tags": [
+                "farm",
+                "landscape",
+                "quiet",
+                "spring"
+              ]
+            }
+          },
+          {
+            "id": "stp_yamagata_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Homma Museum Garden Walk",
+              "location": "Yamagata",
+              "tags": [
+                "art",
+                "landscape",
+                "quiet",
+                "garden"
+              ]
+            }
+          },
+          {
+            "id": "stp_yamagata_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Mogami River Scenic Trail",
+              "location": "Yamagata",
+              "tags": [
+                "landscape",
+                "quiet",
+                "spring",
+                "walk"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "Tohoku",
+          "spring",
+          "research"
+        ],
+        "destination_ids": [
+          "dst_tohoku_01"
+        ],
+        "destination": "Tohoku",
+        "stop_tags": [
+          "agriculture",
+          "art",
+          "nature"
+        ],
+        "selected_stop_ids": [
+          "stp_sendai_01",
+          "stp_hiraizumi_02",
+          "stp_akita_03"
+        ],
+        "duration_days": 6,
+        "traveler_count": 2
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "Tohoku",
+              "spring",
+              "research"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dst_tohoku_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Tohoku",
+            "stop_tags": [
+              "agriculture",
+              "art",
+              "nature"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Tohoku",
+            "duration_days": 6,
+            "traveler_count": 2,
+            "selected_stop_ids": [
+              "stp_sendai_01",
+              "stp_hiraizumi_02",
+              "stp_akita_03"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": false,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dst_tohoku_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Tohoku Research Retreat",
+              "region": "Tohoku, Japan",
+              "tags": [
+                "spring",
+                "research",
+                "nature",
+                "art",
+                "agriculture"
+              ]
+            }
+          },
+          {
+            "id": "stp_sendai_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sendai Morning Market and Food Research Walk",
+              "location": "Sendai, Tohoku",
+              "tags": [
+                "agriculture",
+                "food",
+                "research",
+                "urban"
+              ]
+            }
+          },
+          {
+            "id": "stp_hiraizumi_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Hiraizumi Temple Gardens and Quiet Heritage Loop",
+              "location": "Hiraizumi, Tohoku",
+              "tags": [
+                "art",
+                "history",
+                "nature",
+                "walking"
+              ]
+            }
+          },
+          {
+            "id": "stp_akita_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Akita Rice Paddies Field Visit",
+              "location": "Akita, Tohoku",
+              "tags": [
+                "agriculture",
+                "research",
+                "nature",
+                "rural"
+              ]
+            }
+          },
+          {
+            "id": "stp_aomori_04",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Aomori Contemporary Art Museum Stop",
+              "location": "Aomori, Tohoku",
+              "tags": [
+                "art",
+                "museum",
+                "culture",
+                "indoor"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "location": "Research Notes",
+        "doc_type": "note",
+        "title": "Visual Aesthetics and Sensory Perception Ideas",
+        "concept_points": [
+          "how plating color shifts flavor expectations",
+          "contrast between matte and glossy surfaces",
+          "texture cues before tasting",
+          "museum-inspired composition in food presentation",
+          "ways visual rhythm affects perceived balance"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Research Notes",
+            "doc_type": "note"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Visual Aesthetics and Sensory Perception Ideas",
+            "location": "Research Notes",
+            "content_brief": "<authored from concept_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_sensory_01",
+            "type": "document",
+            "attributes": {
+              "title": "Fermentation Sensory Panel Notes",
+              "doc_type": "note",
+              "location": "Research Notes",
+              "content_brief": "Observations from recent tasting sessions with emphasis on aroma, texture, and visual presentation."
+            }
+          },
+          {
+            "id": "doc_lab_02",
+            "type": "document",
+            "attributes": {
+              "title": "Chromatography Cleanup Checklist",
+              "doc_type": "memo",
+              "location": "Lab Operations",
+              "content_brief": "Routine end-of-week instrument shutdown and cleanup steps."
+            }
+          },
+          {
+            "id": "doc_art_03",
+            "type": "document",
+            "attributes": {
+              "title": "Gallery Visit Reflections",
+              "doc_type": "note",
+              "location": "Research Notes",
+              "content_brief": "Short reflections on composition, repetition, and color from a recent exhibit."
+            }
+          },
+          {
+            "id": "doc_template_04",
+            "type": "document",
+            "attributes": {
+              "title": "Working Paper Outline Template",
+              "doc_type": "template",
+              "location": "Writing Templates",
+              "content_brief": "Basic structure for introduction, literature notes, methods, and discussion."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "field notebook and pen set",
+        "budget": 35,
+        "sort_by": "price_asc",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "field notebook and pen set",
+            "budget": 35,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_trailscribe_01",
+              "prod_rainmark_02",
+              "prod_ridgetrail_03",
+              "prod_labsketch_04",
+              "prod_dayhike_05"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_rainmark_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_trailscribe_01",
+            "type": "product",
+            "attributes": {
+              "name": "TrailScribe Field Notebook and Pen Set",
+              "price": 18.5,
+              "category": "field notebook and pen set",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_rainmark_02",
+            "type": "product",
+            "attributes": {
+              "name": "RainMark Weatherproof Field Notebook and Pen Set",
+              "price": 24.99,
+              "category": "field notebook and pen set",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_ridgetrail_03",
+            "type": "product",
+            "attributes": {
+              "name": "RidgeTrail All-Weather Field Notebook and Pen Set",
+              "price": 31,
+              "category": "field notebook and pen set",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_labsketch_04",
+            "type": "product",
+            "attributes": {
+              "name": "LabSketch Waterproof Field Notebook and Pen Set",
+              "price": 34.5,
+              "category": "field notebook and pen set",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_dayhike_05",
+            "type": "product",
+            "attributes": {
+              "name": "DayHike Pocket Field Notebook and Pen Set",
+              "price": 16.75,
+              "category": "field notebook and pen set",
+              "rating": 3.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "scheduling",
+      "reason_for_call": "Set a reminder",
+      "task_params": {
+        "calendar": "work",
+        "participants": [
+          "Maya Chen",
+          "Luis Romero",
+          "Priya Natarajan"
+        ],
+        "remind_at": "2025-03-31T08:15:00-05:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work",
+            "participants": [
+              "Maya Chen",
+              "Luis Romero",
+              "Priya Natarajan"
+            ]
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_team_01",
+            "remind_at": "2025-03-31T08:15:00-05:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_team_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Product Development Team Meeting",
+              "start_time": "2025-03-31T09:00:00-05:00",
+              "end_time": "2025-03-31T10:00:00-05:00",
+              "participants": [
+                "Nancy Marr",
+                "Maya Chen",
+                "Luis Romero",
+                "Priya Natarajan"
+              ],
+              "location": "Lab Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_qc_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "QC Sample Review",
+              "start_time": "2025-03-31T11:00:00-05:00",
+              "end_time": "2025-03-31T11:30:00-05:00",
+              "participants": [
+                "Nancy Marr",
+                "Ethan Cole"
+              ],
+              "location": "QA Bench 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_garden_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Garden Volunteer Shift",
+              "start_time": "2025-03-30T14:00:00-05:00",
+              "end_time": "2025-03-30T16:00:00-05:00",
+              "participants": [
+                "Nancy Marr"
+              ],
+              "location": "Powderhorn Community Garden",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_team_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Product Development Team Meeting",
+              "start_time": "2025-04-07T09:00:00-05:00",
+              "end_time": "2025-04-07T10:00:00-05:00",
+              "participants": [
+                "Nancy Marr",
+                "Maya Chen",
+                "Luis Romero",
+                "Priya Natarajan"
+              ],
+              "location": "Lab Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "Minneapolis",
+        "event_tags": [
+          "acoustic",
+          "folk"
+        ],
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Minneapolis",
+            "event_tags": [
+              "acoustic",
+              "folk"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_cedarroom_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_cedarroom_01",
+            "type": "event",
+            "attributes": {
+              "name": "Cedar Room Acoustic Evening",
+              "location": "Minneapolis",
+              "date_time": "2025-02-12T19:30:00-06:00",
+              "price": 28.0,
+              "event_tags": [
+                "acoustic",
+                "folk",
+                "seated"
+              ]
+            }
+          },
+          {
+            "id": "evt_northloop_02",
+            "type": "event",
+            "attributes": {
+              "name": "North Loop Indie Showcase",
+              "location": "Minneapolis",
+              "date_time": "2025-02-12T20:00:00-06:00",
+              "price": 35.0,
+              "event_tags": [
+                "indie",
+                "rock",
+                "standing"
+              ]
+            }
+          },
+          {
+            "id": "evt_riverfront_03",
+            "type": "event",
+            "attributes": {
+              "name": "Riverfront Jazz Trio",
+              "location": "Minneapolis",
+              "date_time": "2025-02-13T19:00:00-06:00",
+              "price": 32.0,
+              "event_tags": [
+                "jazz",
+                "instrumental",
+                "lounge"
+              ]
+            }
+          },
+          {
+            "id": "evt_stpaulhall_04",
+            "type": "event",
+            "attributes": {
+              "name": "St. Paul Songwriters Circle",
+              "location": "St. Paul",
+              "date_time": "2025-02-12T19:00:00-06:00",
+              "price": 24.0,
+              "event_tags": [
+                "acoustic",
+                "songwriter",
+                "folk"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox.",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Retail Roundup",
+        "name": "Newsletters"
+      },
+      "expected_tools": [
+        "list_message_folders",
+        "search_messages",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_message_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Retail Roundup"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_retail_01",
+              "msg_retail_02"
+            ],
+            "folder_id": "fld_newsletters_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_retail_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Retail Roundup",
+              "subject": "Weekend markdowns on kitchen storage",
+              "body": "Flash sale on pantry jars, drawer dividers, and countertop organizers. Ends Sunday.",
+              "thread_id": "thr_retail_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T18:12:00"
+            }
+          },
+          {
+            "id": "msg_retail_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Retail Roundup",
+              "subject": "Members-only coupon and bonus points",
+              "body": "Your weekly coupon pack is here, plus bonus loyalty points on home goods.",
+              "thread_id": "thr_retail_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:48:00"
+            }
+          },
+          {
+            "id": "msg_lab_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Food Safety Science Brief",
+              "subject": "New validation note on environmental monitoring",
+              "body": "This week’s science brief covers updated monitoring guidance and a short methods comparison.",
+              "thread_id": "thr_lab_01",
+              "folder": "inbox",
+              "labels": [
+                "Science"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:05:00"
+            }
+          },
+          {
+            "id": "msg_art_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Walker Art Center",
+              "subject": "Exhibition notes and artist talk recap",
+              "body": "A short roundup of current installations, upcoming talks, and related studio resources.",
+              "thread_id": "thr_art_01",
+              "folder": "inbox",
+              "labels": [
+                "Art"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T11:21:00"
+            }
+          },
+          {
+            "id": "fld_newsletters_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Newsletters",
+              "purpose": "Saved subscription emails and low-urgency mailing lists"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "travel",
+      "reason_for_call": "Book a flight.",
+      "task_params": {
+        "origin": "Minneapolis",
+        "destination": "Sendai",
+        "passenger_count": 1,
+        "departure_date": "2026-04-18",
+        "return_date": "2026-04-26",
+        "seat_preference": "aisle"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "Minneapolis",
+            "destination": "Sendai",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_sendai_02",
+            "seat_preference": "aisle"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_sendai_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Sendai",
+              "departure_date": "2026-04-18",
+              "return_date": "2026-04-26",
+              "airline": "Japan Airlines",
+              "price": 1485.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_sendai_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Sendai",
+              "departure_date": "2026-04-18",
+              "return_date": "2026-04-26",
+              "airline": "United",
+              "price": 1320.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_sendai_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Sendai",
+              "departure_date": "2026-04-19",
+              "return_date": "2026-04-27",
+              "airline": "Delta",
+              "price": 1198.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_sendai_04",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Chicago",
+              "destination": "Sendai",
+              "departure_date": "2026-04-18",
+              "return_date": "2026-04-26",
+              "airline": "ANA",
+              "price": 1402.0,
+              "available_seats": 5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "travel",
+      "reason_for_call": "Book a hotel.",
+      "task_params": {
+        "location": "Sendai",
+        "guest_count": 1,
+        "room_count": 1,
+        "check_in_date": "2025-04-14",
+        "check_out_date": "2025-04-18",
+        "sort_by": "price_asc"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Sendai",
+            "guest_count": 1,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_sendai_03"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_sendai_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Aoba Garden Hotel",
+              "location": "Sendai",
+              "check_in_date": "2025-04-14",
+              "check_out_date": "2025-04-18",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 138.0
+            }
+          },
+          {
+            "id": "hot_sendai_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Sendai Station Central Inn",
+              "location": "Sendai",
+              "check_in_date": "2025-04-14",
+              "check_out_date": "2025-04-18",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 112.0
+            }
+          },
+          {
+            "id": "hot_sendai_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Hirose River Residence",
+              "location": "Sendai",
+              "check_in_date": "2025-04-14",
+              "check_out_date": "2025-04-18",
+              "available_rooms": 4,
+              "max_guests_per_room": 1,
+              "price_per_night": 126.0
+            }
+          },
+          {
+            "id": "hot_sendai_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Miyagi Business Lodge",
+              "location": "Sendai",
+              "check_in_date": "2025-04-15",
+              "check_out_date": "2025-04-18",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 105.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s35",
+      "session_type": "learning",
+      "day_offset": 35,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Leah Chen",
+        "folder": "inbox",
+        "language": "en",
+        "body_points": [
+          "say it was nice hearing from her",
+          "mention her museum outings always sound inspiring",
+          "ask if she'd like to compare travel ideas",
+          "suggest doing it over tea sometime",
+          "keep the tone warm and friendly"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Leah Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_leah_01",
+            "language": "en",
+            "body": "<authored from body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_leah_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Leah Chen",
+              "subject": "A few exhibits you might love",
+              "body": "Hi Nancy — I thought of you at the museum this weekend and wanted to send over a few exhibit ideas. Also, if you're still daydreaming about future trips, I'd love to hear what places are on your list lately.",
+              "thread_id": "thr_leah_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-05T14:22:00"
+            }
+          },
+          {
+            "id": "msg_karen_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Karen Ortiz",
+              "subject": "Garden volunteer shift swap?",
+              "body": "Hey Nancy, any chance you could switch your community garden shift with me next Thursday?",
+              "thread_id": "thr_karen_01",
+              "folder": "inbox",
+              "labels": [
+                "volunteer"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-04T09:10:00"
+            }
+          },
+          {
+            "id": "msg_dan_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dan Marr",
+              "subject": "Need anything from the co-op?",
+              "body": "I'm stopping by the co-op after work. Want me to pick up anything for dinner or the garden?",
+              "thread_id": "thr_dan_01",
+              "folder": "inbox",
+              "labels": [
+                "family"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-05T16:40:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Minneapolis",
+        "sort_by": "rating",
+        "date_time": "2025-03-18T15:30:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Minneapolis",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_lindenhair_02",
+            "date_time": "2025-03-18T15:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_northloopcut_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "North Loop Cut Studio",
+              "service_type": "haircut",
+              "location": "Minneapolis",
+              "rating": 4.8,
+              "distance_km": 2.9
+            }
+          },
+          {
+            "id": "svc_lindenhair_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Linden Hair Workshop",
+              "service_type": "haircut",
+              "location": "Minneapolis",
+              "rating": 4.9,
+              "distance_km": 4.1
+            }
+          },
+          {
+            "id": "svc_riverstyle_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "River Style Salon",
+              "service_type": "haircut",
+              "location": "Minneapolis",
+              "rating": 4.6,
+              "distance_km": 1.8
+            }
+          },
+          {
+            "id": "svc_uptowntrim_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Uptown Trim House",
+              "service_type": "haircut",
+              "location": "Minneapolis",
+              "rating": 4.7,
+              "distance_km": 3.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s38",
+      "session_type": "learning",
+      "day_offset": 38,
+      "domain": "scheduling",
+      "reason_for_call": "Sort out some invitations",
+      "task_params": {
+        "calendar": "invites",
+        "accept_event_id": "evt_garden_volunteer_01",
+        "accept_response": "accept",
+        "decline_event_id": "evt_lab_mixer_02",
+        "decline_response": "decline"
+      },
+      "expected_tools": [
+        "list_events",
+        "respond_to_event_invite"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_garden_volunteer_01",
+            "response": "accept"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_lab_mixer_02",
+            "response": "decline"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_garden_volunteer_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community Garden Volunteer Morning",
+              "start_time": "2025-04-19T09:00:00-05:00",
+              "end_time": "2025-04-19T11:30:00-05:00",
+              "participants": [
+                "Powderhorn Community Garden",
+                "Nancy Marr"
+              ],
+              "location": "Powderhorn Community Garden",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_lab_mixer_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Food Science Lab Networking Mixer",
+              "start_time": "2025-04-19T19:00:00-05:00",
+              "end_time": "2025-04-19T21:00:00-05:00",
+              "participants": [
+                "Midwest Food Innovation Council",
+                "Nancy Marr"
+              ],
+              "location": "North Loop Event Hall",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_mia_talk_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Minneapolis Institute of Art Curator Talk",
+              "start_time": "2025-04-20T14:00:00-05:00",
+              "end_time": "2025-04-20T15:30:00-05:00",
+              "participants": [
+                "Minneapolis Institute of Art",
+                "Nancy Marr"
+              ],
+              "location": "Minneapolis Institute of Art",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_book_swap_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Neighborhood Cookbook Swap",
+              "start_time": "2025-04-21T18:30:00-05:00",
+              "end_time": "2025-04-21T20:00:00-05:00",
+              "participants": [
+                "Lyndale Community Center",
+                "Nancy Marr"
+              ],
+              "location": "Lyndale Community Center",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s41",
+      "session_type": "learning",
+      "day_offset": 41,
+      "domain": "travel",
+      "reason_for_call": "Book ground transportation",
+      "task_params": {
+        "origin": "Minneapolis",
+        "destination": "Duluth",
+        "passenger_count": 2,
+        "sort_by": "price_asc",
+        "departure_date": "2025-09-12",
+        "mode": "train"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Minneapolis",
+            "destination": "Duluth",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trn_northshore_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trn_northshore_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Duluth",
+              "mode": "train",
+              "departure_date": "2025-09-12",
+              "price": 68.0,
+              "available_seats": 14
+            }
+          },
+          {
+            "id": "bus_lakes_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Duluth",
+              "mode": "bus",
+              "departure_date": "2025-09-12",
+              "price": 42.0,
+              "available_seats": 19
+            }
+          },
+          {
+            "id": "trn_harbor_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Duluth",
+              "mode": "train",
+              "departure_date": "2025-09-13",
+              "price": 64.0,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "car_arrowhead_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Minneapolis",
+              "destination": "Duluth",
+              "mode": "car_transfer",
+              "departure_date": "2025-09-12",
+              "price": 185.0,
+              "available_seats": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "nancy_marr_s43",
+      "session_type": "learning",
+      "day_offset": 43,
+      "domain": "scheduling",
+      "reason_for_call": "Set up a reminder.",
+      "task_params": {
+        "title": "Meal Prep and Garden Plan",
+        "start_time": "2025-03-16T18:30:00-05:00",
+        "end_time": "2025-03-16T19:00:00-05:00",
+        "location": "Home"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-16T18:30:00-05:00",
+            "end_time": "2025-03-16T19:00:00-05:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Meal Prep and Garden Plan",
+            "start_time": "2025-03-16T18:30:00-05:00",
+            "end_time": "2025-03-16T19:00:00-05:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_taichi_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning Tai Chi",
+              "start_time": "2025-03-16T09:00:00-05:00",
+              "end_time": "2025-03-16T10:00:00-05:00",
+              "participants": [],
+              "location": "Twin Cities Yoga Collective",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Paul",
+              "start_time": "2025-03-16T19:30:00-05:00",
+              "end_time": "2025-03-16T20:30:00-05:00",
+              "participants": [
+                "Paul Marr"
+              ],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_garden_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Meal Prep and Garden Plan",
+              "start_time": "2025-03-16T18:30:00-05:00",
+              "end_time": "2025-03-16T19:00:00-05:00",
+              "participants": [],
+              "location": "Home",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_lab_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Sample Review Prep",
+              "start_time": "2025-03-17T08:30:00-05:00",
+              "end_time": "2025-03-17T09:15:00-05:00",
+              "participants": [
+                "QC Team"
+              ],
+              "location": "Food Lab 2",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one jar of honey for the kitchen, keep it under $10, and just pick one for me.",
+      "gold_value": "prod_prairie_table_honey_01",
+      "session_id": "nancy_marr_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "nancy_marr_commerce_01",
+      "rule_ref": {
+        "rule_id": "nancy_marr_commerce_01",
+        "rule_text": "For purchases connected to food, gardening, or household ingredients, Nancy prefers locally sourced or regenerative products when available.",
+        "canonical_answer": "I usually choose products with local or regenerative sourcing over generic alternatives."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_prairie_table_honey_01",
+            "type": "product",
+            "attributes": {
+              "name": "Prairie Table Wildflower Honey",
+              "price": 9.49,
+              "category": "honey",
+              "rating": 4.3,
+              "source_origin": "Minnesota apiaries",
+              "farming_practice": "regenerative forage plantings",
+              "size_oz": 12,
+              "review_count": 72
+            }
+          },
+          {
+            "id": "prod_everyday_clover_honey_01",
+            "type": "product",
+            "attributes": {
+              "name": "Everyday Clover Honey",
+              "price": 5.29,
+              "category": "honey",
+              "rating": 4.9,
+              "source_origin": "national commodity blend",
+              "farming_practice": "standard",
+              "size_oz": 12,
+              "review_count": 2480
+            }
+          },
+          {
+            "id": "prod_sunny_vale_honey_01",
+            "type": "product",
+            "attributes": {
+              "name": "Sunny Vale Orange Blossom Honey",
+              "price": 6.19,
+              "category": "honey",
+              "rating": 4.8,
+              "source_origin": "imported and domestic blend",
+              "farming_practice": "standard",
+              "size_oz": 12,
+              "review_count": 1330
+            }
+          },
+          {
+            "id": "prod_meadow_ridge_honey_01",
+            "type": "product",
+            "attributes": {
+              "name": "Meadow Ridge Wildflower Honey",
+              "price": 10.79,
+              "category": "honey",
+              "rating": 4.8,
+              "source_origin": "Minnesota apiaries",
+              "farming_practice": "regenerative forage plantings",
+              "size_oz": 12,
+              "review_count": 410
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_prairie_table_honey_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the table runner from my recent order—it just wasn't right for the dining room.",
+      "gold_value": "exchange",
+      "session_id": "nancy_marr_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "nancy_marr_commerce_03",
+      "rule_ref": {
+        "rule_id": "nancy_marr_commerce_03",
+        "rule_text": "If something she bought does not work out, Nancy prefers an exchange over a refund so the item can still be put to use.",
+        "canonical_answer": "If a purchase misses the mark, I usually prefer exchanging it rather than just asking for a refund."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_juniper_table_runner_01",
+            "type": "product",
+            "attributes": {
+              "name": "Juniper Linen Table Runner",
+              "price": 28.0,
+              "category": "home_decor",
+              "rating": 4.4,
+              "brand": "Juniper Home",
+              "order_id": "ord_5512_table",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-18"
+            }
+          },
+          {
+            "id": "prod_harbor_glass_carafe_01",
+            "type": "product",
+            "attributes": {
+              "name": "Harbor Glass Carafe",
+              "price": 24.0,
+              "category": "kitchen_dining",
+              "rating": 4.8,
+              "brand": "Harbor House",
+              "order_id": "ord_5487_carafe",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-16"
+            }
+          },
+          {
+            "id": "prod_willow_ceramic_planter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Willow Ceramic Planter",
+              "price": 34.0,
+              "category": "home_decor",
+              "rating": 4.9,
+              "brand": "Willow Lane",
+              "order_id": "ord_5461_planter",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-14"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Jordan Lee at Northshore Labs about the Harbor air-sensor pilot. Tell him we can send the revised sampling plan after he forwards the latest rooftop access notes and current equipment list, and ask him to include the monitor serial numbers too.",
+      "gold_value": null,
+      "session_id": "nancy_marr_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "nancy_marr_communication_01",
+      "rule_ref": {
+        "rule_id": "nancy_marr_communication_01",
+        "rule_text": "When writing messages that represent her work or projects, Nancy prefers to draft them first rather than send them immediately.",
+        "canonical_answer": "I like to draft important messages first so I can make sure they’re clear and well-phrased."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_jordan_harborpilot_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Lee <jordan.lee@northshorelabs.com>",
+              "subject": "Harbor air-sensor pilot follow-up",
+              "body": "Hi Nancy, thanks again for walking through the Harbor air-sensor pilot findings with us. We're assembling the next project packet and want to confirm whether your team can send the revised sampling plan. If you need anything from our side before the next field visit, let me know — I can forward the latest rooftop access notes and the current equipment list.",
+              "thread_id": "thr_jordan_harborpilot_12",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T10:14"
+            }
+          },
+          {
+            "id": "msg_elena_runoff_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Brooks <elena@civicwaters.org>",
+              "subject": "Riverview runoff study map revisions",
+              "body": "Could you look over the updated map legends before we circulate them to the planning group? I also added the drainage labels you mentioned.",
+              "thread_id": "thr_elena_runoff_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T09:02"
+            }
+          },
+          {
+            "id": "msg_april_timesheets_01",
+            "type": "message",
+            "attributes": {
+              "sender": "April Gomez <april.gomez@internal.local>",
+              "subject": "Timesheet reminder",
+              "body": "Please submit your April hours by end of day so payroll can close the month.",
+              "thread_id": "thr_april_timesheets_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-08T08:21"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in Downtown Seattle for two people on 2026-09-18 at 7:30pm; keep it around $$ and just choose a place for me.",
+      "gold_value": "rst_lantern_room_01",
+      "session_id": "nancy_marr_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "nancy_marr_reservation_01",
+      "rule_ref": {
+        "rule_id": "nancy_marr_reservation_01",
+        "rule_text": "When making restaurant reservations, Nancy prefers quiet, intimate places over loud or high-energy venues.",
+        "canonical_answer": "I’d rather book somewhere quiet and intimate than a bustling spot."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_lantern_room_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Lantern Room Bistro",
+              "cuisine": "French",
+              "location": "Downtown Seattle",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "small dining room with candlelit two-top tables and low music"
+            }
+          },
+          {
+            "id": "rst_skyline_social_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Skyline Social Kitchen",
+              "cuisine": "New American",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "open-plan rooftop room with communal tables and a busy bar"
+            }
+          },
+          {
+            "id": "rst_harbor_noodle_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harbor Noodle House",
+              "cuisine": "Japanese",
+              "location": "Downtown Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "compact room with close-set tables and upbeat music"
+            }
+          },
+          {
+            "id": "rst_willow_table_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Willow Table",
+              "cuisine": "Italian",
+              "location": "Downtown Seattle",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "quiet dining room with large communal farm tables"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_lantern_room_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Can you make a dinner reservation in Minneapolis for three people on 2026-09-18 at 7:00pm? Just pick a place and book it.",
+      "gold_value": "rst_hearthfield_01",
+      "session_id": "nancy_marr_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "nancy_marr_reservation_02",
+      "rule_ref": {
+        "rule_id": "nancy_marr_reservation_02",
+        "rule_text": "For dining out, Nancy tends to favor restaurants with seasonal, locally sourced menus over generic options.",
+        "canonical_answer": "I usually choose places that feel seasonal and locally rooted, especially if they highlight good ingredients."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_bellavista_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bella Vista Trattoria",
+              "cuisine": "Italian",
+              "location": "Downtown Minneapolis",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "brasserie",
+              "menu_style": "fixed menu year-round",
+              "ingredient_sourcing": "national distributors"
+            }
+          },
+          {
+            "id": "rst_rivermarket_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "River Market Kitchen",
+              "cuisine": "American",
+              "location": "North Loop, Minneapolis",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "casual dining",
+              "menu_style": "seasonal specials alongside a fixed core menu",
+              "ingredient_sourcing": "mixed national suppliers"
+            }
+          },
+          {
+            "id": "rst_milldistrict_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mill District Grill",
+              "cuisine": "New American",
+              "location": "Downtown Minneapolis",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "dining room",
+              "menu_style": "fixed menu year-round",
+              "ingredient_sourcing": "Minnesota farms when available"
+            }
+          },
+          {
+            "id": "rst_hearthfield_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Hearthfield Supper Club",
+              "cuisine": "New American",
+              "location": "Northeast Minneapolis",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "dining room",
+              "menu_style": "rotating seasonal menu",
+              "ingredient_sourcing": "locally sourced Minnesota produce and meats"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_hearthfield_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm in Minneapolis and want two tickets for a night out; keep it under $70 each and just pick something for me.",
+      "gold_value": "evt_cedar_room_songwriters_01",
+      "session_id": "nancy_marr_reservation_04_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "nancy_marr_reservation_04",
+      "rule_ref": {
+        "rule_id": "nancy_marr_reservation_04",
+        "rule_text": "When selecting events to attend, Nancy prefers intimate local arts or acoustic events over mass-market spectacles.",
+        "canonical_answer": "I’m much more likely to choose a small local art or acoustic event than a huge flashy production."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_cedar_room_songwriters_01",
+            "type": "event",
+            "attributes": {
+              "name": "Cedar Room Songwriters Circle",
+              "location": "Minneapolis",
+              "date_time": "2026-09-18T19:30:00",
+              "price": 39,
+              "event_tags": [
+                "acoustic",
+                "local_music",
+                "cafe_show"
+              ]
+            }
+          },
+          {
+            "id": "evt_target_center_pop_01",
+            "type": "event",
+            "attributes": {
+              "name": "Target Center Pop Galaxy Tour",
+              "location": "Minneapolis",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 69,
+              "event_tags": [
+                "arena_concert",
+                "touring_headliner",
+                "pyrotechnics"
+              ]
+            }
+          },
+          {
+            "id": "evt_immersive_masters_01",
+            "type": "event",
+            "attributes": {
+              "name": "Immersive Masters: Monet in Motion",
+              "location": "Minneapolis",
+              "date_time": "2026-09-18T18:30:00",
+              "price": 58,
+              "event_tags": [
+                "digital_exhibition",
+                "blockbuster_art",
+                "national_tour"
+              ]
+            }
+          },
+          {
+            "id": "evt_open_streets_art_01",
+            "type": "event",
+            "attributes": {
+              "name": "Open Streets Art Bash",
+              "location": "Minneapolis",
+              "date_time": "2026-09-18T19:00:00",
+              "price": 34,
+              "event_tags": [
+                "city_festival",
+                "street_performers",
+                "sponsored_event"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_cedar_room_songwriters_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a tai chi class in St. Paul for 2026-08-14 at 6:00pm — just choose a provider and handle it.",
+      "gold_value": "svc_taichi_west7th_01",
+      "session_id": "nancy_marr_reservation_05_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "nancy_marr_reservation_05",
+      "rule_ref": {
+        "rule_id": "nancy_marr_reservation_05",
+        "rule_text": "When booking a personal class or wellness appointment, Nancy prefers low-key local studios or craft-oriented providers over generic commercial services.",
+        "canonical_answer": "I usually book with local, community-feeling providers instead of big generic service chains."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_taichi_west7th_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "West Seventh Tai Chi Studio",
+              "service_type": "tai chi class",
+              "location": "St. Paul",
+              "rating": 4.4,
+              "distance_km": 4.6,
+              "ownership_type": "independent local studio",
+              "provider_style": "community studio",
+              "class_size": "small group",
+              "price_per_class": 35
+            }
+          },
+          {
+            "id": "svc_taichi_metrofit_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "MetroFit Mind-Body Center",
+              "service_type": "tai chi class",
+              "location": "Downtown St. Paul",
+              "rating": 4.9,
+              "distance_km": 0.4,
+              "ownership_type": "national chain",
+              "provider_style": "commercial wellness center",
+              "class_size": "large group",
+              "price_per_class": 22
+            }
+          },
+          {
+            "id": "svc_taichi_flowclub_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "FlowClub Wellness",
+              "service_type": "tai chi class",
+              "location": "Lowertown, St. Paul",
+              "rating": 4.8,
+              "distance_km": 0.9,
+              "ownership_type": "regional chain",
+              "provider_style": "franchise studio",
+              "class_size": "standard group",
+              "price_per_class": 24
+            }
+          },
+          {
+            "id": "svc_taichi_riverfront_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Riverfront Movement Center",
+              "service_type": "tai chi class",
+              "location": "St. Paul",
+              "rating": 4.7,
+              "distance_km": 1.2,
+              "ownership_type": "independent local business",
+              "provider_style": "multipurpose fitness club",
+              "class_size": "large group",
+              "price_per_class": 20
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_taichi_west7th_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book me a cryotherapy session in Fremont on 2026-09-18 at 5:30 pm. Use the saved phone number for the appointment.",
+      "gold_value": null,
+      "session_id": "nancy_marr_reservation_06_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "nancy_marr_reservation_06",
+      "rule_ref": {
+        "rule_id": "nancy_marr_reservation_06",
+        "rule_text": "If a service booking is for a fad-like wellness offering, the agent should check with Nancy before committing.",
+        "canonical_answer": "If it’s some trendy wellness thing rather than an established class or service, ask me first before booking it."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates",
+          "get_user_confirmation"
+        ],
+        "references": [
+          {
+            "id": "prov_corechill_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Core Chill Recovery",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.9,
+              "distance_km": 0.3
+            }
+          },
+          {
+            "id": "prov_northlakecryo_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Northlake Cryo Lab",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.8,
+              "distance_km": 0.6
+            }
+          },
+          {
+            "id": "prov_frostline_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Frostline Wellness Studio",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.7,
+              "distance_km": 1.1
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "get_user_confirmation",
+              "arguments": {
+                "target_tool": "book_service_appointment"
+              },
+              "compare_args": [
+                "target_tool"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "My Oakwell Vision Center follow-up is already on my calendar. Just keep tabs on it for me.",
+      "gold_value": null,
+      "session_id": "nancy_marr_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "nancy_marr_scheduling_01",
+      "rule_ref": {
+        "rule_id": "nancy_marr_scheduling_01",
+        "rule_text": "Because she sometimes forgets appointments, Nancy prefers reminders to be set for scheduled activities rather than relying on memory alone.",
+        "canonical_answer": "I like a reminder attached to appointments because I do sometimes forget them."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_oakwell_followup_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Oakwell Vision Center follow-up",
+              "start_time": "2026-09-18T10:30:00",
+              "end_time": "2026-09-18T11:00:00",
+              "participants": [],
+              "location": "Oakwell Vision Center",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_oakwell_frame_pickup_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Oakwell Vision Center frame pickup",
+              "start_time": "2026-09-25T15:00:00",
+              "end_time": "2026-09-25T15:20:00",
+              "participants": [],
+              "location": "Oakwell Vision Center",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_riverside_physical_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Riverside Wellness annual physical",
+              "start_time": "2026-09-11T08:00:00",
+              "end_time": "2026-09-11T09:00:00",
+              "participants": [],
+              "location": "Riverside Wellness Clinic",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Set a reminder for the tai chi class at Maple Grove Community Center on 2026-06-12 — I don't want to miss it.",
+      "gold_value": "weekly",
+      "session_id": "nancy_marr_scheduling_02_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "nancy_marr_scheduling_02",
+      "rule_ref": {
+        "rule_id": "nancy_marr_scheduling_02",
+        "rule_text": "For recurring classes or volunteer activities, Nancy prefers weekly reminders rather than one-off alerts.",
+        "canonical_answer": "For things I do regularly, a weekly reminder works better for me than a single reminder."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_tai_chi_mgc_20260612",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Morning Tai Chi Class",
+              "start_time": "2026-06-12T08:00:00",
+              "end_time": "2026-06-12T09:00:00",
+              "location": "Maple Grove Community Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_healthy_aging_lecture_20260612",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Healthy Aging Lecture",
+              "start_time": "2026-06-12T11:00:00",
+              "end_time": "2026-06-12T12:30:00",
+              "location": "Maple Grove Community Center, Hall A",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_june_book_club_20260614",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "June Book Club",
+              "start_time": "2026-06-14T19:00:00",
+              "end_time": "2026-06-14T20:30:00",
+              "location": "West Branch Library",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {
+                "cadence": "weekly"
+              },
+              "compare_args": [
+                "cadence"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered that 3–5pm River Pavilion Featured Local Voices panel invite. See whether it overlaps with anything else I've got at that time, and reply for me so they aren't left waiting.",
+      "gold_value": "tentative",
+      "session_id": "nancy_marr_scheduling_03_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "nancy_marr_scheduling_03",
+      "rule_ref": {
+        "rule_id": "nancy_marr_scheduling_03",
+        "rule_text": "When an invitation conflicts with unresolved plans, Nancy prefers replying tentatively instead of accepting or declining outright.",
+        "canonical_answer": "If I’m not sure yet, I usually respond as tentative instead of forcing an early yes or no."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_invite_featured_local_voices_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Featured Local Voices Panel",
+              "start_time": "2026-08-22T15:00:00",
+              "end_time": "2026-08-22T17:00:00",
+              "participants": [
+                "nancy.marr@example.com",
+                "programs@riverpavilion.org",
+                "speakers@cityvoices.org"
+              ],
+              "location": "River Pavilion",
+              "calendar": "invites",
+              "status": "confirmed",
+              "organizer": "City Voices Program Office",
+              "attendee_count": 140,
+              "rsvp_deadline": "2026-08-20T17:00:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_lena_catchup_hold_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lena catch-up — penciled in",
+              "start_time": "2026-08-22T14:30:00",
+              "end_time": "2026-08-22T16:30:00",
+              "participants": [
+                "nancy.marr@example.com",
+                "lena.orozco@example.com"
+              ],
+              "location": "Juniper Tea Room",
+              "calendar": "personal",
+              "status": "tentative",
+              "source": "text_message"
+            }
+          },
+          {
+            "id": "evt_dinner_eric_20260822",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Eric",
+              "start_time": "2026-08-22T19:00:00",
+              "end_time": "2026-08-22T20:30:00",
+              "participants": [
+                "nancy.marr@example.com",
+                "eric.hale@example.com"
+              ],
+              "location": "Harbor Kitchen",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please handle the booking for my short getaway to Quebec City, QC from Toronto, ON on 2026-10-09. It's just me, and I only need the outbound leg.",
+      "gold_value": null,
+      "session_id": "nancy_marr_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "nancy_marr_travel_02",
+      "rule_ref": {
+        "rule_id": "nancy_marr_travel_02",
+        "rule_text": "For regional leisure trips, Nancy tends to choose ground transportation instead of flying.",
+        "canonical_answer": "For trips like my autumn getaways, I usually prefer to go by road or rail rather than book a flight."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_tor_que_20261009_ac_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Toronto, ON",
+              "destination": "Quebec City, QC",
+              "departure_date": "2026-10-09",
+              "airline": "Air Canada",
+              "price": 119,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_tor_que_20261009_pd_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Toronto, ON",
+              "destination": "Quebec City, QC",
+              "departure_date": "2026-10-09",
+              "airline": "Porter Airlines",
+              "price": 128,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_tor_que_20261009_ws_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Toronto, ON",
+              "destination": "Quebec City, QC",
+              "departure_date": "2026-10-09",
+              "airline": "WestJet",
+              "price": 141,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "trp_tor_que_20261009_train_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Toronto, ON",
+              "destination": "Quebec City, QC",
+              "mode": "train",
+              "departure_date": "2026-10-09",
+              "price": 214,
+              "available_seats": 18
+            }
+          },
+          {
+            "id": "trp_tor_que_20261009_bus_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Toronto, ON",
+              "destination": "Quebec City, QC",
+              "mode": "bus",
+              "departure_date": "2026-10-09",
+              "price": 196,
+              "available_seats": 12
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm starting from scratch on a first-time 3-day solo trip in Duluth. From the candidate stops below, choose exactly one stop to use as the single anchor for the itinerary. For this step, only select that one anchor stop and do not add any other stops yet.",
+      "gold_value": [
+        "stop_duluth_lakewalk_market_01"
+      ],
+      "session_id": "nancy_marr_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "nancy_marr_travel_04",
+      "rule_ref": {
+        "rule_id": "nancy_marr_travel_04",
+        "rule_text": "When choosing stops for a new trip, Nancy favors places centered on nature and local food culture over generic tourist attractions.",
+        "canonical_answer": "I like trip stops that immerse me in landscapes, markets, and local food rather than standard tourist checklists."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_duluth_lakewalk_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Lakewalk Harbor Market Loop",
+              "stop_type": "waterfront_market_district",
+              "location": "Duluth, Minnesota",
+              "tags": [
+                "lakefront",
+                "nature",
+                "boardwalk",
+                "harbor",
+                "local_food",
+                "farmers_market",
+                "regional_food"
+              ],
+              "rating": 4.6,
+              "review_count": 418
+            }
+          },
+          {
+            "id": "stop_duluth_aerial_lift_bridge_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Aerial Lift Bridge",
+              "stop_type": "landmark",
+              "location": "Duluth, Minnesota",
+              "tags": [
+                "bridge",
+                "landmark",
+                "harbor",
+                "photo_spot",
+                "iconic"
+              ],
+              "rating": 4.9,
+              "review_count": 8421
+            }
+          },
+          {
+            "id": "stop_duluth_glensheen_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Glensheen Mansion",
+              "stop_type": "historic_estate",
+              "location": "Duluth, Minnesota",
+              "tags": [
+                "mansion",
+                "historic_estate",
+                "guided_tour",
+                "lakeside",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 6710
+            }
+          },
+          {
+            "id": "stop_duluth_enger_tower_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Enger Tower & Gardens",
+              "stop_type": "park",
+              "location": "Duluth, Minnesota",
+              "tags": [
+                "park",
+                "gardens",
+                "viewpoint",
+                "nature",
+                "skyline_view"
+              ],
+              "rating": 4.8,
+              "review_count": 3914
+            }
+          },
+          {
+            "id": "stop_duluth_lincoln_park_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Lincoln Park Craft District",
+              "stop_type": "food_district",
+              "location": "Duluth, Minnesota",
+              "tags": [
+                "local_food",
+                "brewery",
+                "cider_house",
+                "shops",
+                "district"
+              ],
+              "rating": 4.7,
+              "review_count": 2546
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_duluth_lakewalk_market_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "A stop on trip T-7314 fell through. Please swap in one replacement for a daytime visit in the Oak Creek area that fits in about 1–2 hours and does not add a big detour to the current route.",
+      "gold_value": [
+        "stop_sedona_bubbling_ponds_01"
+      ],
+      "session_id": "nancy_marr_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "nancy_marr_travel_05",
+      "rule_ref": {
+        "rule_id": "nancy_marr_travel_05",
+        "rule_text": "If part of a trip falls through, Nancy prefers replacement stops that preserve the original nature-or-culture theme of the trip.",
+        "canonical_answer": "When a stop changes, I want the substitute to keep the same feel as the original trip rather than just fill the gap."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_sedona_west_fork_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "West Fork Trail",
+              "location": "Sedona, Arizona",
+              "tags": [
+                "nature",
+                "canyon",
+                "forest",
+                "hike",
+                "daytime"
+              ],
+              "trip_id": "T-7314",
+              "itinerary_status": "scheduled",
+              "visit_duration_hours": 3.0,
+              "detour_minutes_from_current_route": 26
+            }
+          },
+          {
+            "id": "stop_sedona_crescent_moon_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Crescent Moon Ranch",
+              "location": "Oak Creek, Sedona, Arizona",
+              "tags": [
+                "nature",
+                "creek",
+                "red_rocks",
+                "scenic",
+                "daytime"
+              ],
+              "trip_id": "T-7314",
+              "itinerary_status": "scheduled",
+              "visit_duration_hours": 2.5,
+              "detour_minutes_from_current_route": 22
+            }
+          },
+          {
+            "id": "stop_sedona_red_rock_garden_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Red Rock Pollinator Garden",
+              "location": "Oak Creek, Sedona, Arizona",
+              "tags": [
+                "nature",
+                "garden",
+                "wildlife",
+                "daytime"
+              ],
+              "trip_id": "T-7314",
+              "itinerary_status": "disrupted",
+              "availability_status": "closed_for_repairs",
+              "visit_duration_hours": 1.5,
+              "detour_minutes_from_current_route": 10
+            }
+          },
+          {
+            "id": "stop_sedona_bubbling_ponds_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Bubbling Ponds Preserve",
+              "location": "Sedona, Arizona",
+              "tags": [
+                "nature",
+                "wetlands",
+                "birdwatching",
+                "daytime"
+              ],
+              "rating": 4.4,
+              "review_count": 186,
+              "visit_duration_hours": 1.5,
+              "detour_minutes_from_current_route": 12
+            }
+          },
+          {
+            "id": "stop_sedona_fay_canyon_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Fay Canyon Trail",
+              "location": "Sedona, Arizona",
+              "tags": [
+                "nature",
+                "red_rocks",
+                "hike",
+                "daytime"
+              ],
+              "rating": 4.9,
+              "review_count": 2410,
+              "visit_duration_hours": 2.8,
+              "detour_minutes_from_current_route": 34
+            }
+          },
+          {
+            "id": "stop_sedona_arts_center_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sedona Arts Center",
+              "location": "Oak Creek, Sedona, Arizona",
+              "tags": [
+                "art",
+                "gallery",
+                "local_crafts",
+                "daytime"
+              ],
+              "rating": 4.9,
+              "review_count": 3912,
+              "visit_duration_hours": 1.5,
+              "detour_minutes_from_current_route": 6
+            }
+          },
+          {
+            "id": "stop_sedona_heritage_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sedona Heritage Museum",
+              "location": "Oak Creek, Sedona, Arizona",
+              "tags": [
+                "history",
+                "culture",
+                "museum",
+                "daytime"
+              ],
+              "rating": 4.8,
+              "review_count": 1674,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 8
+            }
+          },
+          {
+            "id": "stop_sedona_creekside_sculpture_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Creekside Sculpture Walk",
+              "location": "Oak Creek, Sedona, Arizona",
+              "tags": [
+                "art",
+                "outdoor",
+                "sculpture",
+                "daytime"
+              ],
+              "rating": 4.7,
+              "review_count": 1288,
+              "visit_duration_hours": 1.0,
+              "detour_minutes_from_current_route": 4
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_sedona_bubbling_ponds_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.8571428571428571,
+    "actual_signal_overlap_rules": [
+      "nancy_marr_commerce_01",
+      "nancy_marr_communication_01",
+      "nancy_marr_reservation_01",
+      "nancy_marr_reservation_02",
+      "nancy_marr_reservation_04",
+      "nancy_marr_reservation_05",
+      "nancy_marr_reservation_06",
+      "nancy_marr_scheduling_01",
+      "nancy_marr_scheduling_02",
+      "nancy_marr_scheduling_03",
+      "nancy_marr_travel_02",
+      "nancy_marr_travel_04"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.8571428571428571,
+    "teachable_rule_count": 12,
+    "zero_signal_rule_count": 2,
+    "signal_pool_size_dedup": 21,
+    "noise_pool_size": 22,
+    "K": 28,
+    "seed": 0,
+    "selected_rules": [
+      "nancy_marr_commerce_01",
+      "nancy_marr_communication_01",
+      "nancy_marr_reservation_01",
+      "nancy_marr_reservation_02",
+      "nancy_marr_reservation_04",
+      "nancy_marr_reservation_05",
+      "nancy_marr_reservation_06",
+      "nancy_marr_scheduling_01",
+      "nancy_marr_scheduling_02",
+      "nancy_marr_scheduling_03",
+      "nancy_marr_travel_02",
+      "nancy_marr_travel_04"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "nancy_marr_commerce_01",
+      "nancy_marr_commerce_03",
+      "nancy_marr_communication_01",
+      "nancy_marr_reservation_01",
+      "nancy_marr_reservation_02",
+      "nancy_marr_reservation_04",
+      "nancy_marr_reservation_05",
+      "nancy_marr_reservation_06",
+      "nancy_marr_scheduling_01",
+      "nancy_marr_scheduling_02",
+      "nancy_marr_scheduling_03",
+      "nancy_marr_travel_02",
+      "nancy_marr_travel_04",
+      "nancy_marr_travel_05"
+    ],
+    "signal_count": 21,
+    "noise_count": 7,
+    "trajectory_length": 28
+  }
+}

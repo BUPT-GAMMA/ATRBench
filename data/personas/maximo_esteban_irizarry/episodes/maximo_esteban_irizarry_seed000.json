@@ -1,0 +1,3966 @@
+{
+  "episode_id": "maximo_esteban_irizarry_seed000",
+  "persona_id": "maximo_esteban_irizarry",
+  "raw_persona": {
+    "persona_id": "maximo_esteban_irizarry",
+    "nemotron_uuid": "b307ffa01304476a81c3422caa806a8f",
+    "narrative": "name: Maximo Esteban Irizarry\nage: 67\nsex: Male\nmarital_status: married_present\neducation_level: high_school\noccupation: software_developer\nhobbies_and_interests: Hiking, Photography, Acrylic painting, Acoustic guitar, Cooking Puerto Rican cuisine, Reading magical‑realist literature, Journaling, Volunteer coding workshops, Small art‑tech meet‑ups\nskills_and_expertise: Python, PHP, JavaScript, React, HTML5/CSS3, Node.js, MySQL, PostgreSQL, Git, Docker, GitHub Actions, Agile/Scrum, UI/UX design, Accessibility (WCAG), Data visualisation, Mentoring, Community teaching\ncomplementary_info: Maximo Esteban Irizarry was born and raised in Orocovis and is deeply shaped by jíbaro culture, with family roots in small coffee and tropical fruit plots and a life attuned to seasonal rhythms. Spanish is his first language, and he is conversational in English. Catholic traditions remain part of family gatherings, especially during fiestas patronales, with bomba and plena music, dance, and communal meals. He takes early-morning hikes on Orocovis mountain trails, often with the local Orocovis Hiking Club, and accommodates arthritis with low-impact strength routines; he also sometimes plays casual basketball at the community gym and follows the Vaqueros baseball team. His photography centers on sunrise vistas and black-and-white prints, and his painting often depicts rural landscapes and jíbaro scenes. He plays boleros and nueva canción on acoustic guitar, occasionally joining small jam sessions at the community centre, and he attends local gallery openings. He reads authors such as Laura Esquivel and Quiñones, keeps a reflective journal to manage anxiety and emotional reactivity, and records recipes in a well-worn scrapbook while cooking dishes like arroz con gandules, pasteles, and lechón with occasional modern variations. After more than forty years in software work, he is moving toward part-time community-centered consultancy for small Orocovis businesses, emphasizing low-bandwidth, low-maintenance, culturally resonant websites, while also pursuing a long-term plan to build a digital archive of Puerto Rican folk stories, music, and visual art and eventually a modest local tech hub for small-group mentoring. His travel pattern favors quiet, culturally rich places such as Cartagena, Oaxaca, and the Azores, usually planned around modest savings, off-season timing, and sometimes staying with family in nearby coastal villages.",
+    "general_domain": "software_developer",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Maximo Esteban Irizarry",
+    "demographics": {
+      "age": 67,
+      "sex": "Male",
+      "marital_status": "married_present",
+      "education_level": "high_school",
+      "occupation": "software_developer",
+      "city": "Orocovis",
+      "state": "PR",
+      "zipcode": "720",
+      "country": "USA"
+    },
+    "persona_summary": "Maximo Irizarry, a 67‑year‑old tech mentor with a quiet demeanor, merges mountain hikes, vintage photography, and soulful guitar strums into a life that balances meticulous coding with spontaneous artistic bursts, all while wrestling with bouts of anxiety that sometimes derail their disciplined routines.",
+    "professional_persona": "Maximo Irizarry, a seasoned full‑stack software developer with over forty years of experience, blends Python, PHP, and React expertise with a deep love of art to craft low‑bandwidth, accessible web solutions for small Orocovis businesses, while mentoring junior coders and guiding a part‑time consultancy that envisions a digital archive of folk stories; they balance meticulous Agile practices with a flexible, community‑first mindset.",
+    "sports_persona": "Maximo Irizarry, an early‑morning hiker who frequents the Orocovis mountain trails with the local Orocovis Hiking Club, also enjoys occasional casual basketball games with friends at the community gym and cheers for the regional Vaqueros baseball team, balancing solitary cardio with low‑impact strength routines that accommodate their arthritis.",
+    "arts_persona": "Maximo Irizarry, an avid black‑and‑white photographer and acrylic painter of rural landscapes, finds inspiration in boleros by Silvio Rodríguez and the lyrical verses of magical‑realist authors like Laura Esquivel, while they occasionally join intimate acoustic jam sessions at the community centre and attend local gallery openings featuring artists such as José Campeche.",
+    "travel_persona": "Maximo Irizarry, a deliberate traveler who prefers tranquil, culturally‑rich destinations, has explored the historic streets of Cartagena, the artisanal markets of Oaxaca, and the volcanic scenery of the Azores, while they plan each trip around modest savings, opting for off‑season travel and staying with family in nearby coastal villages when budgets tighten.",
+    "culinary_persona": "Maximo Irizarry, a proficient home chef, delights in preparing traditional dishes like arroz con gandules, pasteles, and lechón de cerdo, often adding modern twists such as quinoa‑infused rice or citrus‑marinated pork, and they relish seasoning with sofrito, cilantro, and adobo while documenting recipes in a well‑worn scrapbook.",
+    "cultural_background": "Born and raised in Orocovis, the mountainous heart of Puerto Rico, Maximo’s identity is steeped in jíbaro culture—a blend of Spanish colonial, African, and indigenous Taino influences. His family has long cultivated coffee and tropical fruits on small plots, fostering a deep respect for the land and seasonal rhythms. Spanish is his first language, and he is conversational in English, a skill sharpened by his tech career. Catholic traditions shape family gatherings, especially during fiestas patronales, where bomba and plena music, traditional dance, and communal meals reinforce communal bonds. Maximo participates in local festivals that celebrate folk art, storytelling, and the island’s natural beauty, preserving these customs through his digital projects. The close‑knit community of Villalba Municipio and the broader Puerto Rican diaspora inform his values of humility, cooperation, and cultural pride.",
+    "skills_and_expertise": "Maximo Esteban Irizarry is a seasoned software developer with more than four decades of practical experience. His core technical expertise lies in full‑stack web development, where he builds back‑end services with Python and PHP and front‑end interfaces using JavaScript, React, and HTML5/CSS3. He is proficient with relational databases such as MySQL and PostgreSQL and applies advanced query optimisation to support low‑bandwidth rural connections. Maximo follows modern version‑control practices with Git and implements continuous integration pipelines using Docker and GitHub Actions. His familiarity with Agile and Scrum methods reflects his balanced approach to organization and flexibility. A lifelong curiosity about art and unconventional ideas has led him to integrate UI/UX design principles, accessibility standards (WCAG), and interactive data visualisations into his projects, creating empathetic digital experiences. He also mentors junior developers and leads community coding workshops, emphasising clear documentation and collaborative problem solving.",
+    "skills_and_expertise_list": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "React",
+      "HTML5/CSS3",
+      "Node.js",
+      "MySQL",
+      "PostgreSQL",
+      "Git",
+      "Docker",
+      "GitHub Actions",
+      "Agile/Scrum",
+      "UI/UX design",
+      "Accessibility (WCAG)",
+      "Data visualisation",
+      "Mentoring",
+      "Community teaching"
+    ],
+    "hobbies_and_interests": "Maximo finds solace in solitary and small‑group activities that blend his love of nature, art, and culture. He enjoys early‑morning hikes along the Orocovis mountain trails, often capturing sunrise vistas with his DSLR camera and later creating black‑and‑white prints. Acrylic painting of rural landscapes and traditional jíbaro scenes allows him to express his artistic curiosity. He plays acoustic guitar, favouring boleros and nueva canción, and occasionally joins intimate jam sessions at the local community centre. Cooking classic Puerto Rican dishes such as arroz con gandules, pasteles, and lechón de cerdo connects him to family traditions, and he experiments with modern twists. He reads magical‑realist literature by authors like Esquivel and Quiñones, and he maintains a reflective journal to manage his emotional reactivity. Volunteering to teach basic coding to youths and organizing small art‑tech meet‑ups satisfy his cooperative nature while keeping his social circles manageable.",
+    "hobbies_and_interests_list": [
+      "Hiking",
+      "Photography",
+      "Acrylic painting",
+      "Acoustic guitar",
+      "Cooking Puerto Rican cuisine",
+      "Reading magical‑realist literature",
+      "Journaling",
+      "Volunteer coding workshops",
+      "Small art‑tech meet‑ups"
+    ],
+    "career_goals_and_ambitions": "Approaching retirement, Maximo aims to shift his professional focus toward mentorship and community impact while preserving his own well‑being. He plans to formalise a part‑time consultancy that assists small local businesses in Orocovis to modernise their online presence, ensuring solutions are low‑maintenance and culturally resonant. A central ambition is to develop a digital platform that archives Puerto Rican folk stories, music, and visual art, allowing younger generations to explore their heritage through interactive media. He also hopes to contribute to open‑source projects that improve accessibility for low‑bandwidth environments. By establishing a modest tech hub in his hometown, Maximo wishes to guide aspiring developers, fostering collaborative learning in small, supportive groups that align with his preference for intimacy and harmony. Financial stability for his family and a sustainable work rhythm that mitigates anxiety are key drivers of his career roadmap."
+  },
+  "rules": [
+    {
+      "rule_text": "When shopping for food or cooking supplies, he prefers products suited to traditional Puerto Rican cooking over generic alternatives.",
+      "canonical_answer": "For cooking, I choose ingredients that fit Puerto Rican dishes and flavors.",
+      "counterfactual_default": "Pick generic or broadly popular products without regard to Puerto Rican cooking traditions.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "preparing traditional dishes like arroz con gandules, pasteles, and lechón de cerdo"
+        },
+        {
+          "type": "direct",
+          "content": "relish seasoning with sofrito, cilantro, and adobo"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "maximo_esteban_irizarry_commerce_01"
+    },
+    {
+      "rule_text": "When returning a purchased item that did not work out, he prefers an exchange over a refund so he can still get the right version.",
+      "canonical_answer": "If something misses the mark, I usually want an exchange rather than just a refund.",
+      "counterfactual_default": "Request a refund and end the purchase altogether.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "preparing traditional dishes like arroz con gandules, pasteles, and lechón de cerdo, often adding modern twists"
+        },
+        {
+          "type": "inferred",
+          "content": "His maker mentality and iterative habits suggest replacing an imperfect item with a better-fit version rather than abandoning the purchase."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "maximo_esteban_irizarry_commerce_03"
+    },
+    {
+      "rule_text": "When he wants to contact someone about work, community projects, or plans, he prefers the message to be drafted for review instead of being sent immediately.",
+      "canonical_answer": "I like messages drafted first so I can review the tone before anything gets sent.",
+      "counterfactual_default": "Send the message directly once the requested content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "maintains a reflective journal to manage his emotional reactivity"
+        },
+        {
+          "type": "direct",
+          "content": "a quiet demeanor"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "maximo_esteban_irizarry_communication_01"
+    },
+    {
+      "rule_text": "When dining out or meeting socially, he prefers reservations at culturally rooted local places over generic mainstream options.",
+      "canonical_answer": "For meals out, I prefer local places with cultural character over generic spots.",
+      "counterfactual_default": "Choose a convenient or widely rated restaurant without prioritizing local cultural character.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers tranquil, culturally-rich destinations"
+        },
+        {
+          "type": "direct",
+          "content": "culturally resonant"
+        },
+        {
+          "type": "direct",
+          "content": "Cultural pride"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "maximo_esteban_irizarry_reservation_01"
+    },
+    {
+      "rule_text": "When booking local service appointments, he prefers familiar, community-oriented providers over anonymous chain-style options.",
+      "canonical_answer": "For local appointments, I prefer someone rooted in the community over a generic chain provider.",
+      "counterfactual_default": "Choose the most available or most broadly rated provider regardless of community connection.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "small local businesses in Orocovis"
+        },
+        {
+          "type": "direct",
+          "content": "community-first mindset"
+        },
+        {
+          "type": "direct",
+          "content": "The close-knit community of Villalba Municipio and the broader Puerto Rican diaspora inform his values of humility, cooperation, and cultural pride."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "maximo_esteban_irizarry_reservation_03"
+    },
+    {
+      "rule_text": "When an invitation overlaps with something unresolved or potentially tiring, he prefers to respond tentatively rather than accepting or declining right away.",
+      "canonical_answer": "If an invite conflicts with my energy or plans, I usually answer tentatively first.",
+      "counterfactual_default": "Accept or decline the invitation outright based on the current best guess.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "keeping his social circles manageable"
+        },
+        {
+          "type": "direct",
+          "content": "a flexible, community-first mindset"
+        },
+        {
+          "type": "direct",
+          "content": "bouts of anxiety that sometimes derail their disciplined routines"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "maximo_esteban_irizarry_scheduling_03"
+    },
+    {
+      "rule_text": "When a booked trip is disrupted, he prefers replacing failed stops with alternatives in the same cultural or nature theme rather than swapping the whole trip.",
+      "canonical_answer": "If part of a trip falls through, I prefer a like-for-like replacement that keeps the trip's original character.",
+      "counterfactual_default": "Replace the full itinerary or choose any convenient substitute regardless of theme.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers tranquil, culturally-rich destinations"
+        },
+        {
+          "type": "direct",
+          "content": "volcanic scenery of the Azores"
+        },
+        {
+          "type": "direct",
+          "content": "historic streets of Cartagena"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "maximo_esteban_irizarry_travel_03"
+    },
+    {
+      "rule_text": "For long-distance travel, he prefers ground transport over flights when that option fits the trip.",
+      "canonical_answer": "When I can, I prefer going by ground rather than flying.",
+      "counterfactual_default": "Look for and book flights first for long-distance travel.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "prefers tranquil, culturally-rich destinations"
+        },
+        {
+          "type": "inferred",
+          "content": "A deliberate traveler focused on modest savings and calmer travel would often favor the slower, less hectic option over flying."
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "maximo_esteban_irizarry_travel_05"
+    },
+    {
+      "rule_text": "When a flight must be booked, he prefers a window seat for the calmer view and quieter experience.",
+      "canonical_answer": "If I have to fly, I prefer a window seat.",
+      "counterfactual_default": "Choose an aisle seat for convenience getting up and down.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "quiet demeanor"
+        },
+        {
+          "type": "direct",
+          "content": "often capturing sunrise vistas with his DSLR camera"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "maximo_esteban_irizarry_travel_06"
+    },
+    {
+      "rule_text": "When booking lodging, he prefers offers that match modest, budget-conscious stays over upscale accommodations.",
+      "canonical_answer": "I book modest places that fit the budget instead of paying for upscale lodging.",
+      "counterfactual_default": "Choose the most comfortable or premium hotel offer within reach.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "plan each trip around modest savings"
+        },
+        {
+          "type": "direct",
+          "content": "staying with family in nearby coastal villages when budgets tighten"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "maximo_esteban_irizarry_travel_07"
+    },
+    {
+      "rule_text": "When he is keeping up an existing checklist or workshop log, he prefers recording the next action rather than just changing the status.",
+      "canonical_answer": "On an existing tracker, I like to record the next action so the follow-up stays concrete.",
+      "counterfactual_default": "Simply update the status field and leave the next step unspecified.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "emphasising clear documentation and collaborative problem solving"
+        },
+        {
+          "type": "direct",
+          "content": "mentors junior developers"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "update_tracker",
+        "param": "update_action"
+      },
+      "rule_id": "maximo_esteban_irizarry_workspace_04"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "maximo_esteban_irizarry_s01",
+      "session_type": "learning",
+      "day_offset": 1,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a meeting.",
+      "task_params": {
+        "calendar": "work",
+        "participants": [
+          "elena.rosario@coastalcode.dev"
+        ],
+        "title": "Accessibility backlog review",
+        "start_time": "2025-02-12T10:00:00-04:00",
+        "end_time": "2025-02-12T10:45:00-04:00",
+        "location": "Reading Room"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-02-12T10:00:00-04:00",
+            "end_time": "2025-02-12T10:45:00-04:00",
+            "participants": [
+              "elena.rosario@coastalcode.dev"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Accessibility backlog review",
+            "start_time": "2025-02-12T10:00:00-04:00",
+            "end_time": "2025-02-12T10:45:00-04:00",
+            "participants": [
+              "elena.rosario@coastalcode.dev"
+            ],
+            "location": "Reading Room"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_consult_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Consultancy call with Panadería Cumbre",
+              "start_time": "2025-02-12T13:00:00-04:00",
+              "end_time": "2025-02-12T14:00:00-04:00",
+              "participants": [
+                "owner@panaderiacumbre.com"
+              ],
+              "location": "Video call",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_consult_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Consultancy call with Archivo del Barrio",
+              "start_time": "2025-02-12T17:00:00-04:00",
+              "end_time": "2025-02-12T18:00:00-04:00",
+              "participants": [
+                "coord@archivodelbarrio.org"
+              ],
+              "location": "Video call",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_standup_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Accessibility backlog review",
+              "start_time": "2025-02-12T10:00:00-04:00",
+              "end_time": "2025-02-12T10:45:00-04:00",
+              "participants": [
+                "team@lowbandwidthlab.dev"
+              ],
+              "location": "Workshop Office",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Evening walk",
+              "start_time": "2025-02-12T19:00:00-04:00",
+              "end_time": "2025-02-12T19:45:00-04:00",
+              "participants": [],
+              "location": "Orocovis plaza",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "memory card reader",
+        "budget": 25,
+        "product_ids": [
+          "prod_reader_01",
+          "prod_reader_02",
+          "prod_reader_03"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "memory card reader",
+            "budget": 25,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_reader_01",
+              "prod_reader_02",
+              "prod_reader_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_reader_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_reader_01",
+            "type": "product",
+            "attributes": {
+              "name": "Pocket SD & microSD USB Reader",
+              "price": 12.99,
+              "category": "memory card reader",
+              "rating": 4.2
+            }
+          },
+          {
+            "id": "prod_reader_02",
+            "type": "product",
+            "attributes": {
+              "name": "Slim Dual-Slot Memory Card Reader",
+              "price": 18.5,
+              "category": "memory card reader",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_reader_03",
+            "type": "product",
+            "attributes": {
+              "name": "Compact USB-C Memory Card Reader",
+              "price": 22.0,
+              "category": "memory card reader",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_adapter_04",
+            "type": "product",
+            "attributes": {
+              "name": "Mini USB Flash Drive Adapter",
+              "price": 9.49,
+              "category": "usb adapter",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Ana Morales",
+        "folder": "inbox",
+        "priority": "high",
+        "reply_points": [
+          "Thank her for reaching out and for trusting me",
+          "Acknowledge the mobile site feels slow for customers",
+          "Say I can help review performance and accessibility",
+          "Ask for the website link and any hosting details",
+          "Suggest a short call next week to discuss fixes",
+          "Keep the tone warm and encouraging"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Ana Morales",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_ana_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_ana_01",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_ana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Ana Morales",
+              "subject": "Could you help with my shop website?",
+              "body": "Hi Maximo, a few customers told me my shop website is very slow on their phones. I remember you mentioned helping small businesses with websites. Would you be open to taking a look and telling me what might be wrong?",
+              "thread_id": "thr_ana_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-18T09:42:00"
+            }
+          },
+          {
+            "id": "msg_luis_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Luis Rivera",
+              "subject": "Photos from the workshop",
+              "body": "Sharing the photos from Saturday's coding workshop when you have a moment.",
+              "thread_id": "thr_luis_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-18T08:15:00"
+            }
+          },
+          {
+            "id": "msg_carmen_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Carmen Ortiz",
+              "subject": "Re: community center poster",
+              "body": "Thanks again for the edits. The final poster is attached.",
+              "thread_id": "thr_carmen_01",
+              "folder": "sent",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-17T16:30:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s06",
+      "session_type": "learning",
+      "day_offset": 6,
+      "domain": "reservation",
+      "reason_for_call": "Book a lunch reservation.",
+      "task_params": {
+        "location": "Orocovis",
+        "cuisine": "Puerto Rican",
+        "date_time": "2025-02-20T12:30:00-04:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Orocovis",
+            "cuisine": "Puerto Rican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_casa_loma_01",
+            "date_time": "2025-02-20T12:30:00-04:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_casa_loma_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa Loma Criolla",
+              "cuisine": "Puerto Rican",
+              "location": "Orocovis",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "indoor"
+            }
+          },
+          {
+            "id": "rst_mirador_centro_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mirador del Centro",
+              "cuisine": "Puerto Rican",
+              "location": "Orocovis",
+              "rating": 4.5,
+              "price_range": "$$",
+              "seating_style": "outdoor"
+            }
+          },
+          {
+            "id": "rst_panorama_bistro_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Panorama Bistro",
+              "cuisine": "International",
+              "location": "Orocovis",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "indoor"
+            }
+          },
+          {
+            "id": "rst_sabor_barrio_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sabor del Barrio",
+              "cuisine": "Puerto Rican",
+              "location": "Villalba",
+              "rating": 4.3,
+              "price_range": "$",
+              "seating_style": "indoor"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "workspace",
+      "reason_for_call": "Organize some files.",
+      "task_params": {
+        "location": "Consulting Intake",
+        "file_type": "pdf",
+        "owner": "Maximo",
+        "scheme": "by_owner",
+        "file_ids": [
+          "fil_consult_01",
+          "fil_consult_02",
+          "fil_consult_03"
+        ],
+        "folder_id": "fld_clients_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "classify_files",
+        "move_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Consulting Intake",
+            "file_type": "pdf"
+          }
+        },
+        {
+          "tool": "classify_files",
+          "arguments": {
+            "file_ids": [
+              "fil_consult_01",
+              "fil_consult_02",
+              "fil_consult_03"
+            ],
+            "scheme": "by_owner"
+          }
+        },
+        {
+          "tool": "move_files",
+          "arguments": {
+            "file_ids": [
+              "fil_consult_01",
+              "fil_consult_02",
+              "fil_consult_03"
+            ],
+            "folder_id": "fld_clients_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "fil_consult_01",
+            "type": "file",
+            "attributes": {
+              "name": "Rivera Bakery consultation notes.pdf",
+              "file_type": "pdf",
+              "location": "Consulting Intake",
+              "owner": "Maximo",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_consult_02",
+            "type": "file",
+            "attributes": {
+              "name": "Torres Hardware website audit.pdf",
+              "file_type": "pdf",
+              "location": "Consulting Intake",
+              "owner": "Maximo",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_consult_03",
+            "type": "file",
+            "attributes": {
+              "name": "Centro Cultural follow-up summary.pdf",
+              "file_type": "pdf",
+              "location": "Consulting Intake",
+              "owner": "Maximo",
+              "labels": [],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_misc_04",
+            "type": "file",
+            "attributes": {
+              "name": "camera_warranty_scan.pdf",
+              "file_type": "pdf",
+              "location": "Personal Admin",
+              "owner": "Maximo",
+              "labels": [
+                "personal"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_clients_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Client Groups",
+              "purpose": "Sorted consultation files by client"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and draft a reply",
+      "task_params": {
+        "sender": "Lena Morales",
+        "folder": "inbox",
+        "message_priority": "high",
+        "reply_language": "en",
+        "reply_points": [
+          "thank her for volunteering",
+          "say you're following up about the room confirmation",
+          "ask whether the youth coding room is available",
+          "mention setup depends on knowing by tomorrow morning",
+          "if unavailable, ask her to let you know quickly",
+          "keep the tone polite and calm"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Lena Morales",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_lena_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_workshop_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Morales",
+              "subject": "Re: Saturday youth coding workshop",
+              "body": "Hi Maximo, I can try to help with the room booking at the community center. I need to double-check with the front desk and will get back to you soon.",
+              "thread_id": "thr_workshop_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-08T15:42:00"
+            }
+          },
+          {
+            "id": "msg_mateo_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Mateo Rivera",
+              "subject": "Poster draft for the meetup",
+              "body": "Sharing the latest flyer draft. Let me know if the text size should be bigger.",
+              "thread_id": "thr_poster_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-05-08T13:10:00"
+            }
+          },
+          {
+            "id": "msg_silvia_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Silvia Cruz",
+              "subject": "Photos from the trail walk",
+              "body": "I finally uploaded the mountain photos. The light was beautiful.",
+              "thread_id": "thr_photos_03",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-05-07T18:25:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "scheduling",
+      "reason_for_call": "Add something to my calendar.",
+      "task_params": {
+        "title": "Campeche Gallery Outing",
+        "start_time": "2025-03-21T14:00:00-04:00",
+        "end_time": "2025-03-21T16:00:00-04:00",
+        "participants": [
+          "Lucia Irizarry"
+        ],
+        "location": "Museo de Arte de Caguas"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-21T14:00:00-04:00",
+            "end_time": "2025-03-21T16:00:00-04:00",
+            "participants": [
+              "Lucia Irizarry"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Campeche Gallery Outing",
+            "start_time": "2025-03-21T14:00:00-04:00",
+            "end_time": "2025-03-21T16:00:00-04:00",
+            "participants": [
+              "Lucia Irizarry"
+            ],
+            "location": "Museo de Arte de Caguas"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_family_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Family Lunch at Tia Carmen's",
+              "start_time": "2025-03-21T12:30:00-04:00",
+              "end_time": "2025-03-21T14:30:00-04:00",
+              "participants": [
+                "Lucia Irizarry",
+                "Mateo Irizarry",
+                "Carmen Rivera"
+              ],
+              "location": "Barrio Gato, Orocovis",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_work_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Mentorship Check-in",
+              "start_time": "2025-03-21T10:00:00-04:00",
+              "end_time": "2025-03-21T11:00:00-04:00",
+              "participants": [
+                "Andres Mendez"
+              ],
+              "location": "Video Call",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_family_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pick up grandmother's medicine",
+              "start_time": "2025-03-21T17:30:00-04:00",
+              "end_time": "2025-03-21T18:00:00-04:00",
+              "participants": [
+                "Lucia Irizarry"
+              ],
+              "location": "Farmacia San Juan",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_personal_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Campeche Gallery Outing",
+              "start_time": "2025-03-21T14:00:00-04:00",
+              "end_time": "2025-03-21T16:00:00-04:00",
+              "participants": [],
+              "location": "Museo de Arte de Caguas",
+              "calendar": "personal",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s11",
+      "session_type": "learning",
+      "day_offset": 11,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a tracking sheet",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "Website Requests Tracker",
+        "location": "Consulting",
+        "template_doc_type": "template",
+        "template_location": "Consulting",
+        "content_brief_points": [
+          "columns for client name and business",
+          "request date and requested work",
+          "status and next step",
+          "quote amount and deposit received",
+          "target launch date",
+          "notes for follow-up"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Consulting",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "Website Requests Tracker",
+            "location": "Consulting",
+            "content_brief": "<authored from content_brief_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Client Intake Sheet Template",
+              "doc_type": "template",
+              "location": "Consulting",
+              "content_brief": "Reusable intake layout with columns for contact, request summary, status, estimate, and notes."
+            }
+          },
+          {
+            "id": "doc_template_02",
+            "type": "document",
+            "attributes": {
+              "title": "Project Follow-up Template",
+              "doc_type": "template",
+              "location": "Consulting",
+              "content_brief": "Simple follow-up template for small client projects."
+            }
+          },
+          {
+            "id": "doc_sheet_01",
+            "type": "document",
+            "attributes": {
+              "title": "Workshop Attendance Log",
+              "doc_type": "spreadsheet",
+              "location": "Community",
+              "content_brief": "Attendance sheet for coding workshops."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "commerce",
+      "reason_for_call": "Order an item online.",
+      "task_params": {
+        "category": "hiking poles",
+        "budget": 90,
+        "product_ids": [
+          "prod_trailglide_01",
+          "prod_summitlite_02",
+          "prod_alpinetrek_03"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "hiking poles",
+            "budget": 90,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_trailglide_01",
+              "prod_summitlite_02",
+              "prod_alpinetrek_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_alpinetrek_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_trailglide_01",
+            "type": "product",
+            "attributes": {
+              "name": "TrailGlide Carbon Hiking Poles",
+              "price": 79.99,
+              "category": "hiking poles",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_summitlite_02",
+            "type": "product",
+            "attributes": {
+              "name": "SummitLite Foldable Hiking Poles",
+              "price": 69.5,
+              "category": "hiking poles",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_alpinetrek_03",
+            "type": "product",
+            "attributes": {
+              "name": "AlpineTrek Ultralight Hiking Poles",
+              "price": 88.0,
+              "category": "hiking poles",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_ridgewalk_04",
+            "type": "product",
+            "attributes": {
+              "name": "RidgeWalk Adjustable Trekking Poles",
+              "price": 94.0,
+              "category": "hiking poles",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "communication",
+      "reason_for_call": "Draft an invitation message",
+      "task_params": {
+        "recipient": "lucia.santiago@example.com, rafael.mendez@example.com, ines.colon@example.com",
+        "subject": "Invitación / Invitation",
+        "language": "en",
+        "event_points": [
+          "small acoustic jam next week",
+          "at the community centre",
+          "just a few trusted friends",
+          "bring guitar or simply listen",
+          "please let me know if you can come",
+          "write it in Spanish and English"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "lucia.santiago@example.com, rafael.mendez@example.com, ines.colon@example.com",
+            "subject": "Invitación / Invitation",
+            "language": "en",
+            "body": "<authored from event_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_cafe_01",
+            "type": "message",
+            "attributes": {
+              "sender": "marisol.vega@example.com",
+              "subject": "Photos from Saturday",
+              "body": "Sharing the black and white shots from the plaza. Let me know which ones you want full size.",
+              "thread_id": "thr_cafe_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-18T09:12:00"
+            }
+          },
+          {
+            "id": "msg_workshop_02",
+            "type": "message",
+            "attributes": {
+              "sender": "tallerjuvenil@centrocomunitario.org",
+              "subject": "Room schedule update",
+              "body": "The side room will stay open next week after 6 PM if the music group needs extra chairs.",
+              "thread_id": "thr_workshop_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-17T15:40:00"
+            }
+          },
+          {
+            "id": "msg_family_03",
+            "type": "message",
+            "attributes": {
+              "sender": "elena.irizarry@example.com",
+              "subject": "Sunday lunch",
+              "body": "We are still on for lunch this Sunday. I'll bring dessert.",
+              "thread_id": "thr_family_03",
+              "folder": "sent",
+              "labels": [
+                "family"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T11:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Ponce",
+        "date_time": "2025-03-21T11:00:00-04:00",
+        "provider_id": "svc_caballeros_01"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Ponce",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_caballeros_01",
+            "date_time": "2025-03-21T11:00:00-04:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_caballeros_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Caballeros Barber Studio",
+              "service_type": "haircut",
+              "location": "Ponce",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_tijera_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Tijera Fina Salon",
+              "service_type": "haircut",
+              "location": "Ponce",
+              "rating": 4.5,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_boriken_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Barberia Boriken",
+              "service_type": "haircut",
+              "location": "Ponce",
+              "rating": 4.2,
+              "distance_km": 1.7
+            }
+          },
+          {
+            "id": "svc_uñas_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Uñas del Sur",
+              "service_type": "manicure",
+              "location": "Ponce",
+              "rating": 4.6,
+              "distance_km": 2.9
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "scheduling",
+      "reason_for_call": "Set a reminder.",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Teach youth coding group",
+        "start_time": "2025-03-22T10:00:00-04:00",
+        "end_time": "2025-03-22T12:00:00-04:00",
+        "remind_at": "2025-03-21T19:00:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_youthcoding_01",
+            "remind_at": "2025-03-21T19:00:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_youthcoding_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Teach youth coding group",
+              "start_time": "2025-03-22T10:00:00-04:00",
+              "end_time": "2025-03-22T12:00:00-04:00",
+              "participants": [],
+              "location": "Centro Comunitario de Orocovis",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dentist_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dental cleaning",
+              "start_time": "2025-03-21T15:00:00-04:00",
+              "end_time": "2025-03-21T16:00:00-04:00",
+              "participants": [],
+              "location": "Clinica Dental Orocovis",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_clientcall_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Consultancy check-in",
+              "start_time": "2025-03-22T14:00:00-04:00",
+              "end_time": "2025-03-22T14:30:00-04:00",
+              "participants": [
+                "Lucia Ramos"
+              ],
+              "location": "",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s20",
+      "session_type": "learning",
+      "day_offset": 20,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination_constraints": [
+          "quiet",
+          "cultural"
+        ],
+        "destination_ids": [
+          "dest_patzcuaro_01"
+        ],
+        "destination": "Pátzcuaro",
+        "duration_days": 4,
+        "traveler_count": 2
+      },
+      "expected_tools": [
+        "search_destinations",
+        "shortlist_destinations",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_destinations",
+          "arguments": {
+            "destination_constraints": [
+              "quiet",
+              "cultural"
+            ]
+          }
+        },
+        {
+          "tool": "shortlist_destinations",
+          "arguments": {
+            "destination_ids": [
+              "dest_patzcuaro_01"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Pátzcuaro",
+            "duration_days": 4,
+            "traveler_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "dest_patzcuaro_01",
+            "type": "destination",
+            "attributes": {
+              "name": "Pátzcuaro",
+              "region": "Michoacán",
+              "tags": [
+                "quiet",
+                "cultural",
+                "lake",
+                "artisan"
+              ]
+            }
+          },
+          {
+            "id": "dest_sayulita_02",
+            "type": "destination",
+            "attributes": {
+              "name": "Sayulita",
+              "region": "Nayarit",
+              "tags": [
+                "beach",
+                "surf",
+                "nightlife",
+                "colorful"
+              ]
+            }
+          },
+          {
+            "id": "dest_san_cristobal_03",
+            "type": "destination",
+            "attributes": {
+              "name": "San Cristóbal de las Casas",
+              "region": "Chiapas",
+              "tags": [
+                "cultural",
+                "highlands",
+                "markets",
+                "busy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "reference_doc_type": "template",
+        "location": "Archive Project",
+        "doc_type": "report",
+        "title": "Phase 1 Scope for Community Digital Archive",
+        "content_brief_points": [
+          "state a realistic first-phase scope",
+          "focus on folk stories as the core collection",
+          "include basic metadata fields for each story",
+          "note audio recordings as optional when available",
+          "mention scanned photos or handwritten pages as supporting items",
+          "set simple submission and review workflow",
+          "prioritize low-bandwidth and accessibility needs",
+          "end with a short list of next implementation steps"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Archive Project",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "report",
+            "title": "Phase 1 Scope for Community Digital Archive",
+            "location": "Archive Project",
+            "content_brief": "<authored from content_brief_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Archive Project Report Template",
+              "doc_type": "template",
+              "location": "Archive Project",
+              "content_brief": "Basic report outline with sections for purpose, scope, constraints, and next steps."
+            }
+          },
+          {
+            "id": "doc_report_02",
+            "type": "document",
+            "attributes": {
+              "title": "Community Interview Notes Summary",
+              "doc_type": "report",
+              "location": "Archive Project",
+              "content_brief": "Summary of early conversations about preserving oral histories and family stories."
+            }
+          },
+          {
+            "id": "doc_note_03",
+            "type": "document",
+            "attributes": {
+              "title": "Archive Feature Ideas",
+              "doc_type": "note",
+              "location": "Archive Project",
+              "content_brief": "Rough notes on uploads, tagging, moderation, and bilingual presentation."
+            }
+          },
+          {
+            "id": "file_scan_01",
+            "type": "file",
+            "attributes": {
+              "name": "sample_story_scan.jpg",
+              "file_type": "image",
+              "location": "Archive Project/assets",
+              "owner": "Maximo",
+              "labels": [
+                "archive",
+                "sample"
+              ],
+              "archived": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a table.",
+      "task_params": {
+        "location": "Caguas",
+        "cuisine": "Puerto Rican",
+        "date_time": "2025-06-29T13:30:00-04:00",
+        "party_size": 6
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Caguas",
+            "cuisine": "Puerto Rican",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_casona_01",
+            "date_time": "2025-06-29T13:30:00-04:00",
+            "party_size": 6
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_casona_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "La Casona Criolla",
+              "cuisine": "Puerto Rican",
+              "location": "Caguas",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "indoor dining room"
+            }
+          },
+          {
+            "id": "rst_brinco_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "El Brinco del Sabor",
+              "cuisine": "Puerto Rican",
+              "location": "Caguas",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "covered terrace"
+            }
+          },
+          {
+            "id": "rst_jardin_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Jardín de Abuela",
+              "cuisine": "Caribbean",
+              "location": "Caguas",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "garden patio"
+            }
+          },
+          {
+            "id": "rst_plaza_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mesa de la Plaza",
+              "cuisine": "Spanish",
+              "location": "Caguas",
+              "rating": 4.3,
+              "price_range": "$$",
+              "seating_style": "main hall"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "communication",
+      "reason_for_call": "Draft a few thank-you messages",
+      "task_params": {
+        "sender": "Elena Morales",
+        "folder": "inbox",
+        "reply_language": "en",
+        "reply_points": [
+          "thank her for offering old family photos",
+          "say the stories and dates will help the archive",
+          "mention I appreciate her taking time to look through boxes",
+          "say I will handle scans carefully and return originals"
+        ],
+        "archive_folder_id": "fld_family_01"
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Elena Morales",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_elena_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_elena_01"
+            ],
+            "folder_id": "fld_family_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_elena_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Morales",
+              "subject": "Found some old photos and notes",
+              "body": "Hi Maximo, I found a small box with old family photos and a few handwritten notes from Tía Rosa. If these help your archive project, I can bring them by next week. Some have dates on the back and I remember a few stories too.",
+              "thread_id": "thr_elena_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-23T18:42:00"
+            }
+          },
+          {
+            "id": "msg_rafael_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Rafael Irizarry",
+              "subject": "Re: old negatives",
+              "body": "I still have those negatives from abuelo's camera. Let me know if you want me to dig them out.",
+              "thread_id": "thr_rafael_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-23T16:10:00"
+            }
+          },
+          {
+            "id": "msg_carmen_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Carmen Soto",
+              "subject": "Church festival program",
+              "body": "Sharing the scanned program from the old church festival in case you want it for the archive.",
+              "thread_id": "thr_carmen_01",
+              "folder": "archive",
+              "labels": [
+                "family-history"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-10T11:05:00"
+            }
+          },
+          {
+            "id": "fld_family_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Family Archive",
+              "purpose": "Messages related to relatives sharing photos, stories, and documents"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "workspace",
+      "reason_for_call": "Update a project tracker",
+      "task_params": {
+        "tracker_title": "Consultancy Pipeline Tracker",
+        "bakery_next_action_points": [
+          "Confirm homepage copy edits with owner",
+          "Prepare mobile nav fixes list",
+          "Set a date for final image upload"
+        ],
+        "youth_workshop_next_action_points": [
+          "Draft outline for intro web session",
+          "Confirm room and projector availability",
+          "List laptops and signup gaps"
+        ],
+        "archive_concept_next_action_points": [
+          "Summarize scope for story, music, and photo archive",
+          "Note possible metadata fields",
+          "Sketch simple homepage sections"
+        ]
+      },
+      "expected_tools": [
+        "list_trackers",
+        "update_tracker"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_trackers",
+          "arguments": {}
+        },
+        {
+          "tool": "update_tracker",
+          "arguments": {
+            "tracker_id": "trk_consult_01",
+            "update_action": "create_entry",
+            "entry_payload": "<authored from bakery_next_action_points>"
+          }
+        },
+        {
+          "tool": "update_tracker",
+          "arguments": {
+            "tracker_id": "trk_consult_01",
+            "update_action": "create_entry",
+            "entry_payload": "<authored from youth_workshop_next_action_points>"
+          }
+        },
+        {
+          "tool": "update_tracker",
+          "arguments": {
+            "tracker_id": "trk_consult_01",
+            "update_action": "create_entry",
+            "entry_payload": "<authored from archive_concept_next_action_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "trk_consult_01",
+            "type": "tracker",
+            "attributes": {
+              "title": "Consultancy Pipeline Tracker"
+            }
+          },
+          {
+            "id": "trk_mentoring_02",
+            "type": "tracker",
+            "attributes": {
+              "title": "Community Mentoring Follow-ups"
+            }
+          },
+          {
+            "id": "doc_notes_01",
+            "type": "document",
+            "attributes": {
+              "title": "Bakery site audit notes",
+              "doc_type": "note",
+              "location": "consulting/bakery-site",
+              "content_brief": "Accessibility fixes, copy gaps, and image checklist from last review."
+            }
+          },
+          {
+            "id": "doc_workshop_02",
+            "type": "document",
+            "attributes": {
+              "title": "Youth workshop planning memo",
+              "doc_type": "memo",
+              "location": "community/youth-workshop",
+              "content_brief": "Ideas for beginner web topics, equipment, and attendance."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online.",
+      "task_params": {
+        "category": "archival sleeves",
+        "budget": 25,
+        "quantity": 2
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "archival sleeves",
+            "budget": 25,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_clearfile_01",
+              "prod_photosafe_02"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_photosafe_02",
+            "quantity": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_clearfile_01",
+            "type": "product",
+            "attributes": {
+              "name": "ClearFile Archival Sleeves 50-Pack",
+              "price": 12.99,
+              "category": "archival sleeves",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_photosafe_02",
+            "type": "product",
+            "attributes": {
+              "name": "PhotoSafe Archival Sleeves 100-Pack",
+              "price": 21.5,
+              "category": "archival sleeves",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_memorguard_03",
+            "type": "product",
+            "attributes": {
+              "name": "MemorGuard Print Protector Sleeves 25-Pack",
+              "price": 8.49,
+              "category": "print protector sleeves",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_albumcare_04",
+            "type": "product",
+            "attributes": {
+              "name": "AlbumCare Archival Sleeves 200-Pack",
+              "price": 29.99,
+              "category": "archival sleeves",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s28",
+      "session_type": "learning",
+      "day_offset": 28,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and clear some threads",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "GitHub",
+        "subject": "Dependabot alerts digest",
+        "timestamp": "2025-02-28T10:12:00",
+        "message_ids": [
+          "msg_github_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "GitHub"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_github_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_github_01",
+            "type": "message",
+            "attributes": {
+              "sender": "GitHub",
+              "subject": "Dependabot alerts digest",
+              "body": "Here is your weekly Dependabot alerts digest for archived repositories and inactive projects.",
+              "thread_id": "thr_github_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T10:12:00"
+            }
+          },
+          {
+            "id": "msg_bank_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Oriental Bank",
+              "subject": "Your monthly statement is ready",
+              "body": "Your latest account statement is now available in online banking.",
+              "thread_id": "thr_bank_01",
+              "folder": "inbox",
+              "labels": [
+                "finance"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-28T09:03:00"
+            }
+          },
+          {
+            "id": "msg_meetup_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Community Tech Meetup",
+              "subject": "Reminder: tonight's accessibility roundtable",
+              "body": "Just a reminder about tonight's small-group accessibility discussion.",
+              "thread_id": "thr_meetup_01",
+              "folder": "inbox",
+              "labels": [
+                "community"
+              ],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2025-02-28T08:21:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment.",
+      "task_params": {
+        "service_type": "physical therapy",
+        "location": "Orocovis",
+        "sort_by": "distance",
+        "date_time": "2025-02-18T10:30:00-04:00",
+        "provider_id": "svc_mountain_motion_01"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "physical therapy",
+            "location": "Orocovis",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_mountain_motion_01",
+            "date_time": "2025-02-18T10:30:00-04:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_mountain_motion_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mountain Motion Physical Therapy",
+              "service_type": "physical therapy",
+              "location": "Orocovis",
+              "rating": 4.8,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_centro_rehab_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Centro de Rehabilitación San Juan Bautista",
+              "service_type": "physical therapy",
+              "location": "Orocovis",
+              "rating": 4.6,
+              "distance_km": 3.4
+            }
+          },
+          {
+            "id": "svc_movilidad_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Movilidad y Balance Clinic",
+              "service_type": "sports massage",
+              "location": "Orocovis",
+              "rating": 4.7,
+              "distance_km": 2.9
+            }
+          },
+          {
+            "id": "svc_therapy_barranquitas_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Barranquitas Therapy Associates",
+              "service_type": "physical therapy",
+              "location": "Barranquitas",
+              "rating": 4.9,
+              "distance_km": 11.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "travel",
+      "reason_for_call": "Book a ground transfer.",
+      "task_params": {
+        "origin": "San Juan",
+        "destination": "Ponce",
+        "passenger_count": 2,
+        "departure_date": "2025-08-22",
+        "transport_offer_id": "trn_caribe_02"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "San Juan",
+            "destination": "Ponce",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trn_caribe_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trn_isla_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "San Juan",
+              "destination": "Ponce",
+              "mode": "bus",
+              "departure_date": "2025-08-22",
+              "price": 44.0,
+              "available_seats": 18
+            }
+          },
+          {
+            "id": "trn_caribe_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "San Juan",
+              "destination": "Ponce",
+              "mode": "car_transfer",
+              "departure_date": "2025-08-22",
+              "price": 132.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trn_sur_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "San Juan",
+              "destination": "Ponce",
+              "mode": "train",
+              "departure_date": "2025-08-23",
+              "price": 58.0,
+              "available_seats": 12
+            }
+          },
+          {
+            "id": "trn_centro_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Caguas",
+              "destination": "Ponce",
+              "mode": "car_transfer",
+              "departure_date": "2025-08-22",
+              "price": 96.0,
+              "available_seats": 2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "maximo_esteban_irizarry_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Leo Morales",
+        "folder": "inbox",
+        "message_subject": "Am I ready to present tomorrow?",
+        "language": "en",
+        "reply_points": [
+          "tell him he is more prepared than he thinks",
+          "say his project is clear and useful",
+          "remind him he does not need to be perfect",
+          "suggest practicing the opening once more",
+          "encourage him to focus on explaining the problem and solution",
+          "offer support if he wants a quick run-through"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Leo Morales",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_leo_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_leo_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Leo Morales",
+              "subject": "Am I ready to present tomorrow?",
+              "body": "Hi Maximo, I'm getting nervous about presenting my project to the coding circle tomorrow. I keep thinking I'm going to freeze or forget something important. Do you think I'm actually ready, or should I ask to go later?",
+              "thread_id": "thr_leo_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T18:42:00"
+            }
+          },
+          {
+            "id": "msg_marta_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Marta Rivera",
+              "subject": "Workshop projector update",
+              "body": "The community center replaced the old projector, so the slides should display better this week.",
+              "thread_id": "thr_marta_01",
+              "folder": "inbox",
+              "labels": [
+                "logistics"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-12T15:10:00"
+            }
+          },
+          {
+            "id": "msg_diego_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Diego Santiago",
+              "subject": "Git branch question",
+              "body": "Could you take a look at my merge conflict when you have a moment?",
+              "thread_id": "thr_diego_01",
+              "folder": "sent",
+              "labels": [
+                "mentoring"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-11T09:05:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one cooking base for weeknight dinners, keep it under $6, and just choose whichever seems best.",
+      "gold_value": "prod_cocina_islena_sofrito_01",
+      "session_id": "maximo_esteban_irizarry_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "maximo_esteban_irizarry_commerce_01",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_commerce_01",
+        "rule_text": "When shopping for food or cooking supplies, he prefers products suited to traditional Puerto Rican cooking over generic alternatives.",
+        "canonical_answer": "For cooking, I choose ingredients that fit Puerto Rican dishes and flavors."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_cocina_islena_sofrito_01",
+            "type": "product",
+            "attributes": {
+              "name": "Cocina Isleña Sofrito Cooking Base",
+              "price": 5.49,
+              "category": "cooking base",
+              "rating": 4.4,
+              "cuisine_style": "Puerto Rican",
+              "format": "12 oz jar",
+              "primary_uses": [
+                "rice",
+                "beans",
+                "stews",
+                "pork"
+              ],
+              "ingredients_focus": [
+                "cilantro",
+                "culantro",
+                "garlic",
+                "sweet pepper"
+              ],
+              "dish_fit": [
+                "arroz con gandules",
+                "pasteles",
+                "pernil"
+              ],
+              "review_count": 121
+            }
+          },
+          {
+            "id": "prod_island_pantry_green_01",
+            "type": "product",
+            "attributes": {
+              "name": "Island Pantry Caribbean Green Seasoning Base",
+              "price": 4.99,
+              "category": "cooking base",
+              "rating": 4.9,
+              "cuisine_style": "Trinidadian",
+              "format": "12 oz jar",
+              "primary_uses": [
+                "rice",
+                "beans",
+                "marinades",
+                "chicken"
+              ],
+              "ingredients_focus": [
+                "cilantro",
+                "thyme",
+                "garlic"
+              ],
+              "dish_fit": [
+                "stews",
+                "rice dishes",
+                "grilled meats"
+              ],
+              "review_count": 1804
+            }
+          },
+          {
+            "id": "prod_roasted_garlic_starter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Roasted Garlic Skillet Starter",
+              "price": 3.79,
+              "category": "cooking base",
+              "rating": 4.8,
+              "cuisine_style": "general",
+              "format": "11 oz jar",
+              "primary_uses": [
+                "soups",
+                "stews",
+                "roasts",
+                "vegetables"
+              ],
+              "ingredients_focus": [
+                "garlic",
+                "onion",
+                "olive oil"
+              ],
+              "dish_fit": [
+                "one-pan meals",
+                "braises",
+                "weeknight dinners"
+              ],
+              "review_count": 2620
+            }
+          },
+          {
+            "id": "prod_classic_tomato_base_01",
+            "type": "product",
+            "attributes": {
+              "name": "Classic Tomato Herb Cooking Base",
+              "price": 2.99,
+              "category": "cooking base",
+              "rating": 4.9,
+              "cuisine_style": "general",
+              "format": "10 oz jar",
+              "primary_uses": [
+                "braises",
+                "skillet meals",
+                "casseroles",
+                "pasta"
+              ],
+              "ingredients_focus": [
+                "tomato",
+                "basil",
+                "garlic"
+              ],
+              "dish_fit": [
+                "weeknight dinners",
+                "simmer sauces",
+                "baked dishes"
+              ],
+              "review_count": 4410
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_cocina_islena_sofrito_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please take care of the return for the chef's knife from my recent order—it just didn't work out for me.",
+      "gold_value": "exchange",
+      "session_id": "maximo_esteban_irizarry_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "maximo_esteban_irizarry_commerce_03",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_commerce_03",
+        "rule_text": "When returning a purchased item that did not work out, he prefers an exchange over a refund so he can still get the right version.",
+        "canonical_answer": "If something misses the mark, I usually want an exchange rather than just a refund."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_rivera_chef_knife_01",
+            "type": "product",
+            "attributes": {
+              "name": "Rivera Chef Knife",
+              "price": 46.99,
+              "category": "kitchen_tools",
+              "rating": 4.5,
+              "brand": "Rivera",
+              "order_id": "ord_6012_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-11"
+            }
+          },
+          {
+            "id": "prod_sol_copper_caldero_01",
+            "type": "product",
+            "attributes": {
+              "name": "Sol Copper Caldero Pot",
+              "price": 68.0,
+              "category": "cookware",
+              "rating": 4.8,
+              "brand": "Sol",
+              "order_id": "ord_5984_cookware",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-08"
+            }
+          },
+          {
+            "id": "prod_palma_plantain_press_01",
+            "type": "product",
+            "attributes": {
+              "name": "Palma Plantain Press",
+              "price": 19.5,
+              "category": "kitchen_tools",
+              "rating": 4.7,
+              "brand": "Palma",
+              "order_id": "ord_5961_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-05"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Priya Nandakumar about the East Harbor pantry volunteer schedule. Tell her I can cover the Saturday setup shift, ask whether the folding tables are already reserved, and mention that I can bring two extra name badges if that helps.",
+      "gold_value": null,
+      "session_id": "maximo_esteban_irizarry_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "maximo_esteban_irizarry_communication_01",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_communication_01",
+        "rule_text": "When he wants to contact someone about work, community projects, or plans, he prefers the message to be drafted for review instead of being sent immediately.",
+        "canonical_answer": "I like messages drafted first so I can review the tone before anything gets sent."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_priya_pantry_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Priya Nandakumar <priya@eastharborpantry.org>",
+              "subject": "East Harbor pantry volunteer schedule",
+              "body": "Hi Maximo, I'm wrapping up the East Harbor pantry volunteer schedule and wanted to check whether you can take the Saturday setup shift. We're also still confirming the folding table reservation and figuring out how many extra name badges to prepare. Thanks, Priya",
+              "thread_id": "thr_priya_pantry_19",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T09:14"
+            }
+          },
+          {
+            "id": "msg_daniel_signage_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Cho <dcho@meridianworks.co>",
+              "subject": "Warehouse signage walkthrough notes",
+              "body": "Can you send over your comments on the revised warehouse wayfinding signs before I share them with facilities?",
+              "thread_id": "thr_daniel_signage_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T08:02"
+            }
+          },
+          {
+            "id": "msg_elena_cleanup_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Elena Ruiz <elena@riverfriends.org>",
+              "subject": "Riverfront cleanup supply count",
+              "body": "We're updating the supply list for the riverfront cleanup and still need final counts for gloves, bags, and check-in volunteers.",
+              "thread_id": "thr_elena_cleanup_11",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-04-07T17:41"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner in San Juan for four people on 2026-08-14 at 7:30pm—just choose a place and make the reservation.",
+      "gold_value": "rst_casa_sanjusto_01",
+      "session_id": "maximo_esteban_irizarry_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "maximo_esteban_irizarry_reservation_01",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_reservation_01",
+        "rule_text": "When dining out or meeting socially, he prefers reservations at culturally rooted local places over generic mainstream options.",
+        "canonical_answer": "For meals out, I prefer local places with cultural character over generic spots."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_casa_sanjusto_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Casa San Justo",
+              "cuisine": "Puerto Rican",
+              "location": "Old San Juan, San Juan",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "historic courtyard dining room with live plena trio",
+              "review_count": 148
+            }
+          },
+          {
+            "id": "rst_harbor360_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harbor 360 Rooftop Kitchen",
+              "cuisine": "International fusion",
+              "location": "Condado, San Juan",
+              "rating": 4.9,
+              "price_range": "$$$",
+              "seating_style": "rooftop lounge",
+              "review_count": 2140
+            }
+          },
+          {
+            "id": "rst_marina_prime_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Marina Prime Chophouse",
+              "cuisine": "Steakhouse",
+              "location": "Isla Verde, San Juan",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "hotel dining room",
+              "review_count": 1180
+            }
+          },
+          {
+            "id": "rst_isla_centro_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Isla Centro Kitchen",
+              "cuisine": "Caribbean fusion",
+              "location": "Miramar, San Juan",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "hotel lobby dining room",
+              "review_count": 642
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_casa_sanjusto_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a haircut appointment in Ponce, Puerto Rico for 2026-07-09 at 4:30pm — just pick a place and handle it.",
+      "gold_value": "svc_haircut_sananton_01",
+      "session_id": "maximo_esteban_irizarry_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "maximo_esteban_irizarry_reservation_03",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_reservation_03",
+        "rule_text": "When booking local service appointments, he prefers familiar, community-oriented providers over anonymous chain-style options.",
+        "canonical_answer": "For local appointments, I prefer someone rooted in the community over a generic chain provider."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_haircut_sananton_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Barbería San Antón",
+              "service_type": "haircut",
+              "location": "Ponce, Puerto Rico",
+              "rating": 4.5,
+              "distance_km": 2.2,
+              "business_model": "family-owned neighborhood shop",
+              "established_year": 1989
+            }
+          },
+          {
+            "id": "svc_haircut_clipstop_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "ClipStop Ponce Centro",
+              "service_type": "haircut",
+              "location": "Ponce, Puerto Rico",
+              "rating": 4.9,
+              "distance_km": 0.3,
+              "business_model": "regional chain",
+              "branch_count": 18
+            }
+          },
+          {
+            "id": "svc_haircut_stylehub_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "StyleHub Express",
+              "service_type": "haircut",
+              "location": "Ponce, Puerto Rico",
+              "rating": 4.8,
+              "distance_km": 0.6,
+              "business_model": "national chain",
+              "branch_count": 63
+            }
+          },
+          {
+            "id": "svc_haircut_freshfade_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "FreshFade Plaza",
+              "service_type": "haircut",
+              "location": "Ponce, Puerto Rico",
+              "rating": 4.7,
+              "distance_km": 0.4,
+              "business_model": "franchise chain",
+              "branch_count": 27
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_haircut_sananton_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Barrio Arts potluck invite at Casita Verde. Look at what I already have on the calendar for that evening and send back the RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "maximo_esteban_irizarry_scheduling_03_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "maximo_esteban_irizarry_scheduling_03",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_scheduling_03",
+        "rule_text": "When an invitation overlaps with something unresolved or potentially tiring, he prefers to respond tentatively rather than accepting or declining right away.",
+        "canonical_answer": "If an invite conflicts with my energy or plans, I usually answer tentatively first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_barrio_arts_potluck_20260911",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Barrio Arts Potluck & Open Mic",
+              "start_time": "2026-09-11T19:00:00",
+              "end_time": "2026-09-11T21:30:00",
+              "participants": [
+                "events@barrioarts.org",
+                "maximo.irizarry@example.com"
+              ],
+              "location": "Casita Verde Community Hall",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_clinic_intake_shift_20260911",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Community clinic intake shift",
+              "start_time": "2026-09-11T18:00:00",
+              "end_time": "2026-09-11T20:30:00",
+              "participants": [
+                "maximo.irizarry@example.com",
+                "triage@southsideclinic.org"
+              ],
+              "location": "Southside Free Clinic",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_block_association_chili_20260918",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Block Association Chili Night",
+              "start_time": "2026-09-18T19:00:00",
+              "end_time": "2026-09-18T21:00:00",
+              "participants": [
+                "hello@mapleblock.org",
+                "maximo.irizarry@example.com"
+              ],
+              "location": "Maple Social Club",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_credit_union_checkin_20260911",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Credit union paperwork check-in",
+              "start_time": "2026-09-11T15:30:00",
+              "end_time": "2026-09-11T16:00:00",
+              "participants": [
+                "maximo.irizarry@example.com",
+                "service@harborcu.org"
+              ],
+              "location": "Harbor Credit Union",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-7418 in Cartagena fell through. Please swap in a single replacement that can fit in about 1–2 hours and won't require more than a short detour from the current route.",
+      "gold_value": [
+        "stop_cartagena_walled_courtyards_01"
+      ],
+      "session_id": "maximo_esteban_irizarry_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "maximo_esteban_irizarry_travel_03",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_travel_03",
+        "rule_text": "When a booked trip is disrupted, he prefers replacing failed stops with alternatives in the same cultural or nature theme rather than swapping the whole trip.",
+        "canonical_answer": "If part of a trip falls through, I prefer a like-for-like replacement that keeps the trip's original character."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_cartagena_santa_clara_cloister_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Santa Clara Cloister Museum",
+              "location": "Cartagena, Colombia",
+              "tags": [
+                "history",
+                "museum",
+                "colonial_architecture",
+                "cultural",
+                "daytime"
+              ],
+              "trip_id": "T-7418",
+              "availability": "unavailable",
+              "stop_status": "disrupted",
+              "rating": 4.6,
+              "detour_minutes_from_current_route": 0,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_cartagena_walled_courtyards_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Walled City Courtyards Walk",
+              "location": "Cartagena, Colombia",
+              "tags": [
+                "history",
+                "architecture",
+                "street_life",
+                "cultural",
+                "daytime"
+              ],
+              "availability": "available",
+              "rating": 4.4,
+              "detour_minutes_from_current_route": 12,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_cartagena_san_felipe_fortress_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "San Felipe Fortress",
+              "location": "Cartagena, Colombia",
+              "tags": [
+                "history",
+                "fortress",
+                "landmark",
+                "cultural",
+                "daytime"
+              ],
+              "availability": "available",
+              "rating": 4.9,
+              "detour_minutes_from_current_route": 26,
+              "visit_duration_hours": 3.0
+            }
+          },
+          {
+            "id": "stop_cartagena_bocagrande_boardwalk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Bocagrande Beachfront Boardwalk",
+              "location": "Cartagena, Colombia",
+              "tags": [
+                "waterfront",
+                "beach",
+                "daytime",
+                "popular"
+              ],
+              "availability": "available",
+              "rating": 4.9,
+              "detour_minutes_from_current_route": 5,
+              "visit_duration_hours": 1.0
+            }
+          },
+          {
+            "id": "stop_cartagena_marina_promenade_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Marina Harbor Promenade",
+              "location": "Cartagena, Colombia",
+              "tags": [
+                "waterfront",
+                "scenic",
+                "daytime",
+                "popular"
+              ],
+              "availability": "available",
+              "rating": 4.8,
+              "detour_minutes_from_current_route": 4,
+              "visit_duration_hours": 1.5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_cartagena_walled_courtyards_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book a one-way trip for one traveler from Seattle, WA to Los Angeles, CA on 2026-09-18. Just look at the available options and handle the booking.",
+      "gold_value": null,
+      "session_id": "maximo_esteban_irizarry_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "maximo_esteban_irizarry_travel_05",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_travel_05",
+        "rule_text": "For long-distance travel, he prefers ground transport over flights when that option fits the trip.",
+        "canonical_answer": "When I can, I prefer going by ground rather than flying."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_sea_lax_20260918_alaska_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-09-18",
+              "airline": "Alaska Airlines",
+              "price": 118,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_sea_lax_20260918_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-09-18",
+              "airline": "Delta Air Lines",
+              "price": 132,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_sea_lax_20260918_southwest_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "departure_date": "2026-09-18",
+              "airline": "Southwest Airlines",
+              "price": 147,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "trp_sea_lax_20260918_train_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 236,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "trp_sea_lax_20260918_bus_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Seattle, WA",
+              "destination": "Los Angeles, CA",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 221,
+              "available_seats": 11
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Dallas to Houston for just me. I'm traveling light and heading straight to a meeting after I land, so go ahead and use the usual traveler details and card on file.",
+      "gold_value": "window",
+      "session_id": "maximo_esteban_irizarry_travel_06_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "maximo_esteban_irizarry_travel_06",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_travel_06",
+        "rule_text": "When a flight must be booked, he prefers a window seat for the calmer view and quieter experience.",
+        "canonical_answer": "If I have to fly, I prefer a window seat."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_dallas_houston_lonestar_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Dallas",
+              "destination": "Houston",
+              "departure_date": "2026-08-14",
+              "airline": "Lone Star Air",
+              "price": 121.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_dallas_houston_gulfjet_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Dallas",
+              "destination": "Houston",
+              "departure_date": "2026-08-14",
+              "airline": "GulfJet",
+              "price": 154.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "flt_dallas_houston_redriver_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Dallas",
+              "destination": "Houston",
+              "departure_date": "2026-08-14",
+              "airline": "Red River Air",
+              "price": 137.0,
+              "available_seats": 7
+            }
+          },
+          {
+            "id": "flt_dallas_austin_lonestar_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Dallas",
+              "destination": "Austin",
+              "departure_date": "2026-08-14",
+              "airline": "Lone Star Air",
+              "price": 92.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book a hotel in Porto for two adults with one room for a quick city break. Just pick whichever option seems best and take care of it.",
+      "gold_value": "hotel_porto_sao_lazaro_guesthouse_01",
+      "session_id": "maximo_esteban_irizarry_travel_07_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "maximo_esteban_irizarry_travel_07",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_travel_07",
+        "rule_text": "When booking lodging, he prefers offers that match modest, budget-conscious stays over upscale accommodations.",
+        "canonical_answer": "I book modest places that fit the budget instead of paying for upscale lodging."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hotel_porto_sao_lazaro_guesthouse_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "São Lázaro Guesthouse",
+              "location": "Bonfim, Porto, Portugal",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 109,
+              "category": "budget",
+              "star_rating": 2,
+              "rating": 4.3,
+              "review_count": 386,
+              "amenities": [
+                "wifi",
+                "private_bathroom"
+              ],
+              "neighborhood_profile": "traditional residential quarter"
+            }
+          },
+          {
+            "id": "hotel_porto_ribeira_palace_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Ribeira Palace Hotel",
+              "location": "Ribeira, Porto, Portugal",
+              "available_rooms": 6,
+              "max_guests_per_room": 2,
+              "price_per_night": 239,
+              "category": "luxury",
+              "star_rating": 5,
+              "rating": 4.9,
+              "review_count": 2841,
+              "amenities": [
+                "river_view",
+                "spa",
+                "concierge"
+              ],
+              "neighborhood_profile": "historic riverfront"
+            }
+          },
+          {
+            "id": "hotel_porto_clerigos_boutique_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Clérigos Boutique Suites",
+              "location": "Clérigos, Porto, Portugal",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 211,
+              "category": "upscale",
+              "star_rating": 4,
+              "rating": 4.8,
+              "review_count": 1417,
+              "amenities": [
+                "rooftop_bar",
+                "breakfast",
+                "city_view"
+              ],
+              "neighborhood_profile": "nightlife and monuments district"
+            }
+          },
+          {
+            "id": "hotel_porto_foz_grand_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Foz Grand Seaside Hotel",
+              "location": "Foz do Douro, Porto, Portugal",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 228,
+              "category": "upscale",
+              "star_rating": 5,
+              "rating": 4.7,
+              "review_count": 1902,
+              "amenities": [
+                "ocean_view",
+                "pool",
+                "fitness_center"
+              ],
+              "neighborhood_profile": "waterfront district"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "hotel_porto_sao_lazaro_guesthouse_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please update the existing prep checklist for the API Design Workshop now that the room layout is finished. Make the checklist reflect what still needs to happen for the caterer.",
+      "gold_value": "record_next_action",
+      "session_id": "maximo_esteban_irizarry_workspace_04_test",
+      "session_type": "test",
+      "domain": "workspace",
+      "rule_id": "maximo_esteban_irizarry_workspace_04",
+      "rule_ref": {
+        "rule_id": "maximo_esteban_irizarry_workspace_04",
+        "rule_text": "When he is keeping up an existing checklist or workshop log, he prefers recording the next action rather than just changing the status.",
+        "canonical_answer": "On an existing tracker, I like to record the next action so the follow-up stays concrete."
+      },
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "trk_api_design_workshop_01",
+            "type": "tracker",
+            "attributes": {
+              "title": "API Design Workshop Prep Checklist",
+              "entries": [
+                {
+                  "entry_id": "ENT_room_layout_01",
+                  "status": "done",
+                  "payload": "Finalize room layout and seating map"
+                },
+                {
+                  "entry_id": "ENT_av_check_01",
+                  "status": "in_progress",
+                  "payload": "Confirm projector and microphone setup"
+                },
+                {
+                  "entry_id": "ENT_catering_01",
+                  "status": "pending",
+                  "payload": "Send final headcount to caterer"
+                }
+              ]
+            }
+          },
+          {
+            "id": "trk_security_briefing_workshop_01",
+            "type": "tracker",
+            "attributes": {
+              "title": "Security Briefing Workshop Prep Checklist",
+              "entries": [
+                {
+                  "entry_id": "ENT_signage_01",
+                  "status": "done",
+                  "payload": "Print room signage"
+                },
+                {
+                  "entry_id": "ENT_badges_01",
+                  "status": "in_progress",
+                  "payload": "Prepare attendee badges"
+                },
+                {
+                  "entry_id": "ENT_refreshments_01",
+                  "status": "pending",
+                  "payload": "Confirm refreshment order"
+                }
+              ]
+            }
+          },
+          {
+            "id": "trk_junior_dev_mentoring_log_01",
+            "type": "tracker",
+            "attributes": {
+              "title": "Junior Developer Mentoring Log",
+              "entries": [
+                {
+                  "entry_id": "ENT_pairing_01",
+                  "status": "done",
+                  "payload": "Pairing session on test coverage"
+                },
+                {
+                  "entry_id": "ENT_feedback_01",
+                  "status": "in_progress",
+                  "payload": "Review pull request feedback themes"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "update_tracker",
+              "arguments": {
+                "update_action": "record_next_action"
+              },
+              "compare_args": [
+                "update_action"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.5454545454545454,
+    "actual_signal_overlap_rules": [
+      "maximo_esteban_irizarry_commerce_01",
+      "maximo_esteban_irizarry_communication_01",
+      "maximo_esteban_irizarry_reservation_01",
+      "maximo_esteban_irizarry_reservation_03",
+      "maximo_esteban_irizarry_travel_05",
+      "maximo_esteban_irizarry_workspace_04"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.5454545454545454,
+    "teachable_rule_count": 6,
+    "zero_signal_rule_count": 5,
+    "signal_pool_size_dedup": 14,
+    "noise_pool_size": 19,
+    "K": 22,
+    "seed": 0,
+    "selected_rules": [
+      "maximo_esteban_irizarry_commerce_01",
+      "maximo_esteban_irizarry_communication_01",
+      "maximo_esteban_irizarry_reservation_01",
+      "maximo_esteban_irizarry_reservation_03",
+      "maximo_esteban_irizarry_travel_05",
+      "maximo_esteban_irizarry_workspace_04"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "maximo_esteban_irizarry_commerce_01",
+      "maximo_esteban_irizarry_commerce_03",
+      "maximo_esteban_irizarry_communication_01",
+      "maximo_esteban_irizarry_reservation_01",
+      "maximo_esteban_irizarry_reservation_03",
+      "maximo_esteban_irizarry_scheduling_03",
+      "maximo_esteban_irizarry_travel_03",
+      "maximo_esteban_irizarry_travel_05",
+      "maximo_esteban_irizarry_travel_06",
+      "maximo_esteban_irizarry_travel_07",
+      "maximo_esteban_irizarry_workspace_04"
+    ],
+    "signal_count": 14,
+    "noise_count": 8,
+    "trajectory_length": 22
+  }
+}

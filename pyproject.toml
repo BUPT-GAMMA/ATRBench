@@ -1,0 +1,35 @@
+[project]
+name = "atr"
+version = "1.0.0"
+description = "ATRBench: code and data for evaluating Ask-to-Remember in long-lived LLM agents"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+authors = [
+    { name = "Bin Wu" },
+    { name = "Guanyun Zou" },
+    { name = "Bingbing Wang" },
+    { name = "Huan Zhao" },
+    { name = "Chuan Shi" },
+]
+dependencies = [
+    "openai>=1.0.0",
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+    "tenacity>=8.0.0",
+    "docstring-parser>=0.18.0",
+    "rich>=13.0.0",
+    # Pin explicitly: httpx's SOCKS-proxy support depends on socksio, which
+    # was a transitive dep until rich's resolution pruned it — silently
+    # breaking LLM calls when running behind a SOCKS proxy.
+    "socksio>=1.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/BUPT-GAMMA/ATRBench"
+Repository = "https://github.com/BUPT-GAMMA/ATRBench.git"
+Paper = "https://openreview.net/forum?id=73Li5tITzy"
+Issues = "https://github.com/BUPT-GAMMA/ATRBench/issues"
+
+[tool.uv]
+package = false

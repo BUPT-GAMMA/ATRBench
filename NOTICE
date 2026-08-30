@@ -1,0 +1,16 @@
+ATRBench
+========
+
+Copyright 2026 The ATRBench authors.
+
+This repository contains code released under the Apache License, Version 2.0.
+See LICENSE for the complete license text.
+
+The benchmark data under data/ includes material derived from NVIDIA's
+Nemotron-Personas-USA dataset. Nemotron-Personas-USA is released by NVIDIA
+under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
+The source dataset and its license are available at:
+https://huggingface.co/datasets/nvidia/Nemotron-Personas-USA
+
+The ATRBench authors selected and transformed synthetic personas from that
+source and authored the benchmark rules, sessions, environments, and metadata.

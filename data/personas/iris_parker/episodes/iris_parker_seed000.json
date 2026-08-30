@@ -1,0 +1,4464 @@
+{
+  "episode_id": "iris_parker_seed000",
+  "persona_id": "iris_parker",
+  "raw_persona": {
+    "persona_id": "iris_parker",
+    "nemotron_uuid": "d40c7af33a164d9fb795891d16227626",
+    "narrative": "name: Iris Parker\nage: 31\nsex: Female\nmarital_status: married_present\neducation_level: graduate (arts humanities)\noccupation: human_resources_manager\nhobbies_and_interests: Visiting art museums and galleries, Oil painting, Pottery, Reading literature and non‑fiction, Journaling and reflective writing, Hiking and nature walks, Kayaking on the Merrimack River, Cycling on local trails, Strategic board‑games and trivia nights, Live theater and indie film screenings, Wine tasting at regional vineyards, Exploring new cuisines and food festivals, Photography of urban and natural scenes\nskills_and_expertise: Strategic talent acquisition, Employer branding, Inclusive recruitment pipelines, Employee relations and conflict mediation, Performance management design, Feedback and development planning, HR policy development and compliance, Flexible work and remote‑work program design, HR analytics and data‑driven decision making, HRIS and AI‑assisted recruiting technology implementation, Employee engagement initiatives, Corporate cultural programming and art curation, Change management, Leadership coaching, Diversity, equity, and inclusion strategy\ncomplementary_info: Iris Parker is rooted in a middle-class New England background of European descent, shaped by family norms around education, civic engagement, the arts, and progressive social values. Living in Chelmsford, she regularly moves between suburban life and Greater Boston’s cultural scene. She frequents the Museum of Fine Arts in Boston, contemporary galleries in Cambridge, and local Middlesex County art fairs; collects prints by Yayoi Kusama and Kehinde Wiley for her office; paints oil works influenced by Haruki Murakami’s surrealism; and practices pottery at community studios. Her reading often includes Murakami, Malcolm Gladwell, and Adam Grant, and journaling is a steady reflective habit. Weekends often include hiking Cape Ann’s coastal cliffs with the Boston Outdoor Club, kayaking the Merrimack with the Massachusetts Kayak Association, cycling with the Cambridge Cycle Collective, and occasional intramural volleyball; she also follows the Boston Red Sox and Celtics. She attends live theater and indie film screenings, especially work associated with contemporary playwrights and directors like Wes Anderson. Her travel pattern centers on culturally rich, moderate-budget New England getaways such as Martha’s Vineyard, Portland, and Salem, while she is saving for a summer trip to Kyoto focused on Japanese literature and tea-house art. At home, she often cooks farm-to-table dishes such as New England clam chowder, roasted beet salad with dill vinaigrette, and grilled octopus, experimenting with smoked paprika and fennel, and pairing meals with boutique Massachusetts wines from local tasting rooms.",
+    "general_domain": "human_resources_manager",
+    "specific_domain": "arts_humanities"
+  },
+  "structured_persona": {
+    "name": "Iris Parker",
+    "demographics": {
+      "age": 31,
+      "sex": "Female",
+      "marital_status": "married_present",
+      "education_level": "graduate (arts humanities)",
+      "occupation": "human_resources_manager",
+      "city": "Chelmsford",
+      "state": "MA",
+      "zipcode": "1824",
+      "country": "USA"
+    },
+    "persona_summary": "Iris Parker is a calm yet competitively minded HR strategist who blends data analytics with an artist’s curiosity, turning workplace culture into a living gallery while meticulously curating her life’s experiences and investments.",
+    "professional_persona": "Iris Parker, a Boston-based human resources leader who fuses data‑driven talent strategy with a curatorial eye for art, leverages calm resilience and a competitive drive to build inclusive, high‑performing teams while championing internal creative workshops and employer branding that feel like gallery openings.",
+    "sports_persona": "Iris Parker stays active through the Boston Outdoor Club, where she hikes the coastal cliffs of Cape Ann on weekends, paddles the Merrimack River with the Massachusetts Kayak Association, cycles with the Cambridge Cycle Collective, and roots for the Boston Red Sox and Celtics while occasionally joining a friendly intramural volleyball league.",
+    "arts_persona": "Iris Parker immerses herself in the arts by frequenting the Museum of Fine Arts and contemporary Cambridge galleries, collecting prints by Yayoi Kusama and Kehinde Wiley for her office, painting oil canvases inspired by Murakami’s surrealism, shaping pottery on a wheel, and attending live theater productions of contemporary playwrights and indie film screenings featuring directors like Wes Anderson.",
+    "travel_persona": "Iris Parker favors culturally rich, moderate‑budget travel, often planning weekend getaways to New England gems such as Martha’s Vineyard, Portland ME, and Salem for historic tours, while also saving for a dream summer immersion in Kyoto to explore Japanese literature and tea‑house art, balancing detailed itineraries with spontaneous art‑festival visits.",
+    "culinary_persona": "Iris Parker enjoys farm‑to‑table cuisine, frequently cooking New England clam chowder, roasted beet salad with dill‑infused vinaigrette, and grilled octopus while experimenting with spice blends like smoked paprika and fennel, and she pairs her meals with a rotating selection of boutique Massachusetts wines she samples at local tasting rooms.",
+    "cultural_background": "Iris grew up in a middle‑class New England family of European descent, where an emphasis on education, civic engagement, and appreciation for the arts was woven into daily life. The cultural milieu of Massachusetts—marked by its historic commitment to liberal arts, community involvement, and progressive social values—shaped her worldview. Living in Chelmsford, she is familiar with the blend of suburban tranquility and proximity to Boston’s vibrant cultural scene, allowing her to draw on both local traditions and cosmopolitan influences. Her arts‑humanities education reinforced a respect for diverse perspectives, while her professional experience in human resources deepened her understanding of workplace culture as an extension of broader societal norms. This background fuels her drive to integrate creative expression into organizational life, champion inclusive practices, and maintain a resilient, balanced approach to personal and professional challenges.",
+    "skills_and_expertise": "Iris leverages a blend of strategic human resources management and creative problem‑solving cultivated through her arts‑humanities background. She excels at talent acquisition and employer branding, designing inclusive recruitment pipelines that prioritize cultural fit and diversity. Her expertise in employee relations allows her to mediate conflicts with calm composure, using strong emotional intelligence to de‑escalate tense situations. She is proficient in performance management systems, crafting clear metrics, feedback loops, and development plans that align with organizational goals. Iris is adept at policy development and compliance, ensuring that the company meets state and federal labor regulations while integrating progressive workplace practices such as flexible scheduling and remote‑work frameworks. She champions data‑driven HR analytics, interpreting turnover trends and engagement survey results to inform strategic workforce planning. Her knowledge of HR technology includes implementing HRIS platforms, AI‑assisted applicant tracking, and employee self‑service portals. Iris also brings a unique cultural programming skill set, curating internal art exhibitions and creative workshops that boost morale and reinforce a vibrant corporate culture.",
+    "skills_and_expertise_list": [
+      "Strategic talent acquisition",
+      "Employer branding",
+      "Inclusive recruitment pipelines",
+      "Employee relations and conflict mediation",
+      "Performance management design",
+      "Feedback and development planning",
+      "HR policy development and compliance",
+      "Flexible work and remote‑work program design",
+      "HR analytics and data‑driven decision making",
+      "HRIS and AI‑assisted recruiting technology implementation",
+      "Employee engagement initiatives",
+      "Corporate cultural programming and art curation",
+      "Change management",
+      "Leadership coaching",
+      "Diversity, equity, and inclusion strategy"
+    ],
+    "hobbies_and_interests": "In her free time, Iris indulges in a wide spectrum of artistic and experiential pursuits. She frequently visits the Museum of Fine Arts in Boston, contemporary galleries in Cambridge, and local art fairs in Middlesex County, often collecting prints that inspire her office décor. She practices oil painting and pottery at community studios, channeling her curiosity into hands‑on creation. Iris reads a blend of classic literature, modern philosophy, and cutting‑edge business books, favoring authors like Haruki Murakami, Malcolm Gladwell, and Adam Grant. She cultivates a habit of journaling and reflective writing, which reinforces her calm mindset. Outdoor activities such as weekend hikes along the New England coastline, kayaking on the Merrimack River, and cycling through local trails balance her desire for solitude with moderate social interaction. She participates in strategic board‑game evenings and local trivia nights, satisfying her competitive streak. Iris also enjoys attending live theater productions, indie film screenings, and occasional wine‑tasting events at nearby vineyards, always seeking new cultural experiences.",
+    "hobbies_and_interests_list": [
+      "Visiting art museums and galleries",
+      "Oil painting",
+      "Pottery",
+      "Reading literature and non‑fiction",
+      "Journaling and reflective writing",
+      "Hiking and nature walks",
+      "Kayaking on the Merrimack River",
+      "Cycling on local trails",
+      "Strategic board‑games and trivia nights",
+      "Live theater and indie film screenings",
+      "Wine tasting at regional vineyards",
+      "Exploring new cuisines and food festivals",
+      "Photography of urban and natural scenes"
+    ],
+    "career_goals_and_ambitions": "Iris aspires to ascend to a senior leadership role such as Director of Human Resources or Vice President of People within a mid‑size technology or creative firm in the Greater Boston area. She seeks to be recognized as a thought leader who bridges HR best practices with artistic innovation, developing programs that embed creativity into everyday work life. Her short‑term goal is to obtain the SHRM‑Senior Certified Professional (SHRM‑SCP) credential and complete an executive MBA to deepen her strategic business acumen. Over the next five years, she aims to launch a company‑wide employee well‑being suite that integrates mindfulness, flexible work policies, and rotating art installations, driving measurable improvements in engagement scores and turnover reduction. Ultimately, Iris wishes to mentor the next generation of HR professionals, speak at industry conferences on the power of art in workplace culture, and possibly establish a boutique consultancy that helps organizations design culturally rich, resilient workplaces."
+  },
+  "rules": [
+    {
+      "rule_text": "When buying supplies or specialty goods, she prefers products with a local or boutique angle over generic mass-market picks.",
+      "canonical_answer": "I usually choose local or boutique products when I order specialty items.",
+      "counterfactual_default": "Pick the most common or generic product option.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "a rotating selection of boutique Massachusetts wines"
+        },
+        {
+          "type": "direct",
+          "content": "local art fairs in Middlesex County"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "iris_parker_commerce_01"
+    },
+    {
+      "rule_text": "When a purchased arts or cooking item is wrong, she prefers an exchange rather than giving up on it with a refund.",
+      "canonical_answer": "If I ordered the right kind of item but got the wrong version, I usually want an exchange.",
+      "counterfactual_default": "Request a refund and stop the purchase altogether.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "collecting prints by Yayoi Kusama and Kehinde Wiley for her office"
+        },
+        {
+          "type": "direct",
+          "content": "frequently cooking New England clam chowder, roasted beet salad with dill-infused vinaigrette, and grilled octopus"
+        },
+        {
+          "type": "inferred",
+          "content": "Her curated tastes in art and cooking imply she still wants the intended item when the issue is mismatch or defect, making exchange more natural than abandoning the purchase."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "return_order",
+        "param": "resolution_type"
+      },
+      "rule_id": "iris_parker_commerce_03"
+    },
+    {
+      "rule_text": "For messages that represent her professionally or touch workplace culture, she prefers to draft them for review rather than send them immediately.",
+      "canonical_answer": "I always draft professionally important messages first so I can review the tone before anything goes out.",
+      "counterfactual_default": "Send the message directly once the requested content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Occupation: human_resources_manager"
+        },
+        {
+          "type": "direct",
+          "content": "She cultivates a habit of journaling and reflective writing"
+        },
+        {
+          "type": "direct",
+          "content": "Employer branding"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "iris_parker_communication_01"
+    },
+    {
+      "rule_text": "For arts newsletters and gallery announcements, she prefers marking them low priority rather than leaving them at a normal inbox level.",
+      "canonical_answer": "I keep arts newsletters in my inbox ecosystem, but I mark them low priority.",
+      "counterfactual_default": "Leave those messages at normal priority.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "frequently visits the Museum of Fine Arts in Boston, contemporary galleries in Cambridge, and local art fairs"
+        },
+        {
+          "type": "direct",
+          "content": "always seeking new cultural experiences"
+        },
+        {
+          "type": "inferred",
+          "content": "She wants to retain a steady stream of cultural information, but as an HR leader she also needs her active queue reserved for operational communication."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "set_message_priority",
+        "param": "priority"
+      },
+      "rule_id": "iris_parker_communication_03"
+    },
+    {
+      "rule_text": "When booking a meal out, she favors farm-to-table restaurants over generic options.",
+      "canonical_answer": "I prefer farm-to-table places when I book restaurants.",
+      "counterfactual_default": "Choose a broadly popular restaurant without emphasizing sourcing style.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Iris Parker enjoys farm-to-table cuisine"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "iris_parker_reservation_01"
+    },
+    {
+      "rule_text": "When booking a local appointment tied to her creative hobbies, she prefers community studio providers over generic service providers.",
+      "canonical_answer": "For creative appointments, I prefer community studio-style providers.",
+      "counterfactual_default": "Choose any available provider with good availability.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "She practices oil painting and pottery at community studios"
+        },
+        {
+          "type": "direct",
+          "content": "shaping pottery on a wheel"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_service_appointment",
+        "param": "provider_id"
+      },
+      "rule_id": "iris_parker_reservation_03"
+    },
+    {
+      "rule_text": "When an invitation conflicts with something not fully sorted out yet, she prefers to reply tentatively rather than accept or decline outright.",
+      "canonical_answer": "If timing is still unsettled, I respond tentative first.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "integrating progressive workplace practices such as flexible scheduling"
+        },
+        {
+          "type": "direct",
+          "content": "using strong emotional intelligence to de-escalate tense situations"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "iris_parker_scheduling_01"
+    },
+    {
+      "rule_text": "When adjusting an existing event for a cultural outing or workshop, she prefers changing the location rather than changing the title or participant list.",
+      "canonical_answer": "If an event needs refining, I usually change the location to fit the experience better.",
+      "counterfactual_default": "Edit the title or attendee list before reconsidering the venue.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "curating internal art exhibitions"
+        },
+        {
+          "type": "direct",
+          "content": "frequenting the Museum of Fine Arts and contemporary Cambridge galleries"
+        },
+        {
+          "type": "inferred",
+          "content": "Because she thinks in curatorial terms and values setting, venue choice is a primary lever in shaping the feel of a workshop or arts-related gathering."
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "modify_event",
+        "param": "field"
+      },
+      "rule_id": "iris_parker_scheduling_04"
+    },
+    {
+      "rule_text": "For short regional getaways, she prefers ground transport over booking a flight.",
+      "canonical_answer": "For New England trips, I prefer trains or other ground transport instead of flying.",
+      "counterfactual_default": "Check flight options first and book a flight if one is available.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "often planning weekend getaways to New England gems such as Martha’s Vineyard, Portland ME, and Salem"
+        },
+        {
+          "type": "direct",
+          "content": "cycles with the Cambridge Cycle Collective"
+        },
+        {
+          "type": "direct",
+          "content": "stays active through the Boston Outdoor Club"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "iris_parker_travel_01"
+    },
+    {
+      "rule_text": "When booking a flight, she prefers a window seat.",
+      "canonical_answer": "If I have to fly, I want a window seat.",
+      "counterfactual_default": "Pick an aisle seat for convenience.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Photography of urban and natural scenes"
+        },
+        {
+          "type": "direct",
+          "content": "weekend hikes along the New England coastline"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "book_flight",
+        "param": "seat_preference"
+      },
+      "rule_id": "iris_parker_travel_02"
+    },
+    {
+      "rule_text": "When a booked trip stop falls through, she prefers replacement stops that preserve the original cultural or artistic theme.",
+      "canonical_answer": "If a trip stop changes, I want the replacement to keep the same cultural feel.",
+      "counterfactual_default": "Swap in any convenient or highly rated alternative stop.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "balancing detailed itineraries with spontaneous art-festival visits"
+        },
+        {
+          "type": "direct",
+          "content": "culturally rich, moderate-budget travel"
+        },
+        {
+          "type": "inferred",
+          "content": "Because her travel is intentionally curated around art, history, and literature, a disruption should be repaired with a same-theme substitute rather than a generic replacement."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "iris_parker_travel_04"
+    },
+    {
+      "rule_text": "When booking lodging, she prefers moderate-budget boutique or artsy accommodations over generic chain-style options.",
+      "canonical_answer": "I prefer moderately priced boutique hotels with some character.",
+      "counterfactual_default": "Choose the cheapest or most standard hotel that meets the basics.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Iris Parker favors culturally rich, moderate-budget travel"
+        },
+        {
+          "type": "direct",
+          "content": "frequenting the Museum of Fine Arts and contemporary Cambridge galleries"
+        },
+        {
+          "type": "inferred",
+          "content": "Her mix of moderate budgeting and strong aesthetic interests points toward characterful boutique lodging rather than purely utilitarian chain hotels."
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_hotel",
+        "param": "hotel_offer_id"
+      },
+      "rule_id": "iris_parker_travel_05"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "iris_parker_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my email and draft a reply",
+      "task_params": {
+        "sender": "Lena Ortiz",
+        "folder": "inbox",
+        "priority": "high",
+        "label_name": "Employee Relations",
+        "reply_points": [
+          "thank her for flagging the concern",
+          "say HR is reviewing the accommodation request today",
+          "note that manager follow-up is being coordinated",
+          "promise a fuller update by end of day"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "list_labels",
+        "label_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Lena Ortiz",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "list_labels",
+          "arguments": {}
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_01"
+            ],
+            "label_ids": [
+              "lbl_01"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_01",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Ortiz",
+              "subject": "Follow-up on accommodation request",
+              "body": "Hi Iris, checking in on the accommodation request I submitted last week. My manager asked whether HR had an update and I wanted to see what I should tell them today. Thanks, Lena",
+              "thread_id": "thr_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T08:12:00"
+            }
+          },
+          {
+            "id": "msg_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Marcus Hill",
+              "subject": "Updated benefits deck",
+              "body": "Sharing the revised deck before the noon review.",
+              "thread_id": "thr_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:48:00"
+            }
+          },
+          {
+            "id": "lbl_01",
+            "type": "label",
+            "attributes": {
+              "name": "Employee Relations",
+              "topic": "Sensitive employee issues and follow-up"
+            }
+          },
+          {
+            "id": "lbl_02",
+            "type": "label",
+            "attributes": {
+              "name": "Benefits",
+              "topic": "Health, retirement, and leave administration"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s02",
+      "session_type": "learning",
+      "day_offset": 2,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document.",
+      "task_params": {
+        "reference_doc_type": "template",
+        "doc_type": "note",
+        "location": "Employer Branding",
+        "title": "Art Programming Employer Branding Ideas",
+        "content_brief": "Brainstorm ideas for blending art programming into employer branding strategy",
+        "idea_points": [
+          "employee art showcases tied to recruiting campaigns",
+          "artist-led workshops for team culture storytelling",
+          "gallery-style office events for candidate visits",
+          "partnerships with local arts organizations",
+          "ways to measure engagement and brand lift"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document",
+        "update_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Employer Branding",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "note",
+            "title": "Art Programming Employer Branding Ideas",
+            "location": "Employer Branding",
+            "content_brief": "Brainstorm ideas for blending art programming into employer branding strategy"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_brandtpl_01",
+            "content_delta": "<authored from idea_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_brandtpl_01",
+            "type": "document",
+            "attributes": {
+              "title": "Employer Branding Campaign Template",
+              "doc_type": "template",
+              "location": "Employer Branding",
+              "content_brief": "Reusable template for campaign themes, audience, channels, and success metrics"
+            }
+          },
+          {
+            "id": "doc_brandnote_02",
+            "type": "document",
+            "attributes": {
+              "title": "Candidate Experience Notes",
+              "doc_type": "note",
+              "location": "Employer Branding",
+              "content_brief": "Working notes on candidate touchpoints and recruiting narrative ideas"
+            }
+          },
+          {
+            "id": "doc_culturetpl_03",
+            "type": "document",
+            "attributes": {
+              "title": "Culture Programming Template",
+              "doc_type": "template",
+              "location": "People Team",
+              "content_brief": "Template for internal events, participation goals, and follow-up actions"
+            }
+          },
+          {
+            "id": "fold_brand_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Employer Branding",
+              "purpose": "Working materials for recruiting narrative and brand projects"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s03",
+      "session_type": "learning",
+      "day_offset": 3,
+      "domain": "reservation",
+      "reason_for_call": "Book an appointment.",
+      "task_params": {
+        "service_type": "pottery studio",
+        "location": "Lowell",
+        "sort_by": "rating",
+        "date_time": "2025-02-13T19:00:00",
+        "provider_id": "svc_clayroom_01"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "pottery studio",
+            "location": "Lowell",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_clayroom_01",
+            "date_time": "2025-02-13T19:00:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_clayroom_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Clay Room Studio",
+              "service_type": "pottery studio",
+              "location": "Lowell",
+              "rating": 4.9,
+              "distance_km": 11.2
+            }
+          },
+          {
+            "id": "svc_mudwheel_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Mudwheel Collective",
+              "service_type": "pottery studio",
+              "location": "Lowell",
+              "rating": 4.7,
+              "distance_km": 9.8
+            }
+          },
+          {
+            "id": "svc_fireform_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Fireform Ceramics",
+              "service_type": "ceramics class",
+              "location": "Chelmsford",
+              "rating": 4.6,
+              "distance_km": 4.1
+            }
+          },
+          {
+            "id": "svc_artloft_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Art Loft Workshops",
+              "service_type": "pottery studio",
+              "location": "Burlington",
+              "rating": 4.5,
+              "distance_km": 18.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "paint set",
+        "budget": 35,
+        "sort_by": "rating",
+        "quantity": 1,
+        "product_ids": [
+          "prod_paint_01",
+          "prod_paint_02",
+          "prod_paint_03"
+        ]
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "paint set",
+            "budget": 35,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_paint_01",
+              "prod_paint_02",
+              "prod_paint_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_paint_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_paint_01",
+            "type": "product",
+            "attributes": {
+              "name": "Pocket Gouache Paint Set - 12 Colors",
+              "price": 24.99,
+              "category": "paint set",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_paint_02",
+            "type": "product",
+            "attributes": {
+              "name": "Travel Watercolor Paint Set - 18 Half Pans",
+              "price": 31.5,
+              "category": "paint set",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_paint_03",
+            "type": "product",
+            "attributes": {
+              "name": "Mini Acrylic Paint Set - 24 Tubes",
+              "price": 19.99,
+              "category": "paint set",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_brush_01",
+            "type": "product",
+            "attributes": {
+              "name": "Compact Detail Brush Roll - 6 Pieces",
+              "price": 14.99,
+              "category": "brush set",
+              "rating": 4.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "communication",
+      "reason_for_call": "Draft a work note",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "sent",
+        "thread_id": "thr_hiring_17",
+        "subject": "Candidate feedback summary",
+        "language": "en",
+        "body_points": [
+          "Thank her for the time yesterday and follow-up patience",
+          "Summarize that panel feedback was consistently positive",
+          "Highlight strong stakeholder communication and thoughtful answers",
+          "Note one concern about ramp time on technical systems",
+          "Recommend moving the candidate to the final round",
+          "Offer to discuss details live if helpful"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "sent"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_hiring_17",
+            "subject": "Candidate feedback summary",
+            "language": "en",
+            "body": "<authored from body_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_hiring_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Candidate feedback summary",
+              "body": "Hi Iris — just checking whether you had a chance to send over the candidate feedback summary you mentioned. Once I have it, I can align with the rest of the panel and decide next steps. Thanks.",
+              "thread_id": "thr_hiring_17",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-11T09:18:00"
+            }
+          },
+          {
+            "id": "msg_hiring_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Interview panel timing",
+              "body": "I moved the debrief by thirty minutes so everyone can join. Let me know if that still works.",
+              "thread_id": "thr_hiring_11",
+              "folder": "inbox",
+              "labels": [
+                "recruiting"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-10T16:02:00"
+            }
+          },
+          {
+            "id": "msg_hiring_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Ruiz",
+              "subject": "Offer approval routing",
+              "body": "Can you confirm whether finance has signed off on the compensation band yet?",
+              "thread_id": "thr_hiring_09",
+              "folder": "sent",
+              "labels": [],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-11T08:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s10",
+      "session_type": "learning",
+      "day_offset": 10,
+      "domain": "scheduling",
+      "reason_for_call": "Set a reminder",
+      "task_params": {
+        "calendar": "work",
+        "title": "People Team Q3 Presentation",
+        "start_time": "2025-03-18T14:00:00-04:00",
+        "end_time": "2025-03-18T15:00:00-04:00",
+        "remind_at": "2025-03-18T13:15:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "work"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_people_q3_01",
+            "remind_at": "2025-03-18T13:15:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_people_q3_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "People Team Q3 Presentation",
+              "start_time": "2025-03-18T14:00:00-04:00",
+              "end_time": "2025-03-18T15:00:00-04:00",
+              "participants": [
+                "Lena Ortiz",
+                "Marcus Chen",
+                "Iris Parker"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_hiring_sync_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Hiring Sync",
+              "start_time": "2025-03-18T11:00:00-04:00",
+              "end_time": "2025-03-18T11:30:00-04:00",
+              "participants": [
+                "Iris Parker",
+                "Sam Patel"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_pottery_class_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Pottery Studio Session",
+              "start_time": "2025-03-18T18:30:00-04:00",
+              "end_time": "2025-03-18T20:00:00-04:00",
+              "participants": [
+                "Iris Parker"
+              ],
+              "location": "Middlesex Clay Studio",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s11",
+      "session_type": "learning",
+      "day_offset": 11,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox threads",
+      "task_params": {
+        "folder": "inbox",
+        "sender": "Maya Chen",
+        "priority": "low",
+        "folder_id": "fld_archive_02",
+        "label_ids": [
+          "lbl_admin_01"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "label_messages",
+        "archive_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Maya Chen"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_maya_01"
+            ],
+            "priority": "low"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_maya_01"
+            ],
+            "label_ids": [
+              "lbl_admin_01"
+            ]
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_maya_01"
+            ],
+            "folder_id": "fld_archive_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Volunteer signup reminder",
+              "body": "Just bumping this to the top of your inbox. We still have a few open slots for next month's community table. No pressure if your schedule is packed.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-18T09:14:00"
+            }
+          },
+          {
+            "id": "msg_ops_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Office Operations",
+              "subject": "Printer supply restock complete",
+              "body": "The toner order came in and all shared-floor printers have been restocked.",
+              "thread_id": "thr_ops_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-19T11:02:00"
+            }
+          },
+          {
+            "id": "msg_news_03",
+            "type": "message",
+            "attributes": {
+              "sender": "City Arts Bulletin",
+              "subject": "Weekend gallery listings",
+              "body": "Here are this week's openings, artist talks, and late-night museum events.",
+              "thread_id": "thr_news_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-20T07:45:00"
+            }
+          },
+          {
+            "id": "fld_archive_02",
+            "type": "folder",
+            "attributes": {
+              "name": "Admin Archive",
+              "purpose": "Storage for routine administrative threads and low-action reminders."
+            }
+          },
+          {
+            "id": "lbl_admin_01",
+            "type": "label",
+            "attributes": {
+              "name": "Admin",
+              "topic": "Routine logistics and non-urgent coordination."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip",
+      "task_params": {
+        "origin": "Boston",
+        "destination": "Portland",
+        "passenger_count": 2,
+        "departure_date": "2025-05-17",
+        "transport_mode": "train",
+        "sort_by": "price_asc",
+        "transport_offer_id": "transport_downeaster_01"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "Boston",
+            "destination": "Portland",
+            "passenger_count": 2,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "transport_downeaster_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "transport_downeaster_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "Portland",
+              "mode": "train",
+              "departure_date": "2025-05-17",
+              "price": 58.0,
+              "available_seats": 14
+            }
+          },
+          {
+            "id": "transport_concord_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "Portland",
+              "mode": "bus",
+              "departure_date": "2025-05-17",
+              "price": 44.0,
+              "available_seats": 19
+            }
+          },
+          {
+            "id": "transport_downeaster_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "Portland",
+              "mode": "train",
+              "departure_date": "2025-05-18",
+              "price": 61.0,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "transport_peterpan_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston",
+              "destination": "Portsmouth",
+              "mode": "bus",
+              "departure_date": "2025-05-17",
+              "price": 32.0,
+              "available_seats": 22
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Portland",
+        "cuisine": "farm-to-table",
+        "date_time": "2025-05-17T19:00:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Portland",
+            "cuisine": "farm-to-table",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_earthwharf_01",
+            "date_time": "2025-05-17T19:00:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_earthwharf_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Earth & Wharf Kitchen",
+              "cuisine": "farm-to-table",
+              "location": "Portland",
+              "rating": 4.8,
+              "price_range": "$$$",
+              "seating_style": "cozy dining room"
+            }
+          },
+          {
+            "id": "rst_harvesttide_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harvest Tide",
+              "cuisine": "farm-to-table",
+              "location": "Portland",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "waterfront"
+            }
+          },
+          {
+            "id": "rst_pineroot_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Pine Root Supper Club",
+              "cuisine": "New American",
+              "location": "Portland",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "rustic"
+            }
+          },
+          {
+            "id": "rst_saltmeadow_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Salt Meadow Table",
+              "cuisine": "seafood",
+              "location": "Portland",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "modern bistro"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "insulated water bottle",
+        "budget": 45,
+        "product_ids": [
+          "prod_hydropeak_01",
+          "prod_trailquench_02",
+          "prod_riverhold_03"
+        ],
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "insulated water bottle",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_hydropeak_01",
+              "prod_trailquench_02",
+              "prod_riverhold_03"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_riverhold_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_hydropeak_01",
+            "type": "product",
+            "attributes": {
+              "name": "HydroPeak Insulated Water Bottle 32 oz",
+              "price": 39.95,
+              "category": "insulated water bottle",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_trailquench_02",
+            "type": "product",
+            "attributes": {
+              "name": "TrailQuench Steel Insulated Water Bottle 40 oz",
+              "price": 44.5,
+              "category": "insulated water bottle",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_riverhold_03",
+            "type": "product",
+            "attributes": {
+              "name": "RiverHold Rugged Insulated Water Bottle 36 oz",
+              "price": 42,
+              "category": "insulated water bottle",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_summitsip_04",
+            "type": "product",
+            "attributes": {
+              "name": "SummitSip Vacuum Bottle 24 oz",
+              "price": 31.99,
+              "category": "insulated water bottle",
+              "rating": 4.3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "communication",
+      "reason_for_call": "Draft an invitation message",
+      "task_params": {
+        "recipient": "creative-all@northlight.co",
+        "subject": "Invitation: Studio Hours Workshop",
+        "language": "en",
+        "body_points": [
+          "invite colleagues to an internal creative workshop called Studio Hours",
+          "frame it as a relaxed drop-in experience rather than a formal meeting",
+          "mention collage, sketching, and idea pinning stations",
+          "say no art experience is needed and curiosity is enough",
+          "encourage people to stop by, look around, and contribute a small idea",
+          "keep the tone warm, welcoming, and a little gallery-opening inspired"
+        ]
+      },
+      "expected_tools": [
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "recipient": "creative-all@northlight.co",
+            "subject": "Invitation: Studio Hours Workshop",
+            "body": "<authored from body_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_ops_01",
+            "type": "message",
+            "attributes": {
+              "sender": "ops@northlight.co",
+              "subject": "Facilities walkthrough notes",
+              "body": "Attached are the updated walkthrough notes for the third floor.",
+              "thread_id": "thr_ops_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-16T09:12:00"
+            }
+          },
+          {
+            "id": "msg_people_02",
+            "type": "message",
+            "attributes": {
+              "sender": "peopleteam@northlight.co",
+              "subject": "Volunteer signup reminder",
+              "body": "Please add your name if you can help with next month's welcome table.",
+              "thread_id": "thr_people_02",
+              "folder": "inbox",
+              "labels": [
+                "internal"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-15T14:40:00"
+            }
+          },
+          {
+            "id": "fld_team_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Team Notes",
+              "purpose": "Shared operational and internal coordination items"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s17",
+      "session_type": "learning",
+      "day_offset": 17,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule a planning meeting",
+      "task_params": {
+        "title": "Q3 Cross-Functional Planning Session",
+        "start_time": "2025-04-23T11:00:00-04:00",
+        "end_time": "2025-04-23T12:00:00-04:00",
+        "participants": [
+          "maya.chen@northstar.co",
+          "jon.reed@northstar.co",
+          "leo.martin@northstar.co"
+        ],
+        "location": "Zoom"
+      },
+      "expected_tools": [
+        "list_events",
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "participants": [
+              "maya.chen@northstar.co",
+              "jon.reed@northstar.co",
+              "leo.martin@northstar.co"
+            ]
+          }
+        },
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-04-23T11:00:00-04:00",
+            "end_time": "2025-04-23T12:00:00-04:00",
+            "participants": [
+              "maya.chen@northstar.co",
+              "jon.reed@northstar.co",
+              "leo.martin@northstar.co"
+            ]
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "Q3 Cross-Functional Planning Session",
+            "start_time": "2025-04-23T11:00:00-04:00",
+            "end_time": "2025-04-23T12:00:00-04:00",
+            "participants": [
+              "maya.chen@northstar.co",
+              "jon.reed@northstar.co",
+              "leo.martin@northstar.co"
+            ],
+            "location": "Zoom"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_201",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Recruiting Pipeline Review",
+              "start_time": "2025-04-21T09:30:00-04:00",
+              "end_time": "2025-04-21T10:30:00-04:00",
+              "participants": [
+                "maya.chen@northstar.co",
+                "iris.parker@northstar.co"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_202",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Finance Sync",
+              "start_time": "2025-04-22T13:00:00-04:00",
+              "end_time": "2025-04-22T14:00:00-04:00",
+              "participants": [
+                "jon.reed@northstar.co",
+                "iris.parker@northstar.co"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_203",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Q3 Cross-Functional Planning Session",
+              "start_time": "2025-04-23T11:00:00-04:00",
+              "end_time": "2025-04-23T12:00:00-04:00",
+              "participants": [
+                "leo.martin@northstar.co",
+                "maya.chen@northstar.co"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_204",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Benefits Vendor Check-in",
+              "start_time": "2025-04-24T15:00:00-04:00",
+              "end_time": "2025-04-24T16:00:00-04:00",
+              "participants": [
+                "iris.parker@northstar.co",
+                "maya.chen@northstar.co",
+                "jon.reed@northstar.co"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "communication",
+      "reason_for_call": "Reply to a message",
+      "task_params": {
+        "sender": "Dana Kline",
+        "folder": "inbox",
+        "reply_thread_id": "thr_mentor_01",
+        "language": "en",
+        "reply_points": [
+          "Thank her for the thoughtful note and continued support",
+          "Say I'm exploring the next step toward HR leadership",
+          "Ask what skills or experiences to prioritize over the next year",
+          "Ask whether SHRM-SCP is the right credential to focus on now",
+          "Mention I'd value any reading or networking recommendations",
+          "Keep the tone concise and appreciative"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Dana Kline",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_mentor_01",
+            "body": "<authored from reply_points>",
+            "language": "en"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_mentor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Kline",
+              "subject": "Re: Thinking about your next leadership step",
+              "body": "Iris, happy to keep helping as you map out your path. If you want, send me a quick note on what you're considering next and I can share thoughts on where to focus.",
+              "thread_id": "thr_mentor_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-18T09:14:00"
+            }
+          },
+          {
+            "id": "msg_team_02",
+            "type": "message",
+            "attributes": {
+              "sender": "People Ops Team",
+              "subject": "Updated onboarding metrics",
+              "body": "Sharing the latest dashboard before Friday's review.",
+              "thread_id": "thr_team_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-18T08:02:00"
+            }
+          },
+          {
+            "id": "msg_vendor_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Studio Clay Boston",
+              "subject": "Spring workshop schedule",
+              "body": "Our new pottery sessions are now open for registration.",
+              "thread_id": "thr_vendor_03",
+              "folder": "archive",
+              "labels": [
+                "personal"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-03-12T17:45:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s22",
+      "session_type": "learning",
+      "day_offset": 22,
+      "domain": "scheduling",
+      "reason_for_call": "Respond to a calendar invite",
+      "task_params": {
+        "calendar": "invites",
+        "title": "Workforce Culture Summit Webinar",
+        "start_time": "2025-03-25T14:00:00-04:00",
+        "end_time": "2025-03-25T15:00:00-04:00",
+        "response": "accept",
+        "remind_at": "2025-03-25T13:45:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "respond_to_event_invite",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_webinar_01",
+            "response": "accept"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_webinar_01",
+            "remind_at": "2025-03-25T13:45:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_webinar_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Workforce Culture Summit Webinar",
+              "start_time": "2025-03-25T14:00:00-04:00",
+              "end_time": "2025-03-25T15:00:00-04:00",
+              "participants": [
+                "events@hrleadersforum.com"
+              ],
+              "location": "Zoom",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_sync_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "People Ops Weekly Sync",
+              "start_time": "2025-03-25T15:30:00-04:00",
+              "end_time": "2025-03-25T16:00:00-04:00",
+              "participants": [
+                "team@company.com"
+              ],
+              "location": "Conference Room B",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_lunch_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Lunch with Maya",
+              "start_time": "2025-03-25T12:30:00-04:00",
+              "end_time": "2025-03-25T13:30:00-04:00",
+              "participants": [
+                "maya.chen@example.com"
+              ],
+              "location": "Downtown Chelmsford",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_panel_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Employer Branding Panel",
+              "start_time": "2025-03-27T11:00:00-04:00",
+              "end_time": "2025-03-27T12:00:00-04:00",
+              "participants": [
+                "programs@talentcollective.org"
+              ],
+              "location": "Teams",
+              "calendar": "invites",
+              "status": "tentative"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "workspace",
+      "reason_for_call": "Archive some old files.",
+      "task_params": {
+        "location": "Culture Programs",
+        "file_type": "docx",
+        "file_ids": [
+          "file_cp_spring_01",
+          "file_cp_fall_02",
+          "file_cp_gallery_03"
+        ],
+        "folder_id": "fld_archive_01"
+      },
+      "expected_tools": [
+        "list_files",
+        "list_file_folders",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_files",
+          "arguments": {
+            "location": "Culture Programs",
+            "file_type": "docx"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "file_cp_spring_01",
+              "file_cp_fall_02",
+              "file_cp_gallery_03"
+            ],
+            "folder_id": "fld_archive_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "file_cp_spring_01",
+            "type": "file",
+            "attributes": {
+              "name": "Culture Programs - Spring Workshop Draft v2.docx",
+              "file_type": "docx",
+              "location": "Shared Drive/People Team/Culture Programs",
+              "owner": "Iris Parker",
+              "labels": [
+                "draft",
+                "culture"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_cp_fall_02",
+            "type": "file",
+            "attributes": {
+              "name": "Culture Programs - Fall Series Draft old.docx",
+              "file_type": "docx",
+              "location": "Shared Drive/People Team/Culture Programs",
+              "owner": "Iris Parker",
+              "labels": [
+                "draft",
+                "outdated"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_cp_gallery_03",
+            "type": "file",
+            "attributes": {
+              "name": "Culture Programs Gallery Night Draft.docx",
+              "file_type": "docx",
+              "location": "Shared Drive/People Team/Culture Programs",
+              "owner": "Iris Parker",
+              "labels": [
+                "draft",
+                "revisions"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "file_cp_final_04",
+            "type": "file",
+            "attributes": {
+              "name": "Culture Programs 2025 Launch Final.docx",
+              "file_type": "docx",
+              "location": "Shared Drive/People Team/Culture Programs",
+              "owner": "Iris Parker",
+              "labels": [
+                "final",
+                "current"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Drafts",
+              "purpose": "Store outdated working files and superseded drafts"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "commerce",
+      "reason_for_call": "Build a shopping list",
+      "task_params": {
+        "category": "grocery",
+        "budget": 45,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_clams_01",
+          "prod_potatoes_02",
+          "prod_cream_03",
+          "prod_bacon_04",
+          "prod_onion_05"
+        ],
+        "items": [
+          "Fresh Littleneck Clams",
+          "Yukon Gold Potatoes",
+          "Heavy Cream",
+          "Applewood Smoked Bacon",
+          "Yellow Onion"
+        ],
+        "list_name": "Sunday Dinner"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "grocery",
+            "budget": 45,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_clams_01",
+              "prod_potatoes_02",
+              "prod_cream_03",
+              "prod_bacon_04",
+              "prod_onion_05"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Fresh Littleneck Clams",
+              "Yukon Gold Potatoes",
+              "Heavy Cream",
+              "Applewood Smoked Bacon",
+              "Yellow Onion"
+            ],
+            "list_name": "Sunday Dinner"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_clams_01",
+            "type": "product",
+            "attributes": {
+              "name": "Fresh Littleneck Clams",
+              "price": 12.99,
+              "category": "grocery",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_potatoes_02",
+            "type": "product",
+            "attributes": {
+              "name": "Yukon Gold Potatoes",
+              "price": 4.49,
+              "category": "grocery",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_cream_03",
+            "type": "product",
+            "attributes": {
+              "name": "Heavy Cream",
+              "price": 3.99,
+              "category": "grocery",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_bacon_04",
+            "type": "product",
+            "attributes": {
+              "name": "Applewood Smoked Bacon",
+              "price": 6.49,
+              "category": "grocery",
+              "rating": 4.9
+            }
+          },
+          {
+            "id": "prod_onion_05",
+            "type": "product",
+            "attributes": {
+              "name": "Yellow Onion",
+              "price": 1.29,
+              "category": "grocery",
+              "rating": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a reservation.",
+      "task_params": {
+        "location": "Westford",
+        "cuisine": "American",
+        "date_time": "2025-02-22T19:00:00",
+        "party_size": 2
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Westford",
+            "cuisine": "American",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_corktable_01",
+            "date_time": "2025-02-22T19:00:00",
+            "party_size": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_corktable_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Cork Table",
+              "cuisine": "American",
+              "location": "Westford",
+              "rating": 4.7,
+              "price_range": "$$$",
+              "seating_style": "wine bar"
+            }
+          },
+          {
+            "id": "rst_millstone_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Millstone Kitchen",
+              "cuisine": "American",
+              "location": "Westford",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "bistro"
+            }
+          },
+          {
+            "id": "rst_vinloom_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Vin & Loom",
+              "cuisine": "Mediterranean",
+              "location": "Lowell",
+              "rating": 4.6,
+              "price_range": "$$$",
+              "seating_style": "tasting room"
+            }
+          },
+          {
+            "id": "rst_harboroak_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harbor & Oak",
+              "cuisine": "New American",
+              "location": "Chelmsford",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "dining room"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "communication",
+      "reason_for_call": "Triage a sent message and draft a reply",
+      "task_params": {
+        "folder": "sent",
+        "sender": "Maya Chen",
+        "subject": "Workshop materials follow-up",
+        "reply_points": [
+          "Apologize for the delay in sending materials",
+          "Confirm the slide deck and worksheet are attached",
+          "Offer to answer questions or tailor examples for her team",
+          "Suggest a brief check-in next week if helpful"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "sent",
+            "sender": "Maya Chen"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Workshop materials follow-up",
+              "body": "Hi Iris, thanks again for leading the creative culture session. Just circling back on the materials you mentioned you'd send over when you had a chance.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-22T10:18:00"
+            }
+          },
+          {
+            "id": "msg_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Workshop materials follow-up",
+              "body": "Great meeting today. I realized I forgot to include the workshop packet in my recap, but I'll send the materials shortly.",
+              "thread_id": "thr_maya_01",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-21T16:42:00"
+            }
+          },
+          {
+            "id": "msg_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Daniel Ortiz",
+              "subject": "Workshop materials for onboarding session",
+              "body": "Thanks for offering to share the onboarding exercises. No rush, just whenever you have them ready.",
+              "thread_id": "thr_daniel_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-20T09:05:00"
+            }
+          },
+          {
+            "id": "msg_04",
+            "type": "message",
+            "attributes": {
+              "sender": "Iris Parker",
+              "subject": "Re: Candidate panel notes",
+              "body": "Sending over the notes from today's panel discussion.",
+              "thread_id": "thr_panel_02",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-04-21T14:11:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "location": "Portland, Maine",
+        "guest_count": 2,
+        "room_count": 1,
+        "sort_by": "price_asc",
+        "hotel_offer_id": "hot_oldport_01"
+      },
+      "expected_tools": [
+        "search_hotels",
+        "book_hotel"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_hotels",
+          "arguments": {
+            "location": "Portland, Maine",
+            "guest_count": 2,
+            "room_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_hotel",
+          "arguments": {
+            "hotel_offer_id": "hot_oldport_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "hot_oldport_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Old Port Harbor Hotel",
+              "location": "Portland, Maine",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 189.0
+            }
+          },
+          {
+            "id": "hot_artsdistrict_02",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Arts District Inn",
+              "location": "Portland, Maine",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 3,
+              "max_guests_per_room": 2,
+              "price_per_night": 205.0
+            }
+          },
+          {
+            "id": "hot_casco_03",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Casco Bay Stay",
+              "location": "Portland, Maine",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 176.0
+            }
+          },
+          {
+            "id": "hot_westend_04",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "West End Gallery Lodge",
+              "location": "Portland, Maine",
+              "check_in_date": "2025-10-18",
+              "check_out_date": "2025-10-19",
+              "available_rooms": 2,
+              "max_guests_per_room": 2,
+              "price_per_night": 198.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "commerce",
+      "reason_for_call": "Order a gift online",
+      "task_params": {
+        "category": "home decor",
+        "budget": 90,
+        "sort_by": "rating",
+        "product_id": "prod_frame_03",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "home decor",
+            "budget": 90,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_vase_01",
+              "prod_lamp_02",
+              "prod_frame_03",
+              "prod_throw_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_frame_03",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_vase_01",
+            "type": "product",
+            "attributes": {
+              "name": "Abstract Ceramic Bud Vase",
+              "price": 72.0,
+              "category": "home decor",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_lamp_02",
+            "type": "product",
+            "attributes": {
+              "name": "Modern Sculptural Desk Lamp",
+              "price": 88.0,
+              "category": "home decor",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_frame_03",
+            "type": "product",
+            "attributes": {
+              "name": "Gallery Floating Frame Set",
+              "price": 84.0,
+              "category": "home decor",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_throw_04",
+            "type": "product",
+            "attributes": {
+              "name": "Geometric Woven Throw Blanket",
+              "price": 58.0,
+              "category": "home decor",
+              "rating": 4.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "reservation",
+      "reason_for_call": "Book some event tickets.",
+      "task_params": {
+        "location": "Boston",
+        "event_tags": [
+          "theater",
+          "contemporary"
+        ],
+        "event_id": "evt_glassmenagerie_01",
+        "ticket_type": "general_admission",
+        "ticket_count": 2
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Boston",
+            "event_tags": [
+              "theater",
+              "contemporary"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_glassmenagerie_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 2
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_glassmenagerie_01",
+            "type": "event",
+            "attributes": {
+              "name": "The Glass Menagerie Reframed",
+              "location": "Boston",
+              "date_time": "2025-03-21T19:30:00",
+              "price": 48.0,
+              "event_tags": [
+                "theater",
+                "contemporary",
+                "play"
+              ]
+            }
+          },
+          {
+            "id": "evt_stageshift_02",
+            "type": "event",
+            "attributes": {
+              "name": "Stage Shift: New Voices Festival",
+              "location": "Boston",
+              "date_time": "2025-03-22T20:00:00",
+              "price": 36.0,
+              "event_tags": [
+                "theater",
+                "contemporary",
+                "festival"
+              ]
+            }
+          },
+          {
+            "id": "evt_bardafterdark_03",
+            "type": "event",
+            "attributes": {
+              "name": "Bard After Dark",
+              "location": "Cambridge",
+              "date_time": "2025-03-21T19:00:00",
+              "price": 42.0,
+              "event_tags": [
+                "theater",
+                "classic",
+                "play"
+              ]
+            }
+          },
+          {
+            "id": "evt_improvcurrent_04",
+            "type": "event",
+            "attributes": {
+              "name": "Current Lines Improv Night",
+              "location": "Boston",
+              "date_time": "2025-03-21T21:00:00",
+              "price": 22.0,
+              "event_tags": [
+                "comedy",
+                "improv",
+                "live"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox",
+      "task_params": {
+        "folder": "inbox",
+        "recruiting_sender": "Greenhouse Recruiting",
+        "policy_sender": "Legal & Compliance",
+        "culture_sender": "Culture Committee",
+        "recruiting_label_ids": [
+          "lbl_recruiting_01"
+        ],
+        "policy_label_ids": [
+          "lbl_policy_01"
+        ],
+        "culture_label_ids": [
+          "lbl_culture_01"
+        ]
+      },
+      "expected_tools": [
+        "list_labels",
+        "search_messages",
+        "label_messages"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_labels",
+          "arguments": {}
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Greenhouse Recruiting"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_greenhouse_01"
+            ],
+            "label_ids": [
+              "lbl_recruiting_01"
+            ]
+          }
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Legal & Compliance"
+          }
+        },
+        {
+          "tool": "label_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_legal_01"
+            ],
+            "label_ids": [
+              "lbl_policy_01"
+            ]
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_greenhouse_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Greenhouse Recruiting",
+              "subject": "Candidate debrief packets for Friday review",
+              "body": "Please review the attached debrief packets and confirm which candidates should move to panel interviews.",
+              "thread_id": "thr_greenhouse_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T09:12:00"
+            }
+          },
+          {
+            "id": "msg_legal_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Legal & Compliance",
+              "subject": "Updated remote work policy language for review",
+              "body": "Sharing the revised policy language and redlines for your feedback before circulation to managers.",
+              "thread_id": "thr_legal_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T10:03:00"
+            }
+          },
+          {
+            "id": "msg_culture_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Culture Committee",
+              "subject": "Spring creative workshop ideas and volunteer signup",
+              "body": "We're collecting proposals for the next culture programming cycle and need volunteer hosts.",
+              "thread_id": "thr_culture_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T11:27:00"
+            }
+          },
+          {
+            "id": "lbl_recruiting_01",
+            "type": "label",
+            "attributes": {
+              "name": "Recruiting",
+              "topic": "hiring and candidate pipeline"
+            }
+          },
+          {
+            "id": "lbl_policy_01",
+            "type": "label",
+            "attributes": {
+              "name": "Policy",
+              "topic": "compliance and policy review"
+            }
+          },
+          {
+            "id": "lbl_culture_01",
+            "type": "label",
+            "attributes": {
+              "name": "Culture Programming",
+              "topic": "employee events and workshops"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s36",
+      "session_type": "learning",
+      "day_offset": 36,
+      "domain": "communication",
+      "reason_for_call": "Draft a thank-you message",
+      "task_params": {
+        "sender": "Maya Chen",
+        "folder": "inbox",
+        "thread_id": "thr_workshop_07",
+        "language": "en",
+        "reply_points": [
+          "thank everyone for helping with setup and facilitation",
+          "mention the turnout was stronger than expected",
+          "say the energy in the room made the session feel special",
+          "appreciate people who stayed late for cleanup",
+          "express excitement about building on this momentum"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_workshop_07",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_workshop_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Creative workshop turnout was incredible",
+              "body": "Huge thanks again for all the help today. We had a much bigger crowd than expected, and people were still talking about the exercises afterward. If you want, we should send a quick thank-you to everyone who pitched in.",
+              "thread_id": "thr_workshop_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-06T17:42:00"
+            }
+          },
+          {
+            "id": "msg_workshop_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Alex Romero",
+              "subject": "Photos from today's internal session",
+              "body": "Sharing a few photos from the workshop space before everyone arrived.",
+              "thread_id": "thr_photos_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-06T16:15:00"
+            }
+          },
+          {
+            "id": "msg_workshop_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Volunteer list for next month",
+              "body": "Starting a draft list of volunteers for next month's employee programming.",
+              "thread_id": "thr_planning_11",
+              "folder": "archive",
+              "labels": [],
+              "priority": "normal",
+              "archived": true,
+              "timestamp": "2025-01-22T10:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "iris_parker_s37",
+      "session_type": "learning",
+      "day_offset": 37,
+      "domain": "workspace",
+      "reason_for_call": "Wrap up a work folder",
+      "task_params": {
+        "location": "Workshops/Q3 Creative Workshop",
+        "doc_type": "spreadsheet",
+        "document_id": "doc_budget_01",
+        "final_notes_points": [
+          "venue invoice matched submitted estimate",
+          "facilitator fee confirmed and paid",
+          "catering came in under budget",
+          "all receipts saved in the same project folder"
+        ],
+        "file_ids": [
+          "fil_invoice_01",
+          "fil_receipts_01",
+          "fil_slides_01"
+        ],
+        "folder_id": "fld_archive_01"
+      },
+      "expected_tools": [
+        "search_documents",
+        "update_document",
+        "list_file_folders",
+        "archive_files"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Workshops/Q3 Creative Workshop",
+            "doc_type": "spreadsheet"
+          }
+        },
+        {
+          "tool": "update_document",
+          "arguments": {
+            "document_id": "doc_budget_01",
+            "content_delta": "<authored from final_notes_points>"
+          }
+        },
+        {
+          "tool": "list_file_folders",
+          "arguments": {}
+        },
+        {
+          "tool": "archive_files",
+          "arguments": {
+            "file_ids": [
+              "fil_invoice_01",
+              "fil_receipts_01",
+              "fil_slides_01"
+            ],
+            "folder_id": "fld_archive_01"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_budget_01",
+            "type": "document",
+            "attributes": {
+              "title": "Creative Workshop Budget Final",
+              "doc_type": "spreadsheet",
+              "location": "Workshops/Q3 Creative Workshop",
+              "content_brief": "Final budget workbook for the internal creative workshop with cost totals and pending notes section."
+            }
+          },
+          {
+            "id": "fil_invoice_01",
+            "type": "file",
+            "attributes": {
+              "name": "venue_invoice_final.pdf",
+              "file_type": "pdf",
+              "location": "Workshops/Q3 Creative Workshop",
+              "owner": "Iris Parker",
+              "labels": [
+                "workshop",
+                "finance"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_receipts_01",
+            "type": "file",
+            "attributes": {
+              "name": "catering_receipts.zip",
+              "file_type": "txt",
+              "location": "Workshops/Q3 Creative Workshop",
+              "owner": "Iris Parker",
+              "labels": [
+                "workshop",
+                "receipts"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fil_slides_01",
+            "type": "file",
+            "attributes": {
+              "name": "facilitator_slides.pdf",
+              "file_type": "pdf",
+              "location": "Workshops/Q3 Creative Workshop",
+              "owner": "Iris Parker",
+              "labels": [
+                "workshop",
+                "materials"
+              ],
+              "archived": false
+            }
+          },
+          {
+            "id": "fld_archive_01",
+            "type": "folder",
+            "attributes": {
+              "name": "Archived Workshops",
+              "purpose": "Completed workshop materials and supporting files"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "Please order one jar of blueberry jam for the pantry, keep it under $12 and 10 oz or less, and just pick one for me.",
+      "gold_value": "prod_mill_brook_blueberry_01",
+      "session_id": "iris_parker_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "iris_parker_commerce_01",
+      "rule_ref": {
+        "rule_id": "iris_parker_commerce_01",
+        "rule_text": "When buying supplies or specialty goods, she prefers products with a local or boutique angle over generic mass-market picks.",
+        "canonical_answer": "I usually choose local or boutique products when I order specialty items."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_mill_brook_blueberry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Mill Brook Blueberry Jam",
+              "price": 10.99,
+              "category": "blueberry jam",
+              "rating": 4.3,
+              "jar_size_oz": 9,
+              "origin_region": "Middlesex County, Massachusetts",
+              "producer_scale": "independent producer",
+              "production_style": "small-batch",
+              "review_count": 57
+            }
+          },
+          {
+            "id": "prod_harbor_house_blueberry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Harbor House Blueberry Jam",
+              "price": 11.79,
+              "category": "blueberry jam",
+              "rating": 4.6,
+              "jar_size_oz": 17,
+              "origin_region": "Plymouth County, Massachusetts",
+              "producer_scale": "independent producer",
+              "production_style": "small-batch",
+              "review_count": 91
+            }
+          },
+          {
+            "id": "prod_smuckers_blueberry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Smucker's Blueberry Jam",
+              "price": 5.49,
+              "category": "blueberry jam",
+              "rating": 4.9,
+              "jar_size_oz": 10,
+              "producer_scale": "national brand",
+              "distribution_scope": "mass market",
+              "review_count": 4210,
+              "units_sold_last_30_days": 3800
+            }
+          },
+          {
+            "id": "prod_bonne_maman_blueberry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Bonne Maman Blueberry Jam",
+              "price": 7.99,
+              "category": "blueberry jam",
+              "rating": 4.8,
+              "jar_size_oz": 9.5,
+              "producer_scale": "national brand",
+              "distribution_scope": "mass market",
+              "review_count": 2634,
+              "units_sold_last_30_days": 2400
+            }
+          },
+          {
+            "id": "prod_market_pantry_blueberry_01",
+            "type": "product",
+            "attributes": {
+              "name": "Market Pantry Blueberry Jam",
+              "price": 3.99,
+              "category": "blueberry jam",
+              "rating": 4.7,
+              "jar_size_oz": 10,
+              "producer_scale": "store brand",
+              "distribution_scope": "mass market",
+              "review_count": 1890,
+              "units_sold_last_30_days": 3100
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_mill_brook_blueberry_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please handle the return for the wall art from my recent order.",
+      "gold_value": "exchange",
+      "session_id": "iris_parker_commerce_03_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "iris_parker_commerce_03",
+      "rule_ref": {
+        "rule_id": "iris_parker_commerce_03",
+        "rule_text": "When a purchased arts or cooking item is wrong, she prefers an exchange rather than giving up on it with a refund.",
+        "canonical_answer": "If I ordered the right kind of item but got the wrong version, I usually want an exchange."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_riverline_abstract_print_01",
+            "type": "product",
+            "attributes": {
+              "name": "Riverline Abstract Print",
+              "price": 58.0,
+              "category": "wall art",
+              "rating": 4.6,
+              "brand": "Riverline Studio",
+              "ordered_size": "24 x 36",
+              "received_size": "18 x 24",
+              "ordered_frame_finish": "natural oak",
+              "received_frame_finish": "black",
+              "order_id": "ord_6412_office",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-16"
+            }
+          },
+          {
+            "id": "prod_harbor_steel_stockpot_01",
+            "type": "product",
+            "attributes": {
+              "name": "Harbor Steel Stockpot",
+              "price": 68.0,
+              "category": "cookware",
+              "rating": 4.9,
+              "brand": "Harbor Steel",
+              "order_id": "ord_6384_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-14"
+            }
+          },
+          {
+            "id": "prod_willow_recipe_stand_01",
+            "type": "product",
+            "attributes": {
+              "name": "Willow Cookbook Stand",
+              "price": 27.0,
+              "category": "kitchen accessories",
+              "rating": 4.8,
+              "brand": "Willow Home",
+              "order_id": "ord_6339_kitchen",
+              "order_status": "delivered",
+              "delivered_date": "2026-04-12"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "return_order",
+              "arguments": {
+                "resolution_type": "exchange"
+              },
+              "compare_args": [
+                "resolution_type"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Ortiz at CityWorks University about the employer-branding panel invitation. Tell her I'm open to joining, ask whether they want a short bio and headshot for the event page, and say I'd also like a quick breakdown of the student audience before I lock in talking points.",
+      "gold_value": null,
+      "session_id": "iris_parker_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "iris_parker_communication_01",
+      "rule_ref": {
+        "rule_id": "iris_parker_communication_01",
+        "rule_text": "For messages that represent her professionally or touch workplace culture, she prefers to draft them for review rather than send them immediately.",
+        "canonical_answer": "I always draft professionally important messages first so I can review the tone before anything goes out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_panel_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Ortiz <lena.ortiz@cityworksu.edu>",
+              "subject": "Employer-branding panel invitation",
+              "body": "Hello Iris, we're putting together a CityWorks University panel for students interested in people operations and employer branding. Would you be open to representing Northbridge and speaking about your team's approach to mentorship and manager communication? If you're available, please let me know, and we can also use a short bio and headshot for the event page.",
+              "thread_id": "thr_lena_panel_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-09-03T10:14"
+            }
+          },
+          {
+            "id": "msg_sonia_exitinterviews_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Sonia Patel <sonia.patel@northbridgeco.com>",
+              "subject": "Exit interview summary template",
+              "body": "I updated the exit interview summary template with the new retention-code fields. When you have a minute, can you check whether the manager follow-up section still matches what you want?",
+              "thread_id": "thr_sonia_exit_21",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-09-03T09:02"
+            }
+          },
+          {
+            "id": "msg_vendor_perks_01",
+            "type": "message",
+            "attributes": {
+              "sender": "accounts@perkstream.io",
+              "subject": "September benefits platform invoice",
+              "body": "Your September invoice for the PerkStream benefits platform is now available in the billing portal.",
+              "thread_id": "thr_perkstream_invoice_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-09-03T07:41"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please update the priority on the Harborlight Gallery email about the Cambridge spring exhibitions preview that's in my inbox.",
+      "gold_value": "low",
+      "session_id": "iris_parker_communication_03_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "iris_parker_communication_03",
+      "rule_ref": {
+        "rule_id": "iris_parker_communication_03",
+        "rule_text": "For arts newsletters and gallery announcements, she prefers marking them low priority rather than leaving them at a normal inbox level.",
+        "canonical_answer": "I keep arts newsletters in my inbox ecosystem, but I mark them low priority."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_harborlight_cambridge_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Harborlight Gallery",
+              "subject": "Cambridge spring exhibitions preview and opening night details",
+              "body": "A preview of the upcoming spring exhibitions, artist talks, and opening reception schedule at Harborlight Gallery in Cambridge.",
+              "thread_id": "thr_harborlight_cambridge_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-09T10:18:00"
+            }
+          },
+          {
+            "id": "msg_mfa_members_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Museum of Fine Arts Boston",
+              "subject": "Member Thursday tickets and April program highlights",
+              "body": "Reserve tickets for Member Thursday and browse upcoming talks, films, and gallery programs across the museum.",
+              "thread_id": "thr_mfa_members_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-08T08:05:00"
+            }
+          },
+          {
+            "id": "msg_riverfront_openstudio_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Riverfront Arts Collective",
+              "subject": "Weekend open studio map and participating artists",
+              "body": "Here is the updated studio map and the list of participating artists for this weekend's open studio event.",
+              "thread_id": "thr_riverfront_openstudio_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-04-07T17:26:00"
+            }
+          },
+          {
+            "id": "msg_janice_headcount_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Janice Wu",
+              "subject": "Updated headcount for the benefits orientation",
+              "body": "I've attached the revised attendee count and room setup notes for tomorrow's benefits orientation.",
+              "thread_id": "thr_janice_headcount_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "high",
+              "archived": false,
+              "timestamp": "2026-04-09T09:02:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_message_priority",
+              "arguments": {
+                "priority": "low"
+              },
+              "compare_args": [
+                "priority"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner for four in Seattle on 2026-09-19 at 7:30pm, keep it to a $$ price range, and just pick a place for me.",
+      "gold_value": "rst_earth_hearth_01",
+      "session_id": "iris_parker_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "iris_parker_reservation_01",
+      "rule_ref": {
+        "rule_id": "iris_parker_reservation_01",
+        "rule_text": "When booking a meal out, she favors farm-to-table restaurants over generic options.",
+        "canonical_answer": "I prefer farm-to-table places when I book restaurants."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_earth_hearth_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Earth & Hearth Kitchen",
+              "cuisine": "Farm-to-table",
+              "location": "Seattle",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual dining room"
+            }
+          },
+          {
+            "id": "rst_harborline_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Harborline Grill",
+              "cuisine": "Steakhouse",
+              "location": "Seattle",
+              "rating": 4.9,
+              "price_range": "$$",
+              "seating_style": "waterfront patio"
+            }
+          },
+          {
+            "id": "rst_mori_house_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Mori House",
+              "cuisine": "Japanese",
+              "location": "Seattle",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "sushi bar"
+            }
+          },
+          {
+            "id": "rst_piazza_centrale_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Piazza Centrale",
+              "cuisine": "Italian",
+              "location": "Seattle",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "busy dining room"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_earth_hearth_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book me a pottery wheel lesson in Seattle for 2026-07-18 at 2:00pm — just pick a place for me.",
+      "gold_value": "svc_pottery_beacon_01",
+      "session_id": "iris_parker_reservation_03_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "iris_parker_reservation_03",
+      "rule_ref": {
+        "rule_id": "iris_parker_reservation_03",
+        "rule_text": "When booking a local appointment tied to her creative hobbies, she prefers community studio providers over generic service providers.",
+        "canonical_answer": "For creative appointments, I prefer community studio-style providers."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_pottery_beacon_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Beacon Community Clay Studio",
+              "service_type": "pottery wheel lesson",
+              "location": "Beacon Hill, Seattle",
+              "rating": 4.4,
+              "distance_km": 5.1
+            }
+          },
+          {
+            "id": "svc_pottery_metro_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Metro Pottery Services",
+              "service_type": "pottery wheel lesson",
+              "location": "Downtown Seattle",
+              "rating": 4.9,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "svc_pottery_easywheel_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "EasyWheel Ceramics Lessons",
+              "service_type": "pottery wheel lesson",
+              "location": "South Lake Union, Seattle",
+              "rating": 4.8,
+              "distance_km": 0.9
+            }
+          },
+          {
+            "id": "svc_pottery_cityline_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Cityline Clay Appointments",
+              "service_type": "pottery wheel lesson",
+              "location": "Capitol Hill, Seattle",
+              "rating": 4.7,
+              "distance_km": 1.2
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_service_appointment",
+              "arguments": {
+                "provider_id": "svc_pottery_beacon_01"
+              },
+              "compare_args": [
+                "provider_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't answered the Midtown Commons accessibility panel invite for 3:00–4:30pm. See whether it overlaps with anything already on my calendar, then send the reply for me.",
+      "gold_value": "tentative",
+      "session_id": "iris_parker_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "iris_parker_scheduling_01",
+      "rule_ref": {
+        "rule_id": "iris_parker_scheduling_01",
+        "rule_text": "When an invitation conflicts with something not fully sorted out yet, she prefers to reply tentatively rather than accept or decline outright.",
+        "canonical_answer": "If timing is still unsettled, I respond tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_midtown_commons_accessibility_panel",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Accessibility Strategy Panel",
+              "start_time": "2026-09-17T15:00:00-04:00",
+              "end_time": "2026-09-17T16:30:00-04:00",
+              "participants": [
+                "iris.parker@example.com",
+                "events@midtowncommons.org",
+                "alex.reyes@civicdesign.org"
+              ],
+              "location": "Midtown Commons",
+              "calendar": "invites",
+              "status": "confirmed",
+              "organizer": "Midtown Commons Programs",
+              "rsvp_deadline": "2026-09-15T17:00:00-04:00",
+              "source": "official_email",
+              "attendee_count": 85
+            }
+          },
+          {
+            "id": "evt_hold_possible_portfolio_review",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Hold: possible portfolio review with Maren",
+              "start_time": "2026-09-17T14:30:00-04:00",
+              "end_time": "2026-09-17T16:00:00-04:00",
+              "participants": [
+                "iris.parker@example.com",
+                "maren.kim@example.com"
+              ],
+              "location": "Studio 4B",
+              "calendar": "work",
+              "status": "tentative",
+              "source": "manual_entry"
+            }
+          },
+          {
+            "id": "evt_design_team_checkin",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Design team check-in",
+              "start_time": "2026-09-17T11:00:00-04:00",
+              "end_time": "2026-09-17T11:30:00-04:00",
+              "participants": [
+                "iris.parker@example.com",
+                "design-team@example.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_dinner_nadia",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Nadia",
+              "start_time": "2026-09-17T19:00:00-04:00",
+              "end_time": "2026-09-17T20:30:00-04:00",
+              "participants": [
+                "iris.parker@example.com",
+                "nadia.ross@example.com"
+              ],
+              "location": "Juniper Table",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "The MFA outing on my personal calendar still feels a little rough around the edges—please update the event using the single detail that would improve it most.",
+      "gold_value": "location",
+      "session_id": "iris_parker_scheduling_04_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "iris_parker_scheduling_04",
+      "rule_ref": {
+        "rule_id": "iris_parker_scheduling_04",
+        "rule_text": "When adjusting an existing event for a cultural outing or workshop, she prefers changing the location rather than changing the title or participant list.",
+        "canonical_answer": "If an event needs refining, I usually change the location to fit the experience better."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_mfa_outing_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Friday thing",
+              "start_time": "2026-09-18T18:30:00",
+              "end_time": "2026-09-18T20:30:00",
+              "participants": [
+                "iris.parker@example.com",
+                "lena.shah@example.com",
+                "dev.morton@example.com",
+                "claire.ng@example.com",
+                "marco.ellis@example.com"
+              ],
+              "location": "MFA Boston",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_collage_lab_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Collage Lab Workshop",
+              "start_time": "2026-09-12T14:00:00",
+              "end_time": "2026-09-12T16:00:00",
+              "participants": [
+                "iris.parker@example.com",
+                "nora.blake@example.com"
+              ],
+              "location": "Cambridge Art Center",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_gallery_walk_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "SoWa Gallery Walk",
+              "start_time": "2026-09-21T11:00:00",
+              "end_time": "2026-09-21T13:30:00",
+              "participants": [
+                "iris.parker@example.com",
+                "maya.chen@example.com"
+              ],
+              "location": "SoWa Art + Design District",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "modify_event",
+              "arguments": {
+                "field": "location"
+              },
+              "compare_args": [
+                "field"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book my one-way trip from Boston, MA to Portland, ME for 2026-09-18. It's just me, and I only need that leg handled.",
+      "gold_value": null,
+      "session_id": "iris_parker_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "iris_parker_travel_01",
+      "rule_ref": {
+        "rule_id": "iris_parker_travel_01",
+        "rule_text": "For short regional getaways, she prefers ground transport over booking a flight.",
+        "canonical_answer": "For New England trips, I prefer trains or other ground transport instead of flying."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_bos_pwm_20260918_capeair_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "Cape Air",
+              "price": 69,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_bos_pwm_20260918_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "Delta Connection",
+              "price": 74,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_bos_pwm_20260918_american_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Portland, ME",
+              "departure_date": "2026-09-18",
+              "airline": "American Airlines",
+              "price": 81,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "trp_bos_pwm_20260918_train_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Portland, ME",
+              "mode": "train",
+              "departure_date": "2026-09-18",
+              "price": 112,
+              "available_seats": 18
+            }
+          },
+          {
+            "id": "trp_bos_pwm_20260918_bus_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Boston, MA",
+              "destination": "Portland, ME",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 95,
+              "available_seats": 9
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book the lowest-priced flight from Portland to Denver for just me from the available options. I'm only bringing a carry-on, so use the usual traveler details and payment method on file and go ahead once you find the best match.",
+      "gold_value": "window",
+      "session_id": "iris_parker_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "iris_parker_travel_02",
+      "rule_ref": {
+        "rule_id": "iris_parker_travel_02",
+        "rule_text": "When booking a flight, she prefers a window seat.",
+        "canonical_answer": "If I have to fly, I want a window seat."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_pdx_den_hightrail_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Denver",
+              "departure_date": "2026-06-18",
+              "airline": "HighTrail Air",
+              "price": 129.0,
+              "available_seats": 5
+            }
+          },
+          {
+            "id": "flt_pdx_den_continentalwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Denver",
+              "departure_date": "2026-06-18",
+              "airline": "Continental West",
+              "price": 164.0,
+              "available_seats": 9
+            }
+          },
+          {
+            "id": "flt_pdx_den_summitjet_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Denver",
+              "departure_date": "2026-06-18",
+              "airline": "SummitJet",
+              "price": 151.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_pdx_slc_hightrail_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Portland",
+              "destination": "Salt Lake City",
+              "departure_date": "2026-06-18",
+              "airline": "HighTrail Air",
+              "price": 118.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_flight",
+              "arguments": {
+                "seat_preference": "window"
+              },
+              "compare_args": [
+                "seat_preference"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-5938 in Lisbon fell through. Please swap in a single replacement for an afternoon visit in central Lisbon that can fit in about 1-2 hours and doesn't require a big detour from the current route.",
+      "gold_value": [
+        "stop_lisbon_museu_chiado_01"
+      ],
+      "session_id": "iris_parker_travel_04_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "iris_parker_travel_04",
+      "rule_ref": {
+        "rule_id": "iris_parker_travel_04",
+        "rule_text": "When a booked trip stop falls through, she prefers replacement stops that preserve the original cultural or artistic theme.",
+        "canonical_answer": "If a trip stop changes, I want the replacement to keep the same cultural feel."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_lisbon_museu_chiado_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Museu do Chiado",
+              "stop_type": "art_museum",
+              "location": "Chiado, Lisbon, Portugal",
+              "tags": [
+                "museum",
+                "art",
+                "indoor",
+                "afternoon",
+                "central"
+              ],
+              "trip_id": "T-5938",
+              "rating": 4.3,
+              "detour_minutes_from_current_route": 9,
+              "visit_duration_hours": 1.5
+            }
+          },
+          {
+            "id": "stop_lisbon_maat_gallery_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "MAAT Gallery",
+              "stop_type": "art_museum",
+              "location": "Belém, Lisbon, Portugal",
+              "tags": [
+                "museum",
+                "art",
+                "design",
+                "riverfront",
+                "afternoon"
+              ],
+              "trip_id": "T-5938",
+              "rating": 4.8,
+              "detour_minutes_from_current_route": 29,
+              "visit_duration_hours": 2.0
+            }
+          },
+          {
+            "id": "stop_lisbon_santa_luzia_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Miradouro de Santa Luzia",
+              "stop_type": "viewpoint",
+              "location": "Alfama, Lisbon, Portugal",
+              "tags": [
+                "viewpoint",
+                "scenic",
+                "outdoor",
+                "popular",
+                "afternoon"
+              ],
+              "trip_id": "T-5938",
+              "rating": 4.9,
+              "detour_minutes_from_current_route": 6,
+              "visit_duration_hours": 1.0
+            }
+          },
+          {
+            "id": "stop_lisbon_time_out_market_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Time Out Market",
+              "stop_type": "food_market",
+              "location": "Cais do Sodré, Lisbon, Portugal",
+              "tags": [
+                "market",
+                "food_hall",
+                "indoor",
+                "popular",
+                "afternoon"
+              ],
+              "trip_id": "T-5938",
+              "rating": 4.7,
+              "detour_minutes_from_current_route": 5,
+              "visit_duration_hours": 1.5
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_lisbon_museu_chiado_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book one hotel in Portland, Oregon for 2 adults and 1 room, and keep it under $420 per night. Just pick an available option and take care of it.",
+      "gold_value": "htl_portland_ink_house_01",
+      "session_id": "iris_parker_travel_05_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "iris_parker_travel_05",
+      "rule_ref": {
+        "rule_id": "iris_parker_travel_05",
+        "rule_text": "When booking lodging, she prefers moderate-budget boutique or artsy accommodations over generic chain-style options.",
+        "canonical_answer": "I prefer moderately priced boutique hotels with some character."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "htl_portland_ink_house_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Ink House Hotel",
+              "location": "Portland, Oregon",
+              "check_in_date": "2026-09-18",
+              "check_out_date": "2026-09-21",
+              "available_rooms": 5,
+              "max_guests_per_room": 2,
+              "price_per_night": 228,
+              "category": "midscale",
+              "property_style": "boutique hotel",
+              "brand_affiliation": "independent",
+              "neighborhood_profile": "Pearl District arts area",
+              "design_theme": "rotating local printmaking exhibits",
+              "rating": 4.4,
+              "review_count": 338
+            }
+          },
+          {
+            "id": "htl_portland_canvas_loft_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Canvas Loft Hotel",
+              "location": "Portland, Oregon",
+              "check_in_date": "2026-09-18",
+              "check_out_date": "2026-09-21",
+              "available_rooms": 4,
+              "max_guests_per_room": 2,
+              "price_per_night": 389,
+              "category": "luxury",
+              "property_style": "boutique hotel",
+              "brand_affiliation": "independent",
+              "neighborhood_profile": "central gallery corridor",
+              "design_theme": "contemporary sculpture collection",
+              "rating": 4.7,
+              "review_count": 982
+            }
+          },
+          {
+            "id": "htl_portland_cityline_express_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "CityLine Express Portland",
+              "location": "Portland, Oregon",
+              "check_in_date": "2026-09-18",
+              "check_out_date": "2026-09-21",
+              "available_rooms": 9,
+              "max_guests_per_room": 2,
+              "price_per_night": 164,
+              "category": "economy",
+              "property_style": "standard chain hotel",
+              "brand_affiliation": "national chain",
+              "neighborhood_profile": "downtown transit hub",
+              "rating": 4.6,
+              "review_count": 3410,
+              "amenities": [
+                "free_breakfast",
+                "24h_front_desk"
+              ]
+            }
+          },
+          {
+            "id": "htl_portland_convention_inn_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Portland Convention Inn",
+              "location": "Portland, Oregon",
+              "check_in_date": "2026-09-18",
+              "check_out_date": "2026-09-21",
+              "available_rooms": 11,
+              "max_guests_per_room": 2,
+              "price_per_night": 179,
+              "category": "midscale",
+              "property_style": "chain hotel",
+              "brand_affiliation": "national chain",
+              "neighborhood_profile": "convention center district",
+              "rating": 4.8,
+              "review_count": 5275,
+              "amenities": [
+                "fitness_center",
+                "business_center"
+              ]
+            }
+          },
+          {
+            "id": "htl_portland_gateway_suites_01",
+            "type": "hotel_offer",
+            "attributes": {
+              "name": "Gateway Suites Portland",
+              "location": "Portland, Oregon",
+              "check_in_date": "2026-09-18",
+              "check_out_date": "2026-09-21",
+              "available_rooms": 7,
+              "max_guests_per_room": 2,
+              "price_per_night": 172,
+              "category": "midscale",
+              "property_style": "all-suite chain hotel",
+              "brand_affiliation": "national chain",
+              "neighborhood_profile": "medical district",
+              "rating": 4.7,
+              "review_count": 2194,
+              "amenities": [
+                "kitchenette",
+                "parking"
+              ]
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_hotel",
+              "arguments": {
+                "hotel_offer_id": "htl_portland_ink_house_01"
+              },
+              "compare_args": [
+                "hotel_offer_id"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.6666666666666666,
+    "actual_signal_overlap_rules": [
+      "iris_parker_commerce_01",
+      "iris_parker_communication_01",
+      "iris_parker_communication_03",
+      "iris_parker_reservation_01",
+      "iris_parker_reservation_03",
+      "iris_parker_scheduling_01",
+      "iris_parker_travel_01",
+      "iris_parker_travel_05"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.6666666666666666,
+    "teachable_rule_count": 8,
+    "zero_signal_rule_count": 4,
+    "signal_pool_size_dedup": 16,
+    "noise_pool_size": 21,
+    "K": 24,
+    "seed": 0,
+    "selected_rules": [
+      "iris_parker_commerce_01",
+      "iris_parker_communication_01",
+      "iris_parker_communication_03",
+      "iris_parker_reservation_01",
+      "iris_parker_reservation_03",
+      "iris_parker_scheduling_01",
+      "iris_parker_travel_01",
+      "iris_parker_travel_05"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "iris_parker_commerce_01",
+      "iris_parker_commerce_03",
+      "iris_parker_communication_01",
+      "iris_parker_communication_03",
+      "iris_parker_reservation_01",
+      "iris_parker_reservation_03",
+      "iris_parker_scheduling_01",
+      "iris_parker_scheduling_04",
+      "iris_parker_travel_01",
+      "iris_parker_travel_02",
+      "iris_parker_travel_04",
+      "iris_parker_travel_05"
+    ],
+    "signal_count": 16,
+    "noise_count": 8,
+    "trajectory_length": 24
+  }
+}

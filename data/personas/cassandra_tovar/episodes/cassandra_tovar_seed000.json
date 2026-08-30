@@ -1,0 +1,4040 @@
+{
+  "episode_id": "cassandra_tovar_seed000",
+  "persona_id": "cassandra_tovar",
+  "raw_persona": {
+    "persona_id": "cassandra_tovar",
+    "nemotron_uuid": "adf8722929444526b4b79123a4ee62ea",
+    "narrative": "name: Cassandra Tovar\nage: 22\nsex: Female\nmarital_status: never_married\neducation_level: high_school\noccupation: audiovisual_equipment_installer_or_repairer\nhobbies_and_interests: Custom PC building and home‑theater calibration, Reading science‑fiction and technology magazines, Bullet journaling and planner design, Cooking Southern and Caribbean dishes, Volunteer media work at local church, Listening to R&B, soul, and gospel music, Jogging in local parks, Practicing yoga\nskills_and_expertise: Audio system installation and tuning, Video display mounting and calibration, Structured cabling (HDMI, SDI, XLR, Ethernet), Networked audio (Dante) setup and troubleshooting, Electrical safety compliance (NEC) and power distribution, Equipment diagnostics with multimeter and spectrum analyzer, Control system programming (Crestron, Extron), Project documentation and inventory management, Small‑team leadership and on‑site coordination, Basic IT networking for AV integration\ncomplementary_info: Cassandra Tovar grew up in Decatur in a close-knit African-American family where church, community service, and family gatherings were central, and local Black cultural traditions such as Juneteenth celebrations, art walks, and gospel music remain important reference points in her life. Early time around her church’s sound board sparked her interest in AV work, and she now volunteers every Sunday as a sound-board operator for the worship team, sometimes also editing sermon videos and experimenting with video mixing. She keeps a daily bullet-journal habit for tracking projects, goals, and ideas, and often annotates speculative-fiction reading with notes for future AV concepts. Her regular routine includes jogging three times a week for 3–4 miles in Decatur’s riverside parks, yoga, winter participation in a local indoor basketball league, and monthly open-mic nights at a downtown jazz club where she may photograph performances. She listens often to Erykah Badu, Marvin Gaye, and Kirk Franklin. Cooking is a recurring communal ritual: she shops at the Decatur farmers market for ingredients like kale and black-eyed peas, makes dishes such as collard greens with smoked turkey and chicken-and-sausage gumbo, and hosts close friends for meals and conversations about upcoming AV projects. She is budget-conscious and plans road trips around tech and food, including SXSW in Austin, jazz clubs and gumbo in New Orleans, a smart-home showroom in Seattle, and Southern food in Savannah, while hoping eventually to backpack through Japan’s Akihabara district. Long term, she aims to earn CTS and CTS-D certifications, move into senior field work leading campus-wide projects for schools and community centers in metro Atlanta, study electronics and later engineering technology, build ties through local trade associations, and eventually start a consulting firm serving underserved neighborhoods while creating apprenticeship paths for young Black women in technical trades.",
+    "general_domain": "audiovisual_equipment_installer_or_repairer",
+    "specific_domain": ""
+  },
+  "structured_persona": {
+    "name": "Cassandra Tovar",
+    "demographics": {
+      "age": 22,
+      "sex": "Female",
+      "marital_status": "never_married",
+      "education_level": "high_school",
+      "occupation": "audiovisual_equipment_installer_or_repairer",
+      "city": "Decatur",
+      "state": "GA",
+      "zipcode": "30030",
+      "country": "USA"
+    },
+    "persona_summary": "Cassandra Tovar blends disciplined AV tinkering, methodical budgeting, and a quiet love for Southern comfort food into a uniquely organized, curiosity‑driven lifestyle that balances solitary precision with community service.",
+    "professional_persona": "Cassandra Tovar is a budding audiovisual technician whose hands‑on expertise spans structured cabling, sound reinforcement, and networked AV control, and who plans to earn the AVIXA Certified Technology Specialist credential within a year. Their curiosity drives them to experiment with emerging standards like Dante while their disciplined, bullet‑journal‑driven workflow ensures every installation is documented to NEC code. Leading small crews on tight deadlines, they balance assertiveness with cooperative mentoring, aiming soon to head campus‑wide AV projects for schools and eventually launch a consulting firm that brings high‑quality, accessible AV solutions to underserved neighborhoods.",
+    "sports_persona": "Cassandra Tovar keeps physical balance by jogging three times a week through Decatur’s river‑side parks, usually covering 3‑4 miles at a steady pace. On Sundays they volunteer as a sound‑board operator for the church’s worship team, which doubles as a low‑key social activity, and they cheer quietly for the Atlanta Falcons while tracking stats on a mobile app. During the winter, they join a local indoor basketball league for a bit of competitive exercise, though they prefer the solitary rhythm of their jogs and yoga sessions over crowded gyms.",
+    "arts_persona": "Cassandra Tovar’s artistic palette is anchored by a love for R&B, soul, and gospel—artists like Erykah Badu, Marvin Gaye, and Kirk Franklin fill their playlists while they fine‑tune home‑theater acoustics. Their speculative‑fiction cravings lead them through the works of N.K. Jemisin, Ann Leckie, and Ted Chiang, often annotating ideas for future AV prototypes in the margins of their journals. They attend monthly open‑mic nights at a downtown jazz club, occasionally snapping photos of live performances to experiment with video mixing for church services. Their creative output also includes occasional video edits of church sermons, blending technical skill with storytelling.",
+    "travel_persona": "Cassandra Tovar prefers road‑trip itineraries that combine tech exposure with culinary discovery, planning trips around AV expos or regional conferences. They recently drove to Austin for SXSW’s interactive track, then detoured to New Orleans to sample authentic gumbo and study the city’s historic sound‑system installations in jazz clubs. A weekend getaway to Seattle allowed them to tour a cutting‑edge smart‑home showroom, while a short stay in Savannah gave them a taste of Southern cooking traditions. Budget‑conscious but adventurous, they eye a future backpacking adventure through Japan’s Akihabara district to soak up electronics culture.",
+    "culinary_persona": "Cassandra Tovar channels the same meticulous detail they apply to AV calibrations into the kitchen, mastering Southern comfort staples such as collard greens simmered with smoked turkey, and a hearty chicken‑and‑sausage gumbo seasoned with okra, paprika, and file powder. They source locally grown kale and black‑eyed peas at the Decatur farmers market, often improvising with a dash of hot sauce to balance flavors. While they can flawlessly execute a classic gumbo, they occasionally over‑salt a pot of greens, a quirk they laugh off and correct in future batches. Cooking becomes a communal ritual, with close friends gathering around the table to share the meals and discuss upcoming AV projects.",
+    "cultural_background": "Cassandra grew up in Decatur, Georgia, in a close‑knit African‑American family where church, community, and family gatherings were central to daily life. The city’s rich Black cultural heritage—celebrated through festivals like Juneteenth, local art walks, and a strong tradition of gospel music—shaped her identity and instilled a deep sense of pride in her roots. Early exposure to her church’s sound board sparked her fascination with audiovisual equipment, blending the communal rhythm of worship with technical curiosity. Her parents emphasized education, self‑reliance, and service, teaching her the importance of giving back to neighborhoods that have historically been under‑represented in technical fields. This cultural foundation fuels her ambition to provide reliable AV solutions for schools, churches, and community centers while mentoring the next generation of Black technicians.",
+    "skills_and_expertise": "Cassandra has developed a practical, hands‑on expertise in audiovisual technology through on‑site installations, repairs, and ongoing self‑directed learning. She excels at installing and tuning sound reinforcement systems, mounting and calibrating video displays, and performing structured cabling for HDMI, SDI, XLR, and Ethernet networks. Her curiosity drives her to stay current with emerging standards such as Dante and networked AV control, while her disciplined approach ensures she follows NEC safety codes and maintains meticulous documentation. She is comfortable troubleshooting signal flow with test equipment, configuring control processors (Crestron, Extron), and managing small teams on tight schedules, always balancing the newest ideas with proven methods.",
+    "skills_and_expertise_list": [
+      "Audio system installation and tuning",
+      "Video display mounting and calibration",
+      "Structured cabling (HDMI, SDI, XLR, Ethernet)",
+      "Networked audio (Dante) setup and troubleshooting",
+      "Electrical safety compliance (NEC) and power distribution",
+      "Equipment diagnostics with multimeter and spectrum analyzer",
+      "Control system programming (Crestron, Extron)",
+      "Project documentation and inventory management",
+      "Small‑team leadership and on‑site coordination",
+      "Basic IT networking for AV integration"
+    ],
+    "hobbies_and_interests": "In her downtime, Cassandra enjoys solitary, detail‑oriented pursuits that echo her organized nature. She builds custom PC rigs and fine‑tunes home‑theater systems to explore the latest AV technologies. A fan of speculative fiction, she reads science‑fiction novels and tech magazines, often noting ideas she could experiment with. Bullet journaling is a daily habit that helps her track projects and personal goals. She loves cooking Southern comfort dishes—especially collard greens and gumbo—and sharing meals with close friends and family. Volunteering as the media technician for her church’s worship team lets her blend service with skill, while listening to R&B, soul, and gospel music provides both relaxation and inspiration. She also jogs through Decatur’s parks and practices gentle yoga to maintain physical balance.",
+    "hobbies_and_interests_list": [
+      "Custom PC building and home‑theater calibration",
+      "Reading science‑fiction and technology magazines",
+      "Bullet journaling and planner design",
+      "Cooking Southern and Caribbean dishes",
+      "Volunteer media work at local church",
+      "Listening to R&B, soul, and gospel music",
+      "Jogging in local parks",
+      "Practicing yoga"
+    ],
+    "career_goals_and_ambitions": "Cassandra aims to earn the AVIXA Certified Technology Specialist (CTS) credential within the next year and later pursue the CTS‑Design specialization. She seeks a senior field technician role where she can lead larger campus‑wide AV projects for schools and community centers in the Atlanta metro area. Long‑term, she envisions starting her own consulting firm that focuses on accessible, high‑quality AV solutions for historically underserved neighborhoods, creating apprenticeship pathways for other young Black women interested in technical trades. To support these ambitions, she plans to enroll in an associate degree program in electronics and eventually complete a bachelor’s degree in engineering technology, while continuing to build a professional network through local trade associations."
+  },
+  "rules": [
+    {
+      "rule_text": "For grocery or ingredient purchases, she prefers to assemble a shopping list first rather than placing immediate piecemeal orders.",
+      "canonical_answer": "For food or kitchen supplies, I usually want a shopping list built first so I can plan before buying.",
+      "counterfactual_default": "Place the needed items into orders directly as they come up.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "methodical budgeting"
+        },
+        {
+          "type": "direct",
+          "content": "Bullet journaling is a daily habit that helps her track projects and personal goals"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "build_shopping_list",
+        "param": null
+      },
+      "rule_id": "cassandra_tovar_commerce_01"
+    },
+    {
+      "rule_text": "When ordering produce or staple ingredients, she prefers locally grown options over generic alternatives.",
+      "canonical_answer": "If I’m ordering ingredients, I prefer locally grown produce whenever there’s a good option.",
+      "counterfactual_default": "Choose a standard or generic product without prioritizing local sourcing.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "They source locally grown kale and black‑eyed peas at the Decatur farmers market"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "place_order",
+        "param": "product_id"
+      },
+      "rule_id": "cassandra_tovar_commerce_02"
+    },
+    {
+      "rule_text": "For outreach to clients, schools, or church teams, she prefers a reviewable draft before anything is sent.",
+      "canonical_answer": "I like messages to clients, school partners, or church teams drafted first so I can review the tone and details before they go out.",
+      "counterfactual_default": "Send the composed message directly once the content is ready.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "their disciplined, bullet‑journal‑driven workflow ensures every installation is documented to NEC code"
+        },
+        {
+          "type": "direct",
+          "content": "Leading small crews on tight deadlines, they balance assertiveness with cooperative mentoring"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "draft_message",
+        "param": null
+      },
+      "rule_id": "cassandra_tovar_communication_01"
+    },
+    {
+      "rule_text": "When choosing where to eat out, she prefers Southern comfort food or soulful local cooking over generic chain restaurants.",
+      "canonical_answer": "If I’m booking a meal out, I’d rather go somewhere known for Southern comfort food or local soul-inflected cooking than a chain.",
+      "counterfactual_default": "Choose a convenient, familiar, or broadly popular chain restaurant.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "a quiet love for Southern comfort food"
+        },
+        {
+          "type": "direct",
+          "content": "a short stay in Savannah gave them a taste of Southern cooking traditions"
+        },
+        {
+          "type": "direct",
+          "content": "They love cooking Southern comfort dishes"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_restaurant",
+        "param": "restaurant_id"
+      },
+      "rule_id": "cassandra_tovar_reservation_01"
+    },
+    {
+      "rule_text": "When choosing entertainment tickets, she prefers jazz, gospel, or other live music events over non-music attractions.",
+      "canonical_answer": "For event tickets, I usually want live music—especially jazz, gospel, or soul-adjacent performances—over other kinds of events.",
+      "counterfactual_default": "Pick a broadly popular event without prioritizing live music.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Their artistic palette is anchored by a love for R&B, soul, and gospel"
+        },
+        {
+          "type": "direct",
+          "content": "They attend monthly open‑mic nights at a downtown jazz club"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "book_event_ticket",
+        "param": "event_id"
+      },
+      "rule_id": "cassandra_tovar_reservation_02"
+    },
+    {
+      "rule_text": "If the service being considered feels trendy, experimental, or fad-driven, the agent should check with her before booking it.",
+      "canonical_answer": "If a service looks trendy or experimental instead of proven, ask me before booking it.",
+      "counterfactual_default": "Go ahead and book the service if it appears to fit the request.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "always balancing the newest ideas with proven methods"
+        },
+        {
+          "type": "direct",
+          "content": "curiosity drives them to experiment with emerging standards like Dante"
+        }
+      ],
+      "check_type": "confirm",
+      "action_step": {
+        "tool": "get_user_confirmation",
+        "param": "book_service_appointment"
+      },
+      "rule_id": "cassandra_tovar_reservation_05"
+    },
+    {
+      "rule_text": "For personal commitments like jogs, yoga, or self-study, she prefers a private reminder rather than creating a formal calendar event.",
+      "canonical_answer": "For my personal routines, I’d rather set myself a reminder than clutter the calendar with a full event.",
+      "counterfactual_default": "Create a normal calendar event for the activity.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Bullet journaling is a daily habit that helps her track projects and personal goals"
+        },
+        {
+          "type": "direct",
+          "content": "she also jogs through Decatur’s parks and practices gentle yoga"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "set_reminder",
+        "param": null
+      },
+      "rule_id": "cassandra_tovar_scheduling_01"
+    },
+    {
+      "rule_text": "When an invite conflicts with work, church, or volunteer responsibilities that are not yet settled, she prefers responding tentatively rather than accepting or declining outright.",
+      "canonical_answer": "If an invitation overlaps with commitments I’m still sorting out, I usually respond as tentative first.",
+      "counterfactual_default": "Accept or decline the invitation immediately.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "On Sundays they volunteer as a sound‑board operator for the church’s worship team"
+        },
+        {
+          "type": "direct",
+          "content": "Leading small crews on tight deadlines"
+        }
+      ],
+      "check_type": "param_enum",
+      "action_step": {
+        "tool": "respond_to_event_invite",
+        "param": "response"
+      },
+      "rule_id": "cassandra_tovar_scheduling_03"
+    },
+    {
+      "rule_text": "When planning conference or expo travel within practical driving range, she prefers ground transportation over flying.",
+      "canonical_answer": "For regional work or conference trips, I usually prefer to drive or take ground transport instead of booking a flight.",
+      "counterfactual_default": "Look for and book flight options first.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "Cassandra Tovar prefers road‑trip itineraries that combine tech exposure with culinary discovery"
+        },
+        {
+          "type": "direct",
+          "content": "They recently drove to Austin for SXSW’s interactive track"
+        }
+      ],
+      "check_type": "tool_identity",
+      "action_step": {
+        "tool": "book_ground_transport",
+        "param": null
+      },
+      "rule_id": "cassandra_tovar_travel_01"
+    },
+    {
+      "rule_text": "When building a new trip itinerary, she prefers stops tied to AV, electronics, sound systems, or related tech culture over generic tourist attractions.",
+      "canonical_answer": "When I plan a trip, I like the stops to center on AV, electronics, or sound‑system culture instead of just standard sightseeing.",
+      "counterfactual_default": "Pick the most popular general-interest attractions in the destination.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "planning trips around AV expos or regional conferences"
+        },
+        {
+          "type": "direct",
+          "content": "study the city’s historic sound‑system installations in jazz clubs"
+        },
+        {
+          "type": "direct",
+          "content": "tour a cutting‑edge smart‑home showroom"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "plan_trip",
+        "param": "selected_stop_ids"
+      },
+      "rule_id": "cassandra_tovar_travel_02"
+    },
+    {
+      "rule_text": "If a booked trip stop falls through, she prefers replacement stops that keep the same tech-or-audio theme rather than swapping in unrelated crowd-pleasers.",
+      "canonical_answer": "If part of my trip gets disrupted, I’d rather replace it with another tech or audio-focused stop that fits the original theme.",
+      "counterfactual_default": "Replace the disrupted stop with any convenient or highly rated alternative.",
+      "evidence": [
+        {
+          "type": "direct",
+          "content": "planning trips around AV expos or regional conferences"
+        },
+        {
+          "type": "direct",
+          "content": "study the city’s historic sound‑system installations in jazz clubs"
+        }
+      ],
+      "check_type": "param_id",
+      "action_step": {
+        "tool": "replan_trip",
+        "param": "selected_alternative_stop_ids"
+      },
+      "rule_id": "cassandra_tovar_travel_03"
+    }
+  ],
+  "learning_sessions": [
+    {
+      "session_id": "cassandra_tovar_s00",
+      "session_type": "learning",
+      "day_offset": 0,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox and answer one message",
+      "task_params": {
+        "urgent_sender": "Nina Patel",
+        "archive_sender": "Warehouse Auto",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "Acknowledge the projector shipment delay note",
+          "Say I still plan to be on site this afternoon",
+          "Ask whether the carts already have power at the classrooms",
+          "Request a quick text if the delivery window changes again"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "archive_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Nina Patel"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_nina_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "folder": "inbox",
+            "sender": "Warehouse Auto"
+          }
+        },
+        {
+          "tool": "archive_messages",
+          "arguments": {
+            "message_ids": [
+              "msg_warehouse_01"
+            ]
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_nina_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_nina_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Patel",
+              "subject": "Re: Eastview install timing update",
+              "body": "Morning Cassandra — the projector shipment is running late and may not land before lunch. I still need to know if you're coming this afternoon so I can have facilities unlock the classroom carts. If the truck slips again I'll let you know.",
+              "thread_id": "thr_nina_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:18:00"
+            }
+          },
+          {
+            "id": "msg_warehouse_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Warehouse Auto",
+              "subject": "Daily stock digest",
+              "body": "Automated inventory summary for regional consumables and accessories. No action needed unless discrepancies are reported.",
+              "thread_id": "thr_warehouse_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-14T06:42:00"
+            }
+          },
+          {
+            "id": "msg_janelle_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Janelle Brooks",
+              "subject": "Timesheet reminder",
+              "body": "Please submit your hours by end of day Friday.",
+              "thread_id": "thr_janelle_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-14T07:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s04",
+      "session_type": "learning",
+      "day_offset": 4,
+      "domain": "reservation",
+      "reason_for_call": "Book a service appointment",
+      "task_params": {
+        "service_type": "auto repair",
+        "location": "Decatur",
+        "sort_by": "distance",
+        "date_time": "2025-02-14T18:30:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "auto repair",
+            "location": "Decatur",
+            "sort_by": "distance"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_clairmont_02",
+            "date_time": "2025-02-14T18:30:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_dekalb_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "DeKalb Auto Care",
+              "service_type": "auto repair",
+              "location": "Decatur",
+              "rating": 4.6,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_clairmont_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Clairmont Car Clinic",
+              "service_type": "auto repair",
+              "location": "Decatur",
+              "rating": 4.4,
+              "distance_km": 1.4
+            }
+          },
+          {
+            "id": "svc_eastlake_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "East Lake Service Garage",
+              "service_type": "auto repair",
+              "location": "Atlanta",
+              "rating": 4.8,
+              "distance_km": 5.7
+            }
+          },
+          {
+            "id": "svc_memorial_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Memorial Tire and Auto",
+              "service_type": "tire service",
+              "location": "Decatur",
+              "rating": 4.3,
+              "distance_km": 3.2
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s05",
+      "session_type": "learning",
+      "day_offset": 5,
+      "domain": "communication",
+      "reason_for_call": "Draft a message",
+      "task_params": {
+        "sender": "Jordan Ellis",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "say I can cover sound board duties again this Sunday",
+          "thank them for keeping me in mind",
+          "ask if they need me there early for setup",
+          "keep the tone warm and helpful"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Jordan Ellis",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_media_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_media_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Ellis",
+              "subject": "Checking on media team coverage",
+              "body": "Hey Cassandra, just checking whether you might be available to help with media again soon. No pressure, just let me know when you can jump back in.",
+              "thread_id": "thr_media_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-13T18:42:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Metro AV Dispatch",
+              "subject": "Updated install window for Tucker campus",
+              "body": "The client pushed the rack bring-up to Monday morning. Please confirm crew arrival by end of day.",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [
+                "work"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-13T16:05:00"
+            }
+          },
+          {
+            "id": "msg_friend_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Nia Brooks",
+              "subject": "Dinner next week?",
+              "body": "Want to do dinner after your jog one evening next week?",
+              "thread_id": "thr_friend_03",
+              "folder": "archive",
+              "labels": [],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-12T20:11:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s07",
+      "session_type": "learning",
+      "day_offset": 7,
+      "domain": "scheduling",
+      "reason_for_call": "Handle an invite on my calendar",
+      "task_params": {
+        "calendar": "invites",
+        "title": "CTS Certification Info Session",
+        "start_time": "2025-03-18T18:30:00-04:00",
+        "end_time": "2025-03-18T19:30:00-04:00",
+        "response": "accept"
+      },
+      "expected_tools": [
+        "list_events",
+        "respond_to_event_invite"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "invites"
+          }
+        },
+        {
+          "tool": "respond_to_event_invite",
+          "arguments": {
+            "event_id": "evt_cts_01",
+            "response": "accept"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_cts_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "CTS Certification Info Session",
+              "start_time": "2025-03-18T18:30:00-04:00",
+              "end_time": "2025-03-18T19:30:00-04:00",
+              "participants": [
+                "events@avixaatlanta.org",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Decatur Library Auditorium",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_pta_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "South Decatur PTA AV Volunteer Orientation",
+              "start_time": "2025-03-19T17:30:00-04:00",
+              "end_time": "2025-03-19T18:15:00-04:00",
+              "participants": [
+                "pta@sdems.org",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "South Decatur Elementary Media Center",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_vendor_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Q2 Supplier Demo: Networked Audio Updates",
+              "start_time": "2025-03-20T11:00:00-04:00",
+              "end_time": "2025-03-20T12:00:00-04:00",
+              "participants": [
+                "rep@signalpathpro.com",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Online",
+              "calendar": "invites",
+              "status": "pending"
+            }
+          },
+          {
+            "id": "evt_run_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Evening Jog",
+              "start_time": "2025-03-18T17:45:00-04:00",
+              "end_time": "2025-03-18T18:20:00-04:00",
+              "participants": [
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Legacy Park",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s08",
+      "session_type": "learning",
+      "day_offset": 8,
+      "domain": "commerce",
+      "reason_for_call": "Compare some audio gear",
+      "task_params": {
+        "category": "sports earbuds",
+        "budget": 60,
+        "sort_by": "rating",
+        "product_ids": [
+          "prod_aerobeat_01",
+          "prod_pulsefit_02",
+          "prod_sweatcore_03"
+        ],
+        "items": [
+          "AeroBeat Sprint S"
+        ],
+        "list_name": "Jogging Gear"
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "sports earbuds",
+            "budget": 60,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_aerobeat_01",
+              "prod_pulsefit_02",
+              "prod_sweatcore_03"
+            ]
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "AeroBeat Sprint S"
+            ],
+            "list_name": "Jogging Gear"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_aerobeat_01",
+            "type": "product",
+            "attributes": {
+              "name": "AeroBeat Sprint S",
+              "price": 49.99,
+              "category": "sports earbuds",
+              "rating": 4.6,
+              "water_resistance": "IPX5 sweat resistant"
+            }
+          },
+          {
+            "id": "prod_pulsefit_02",
+            "type": "product",
+            "attributes": {
+              "name": "PulseFit RunPods",
+              "price": 39.5,
+              "category": "sports earbuds",
+              "rating": 4.3,
+              "water_resistance": "IPX4 sweat resistant"
+            }
+          },
+          {
+            "id": "prod_sweatcore_03",
+            "type": "product",
+            "attributes": {
+              "name": "SweatCore Move Pro",
+              "price": 59.0,
+              "category": "sports earbuds",
+              "rating": 4.5,
+              "water_resistance": "IPX6 sweat resistant"
+            }
+          },
+          {
+            "id": "prod_studiotone_04",
+            "type": "product",
+            "attributes": {
+              "name": "StudioTone Mini Buds",
+              "price": 54.0,
+              "category": "wireless earbuds",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s09",
+      "session_type": "learning",
+      "day_offset": 9,
+      "domain": "reservation",
+      "reason_for_call": "Help me book a dinner reservation.",
+      "task_params": {
+        "location": "Decatur",
+        "cuisine": "Southern",
+        "sort_by": "rating",
+        "date_time": "2025-03-15T19:00:00",
+        "party_size": 4
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Decatur",
+            "cuisine": "Southern",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_magnolia_02",
+            "date_time": "2025-03-15T19:00:00",
+            "party_size": 4
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_sweetauburn_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sweet Auburn Table",
+              "cuisine": "Southern",
+              "location": "Decatur",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual dining"
+            }
+          },
+          {
+            "id": "rst_magnolia_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Magnolia Porch Kitchen",
+              "cuisine": "Southern",
+              "location": "Decatur",
+              "rating": 4.8,
+              "price_range": "$$",
+              "seating_style": "relaxed booth seating"
+            }
+          },
+          {
+            "id": "rst_oakhart_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Oak & Hearth Supper Club",
+              "cuisine": "American Southern",
+              "location": "Decatur",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "upscale dining room"
+            }
+          },
+          {
+            "id": "rst_bayou_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Bayou Biscuit House",
+              "cuisine": "Cajun Southern",
+              "location": "Avondale Estates",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "lively communal tables"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s12",
+      "session_type": "learning",
+      "day_offset": 12,
+      "domain": "travel",
+      "reason_for_call": "Plan a short trip.",
+      "task_params": {
+        "destination": "Nashville",
+        "duration_days": 3,
+        "traveler_count": 1,
+        "stop_tags": [
+          "tech",
+          "food"
+        ]
+      },
+      "expected_tools": [
+        "search_trip_stops",
+        "plan_trip"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_trip_stops",
+          "arguments": {
+            "destination": "Nashville",
+            "stop_tags": [
+              "tech",
+              "food"
+            ]
+          }
+        },
+        {
+          "tool": "plan_trip",
+          "arguments": {
+            "destination": "Nashville",
+            "duration_days": 3,
+            "traveler_count": 1,
+            "selected_stop_ids": [
+              "ts_nashville_01",
+              "ts_nashville_03",
+              "ts_nashville_04"
+            ],
+            "include_daily_breakdown": true,
+            "include_stopovers": false,
+            "include_budget_summary": true
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "ts_nashville_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Adventure Science Center",
+              "location": "Nashville",
+              "tags": [
+                "tech",
+                "science",
+                "museum"
+              ]
+            }
+          },
+          {
+            "id": "ts_nashville_02",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Lane Motor Museum",
+              "location": "Nashville",
+              "tags": [
+                "tech",
+                "museum",
+                "cars"
+              ]
+            }
+          },
+          {
+            "id": "ts_nashville_03",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Assembly Food Hall",
+              "location": "Nashville",
+              "tags": [
+                "food",
+                "market",
+                "casual"
+              ]
+            }
+          },
+          {
+            "id": "ts_nashville_04",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Prince's Hot Chicken",
+              "location": "Nashville",
+              "tags": [
+                "food",
+                "southern",
+                "casual"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s13",
+      "session_type": "learning",
+      "day_offset": 13,
+      "domain": "scheduling",
+      "reason_for_call": "Schedule some study time",
+      "task_params": {
+        "title": "CTS Study Session",
+        "start_time": "2025-03-18T19:00:00-04:00",
+        "end_time": "2025-03-18T20:30:00-04:00",
+        "location": "Home"
+      },
+      "expected_tools": [
+        "check_conflicts",
+        "create_event"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "check_conflicts",
+          "arguments": {
+            "start_time": "2025-03-18T19:00:00-04:00",
+            "end_time": "2025-03-18T20:30:00-04:00"
+          }
+        },
+        {
+          "tool": "create_event",
+          "arguments": {
+            "title": "CTS Study Session",
+            "start_time": "2025-03-18T19:00:00-04:00",
+            "end_time": "2025-03-18T20:30:00-04:00",
+            "location": "Home"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_workshop_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Warehouse Display Install",
+              "start_time": "2025-03-18T14:00:00-04:00",
+              "end_time": "2025-03-18T17:30:00-04:00",
+              "participants": [
+                "crewlead@avsite.com"
+              ],
+              "location": "West End Warehouse",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_jog_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "CTS Study Session",
+              "start_time": "2025-03-18T19:00:00-04:00",
+              "end_time": "2025-03-18T20:30:00-04:00",
+              "participants": [],
+              "location": "Legacy Park",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_church_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Church Media Check",
+              "start_time": "2025-03-23T08:30:00-04:00",
+              "end_time": "2025-03-23T11:30:00-04:00",
+              "participants": [
+                "media-team@newhope.org"
+              ],
+              "location": "New Hope Church",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_friend_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Kiana",
+              "start_time": "2025-03-20T19:30:00-04:00",
+              "end_time": "2025-03-20T21:00:00-04:00",
+              "participants": [
+                "kiana@gmail.com"
+              ],
+              "location": "Downtown Decatur",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s14",
+      "session_type": "learning",
+      "day_offset": 14,
+      "domain": "commerce",
+      "reason_for_call": "Build a shopping list",
+      "task_params": {
+        "category": "produce",
+        "budget": 30,
+        "sort_by": "rating",
+        "items": [
+          "Collard Greens Bunch",
+          "Okra Basket",
+          "Yellow Onion Bag",
+          "Garlic Bulb Pack"
+        ],
+        "list_name": "Market Run and Weeknight Prep"
+      },
+      "expected_tools": [
+        "search_products",
+        "build_shopping_list"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "produce",
+            "budget": 30,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "build_shopping_list",
+          "arguments": {
+            "items": [
+              "Collard Greens Bunch",
+              "Okra Basket",
+              "Yellow Onion Bag",
+              "Garlic Bulb Pack"
+            ],
+            "list_name": "Market Run and Weeknight Prep"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_collards_01",
+            "type": "product",
+            "attributes": {
+              "name": "Collard Greens Bunch",
+              "price": 3.5,
+              "category": "produce",
+              "rating": 4.8
+            }
+          },
+          {
+            "id": "prod_okra_02",
+            "type": "product",
+            "attributes": {
+              "name": "Okra Basket",
+              "price": 4.25,
+              "category": "produce",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_onions_03",
+            "type": "product",
+            "attributes": {
+              "name": "Yellow Onion Bag",
+              "price": 2.99,
+              "category": "produce",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_garlic_04",
+            "type": "product",
+            "attributes": {
+              "name": "Garlic Bulb Pack",
+              "price": 2.5,
+              "category": "produce",
+              "rating": 4.6
+            }
+          },
+          {
+            "id": "prod_kale_05",
+            "type": "product",
+            "attributes": {
+              "name": "Curly Kale Bunch",
+              "price": 3.25,
+              "category": "produce",
+              "rating": 4.4
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s15",
+      "session_type": "learning",
+      "day_offset": 15,
+      "domain": "reservation",
+      "reason_for_call": "Book an event ticket.",
+      "task_params": {
+        "location": "Downtown Decatur",
+        "event_tags": [
+          "open mic",
+          "jazz"
+        ],
+        "name": "Blue Note Basement Open Mic & Jazz Jam",
+        "ticket_type": "general_admission",
+        "ticket_count": 1
+      },
+      "expected_tools": [
+        "search_events",
+        "book_event_ticket"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_events",
+          "arguments": {
+            "location": "Downtown Decatur",
+            "event_tags": [
+              "open mic",
+              "jazz"
+            ]
+          }
+        },
+        {
+          "tool": "book_event_ticket",
+          "arguments": {
+            "event_id": "evt_bluenote_01",
+            "ticket_type": "general_admission",
+            "ticket_count": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_bluenote_01",
+            "type": "event",
+            "attributes": {
+              "name": "Blue Note Basement Open Mic & Jazz Jam",
+              "location": "Downtown Decatur",
+              "date_time": "2025-05-02T20:00:00-04:00",
+              "price": 18.0,
+              "event_tags": [
+                "open mic",
+                "jazz",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_ebenezer_02",
+            "type": "event",
+            "attributes": {
+              "name": "Ebenezer Rooftop Soul Session",
+              "location": "Downtown Decatur",
+              "date_time": "2025-05-03T19:30:00-04:00",
+              "price": 22.0,
+              "event_tags": [
+                "soul",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_midtown_03",
+            "type": "event",
+            "attributes": {
+              "name": "Midtown After Hours Jazz Quartet",
+              "location": "Midtown Atlanta",
+              "date_time": "2025-05-02T21:00:00-04:00",
+              "price": 25.0,
+              "event_tags": [
+                "jazz",
+                "live music"
+              ]
+            }
+          },
+          {
+            "id": "evt_square_04",
+            "type": "event",
+            "attributes": {
+              "name": "Decatur Square Comedy Open Mic",
+              "location": "Downtown Decatur",
+              "date_time": "2025-05-01T20:30:00-04:00",
+              "price": 12.0,
+              "event_tags": [
+                "open mic",
+                "comedy"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s16",
+      "session_type": "learning",
+      "day_offset": 16,
+      "domain": "communication",
+      "reason_for_call": "Help me draft a note",
+      "task_params": {
+        "sender": "Maya Johnson",
+        "folder": "inbox",
+        "language": "en",
+        "invite_points": [
+          "say I'd love for her to come with me",
+          "mention I'm better with plans when I know who's going",
+          "keep it casual and friendly",
+          "ask if she's free tomorrow night",
+          "say no pressure if she already has plans"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Johnson",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_maya_01",
+            "language": "en",
+            "body": "<authored from invite_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_maya_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Johnson",
+              "subject": "You still thinking about that music night?",
+              "body": "Hey Cassandra, are you still thinking about going to that music night tomorrow? I might be interested if you're going.",
+              "thread_id": "thr_maya_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-16T18:42:00"
+            }
+          },
+          {
+            "id": "msg_terrell_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Terrell Banks",
+              "subject": "Church media schedule",
+              "body": "Can you cover sound check a little earlier this Sunday?",
+              "thread_id": "thr_terrell_01",
+              "folder": "inbox",
+              "labels": [
+                "church"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-03-16T14:05:00"
+            }
+          },
+          {
+            "id": "msg_maya_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Johnson",
+              "subject": "Photos from open mic",
+              "body": "Those shots you got last month came out so good.",
+              "thread_id": "thr_maya_02",
+              "folder": "archive",
+              "labels": [
+                "friends"
+              ],
+              "priority": "low",
+              "archived": true,
+              "timestamp": "2025-02-22T21:10:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s21",
+      "session_type": "learning",
+      "day_offset": 21,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "cable tester",
+        "budget": 60,
+        "sort_by": "rating",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "cable tester",
+            "budget": 60,
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_trekcheck_01",
+              "prod_linklight_02",
+              "prod_fieldtone_03",
+              "prod_signalkey_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_linklight_02",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_trekcheck_01",
+            "type": "product",
+            "attributes": {
+              "name": "TrekCheck Pocket Cable Tester",
+              "price": 34.99,
+              "category": "cable tester",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_linklight_02",
+            "type": "product",
+            "attributes": {
+              "name": "LinkLight Mini Cable Tester",
+              "price": 49.5,
+              "category": "cable tester",
+              "rating": 4.7
+            }
+          },
+          {
+            "id": "prod_fieldtone_03",
+            "type": "product",
+            "attributes": {
+              "name": "FieldTone Compact Cable Tester",
+              "price": 58.0,
+              "category": "cable tester",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_signalkey_04",
+            "type": "product",
+            "attributes": {
+              "name": "SignalKey Basic Cable Tester",
+              "price": 22.75,
+              "category": "cable tester",
+              "rating": 4.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s23",
+      "session_type": "learning",
+      "day_offset": 23,
+      "domain": "scheduling",
+      "reason_for_call": "Set up a reminder.",
+      "task_params": {
+        "calendar": "personal",
+        "title": "Worship Team Rehearsal",
+        "start_time": "2025-03-23T07:30:00-04:00",
+        "end_time": "2025-03-23T09:15:00-04:00",
+        "remind_at": "2025-03-23T06:40:00-04:00",
+        "cadence": "once"
+      },
+      "expected_tools": [
+        "list_events",
+        "set_reminder"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "list_events",
+          "arguments": {
+            "calendar": "personal"
+          }
+        },
+        {
+          "tool": "set_reminder",
+          "arguments": {
+            "target_id": "evt_rehearsal_01",
+            "remind_at": "2025-03-23T06:40:00-04:00",
+            "cadence": "once"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_rehearsal_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Worship Team Rehearsal",
+              "start_time": "2025-03-23T07:30:00-04:00",
+              "end_time": "2025-03-23T09:15:00-04:00",
+              "participants": [
+                "worship@newhope.org",
+                "media@newhope.org"
+              ],
+              "location": "New Hope Baptist Church",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_jog_02",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Jog at Mason Mill Park",
+              "start_time": "2025-03-22T08:00:00-04:00",
+              "end_time": "2025-03-22T08:50:00-04:00",
+              "participants": [],
+              "location": "Mason Mill Park",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_sitevisit_03",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "School Auditorium Site Visit",
+              "start_time": "2025-03-24T10:00:00-04:00",
+              "end_time": "2025-03-24T12:00:00-04:00",
+              "participants": [
+                "crewlead@avsouth.com",
+                "facilities@oakridgehs.edu"
+              ],
+              "location": "Oak Ridge High School",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          },
+          {
+            "id": "evt_openmic_04",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Downtown Jazz Open Mic",
+              "start_time": "2025-03-27T19:30:00-04:00",
+              "end_time": "2025-03-27T22:00:00-04:00",
+              "participants": [],
+              "location": "Blue Room Jazz Club",
+              "calendar": "personal",
+              "status": "confirmed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s24",
+      "session_type": "learning",
+      "day_offset": 24,
+      "domain": "reservation",
+      "reason_for_call": "Book a grooming appointment.",
+      "task_params": {
+        "service_type": "haircut",
+        "location": "Decatur",
+        "sort_by": "rating",
+        "date_time": "2025-03-07T17:30:00-05:00"
+      },
+      "expected_tools": [
+        "search_service_providers",
+        "book_service_appointment"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_service_providers",
+          "arguments": {
+            "service_type": "haircut",
+            "location": "Decatur",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_service_appointment",
+          "arguments": {
+            "provider_id": "svc_crowncuts_01",
+            "date_time": "2025-03-07T17:30:00-05:00"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "svc_crowncuts_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Crown Cuts Studio",
+              "service_type": "haircut",
+              "location": "Decatur",
+              "rating": 4.9,
+              "distance_km": 2.1
+            }
+          },
+          {
+            "id": "svc_oakhair_02",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Oak Street Hair Lounge",
+              "service_type": "haircut",
+              "location": "Decatur",
+              "rating": 4.7,
+              "distance_km": 1.4
+            }
+          },
+          {
+            "id": "svc_eastsidefade_03",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Eastside Fade & Style",
+              "service_type": "haircut",
+              "location": "Decatur",
+              "rating": 4.8,
+              "distance_km": 3.6
+            }
+          },
+          {
+            "id": "svc_clairmontnails_04",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Clairmont Nails Spa",
+              "service_type": "manicure",
+              "location": "Decatur",
+              "rating": 4.6,
+              "distance_km": 2.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s25",
+      "session_type": "learning",
+      "day_offset": 25,
+      "domain": "communication",
+      "reason_for_call": "Help me answer a message.",
+      "task_params": {
+        "target_sender": "Maya Chen",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank her for reaching out",
+          "interested in the senior field technician role",
+          "based in Decatur and open to Atlanta-area work",
+          "ask for pay range and typical travel expectations",
+          "available for a call Tuesday or Wednesday afternoon"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Maya Chen",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_recruit_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_recruit_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Maya Chen",
+              "subject": "Senior Field Technician opportunity in Atlanta",
+              "body": "Hi Cassandra, I came across your AV installation background and wanted to reach out about a Senior Field Technician opening with a commercial systems integrator in the Atlanta area. The role includes leading installs, troubleshooting networked AV systems, and coordinating small crews. If you're open to hearing more, I'd love to set up a quick call this week.",
+              "thread_id": "thr_recruit_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-25T10:14:00"
+            }
+          },
+          {
+            "id": "msg_vendor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "ProMount Supply",
+              "subject": "Backorder update for ceiling mount kit",
+              "body": "Your ceiling mount kit is expected to ship next Tuesday. We'll send tracking as soon as it leaves the warehouse.",
+              "thread_id": "thr_vendor_01",
+              "folder": "inbox",
+              "labels": [
+                "purchases"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-25T08:02:00"
+            }
+          },
+          {
+            "id": "msg_church_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Worship Team Lead",
+              "subject": "Sunday service input list",
+              "body": "Can you confirm whether we're keeping the handheld wireless on channel B for this Sunday and if the projector confidence feed is set?",
+              "thread_id": "thr_church_01",
+              "folder": "inbox",
+              "labels": [
+                "volunteer"
+              ],
+              "priority": "medium",
+              "archived": false,
+              "timestamp": "2025-02-24T19:41:00"
+            }
+          },
+          {
+            "id": "msg_sent_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Cassandra Tovar",
+              "subject": "Re: Updated install photos",
+              "body": "Thanks — attaching the final rack and display photos from today's classroom install.",
+              "thread_id": "thr_client_04",
+              "folder": "sent",
+              "labels": [
+                "work"
+              ],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-24T17:26:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s26",
+      "session_type": "learning",
+      "day_offset": 26,
+      "domain": "travel",
+      "reason_for_call": "Book a flight",
+      "task_params": {
+        "origin": "Atlanta",
+        "destination": "Las Vegas",
+        "passenger_count": 1,
+        "departure_date": "2025-09-17",
+        "return_date": "2025-09-20",
+        "seat_preference": "aisle"
+      },
+      "expected_tools": [
+        "search_flights",
+        "book_flight"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_flights",
+          "arguments": {
+            "origin": "Atlanta",
+            "destination": "Las Vegas",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_flight",
+          "arguments": {
+            "flight_offer_id": "flt_delta_01",
+            "seat_preference": "aisle"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_delta_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Las Vegas",
+              "departure_date": "2025-09-17",
+              "return_date": "2025-09-20",
+              "airline": "Delta",
+              "price": 318.0,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_southwest_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Las Vegas",
+              "departure_date": "2025-09-17",
+              "return_date": "2025-09-21",
+              "airline": "Southwest",
+              "price": 279.0,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_spirit_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Las Vegas",
+              "departure_date": "2025-09-16",
+              "return_date": "2025-09-20",
+              "airline": "Spirit",
+              "price": 241.0,
+              "available_seats": 2
+            }
+          },
+          {
+            "id": "flt_jetblue_04",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Atlanta",
+              "destination": "Las Vegas",
+              "departure_date": "2025-09-17",
+              "return_date": "2025-09-20",
+              "airline": "JetBlue",
+              "price": 334.0,
+              "available_seats": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s29",
+      "session_type": "learning",
+      "day_offset": 29,
+      "domain": "reservation",
+      "reason_for_call": "Book a restaurant table.",
+      "task_params": {
+        "location": "Decatur",
+        "cuisine": "Southern",
+        "date_time": "2025-03-30T11:30:00-04:00",
+        "party_size": 6,
+        "seating_style": "casual",
+        "sort_by": "rating"
+      },
+      "expected_tools": [
+        "search_restaurants",
+        "book_restaurant"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_restaurants",
+          "arguments": {
+            "location": "Decatur",
+            "cuisine": "Southern",
+            "sort_by": "rating"
+          }
+        },
+        {
+          "tool": "book_restaurant",
+          "arguments": {
+            "restaurant_id": "rst_sunporch_01",
+            "date_time": "2025-03-30T11:30:00-04:00",
+            "party_size": 6
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_sunporch_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Sun Porch Kitchen",
+              "cuisine": "Southern",
+              "location": "Decatur",
+              "rating": 4.7,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_magnolia_02",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Magnolia Table House",
+              "cuisine": "Southern",
+              "location": "Decatur",
+              "rating": 4.5,
+              "price_range": "$$$",
+              "seating_style": "formal"
+            }
+          },
+          {
+            "id": "rst_biscuityard_03",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Biscuit Yard",
+              "cuisine": "Southern",
+              "location": "Decatur",
+              "rating": 4.6,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          },
+          {
+            "id": "rst_cafeelm_04",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Cafe Elm",
+              "cuisine": "American",
+              "location": "Decatur",
+              "rating": 4.4,
+              "price_range": "$$",
+              "seating_style": "casual"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s30",
+      "session_type": "learning",
+      "day_offset": 30,
+      "domain": "communication",
+      "reason_for_call": "Draft a follow-up message.",
+      "task_params": {
+        "sender": "Jordan Price",
+        "folder": "inbox",
+        "language": "en",
+        "reply_points": [
+          "thank them for helping finalize the flow",
+          "say this is the simple run-of-show for media",
+          "8:15 AM pre-service audio and livestream check",
+          "8:55 AM countdown slide ready",
+          "9:00 AM welcome and first song",
+          "sermon lower third during the message",
+          "closing slide after prayer and end the stream",
+          "ask them to send any last-minute changes"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Jordan Price",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_media_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_media_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Jordan Price",
+              "subject": "Media team flow locked in",
+              "body": "Hey Cassandra, I think we finally have the service flow settled. Can you send a simple run-of-show back to the media team so everyone is aligned?",
+              "thread_id": "thr_media_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T19:42:00"
+            }
+          },
+          {
+            "id": "msg_work_02",
+            "type": "message",
+            "attributes": {
+              "sender": "Darius Cole",
+              "subject": "Projector mount delivery update",
+              "body": "Carrier pushed the delivery window to Thursday afternoon.",
+              "thread_id": "thr_work_02",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-02-09T15:10:00"
+            }
+          },
+          {
+            "id": "msg_church_03",
+            "type": "message",
+            "attributes": {
+              "sender": "Monica Reed",
+              "subject": "Volunteer check-in sheet",
+              "body": "Can you review the updated check-in sheet before rehearsal?",
+              "thread_id": "thr_church_03",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-02-08T12:05:00"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s31",
+      "session_type": "learning",
+      "day_offset": 31,
+      "domain": "commerce",
+      "reason_for_call": "Order a small item online",
+      "task_params": {
+        "category": "monitor arm",
+        "budget": 45,
+        "sort_by": "price_asc",
+        "quantity": 1
+      },
+      "expected_tools": [
+        "search_products",
+        "compare_products",
+        "place_order"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_products",
+          "arguments": {
+            "category": "monitor arm",
+            "budget": 45,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "compare_products",
+          "arguments": {
+            "product_ids": [
+              "prod_vivo_01",
+              "prod_huanuo_02",
+              "prod_mountup_03",
+              "prod_wali_04"
+            ]
+          }
+        },
+        {
+          "tool": "place_order",
+          "arguments": {
+            "product_id": "prod_vivo_01",
+            "quantity": 1
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_vivo_01",
+            "type": "product",
+            "attributes": {
+              "name": "VIVO Single Monitor Arm Desk Mount",
+              "price": 39.99,
+              "category": "monitor arm",
+              "rating": 4.3
+            }
+          },
+          {
+            "id": "prod_huanuo_02",
+            "type": "product",
+            "attributes": {
+              "name": "HUANUO Single Monitor Arm",
+              "price": 42.49,
+              "category": "monitor arm",
+              "rating": 4.5
+            }
+          },
+          {
+            "id": "prod_mountup_03",
+            "type": "product",
+            "attributes": {
+              "name": "MOUNTUP Gas Spring Monitor Arm",
+              "price": 44.99,
+              "category": "monitor arm",
+              "rating": 4.4
+            }
+          },
+          {
+            "id": "prod_wali_04",
+            "type": "product",
+            "attributes": {
+              "name": "WALI Premium Single LCD Monitor Desk Mount",
+              "price": 29.99,
+              "category": "monitor arm",
+              "rating": 4.1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s32",
+      "session_type": "learning",
+      "day_offset": 32,
+      "domain": "travel",
+      "reason_for_call": "Arrange a ride.",
+      "task_params": {
+        "origin": "LAX",
+        "destination": "Los Angeles Convention Center",
+        "passenger_count": 1,
+        "departure_date": "2025-10-14",
+        "sort_by": "price_asc"
+      },
+      "expected_tools": [
+        "search_ground_transport",
+        "book_ground_transport"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_ground_transport",
+          "arguments": {
+            "origin": "LAX",
+            "destination": "Los Angeles Convention Center",
+            "passenger_count": 1,
+            "sort_by": "price_asc"
+          }
+        },
+        {
+          "tool": "book_ground_transport",
+          "arguments": {
+            "transport_offer_id": "trans_lax_dtla_02"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "trans_lax_dtla_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "LAX",
+              "destination": "Los Angeles Convention Center",
+              "mode": "car_transfer",
+              "departure_date": "2025-10-14",
+              "price": 42.0,
+              "available_seats": 3
+            }
+          },
+          {
+            "id": "trans_lax_dtla_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "LAX",
+              "destination": "Los Angeles Convention Center",
+              "mode": "shuttle",
+              "departure_date": "2025-10-14",
+              "price": 28.0,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "trans_lax_dtla_03",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "LAX",
+              "destination": "Los Angeles Convention Center",
+              "mode": "car_transfer",
+              "departure_date": "2025-10-15",
+              "price": 39.0,
+              "available_seats": 2
+            }
+          },
+          {
+            "id": "trans_lax_hwood_04",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "LAX",
+              "destination": "Hollywood",
+              "mode": "shuttle",
+              "departure_date": "2025-10-14",
+              "price": 24.0,
+              "available_seats": 6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s33",
+      "session_type": "learning",
+      "day_offset": 33,
+      "domain": "workspace",
+      "reason_for_call": "Pull together a working document",
+      "task_params": {
+        "doc_type": "spreadsheet",
+        "title": "AV Side-Gig Equipment Inventory",
+        "location": "Side Gig Admin",
+        "columns_keywords": [
+          "item name",
+          "category",
+          "brand/model",
+          "quantity",
+          "condition",
+          "storage location",
+          "purchase date",
+          "replacement cost",
+          "job use notes"
+        ],
+        "tracking_keywords": [
+          "track what is already owned",
+          "spot duplicate gear",
+          "see what needs repair",
+          "note items used for small installs"
+        ]
+      },
+      "expected_tools": [
+        "search_documents",
+        "create_document"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_documents",
+          "arguments": {
+            "location": "Side Gig Admin",
+            "doc_type": "template"
+          }
+        },
+        {
+          "tool": "create_document",
+          "arguments": {
+            "doc_type": "spreadsheet",
+            "title": "AV Side-Gig Equipment Inventory",
+            "location": "Side Gig Admin",
+            "content_brief": "<authored from columns_keywords and tracking_keywords>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "list_files",
+          "search_documents",
+          "classify_files",
+          "move_files",
+          "archive_files",
+          "list_trackers",
+          "list_file_folders",
+          "delete_files",
+          "create_document",
+          "update_document",
+          "update_tracker"
+        ],
+        "references": [
+          {
+            "id": "doc_template_01",
+            "type": "document",
+            "attributes": {
+              "title": "Freelance Gear Checkout Template",
+              "doc_type": "template",
+              "location": "Side Gig Admin",
+              "content_brief": "Template for logging borrowed mics, cables, stands, and return status."
+            }
+          },
+          {
+            "id": "doc_template_02",
+            "type": "document",
+            "attributes": {
+              "title": "Small Job Materials Template",
+              "doc_type": "template",
+              "location": "Side Gig Admin",
+              "content_brief": "Reusable materials sheet for adapters, fasteners, labels, and consumables."
+            }
+          },
+          {
+            "id": "doc_sheet_03",
+            "type": "document",
+            "attributes": {
+              "title": "Church Video Cable Map",
+              "doc_type": "spreadsheet",
+              "location": "Volunteer Media",
+              "content_brief": "Cable runs, labels, destinations, and spare lengths for sanctuary video feeds."
+            }
+          },
+          {
+            "id": "doc_template_04",
+            "type": "document",
+            "attributes": {
+              "title": "Equipment Maintenance Log Template",
+              "doc_type": "template",
+              "location": "Shop Docs",
+              "content_brief": "Template for service dates, faults found, parts replaced, and retest notes."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "session_id": "cassandra_tovar_s34",
+      "session_type": "learning",
+      "day_offset": 34,
+      "domain": "communication",
+      "reason_for_call": "Triage my inbox and reply",
+      "task_params": {
+        "sender": "Dana Brooks",
+        "folder": "inbox",
+        "priority": "high",
+        "language": "en",
+        "reply_points": [
+          "confirm crew arrival at 8:00 AM",
+          "ask whether the COI was accepted",
+          "ask for loading dock or best entry",
+          "request the onsite contact number"
+        ]
+      },
+      "expected_tools": [
+        "search_messages",
+        "set_message_priority",
+        "draft_message"
+      ],
+      "gold_trajectory": [
+        {
+          "tool": "search_messages",
+          "arguments": {
+            "sender": "Dana Brooks",
+            "folder": "inbox"
+          }
+        },
+        {
+          "tool": "set_message_priority",
+          "arguments": {
+            "message_ids": [
+              "msg_dana_01"
+            ],
+            "priority": "high"
+          }
+        },
+        {
+          "tool": "draft_message",
+          "arguments": {
+            "thread_id": "thr_beacon_01",
+            "language": "en",
+            "body": "<authored from reply_points>"
+          }
+        }
+      ],
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_dana_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Dana Brooks",
+              "subject": "Need COI and access details for Beacon Charter install",
+              "body": "Before tomorrow's classroom install, I still need confirmation that your certificate of insurance went through. Also, facilities asked whether your crew will use the loading dock or the front office entrance. Please reply tonight with your arrival time so I can alert security, and send me the best cell number for the onsite lead.",
+              "thread_id": "thr_beacon_01",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T18:42:00"
+            }
+          },
+          {
+            "id": "msg_vendor_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Metro AV Supply",
+              "subject": "Backorder update on 25 ft HDMI cables",
+              "body": "Two of the 25 ft cables from your recent quote are delayed until Wednesday. Let us know if you want substitutions.",
+              "thread_id": "thr_vendor_07",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T15:11:00"
+            }
+          },
+          {
+            "id": "msg_promo_01",
+            "type": "message",
+            "attributes": {
+              "sender": "AVIXA News",
+              "subject": "This week's CTS prep webinar lineup",
+              "body": "Register for upcoming certification webinars and member networking sessions.",
+              "thread_id": "thr_avixa_12",
+              "folder": "inbox",
+              "labels": [
+                "learning"
+              ],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2025-03-30T13:05:00"
+            }
+          },
+          {
+            "id": "msg_sent_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Cassandra Tovar",
+              "subject": "Re: Stage plot for youth choir Sunday",
+              "body": "I can be there at 7:15 to ring out monitors before rehearsal.",
+              "thread_id": "thr_church_22",
+              "folder": "sent",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2025-03-30T09:28:00"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "test_sessions": [
+    {
+      "instruction": "I'm making blueberry pancakes for a neighborhood breakfast and I'm out of pancake mix, maple syrup, blueberries, and butter. Go ahead and get what I need for it.",
+      "gold_value": null,
+      "session_id": "cassandra_tovar_commerce_01_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "cassandra_tovar_commerce_01",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_commerce_01",
+        "rule_text": "For grocery or ingredient purchases, she prefers to assemble a shopping list first rather than placing immediate piecemeal orders.",
+        "canonical_answer": "For food or kitchen supplies, I usually want a shopping list built first so I can plan before buying."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_bundle_pancake_01",
+            "type": "product",
+            "attributes": {
+              "name": "Blueberry Pancake Breakfast Kit",
+              "price": 22.49,
+              "category": "breakfast_ingredients",
+              "rating": 4.9,
+              "review_count": 4210,
+              "stock_status": "in_stock",
+              "contents": "buttermilk pancake mix, maple syrup, blueberries, unsalted butter"
+            }
+          },
+          {
+            "id": "prod_pancake_mix_01",
+            "type": "product",
+            "attributes": {
+              "name": "Stone Mill Buttermilk Pancake Mix",
+              "price": 6.29,
+              "category": "breakfast_ingredients",
+              "rating": 4.7,
+              "review_count": 980,
+              "stock_status": "in_stock",
+              "size": "32 oz"
+            }
+          },
+          {
+            "id": "prod_maple_syrup_01",
+            "type": "product",
+            "attributes": {
+              "name": "Grade A Dark Maple Syrup",
+              "price": 8.99,
+              "category": "breakfast_ingredients",
+              "rating": 4.8,
+              "review_count": 1640,
+              "stock_status": "in_stock",
+              "size": "12 fl oz"
+            }
+          },
+          {
+            "id": "prod_blueberries_01",
+            "type": "product",
+            "attributes": {
+              "name": "Fresh Blueberries, 18 oz",
+              "price": 5.49,
+              "category": "breakfast_ingredients",
+              "rating": 4.6,
+              "review_count": 730,
+              "stock_status": "in_stock",
+              "form": "fresh fruit"
+            }
+          },
+          {
+            "id": "prod_butter_01",
+            "type": "product",
+            "attributes": {
+              "name": "Unsalted Creamery Butter",
+              "price": 4.79,
+              "category": "breakfast_ingredients",
+              "rating": 4.8,
+              "review_count": 1180,
+              "stock_status": "in_stock",
+              "size": "16 oz"
+            }
+          },
+          {
+            "id": "prod_mix_waffle_01",
+            "type": "product",
+            "attributes": {
+              "name": "Golden Griddle Pancake and Waffle Mix",
+              "price": 5.89,
+              "category": "breakfast_ingredients",
+              "rating": 4.9,
+              "review_count": 3560,
+              "stock_status": "in_stock",
+              "size": "32 oz"
+            }
+          },
+          {
+            "id": "prod_blueberries_frozen_01",
+            "type": "product",
+            "attributes": {
+              "name": "Frozen Wild Blueberries, 24 oz",
+              "price": 6.19,
+              "category": "breakfast_ingredients",
+              "rating": 4.8,
+              "review_count": 2470,
+              "stock_status": "in_stock",
+              "form": "frozen fruit"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "build_shopping_list",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please order one bunch of kale for cooking, keep it under $5, and just pick one for me.",
+      "gold_value": "prod_decatur_field_kale_01",
+      "session_id": "cassandra_tovar_commerce_02_test",
+      "session_type": "test",
+      "domain": "commerce",
+      "rule_id": "cassandra_tovar_commerce_02",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_commerce_02",
+        "rule_text": "When ordering produce or staple ingredients, she prefers locally grown options over generic alternatives.",
+        "canonical_answer": "If I’m ordering ingredients, I prefer locally grown produce whenever there’s a good option."
+      },
+      "local_env": {
+        "tools": [
+          "search_products",
+          "compare_products",
+          "build_shopping_list",
+          "place_order",
+          "modify_order",
+          "cancel_order",
+          "track_order",
+          "return_order",
+          "review_recurring_charges",
+          "pause_subscription",
+          "resume_subscription",
+          "change_subscription_plan",
+          "cancel_subscription"
+        ],
+        "references": [
+          {
+            "id": "prod_decatur_field_kale_01",
+            "type": "product",
+            "attributes": {
+              "name": "Decatur Field Kale Bunch",
+              "price": 4.89,
+              "category": "kale",
+              "rating": 4.2,
+              "source_type": "locally grown",
+              "farm_region": "Decatur, Georgia",
+              "review_count": 31
+            }
+          },
+          {
+            "id": "prod_everyday_curly_kale_01",
+            "type": "product",
+            "attributes": {
+              "name": "Everyday Curly Kale Bunch",
+              "price": 2.29,
+              "category": "kale",
+              "rating": 4.9,
+              "source_type": "standard supply",
+              "review_count": 1840,
+              "units_sold_last_30_days": 1260
+            }
+          },
+          {
+            "id": "prod_freshhub_green_kale_01",
+            "type": "product",
+            "attributes": {
+              "name": "FreshHub Green Kale Bunch",
+              "price": 2.79,
+              "category": "kale",
+              "rating": 4.8,
+              "source_type": "standard supply",
+              "review_count": 1260,
+              "units_sold_last_30_days": 910
+            }
+          },
+          {
+            "id": "prod_family_choice_kale_01",
+            "type": "product",
+            "attributes": {
+              "name": "Family Choice Kale Bunch",
+              "price": 1.99,
+              "category": "kale",
+              "rating": 4.7,
+              "source_type": "standard supply",
+              "review_count": 960,
+              "units_sold_last_30_days": 780
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "place_order",
+              "arguments": {
+                "product_id": "prod_decatur_field_kale_01"
+              },
+              "compare_args": [
+                "product_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Reply to Lena Brooks at New Light Church about the youth room lighting walkthrough. Let her know 4:00 PM works for me, ask her to send the current dimmer model numbers and a few photos of the breaker panel first, and mention I'll bring the updated fixture count sheet.",
+      "gold_value": null,
+      "session_id": "cassandra_tovar_communication_01_test",
+      "session_type": "test",
+      "domain": "communication",
+      "rule_id": "cassandra_tovar_communication_01",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_communication_01",
+        "rule_text": "For outreach to clients, schools, or church teams, she prefers a reviewable draft before anything is sent.",
+        "canonical_answer": "I like messages to clients, school partners, or church teams drafted first so I can review the tone and details before they go out."
+      },
+      "local_env": {
+        "tools": [
+          "search_messages",
+          "set_message_priority",
+          "archive_messages",
+          "list_labels",
+          "list_message_folders",
+          "draft_message",
+          "send_message",
+          "label_messages",
+          "send_draft"
+        ],
+        "references": [
+          {
+            "id": "msg_lena_youth_lighting_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Lena Brooks <lena.brooks@newlightchurch.org>",
+              "subject": "Youth room lighting walkthrough",
+              "body": "Hi Cassandra, our facilities team at New Light Church wants to walk through the youth room lighting before we approve the fixture replacement. Are you able to stop by this week? If there are any panel or dimmer details you want ahead of time, let me know and I can gather them for you. Thanks, Lena",
+              "thread_id": "thr_newlight_youth_08",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-11T09:14:00"
+            }
+          },
+          {
+            "id": "msg_harbor_dental_timer_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Nina Patel <npatel@harborfamilydental.com>",
+              "subject": "Parking lot lighting timer question",
+              "body": "Hello Cassandra, we're trying to figure out whether the timer on the south lot lights needs to be replaced or just reprogrammed. When you have a chance, can you let us know what information you need from us before we schedule anything?",
+              "thread_id": "thr_harbor_dental_15",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-11T08:02:00"
+            }
+          },
+          {
+            "id": "msg_rafael_van_brakes_01",
+            "type": "message",
+            "attributes": {
+              "sender": "Rafael Ortiz <rafael@tovarelectric.local>",
+              "subject": "Service van brake check",
+              "body": "The brake shop can take van 2 tomorrow afternoon if we want to get that squeal checked before the next supply run.",
+              "thread_id": "thr_van_maintenance_04",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "normal",
+              "archived": false,
+              "timestamp": "2026-08-11T07:41:00"
+            }
+          },
+          {
+            "id": "msg_supply_statement_01",
+            "type": "message",
+            "attributes": {
+              "sender": "accounts@northsideelectricsupply.com",
+              "subject": "August account statement available",
+              "body": "Your August account statement is ready to view in the customer portal.",
+              "thread_id": "thr_supply_statement_22",
+              "folder": "inbox",
+              "labels": [],
+              "priority": "low",
+              "archived": false,
+              "timestamp": "2026-08-11T06:55:00"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "draft_message",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book dinner for four in Midtown Atlanta on 2026-07-18 at 7:00pm — just pick a place and make the reservation.",
+      "gold_value": "rst_magnolia_hearth_01",
+      "session_id": "cassandra_tovar_reservation_01_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "cassandra_tovar_reservation_01",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_reservation_01",
+        "rule_text": "When choosing where to eat out, she prefers Southern comfort food or soulful local cooking over generic chain restaurants.",
+        "canonical_answer": "If I’m booking a meal out, I’d rather go somewhere known for Southern comfort food or local soul-inflected cooking than a chain."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "rst_magnolia_hearth_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Magnolia Hearth Kitchen",
+              "cuisine": "Southern comfort food",
+              "location": "Midtown Atlanta",
+              "rating": 4.4,
+              "price_range": "$$"
+            }
+          },
+          {
+            "id": "rst_cheesecake_peachtree_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "The Cheesecake Factory Peachtree",
+              "cuisine": "American chain",
+              "location": "Midtown Atlanta",
+              "rating": 4.9,
+              "price_range": "$$"
+            }
+          },
+          {
+            "id": "rst_olive_garden_midtown_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "Olive Garden Midtown",
+              "cuisine": "Italian chain",
+              "location": "Midtown Atlanta",
+              "rating": 4.8,
+              "price_range": "$$"
+            }
+          },
+          {
+            "id": "rst_pfchangs_colony_01",
+            "type": "restaurant",
+            "attributes": {
+              "name": "P.F. Chang's Colony Square",
+              "cuisine": "Asian chain",
+              "location": "Midtown Atlanta",
+              "rating": 4.7,
+              "price_range": "$$"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_restaurant",
+              "arguments": {
+                "restaurant_id": "rst_magnolia_hearth_01"
+              },
+              "compare_args": [
+                "restaurant_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book two tickets for something in Seattle on 2026-09-18, with a budget of up to $45 per person. Pick whichever option seems best.",
+      "gold_value": "evt_union_jazz_01",
+      "session_id": "cassandra_tovar_reservation_02_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "cassandra_tovar_reservation_02",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_reservation_02",
+        "rule_text": "When choosing entertainment tickets, she prefers jazz, gospel, or other live music events over non-music attractions.",
+        "canonical_answer": "For event tickets, I usually want live music—especially jazz, gospel, or soul-adjacent performances—over other kinds of events."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates"
+        ],
+        "references": [
+          {
+            "id": "evt_union_jazz_01",
+            "type": "event",
+            "attributes": {
+              "name": "Union Street Jazz Cellar: Gospel & Soul Late Set",
+              "location": "Seattle",
+              "date_time": "2026-09-18T20:00:00",
+              "price": 42,
+              "event_tags": [
+                "live_music",
+                "jazz",
+                "gospel",
+                "soul"
+              ],
+              "venue": "Union Street Jazz Cellar",
+              "popularity_rank": 4,
+              "expected_attendance": 140
+            }
+          },
+          {
+            "id": "evt_paramount_comedy_01",
+            "type": "event",
+            "attributes": {
+              "name": "Paramount Theater Stand-Up Headliner",
+              "location": "Seattle",
+              "date_time": "2026-09-18T20:30:00",
+              "price": 24,
+              "event_tags": [
+                "comedy",
+                "stand_up",
+                "touring_show"
+              ],
+              "venue": "Paramount Theater",
+              "popularity_rank": 1,
+              "expected_attendance": 2400
+            }
+          },
+          {
+            "id": "evt_mopop_afterhours_01",
+            "type": "event",
+            "attributes": {
+              "name": "Museum of Pop Culture After Hours",
+              "location": "Seattle",
+              "date_time": "2026-09-18T19:30:00",
+              "price": 26,
+              "event_tags": [
+                "museum",
+                "pop_culture",
+                "immersive_exhibit"
+              ],
+              "venue": "Museum of Pop Culture",
+              "popularity_rank": 2,
+              "expected_attendance": 900
+            }
+          },
+          {
+            "id": "evt_harbor_magic_01",
+            "type": "event",
+            "attributes": {
+              "name": "Harbor Stage Illusion Showcase",
+              "location": "Seattle",
+              "date_time": "2026-09-18T20:15:00",
+              "price": 29,
+              "event_tags": [
+                "magic_show",
+                "illusion",
+                "touring_show"
+              ],
+              "venue": "Harbor Stage",
+              "popularity_rank": 3,
+              "expected_attendance": 650
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_event_ticket",
+              "arguments": {
+                "event_id": "evt_union_jazz_01"
+              },
+              "compare_args": [
+                "event_id"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Book me a cryotherapy session in Fremont on 2026-09-16 at 5:30 pm. Use the saved phone number for the appointment.",
+      "gold_value": null,
+      "session_id": "cassandra_tovar_reservation_05_test",
+      "session_type": "test",
+      "domain": "reservation",
+      "rule_id": "cassandra_tovar_reservation_05",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_reservation_05",
+        "rule_text": "If the service being considered feels trendy, experimental, or fad-driven, the agent should check with her before booking it.",
+        "canonical_answer": "If a service looks trendy or experimental instead of proven, ask me before booking it."
+      },
+      "local_env": {
+        "tools": [
+          "search_restaurants",
+          "book_restaurant",
+          "modify_restaurant_reservation",
+          "cancel_restaurant_reservation",
+          "search_events",
+          "book_event_ticket",
+          "cancel_event_ticket",
+          "modify_event_ticket",
+          "search_service_providers",
+          "book_service_appointment",
+          "modify_service_appointment",
+          "cancel_service_appointment",
+          "track_reservation_updates",
+          "get_user_confirmation"
+        ],
+        "references": [
+          {
+            "id": "prov_frostline_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Frostline Recovery Center",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.9,
+              "distance_km": 0.4
+            }
+          },
+          {
+            "id": "prov_glacierloop_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "Glacier Loop Wellness",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.7,
+              "distance_km": 0.2
+            }
+          },
+          {
+            "id": "prov_northpulse_fremont_01",
+            "type": "service_provider",
+            "attributes": {
+              "name": "North Pulse Studio",
+              "service_type": "cryotherapy",
+              "location": "Fremont, Seattle",
+              "rating": 4.8,
+              "distance_km": 0.7
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "get_user_confirmation",
+              "arguments": {
+                "target_tool": "book_service_appointment"
+              },
+              "compare_args": [
+                "target_tool"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please get my gentle yoga at Decatur Wellness Studio onto my schedule for 2026-09-03 from 07:00 to 08:00.",
+      "gold_value": null,
+      "session_id": "cassandra_tovar_scheduling_01_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "cassandra_tovar_scheduling_01",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_scheduling_01",
+        "rule_text": "For personal commitments like jogs, yoga, or self-study, she prefers a private reminder rather than creating a formal calendar event.",
+        "canonical_answer": "For my personal routines, I’d rather set myself a reminder than clutter the calendar with a full event."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_decatur_yoga_01",
+            "type": "event",
+            "attributes": {
+              "title": "Gentle yoga",
+              "start_time": "2026-09-03T07:00:00",
+              "end_time": "2026-09-03T08:00:00",
+              "participants": [],
+              "location": "Decatur Wellness Studio",
+              "calendar": "personal",
+              "status": "planned",
+              "source": "wellness_app"
+            }
+          },
+          {
+            "id": "evt_decatur_yoga_02",
+            "type": "event",
+            "attributes": {
+              "title": "Gentle yoga",
+              "start_time": "2026-09-10T07:00:00",
+              "end_time": "2026-09-10T08:00:00",
+              "participants": [],
+              "location": "Decatur Wellness Studio",
+              "calendar": "personal",
+              "status": "planned",
+              "source": "wellness_app"
+            }
+          },
+          {
+            "id": "evt_glenlake_run_01",
+            "type": "event",
+            "attributes": {
+              "title": "Morning jog",
+              "start_time": "2026-09-03T06:15:00",
+              "end_time": "2026-09-03T06:55:00",
+              "participants": [],
+              "location": "Glenlake Park",
+              "calendar": "personal",
+              "status": "planned",
+              "source": "fitness_app"
+            }
+          },
+          {
+            "id": "evt_team_sync_01",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Product team sync",
+              "start_time": "2026-09-03T08:30:00",
+              "end_time": "2026-09-03T09:00:00",
+              "participants": [
+                "amira@orchidlabs.com",
+                "jules@orchidlabs.com"
+              ],
+              "location": "Zoom",
+              "calendar": "work",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "set_reminder",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I still haven't replied to the Harbor Arts Center panel invite. See whether it clashes with anything else I have going on then, and send back the appropriate RSVP for me.",
+      "gold_value": "tentative",
+      "session_id": "cassandra_tovar_scheduling_03_test",
+      "session_type": "test",
+      "domain": "scheduling",
+      "rule_id": "cassandra_tovar_scheduling_03",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_scheduling_03",
+        "rule_text": "When an invite conflicts with work, church, or volunteer responsibilities that are not yet settled, she prefers responding tentatively rather than accepting or declining outright.",
+        "canonical_answer": "If an invitation overlaps with commitments I’m still sorting out, I usually respond as tentative first."
+      },
+      "local_env": {
+        "tools": [
+          "list_events",
+          "check_conflicts",
+          "create_event",
+          "reschedule_event",
+          "modify_event",
+          "respond_to_event_invite",
+          "cancel_event",
+          "set_reminder",
+          "track_event_updates",
+          "find_alternative_slots"
+        ],
+        "references": [
+          {
+            "id": "evt_harbor_arts_panel_invite_20261004",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Harbor Arts Center Community Panel",
+              "start_time": "2026-10-04T16:00:00",
+              "end_time": "2026-10-04T18:00:00",
+              "participants": [
+                "programs@harborarts.org",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Harbor Arts Center",
+              "calendar": "invites",
+              "status": "confirmed",
+              "organizer": "Harbor Arts Center Programs Office",
+              "rsvp_deadline": "2026-10-02T17:00:00",
+              "source": "official_email"
+            }
+          },
+          {
+            "id": "evt_worship_audio_20261004",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Worship team audio booth coverage",
+              "start_time": "2026-10-04T15:30:00",
+              "end_time": "2026-10-04T17:30:00",
+              "participants": [
+                "musiclead@newhopechurch.org",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "New Hope Church",
+              "calendar": "primary",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_crew_handoff_20261004",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Crew handoff run-through",
+              "start_time": "2026-10-04T17:00:00",
+              "end_time": "2026-10-04T18:30:00",
+              "participants": [
+                "pm@ridgewaybuild.com",
+                "crew.leads@ridgewaybuild.com",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Ridgeway Build Office",
+              "calendar": "work",
+              "status": "tentative"
+            }
+          },
+          {
+            "id": "evt_dinner_mateo_20261004",
+            "type": "calendar_event",
+            "attributes": {
+              "title": "Dinner with Mateo",
+              "start_time": "2026-10-04T19:30:00",
+              "end_time": "2026-10-04T20:30:00",
+              "participants": [
+                "mateo.reyes@example.com",
+                "cassandra.tovar@example.com"
+              ],
+              "location": "Juniper Kitchen",
+              "calendar": "primary",
+              "status": "confirmed"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "respond_to_event_invite",
+              "arguments": {
+                "response": "tentative"
+              },
+              "compare_args": [
+                "response"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "Please book my one-way trip for the West Coast Retail Expo on 2026-09-18: one traveler from Los Angeles, CA to Las Vegas, NV. I only need the outbound leg handled.",
+      "gold_value": null,
+      "session_id": "cassandra_tovar_travel_01_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cassandra_tovar_travel_01",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_travel_01",
+        "rule_text": "When planning conference or expo travel within practical driving range, she prefers ground transportation over flying.",
+        "canonical_answer": "For regional work or conference trips, I usually prefer to drive or take ground transport instead of booking a flight."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "flt_lax_las_southwest_01",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Los Angeles, CA",
+              "destination": "Las Vegas, NV",
+              "departure_date": "2026-09-18",
+              "airline": "Southwest Airlines",
+              "price": 84,
+              "available_seats": 6
+            }
+          },
+          {
+            "id": "flt_lax_las_delta_02",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Los Angeles, CA",
+              "destination": "Las Vegas, NV",
+              "departure_date": "2026-09-18",
+              "airline": "Delta Air Lines",
+              "price": 96,
+              "available_seats": 4
+            }
+          },
+          {
+            "id": "flt_lax_las_american_03",
+            "type": "flight_offer",
+            "attributes": {
+              "origin": "Los Angeles, CA",
+              "destination": "Las Vegas, NV",
+              "departure_date": "2026-09-18",
+              "airline": "American Airlines",
+              "price": 112,
+              "available_seats": 8
+            }
+          },
+          {
+            "id": "trp_lax_las_bus_01",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Los Angeles, CA",
+              "destination": "Las Vegas, NV",
+              "mode": "bus",
+              "departure_date": "2026-09-18",
+              "price": 143,
+              "available_seats": 11
+            }
+          },
+          {
+            "id": "trp_lax_las_car_02",
+            "type": "transport_offer",
+            "attributes": {
+              "origin": "Los Angeles, CA",
+              "destination": "Las Vegas, NV",
+              "mode": "car_transfer",
+              "departure_date": "2026-09-18",
+              "price": 289,
+              "available_seats": 3
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "book_ground_transport",
+              "arguments": {},
+              "compare_args": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "I'm planning a 3-day solo trip to Tokyo from scratch. From the candidate stops below, pick one place to anchor the itinerary and build the plan around it. I want a spot that's easy to explore on foot and has enough going on nearby to help shape the rest of the trip.",
+      "gold_value": [
+        "stop_tokyo_akihabara_01"
+      ],
+      "session_id": "cassandra_tovar_travel_02_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cassandra_tovar_travel_02",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_travel_02",
+        "rule_text": "When building a new trip itinerary, she prefers stops tied to AV, electronics, sound systems, or related tech culture over generic tourist attractions.",
+        "canonical_answer": "When I plan a trip, I like the stops to center on AV, electronics, or sound‑system culture instead of just standard sightseeing."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_tokyo_akihabara_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Akihabara Electric Town",
+              "stop_type": "shopping_district",
+              "location": "Chiyoda, Tokyo",
+              "tags": [
+                "electronics",
+                "audio",
+                "hi_fi",
+                "gaming",
+                "cafes",
+                "shopping"
+              ],
+              "rating": 4.4,
+              "review_count": 12680,
+              "walkability": "high",
+              "visit_duration_hours": 3.0,
+              "nearby_food_spots": 26,
+              "nearby_transit_access": "strong"
+            }
+          },
+          {
+            "id": "stop_tokyo_sensoji_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Sensō-ji and Nakamise Area",
+              "stop_type": "historic_district",
+              "location": "Asakusa, Tokyo",
+              "tags": [
+                "historic",
+                "temple",
+                "market_street",
+                "snacks",
+                "shopping",
+                "popular"
+              ],
+              "rating": 4.8,
+              "review_count": 58900,
+              "walkability": "high",
+              "visit_duration_hours": 4.5,
+              "nearby_food_spots": 41,
+              "nearby_transit_access": "strong"
+            }
+          },
+          {
+            "id": "stop_tokyo_shibuya_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Shibuya Crossing and Center District",
+              "stop_type": "city_district",
+              "location": "Shibuya, Tokyo",
+              "tags": [
+                "landmark",
+                "shopping",
+                "food",
+                "nightlife",
+                "city_views",
+                "popular"
+              ],
+              "rating": 4.7,
+              "review_count": 44750,
+              "walkability": "high",
+              "visit_duration_hours": 5.0,
+              "nearby_food_spots": 58,
+              "nearby_transit_access": "major_hub"
+            }
+          },
+          {
+            "id": "stop_tokyo_skytree_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Tokyo Skytree Town",
+              "stop_type": "observation_tower_complex",
+              "location": "Sumida, Tokyo",
+              "tags": [
+                "observation_deck",
+                "shopping",
+                "riverfront",
+                "landmark",
+                "family_friendly",
+                "popular"
+              ],
+              "rating": 4.7,
+              "review_count": 39820,
+              "walkability": "medium",
+              "visit_duration_hours": 4.0,
+              "nearby_food_spots": 37,
+              "nearby_transit_access": "strong"
+            }
+          },
+          {
+            "id": "stop_tokyo_ginza_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Ginza Main Streets",
+              "stop_type": "shopping_district",
+              "location": "Ginza, Tokyo",
+              "tags": [
+                "shopping",
+                "cafes",
+                "department_stores",
+                "food",
+                "boulevards",
+                "popular"
+              ],
+              "rating": 4.6,
+              "review_count": 27400,
+              "walkability": "high",
+              "visit_duration_hours": 4.0,
+              "nearby_food_spots": 49,
+              "nearby_transit_access": "strong"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "plan_trip",
+              "arguments": {
+                "selected_stop_ids": [
+                  "stop_tokyo_akihabara_01"
+                ]
+              },
+              "compare_args": [
+                "selected_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "instruction": "One stop on trip T-7311 in Nashville fell through. Please swap in a single replacement for a daytime visit near downtown Nashville that can fit in about 60–90 minutes and won't add much extra driving from the current route.",
+      "gold_value": [
+        "stop_nashville_sound_lab_archive_01"
+      ],
+      "session_id": "cassandra_tovar_travel_03_test",
+      "session_type": "test",
+      "domain": "travel",
+      "rule_id": "cassandra_tovar_travel_03",
+      "rule_ref": {
+        "rule_id": "cassandra_tovar_travel_03",
+        "rule_text": "If a booked trip stop falls through, she prefers replacement stops that keep the same tech-or-audio theme rather than swapping in unrelated crowd-pleasers.",
+        "canonical_answer": "If part of my trip gets disrupted, I’d rather replace it with another tech or audio-focused stop that fits the original theme."
+      },
+      "local_env": {
+        "tools": [
+          "search_destinations",
+          "plan_trip",
+          "shortlist_destinations",
+          "search_trip_stops",
+          "search_flights",
+          "search_hotels",
+          "search_ground_transport",
+          "book_flight",
+          "book_hotel",
+          "book_ground_transport",
+          "modify_flight_booking",
+          "modify_hotel_booking",
+          "cancel_flight_booking",
+          "cancel_hotel_booking",
+          "cancel_ground_transport_booking",
+          "track_trip_updates",
+          "replan_trip"
+        ],
+        "references": [
+          {
+            "id": "stop_nashville_sound_lab_archive_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Nashville Sound Lab Archive",
+              "stop_type": "audio_archive",
+              "location": "Downtown Nashville, Tennessee",
+              "tags": [
+                "audio",
+                "recording_history",
+                "mixing_console",
+                "indoor",
+                "daytime"
+              ],
+              "rating": 4.4,
+              "review_count": 186,
+              "detour_minutes_from_current_route": 9,
+              "visit_duration_hours": 1.25,
+              "trip_id": "T-7311"
+            }
+          },
+          {
+            "id": "stop_music_row_console_gallery_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Music Row Console Gallery",
+              "stop_type": "studio_exhibit",
+              "location": "Music Row, Nashville, Tennessee",
+              "tags": [
+                "audio",
+                "recording_equipment",
+                "studio_history",
+                "indoor",
+                "daytime"
+              ],
+              "rating": 4.9,
+              "review_count": 1310,
+              "detour_minutes_from_current_route": 24,
+              "visit_duration_hours": 1.5,
+              "trip_id": "T-7311"
+            }
+          },
+          {
+            "id": "stop_interactive_signal_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Interactive Signal Museum",
+              "stop_type": "tech_museum",
+              "location": "East Nashville, Tennessee",
+              "tags": [
+                "tech",
+                "electronics",
+                "interactive_exhibits",
+                "indoor",
+                "daytime"
+              ],
+              "rating": 4.8,
+              "review_count": 942,
+              "detour_minutes_from_current_route": 26,
+              "visit_duration_hours": 1.0,
+              "trip_id": "T-7311"
+            }
+          },
+          {
+            "id": "stop_frist_art_museum_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Frist Art Museum",
+              "stop_type": "art_museum",
+              "location": "Downtown Nashville, Tennessee",
+              "tags": [
+                "art",
+                "museum",
+                "indoor",
+                "daytime",
+                "rotating_exhibits"
+              ],
+              "rating": 4.9,
+              "review_count": 3524,
+              "detour_minutes_from_current_route": 5,
+              "visit_duration_hours": 1.5,
+              "trip_id": "T-7311"
+            }
+          },
+          {
+            "id": "stop_cumberland_riverfront_walk_01",
+            "type": "trip_stop",
+            "attributes": {
+              "name": "Cumberland Riverfront Walk",
+              "stop_type": "riverwalk",
+              "location": "Nashville, Tennessee",
+              "tags": [
+                "riverfront",
+                "scenic",
+                "outdoor",
+                "daytime",
+                "walking"
+              ],
+              "rating": 4.8,
+              "review_count": 4170,
+              "detour_minutes_from_current_route": 3,
+              "visit_duration_hours": 1.0,
+              "trip_id": "T-7311"
+            }
+          }
+        ]
+      },
+      "labels": {
+        "task_success": {
+          "required_actions": [
+            {
+              "tool": "replan_trip",
+              "arguments": {
+                "selected_alternative_stop_ids": [
+                  "stop_nashville_sound_lab_archive_01"
+                ]
+              },
+              "compare_args": [
+                "selected_alternative_stop_ids"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "selected_rule_fraction": 0.9090909090909091,
+    "actual_signal_overlap_rules": [
+      "cassandra_tovar_commerce_01",
+      "cassandra_tovar_commerce_02",
+      "cassandra_tovar_communication_01",
+      "cassandra_tovar_reservation_01",
+      "cassandra_tovar_reservation_02",
+      "cassandra_tovar_reservation_05",
+      "cassandra_tovar_scheduling_01",
+      "cassandra_tovar_scheduling_03",
+      "cassandra_tovar_travel_01",
+      "cassandra_tovar_travel_02"
+    ],
+    "actual_signal_overlap_rule_fraction": 0.9090909090909091,
+    "teachable_rule_count": 10,
+    "zero_signal_rule_count": 1,
+    "signal_pool_size_dedup": 19,
+    "noise_pool_size": 16,
+    "K": 22,
+    "seed": 0,
+    "selected_rules": [
+      "cassandra_tovar_commerce_01",
+      "cassandra_tovar_commerce_02",
+      "cassandra_tovar_communication_01",
+      "cassandra_tovar_reservation_01",
+      "cassandra_tovar_reservation_02",
+      "cassandra_tovar_reservation_05",
+      "cassandra_tovar_scheduling_01",
+      "cassandra_tovar_scheduling_03",
+      "cassandra_tovar_travel_01",
+      "cassandra_tovar_travel_02"
+    ],
+    "extra_signal_rules": [],
+    "all_test_rules": [
+      "cassandra_tovar_commerce_01",
+      "cassandra_tovar_commerce_02",
+      "cassandra_tovar_communication_01",
+      "cassandra_tovar_reservation_01",
+      "cassandra_tovar_reservation_02",
+      "cassandra_tovar_reservation_05",
+      "cassandra_tovar_scheduling_01",
+      "cassandra_tovar_scheduling_03",
+      "cassandra_tovar_travel_01",
+      "cassandra_tovar_travel_02",
+      "cassandra_tovar_travel_03"
+    ],
+    "signal_count": 19,
+    "noise_count": 3,
+    "trajectory_length": 22
+  }
+}
